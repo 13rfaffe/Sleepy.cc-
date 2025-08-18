@@ -1,2 +1,3666 @@
 --stop skidding man! skidding is not great
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _fhoXzFgpdIMe = a; end)); return(function(f,...)local d;local t;local e;local s;local n;local b;local l=24915;local o=0;local u={};while o<805 do o=o+1;while o<0x184 and l%0x1970<0xcb8 do o=o+1 l=(l-548)%49543 local h=o+l if(l%0x842)<=0x421 then l=(l+0x266)%0x546 while o<0x3d8 and l%0x3fce<0x1fe7 do o=o+1 l=(l+218)%34907 local n=o+l if(l%0xdf2)>=0x6f9 then l=(l*0x82)%0x4acb local l=72735 if not u[l]then u[l]=0x1 d=string;end elseif l%2~=0 then l=(l+0x3bb)%0x9af4 local l=82125 if not u[l]then u[l]=0x1 e=getfenv and getfenv();end else l=(l*0x2b2)%0x6ea2 o=o+1 local l=72037 if not u[l]then u[l]=0x1 b={};end end end elseif l%2~=0 then l=(l+0x8b)%0x2b45 while o<0x287 and l%0x4446<0x2223 do o=o+1 l=(l-244)%27837 local h=o+l if(l%0x3cca)>=0x1e65 then l=(l+0x392)%0xac3e local l=85419 if not u[l]then u[l]=0x1 e=(not e)and _ENV or e;end elseif l%2~=0 then l=(l*0x3ee)%0x344e local l=67668 if not u[l]then u[l]=0x1 t="\4\8\116\111\110\117\109\98\101\114\95\79\70\119\120\65\79\74\0\6\115\116\114\105\110\103\4\99\104\97\114\89\121\100\81\90\86\68\74\0\6\115\116\114\105\110\103\3\115\117\98\121\110\90\76\71\70\113\71\0\6\115\116\114\105\110\103\4\98\121\116\101\83\109\67\121\89\112\120\81\0\5\116\97\98\108\101\6\99\111\110\99\97\116\107\82\97\66\67\84\83\119\0\5\116\97\98\108\101\6\105\110\115\101\114\116\120\82\84\88\82\82\114\81\5";end else l=(l+0x3c3)%0x3dec o=o+1 local l=70605 if not u[l]then u[l]=0x1 n=function(u)local l=0x01 local function o(o)l=l+o return u:sub(l-o,l-0x01)end while true do local u=o(0x01)if(u=="\5")then break end local l=d.byte(o(0x01))local l=o(l)if u=="\2"then l=b._OFwxAOJ(l)elseif u=="\3"then l=l~="\0"elseif u=="\6"then e[l]=function(o,l)return f(8,nil,f,l,o)end elseif u=="\4"then l=e[l]elseif u=="\0"then l=e[l][o(d.byte(o(0x01)))];end local o=o(0x08)b[o]=l end end end end end else l=(l*0x228)%0x4593 o=o+1 while o<0x20b and l%0x15ea<0xaf5 do o=o+1 l=(l-265)%24478 local e=o+l if(l%0x4e1a)>0x270d then l=(l-0xe2)%0x4663 local l=26982 if not u[l]then u[l]=0x1 end elseif l%2~=0 then l=(l+0x3dd)%0x4913 local l=1328 if not u[l]then u[l]=0x1 s=tonumber;end else l=(l+0xdd)%0x8fd2 o=o+1 local l=41069 if not u[l]then u[l]=0x1 end end end end end l=(l-201)%38650 end n(t);local l={};for o=0x0,0xff do local u=b.YydQZVDJ(o);l[o]=u;l[u]=o;end local function h(o)return l[o];end local r=(function(f,n)local t,u=0x01,0x10 local o={{},{},{}}local e=-0x01 local l=0x01 local d=f while true do o[0x03][b.ynZLGFqG(n,l,(function()l=t+l return l-0x01 end)())]=(function()e=e+0x01 return e end)()if e==(0x0f)then e=""u=0x000 break end end local e=#n while l<e+0x01 do o[0x02][u]=b.ynZLGFqG(n,l,(function()l=t+l return l-0x01 end)())u=u+0x01 if u%0x02==0x00 then u=0x00 b.xRTXRRrQ(o[0x01],(h((((o[0x03][o[0x02][0x00]]or 0x00)*0x10)+(o[0x03][o[0x02][0x01]]or 0x00)+d)%0x100)));d=f+d;end end return b.kRaBCTSw(o[0x01])end);n(r(92,"U4XpbBd.Mk)oFle_)k"));n(r(6,"{n;pRFcW(OJt-D_xxJxJcnF-FRRFRRpW-_;(pp;F;;;Fx;npDDxxDWxt-t(0Wt_8-D-F-J-RtRt_ttJntp(pO-O(;p;n(c(;WpW;W;c-c;Fxp;;OF;p(pO-(-(;x;J;;npn;dFODxx_DxJ_p_;-(tDDx-O-RtJO;tpRRR;JFOpJ}(_;F(cW(Wp(=W;cDcWpRptFWRR;(R4D4D;ppnx;(ntqDncxD9Jxn_-xb_p_p-JDttDDO-ptxOOR-ROO;OtOpO_OpOlRtFxFpW(WWFDRFFJpF_c_.RDpnppp(61r)#ON;__n;:(DDO/(Ott-v-DD_DtD-DF---cFhR_tRJOJWJ;OJ(t(JWDWWc_RWcpFDRcpFRf_*DxR(;x;J;_;nt-;Fn(nRxxxtxD_D-(-;DZ___!D_JxcNF--Ft(tROxOtODW-WD(DcpcFcn(;RJT%xtcIF-RDR-R-pWn_;_;nnObcx_xpJcJ;UOxFxc_O_n_-D-DJtFDRJ_ODJntOR;R!JpOnO_(-;pW_W_WtWFW;R?ccp_p8R(;_;;nO-x"));local l=(-451+(function()local u,l=0,1;(function(l,u,e,o)u(o(e,e and l,o and e,u),o(l and u,e,o,l and u),l(u and o,l and e,l,l),l(l,u,l,o))end)(function(n,e,d,o)if u>310 then return o end u=u+1 l=(l+829)%1610 if(l%800)<400 then l=(l-405)%21146 return e(n(n and n,e,e and n,d),o(e,o and d,o,o),o(o,e,e,o),d(o and o,o,e,n and d))else return o end return e end,function(o,n,d,e)if u>177 then return e end u=u+1 l=(l-541)%29035 if(l%1526)>=763 then return o(n(e,o,e,o)and o(d,o,o,n),d(e,o and o,n,e)and o(d,o and o,e,n),n(n and d,o,d,o and n),e(e and d,e,o,d))else return e end return n end,function(e,n,o,d)if u>253 then return d end u=u+1 l=(l+114)%35939 if(l%1142)>=571 then l=(l-19)%21369 return o(e(d,n,o and n,e and o)and e(e,n,e,o),e(e,e,d,o and e),o(o,o,d,n),n(o and o,e and n,d,e))else return o end return n end,function(o,d,n,e)if u>126 then return n end u=u+1 l=(l*752)%34263 if(l%1818)<909 then l=(l*276)%42739 return n else return n(e(o,n,d,o),o(e,o,d,n),n(n,e,o,o),n(e,o,e,o))end return d(d(e and e,n,e,o),e(n,o,o,o),o(e,n,e,o),d(o and o,o,o and d,o))end)return l;end)())local h=b.PWmIQSzH or b.aBBVzrvM;local nl=(getfenv)or(function()return _ENV end);local e=2;local m=1;local n=3;local t=4;local function el(c,...)local a=r(l,"?<u2Po&5U)J4Y:BlJ&uU2)PY&<5&Uo)UJ4<u2&oY&4*:<:2qP2o&&)5YJ2Bu45:5:4BBL<o)5JUJJYJB:Pl2lBl<u:22P5&P5eUu22ouo5&J5:BkvPu)2:P<-l&:5JJ<o44&Y&B&BY)YY2YN:2B&&4&B)5)24UY4:QlulJ(Ul<l)(Yu<2&P&&<&lUu)UJY4l):Y4Y<:PB52B5u)2JY4P4Y4lBPlo<)u<2JPYoAPBUO)B4<4o:o4JBBQluU2F2U22&+U5u2PJP5oJ&:YYlUm:uuP02B22&BUoU:J:Yo45BPl)IYuPu4PPPB&lUuuPP)PUo4&B:PlY<&2<B:uPoU5))u)JJu5u4oB5lBk5uou:P&oUlluUu22&P)JK:PloqB<&<Buuo&&u5_UU)P)l)P:uBol4<&8&2P2lou&J5&u&PuPJo:5MY&:Y<4<:2YP5PU5UUk)2Joo&&B5JU:JD=)u42Y&*&BUPo52Jo<oB5<UP:UT:2<2)o)o4f4ululPuooJ:YB:B#CFPuUPY&<&)5&)u)B)PYUB&:)<<<4u2:2B)l5OJ<:5PJUYuYJlo)<J&4oYU:42&&&5oU42:P:&^52U&))&Yu&<uB5T<,4<B2<)U4lYlBJlo_P<U2oP<l<T&<ouU24J<YJ:UBY)YYPYZ:2B&&4&B)5)24UY4:(lulJrUl<l)>Yu22&P)oY5o5l))JU4Y:u40:5:PB5lJou52U2JoJY:JBB_)BJuo2Pou&o&)U)&lJ44<YoBuBBw84<:U:oBUl4UjU2JYJUY:B=Bof5tl<:a&jBu<2&o<&252UJ)YJBY2:v4uY4:&B)lYo2)5J5J)Yl:5l^guJ)Y:Y:BWl2P4&Y5Y)BJ&:5:)BBm2u2<U2lo2&054)<)44YYl5<UB)oJU44<:o&&U52U2)4Jo)&:oBol4<<4P:Y:UB4lBU2U&JlJ4:^B2BU1J<uu(.)<<uP2:PB&<52UJ)lJJYo:<B2Y):)BYll<uuo2Uu4):52Uo)5JJ4:uUBol:L)<YulUoY5:5lul},uu&Y)BJB:>#<254JY4<:<44l2=Uuf2uuPP)&)UWU&)2JUoU5<5YUlJulB2&PB&u&uUuUJ)lPl&U52U&))ltuUPoo)o)5)U<)&P&&o&J5:)1l<<52&P<GlP2U2)<JUJl:o::l&_UJl:2:2B&l)o&UUJ&4)4:::Yul&<52.2UP{2o5<55U4JU4PY&55UY)4JBY<<&o&&U5UuuPPP&o)&Y:<l5<ouP2PP<ou5U5YUB)8YP:uBUBJ*2<PYPlYBUl49B5o)Y4LY:U:B&lY<u<BBYo&o25U2U)44DY3:U:YB:<<<ou5l&&k&oU2UJoo)oYJ::BlB5qY<:B:2&u&FU<YuY2louJ5B<luJQ4&YP:5BJokUP)YJuJBoB5UUu)oJU!522P5&UoJUu)&J&Y5&UJ4UY)l4uu4P5o:&<5&PPJT4B5:Y4Bo6l<)<:PuoooJ5424JuJ)4)U5B&l&K5<42JPuoJ&&2uUBJ&&4Yu:)JPlU<Uu<l_oool5)U4)oJUYUYo5:)5J<4PY5uUou5&5U)UJo44:u:5U5))J44B:<2Ul)<M<:2AP2U5U):2lP 5upYJ:lBBn<<P&))lJBY:5oU5))JY4l<oB5wl*4<B2<4&4)Bu:By2<&<42:Poo22YPPo5&B5l))JY4B:2Bulut4<)l4<u<l2uPo)4:PlnlP<K<YYYBul(02<&5YJU4UYl:JUJJ<JBY<:Pu:o45s)PJu4UoY&Y5lBJX)4A2:<<22(&uBuJ2:ocJ)Bol4ll<PvJ2BoYPB52UPJU4LY):4:l:B{42uuBPU&j&)<J2Y2Bo<&P4YlUlB<uul24m)Pl5UUB)J4&YlUBYul:<P4YBPB+l2_&U4UB4542:UB4lm<u<JuU<<<)uYP2oP&U5:UlJu42Y::JB4:dBUlPO5<J&lJlY4U&4B:lBl4PYB:UB4lB&P)P)UY<Y4YuBPMJtB4B:PBulozU&B)BJ&4)Y45Y))Jj42Y&<BoJ&}5P)<):&4J:B2B&ad<B4l:PB2l&.)&u)!J&4J&JUJUBJ<4P!UPUo&&:5P)JJu44Y:)u:UIU<,u22oB5&&<lU ){J)4Y<544)<4<4oYU:42cP&&U545l)lUiY)Y4B4llTUu<22<Ub:uY2<PPo5YPY&lBq5<4P<<BoP&J5&)BJP4::25&)))JJ:Ydu5oU&u52U&)5454J:Jlu4<Bl<YP22lo)5<5Ju4o<Pl&u5oY:^)Glu2P>PY<JooUo)P4uY::P)l:Pe&uJB4u2PPoP<)uB2:oX&24YlU1Ju2YP:BBUl4>B&B)o4RYU4ul&lU<Pu:YBBPlupo<U5BJ4YpYl:YUYJ&4RY2:&ulP4&oPu5U45Y5::l2)&4u4JY:B;&&&4U:)BJP42Y)B5l)(JuJY&BBBJl:<x)o)UY<4:BulolJ<YuP2u<4u22&Pl&o5&UY)JJ44B:2B5l&:JlBlB<<uPU2JlYP:)l5loBJuo2YPP&P5Y&&)24J4&:EBUl<Ju4&Y&:)BYPY52):2JPYoB5<UPBUJYY<: B2l&o5U4):J5o5&:54UBJ<8suUP:ou5u<ou:2)PYol4oB:l)<l2<P<o:l)<J<:2>P2)Y:UBBluC5l:2<Pl0BPY5)JM)Y4&YB:5UU4&JY4l:u2<o:5uU5JoJ2JJ:2B)lo<<uJ}JPooYP554UBJ74<:oB5YY_UmBuu2lP4o:LBuP2uPooUJBBJ *<5<YYYlkldz2<&5&JoYuYo:PY4B<usuuP<PYP:5:Uo)UJJJP:<lU)P4u4UY4:Boo&)UJJ2J442JUBPBJlB<4u52)BJ0Y!Bu<2PUUY2:JBueu<J:)<Yo<o5&)U<UB4u4J:2BoUY4P4jY2:&o4oBU5U2JU44YpBuBJlUB<B)lY<ouJ2YPl&P5UUJ)&J:YPJHY<YP:5BJo<UuUY):4*Y<B<BPvP<Y:4<uP&&/&U)2ulP:o2&&5):&_Uu&2)2:o:<BooU)JJY2Y4:2UoJPJ)4YYlu5o4&BUL)<4oY5JYBUBBfu<lu42:BB<&<uuo2U4:YOB)BoeJ<:uuPPPYoJP2P4oB5&U5)B4ZYo:2B)lYWYuucu<&u&2)PY4PB):J)J4J4B:<BP2J5YUYJ24&4BYJBow<Yuyo2:P5&<&&<&2J2JP:&W4UlPlJQBu425fo2Y5P)<JoJoYoY:Bu46BUV)<):BlY*u<ouUU542YUB2J5:Y<luo2Po<&u5JU&2PP&oU&45B:5J&YBYJ::lf5o5UJ<):Yu:o:JlYhP<ul4R2<&u:PPo&&Y5JUYJ.4PY2:B44Y4:Bl<DP<5uJ2oUl&oUBU))YJl;5uU2UoJ&<UlJ24B)l:JB)#5<J<B2Buoo25<UP5BJB4&Y):4UYJ44eY2:&uY&B5B)oJU4C4Y:5l2BP<Yu&P(Pol&F&<)uY2lou&oJuY4Jz4)YP:5BJP45<)^)4&)J<Yu:u)5J:44YBB<P&o-&_5U55oo&l5)UY)l6Pu&PUoP&uo5U:J)Jlol5YU2)&J)d2<52<PUoY&i5u&l4B:JB)l4Ju4lY&:)BYPu52)<JP&4Y::5JP:4<l2<P)Bo 5x)<YulUY4B:YBll2<2:P+42l&z5)U<U)o))5YPB4UU)UJ44B:<BP<5&:o:2uo2o&&)5Y:f<}<B2o2Y&u&JU2)o5l44Y<:olulB<KYu:uBolUI4<B2<Uq)5&Y)o)qJ24&242B&5&2UU)4J}YuYJ:UY<Y):Yl<*4<4u)2:o5&J55UU)4Jl)2J:45YJ::25&PU2UBJl4P:MBUB:):4:Y<:PB5P:5:Uo)&4J4JBNBP::WJ2<u:P5ol&U<)2P2:ox&2YUlB#Jauu5P5oB&P5<U&2&oboJ&:UQ::plu:P!PP&PoS5:JPP<o<&P55UJ):4r_5<&B4<2aluu2oUYY6B<lJwuFJhBPuPBoY5PUQU4UB4UY4B4ln<ulB2224Plll<ou22&P)Jl:eBPlJ<J4BYBB<lP85<JJ:U<)2&U5YUY)l4u<)<B<:6xuuuP25PJJ::<lo9J<u<l24P5<oo.UPJu&<JUB,BJluJu45Y&:)BYP455U4JYP:&55<UP)5l:u42loJoY5o5:)JJ5o55o54UBJ<G2222Bb:5PUu):J5&Y:<B<B&lYJ:Yl:<BPl5PBUuJ24YYPYY)YB2<<<YulP5o2u<olUY42Pl&Y52U&))lluP2BPJo45l2B5&4<Y&:BBu)uJB4&Y):Y2B5P55)<JlJ:4PBPBYll<<Yu:BB&l)9Y&oJ<4544:*)BB2/)uJulo<luh5<&u)2Y)4Y4BUlY):4uY<:PB5oYUoUlJoPU&U&Y5l)uB5u52:Puo&5&&J)2454o42:l%<9<<4YP:YBUl4}B&PJ24)4l4PlolYJUYuYY:lluo)U*)PJ<4Y:u:Yl:<m4u:):&B)lYoYU4JUJ44J4>l&mZ<2<lP<2P&o&55Y)<4<)o:PBPlJ<-42YY:5BJl:o2UPJu4o4B: BohMJJ:uYBB<lP5)5YJoJ<Y&:):BAR,U<&ll_5<J22PuoP&45:)<JP4JY5:)4BB&BuloQUU:)#4)4o:JB:lu<P<YuJ<2<4uBP5oU&45:UBJ<4)Y5:ll_:uBUl&X)<Y54J54Y:<Bl)R4U4PY5:Jol&uU4U5JY4lYPB&BBlYBoB:_A<5uJ2:oZ&P5&UU):4<Y2Jo4oYU:4BBq<:PU)5Jog&;52U&))JY4lcJuolJuu<B2<PPY)YYlol<<&u)uBo(oU&&Plo5&JU3))JJ4lY:Bql<-)<Bu:/BuB2uPooU4<B:{265<Y<kP&oo&l5JP))r4B:<B<U4)4JBY<:PB54J&PBj2oolo)&Y5l:l<Pu52)2<o&&55&5:4<YuYYBPlysll5u42)PY&15Y&uJU44YY&lUl)2J&4)u!o<o2&U5:):U<Yg:uB4B49&<BuUPUBYlY/luu2oPUo4)uY<)&4&4JY:BSP&5PUUJ2Jo4BY&B2lW4BlP22P2o)&l<u2J2&P)oYYoB4RU<:<Y2JoPo2P:U))lJ24UJYBul<04<&_UP5o5&:U2u&PoPJo:5,Y)ll<5uy<oP4&554Ul5<J)4::2:BUlJ442Y&:)2Y&452)B):4:)l:oBUlY1B4l:BB2l&r)ol)5J2Y5Y):B^u7&u&EU2Bo<&o55uUPuPYol5u:Ul4<:u22&ou2B5lU&2uoJo&&)5Y:4j5<Y2<PlP:ooU&)+J<4PYoBoBUrUu,6PP=P&oJ55U2)oP&&<&J5:)=}luouJPv&u5&U5)<J)4o&2J)U5)JJ:Ju&l&4<)olUU)BJJY&:l4llJ<<:5u4P4oPu2oY)UJB4uY54:l<{lYBu)P2o&&oU_PmJ&444YYlBP_o<U<BPVPJo:5:25)&JY4<Y5:4B:YJ4<YY:oBUl4PlUl):4P44B<B)iu<PuYYBB&lu_o<U5<J:Y2:4:UlYL<4uYl:&B)lYou)P)JJ)Yl:2:Ul:<o<B2Yo5loAJ<)uY2l)l:P:Yl_JEYoYP:5BJPu&252)o)<Y<:KBB_)<Rl:ulo22)5o54UlJY4UYJ54)/)l4uYo<Bo5ol5Uu&P2PJo:5IYJcu<U222Uo8oYuUoYJ2424o&))&U:J742#J2Bol5UU_UUU44XY<BoB:e&<U<Y<PPU&)UuUJ)u)<Yo:UBJ <^JuUuY:Yl#W3<2u&J54<:&5PU:)UJ44B<5Po&4&4U)))45Yl&4)<UlJu4oxYP,&<5JUuUJU)4::#Bul)QuupuP<5o2o)&:UJ)&JUo)525:)mJ2N&2o2:&U&5U5&l4M45&2U4U5)JJ:2u2ooBoJ5l)u)54)Y<Yl4UY6:2B:g23Bu&2&P:oJ5P5l)o55)P)4JBY<u&PY&:5u)PUu4PJY:YB+W)<24J:2:Bl<RP&uUl4&)u:u:5l4I34<:Y:oBUl4oP)FJ&JJ4l4oB)#5l)<Bulo2o45PU&UJUv4:YoBolold<U2uPJoYlBu<uu2oPUJ5:5BUlY<4u224P5ouoJUu))JPJ<Y44YBY<542:<:5BJl:oPUUJ)YuYJ:uJuB)<:u)25Plo4z)<lu:PWo2JYBol4V!u&Y5:BB4lB<<&oJ^454l:ll5)UJ44YYlBuu&5l<:2PP<oP&5B2l4<2<U2UP:BB<,<uuo2U)LYY:uB&j2Fl::uPoool5QU2)P4P45:5Bl),Jl4PY5:JPu525UP&U:4<Y+:lJo:4<JuJP_o&l)<2<:2NP2)):4B<li<&<J<Y2YoX/2<Yu52JP:42:4lo<1YYzou<24lJuo<B2<PP)Y:U:Bluml<4B)uYo+5PU))<)B4JY&)PYl92u<BW<UPYol5<UuJ&PUoU&45B)<JP45<U<:lu<J<&u)2YY<YPB:B)9Bu<u&PUo6oBP5Pl&u5YUB)l42Y4:)BldR<&u)c&u5uJ2:ot4q:llYllbB_o<4oJoY54U&U5454l:uBP)oJY4)YY:lu2uo&L)J42Y2&&5:UJ):4tVo25o&oB5B)<25PYo4&BU<B5{UuUPfBut&C&<)uYUPJo4o:5:2j5uo<5P&ol&45P&UJPJJ4B:4B5l)JJ4:YBB<lP2U)2uloUo2&&5)Bu}Uuo2J2)o55<5E&JJ&4YYw:oY)llSBuU22u2&4&)UlUl42o5&55JU:Jd42Y&<luYh<<luo2UP4:UB&lB3YYJ2P2<o&<&5<U<J<J5o55l54UBJ<u&u)ouPB52U&U4J:4oY2JY4PY5B!l5dP<4uYP=P:&o5JU&&45lUlJu4o<5P<oPk2<4u52JP:J4:Ulll4<ou:2&B5l:H4<B2<)2Y)YYB&GPJo44Y):YBlPJ5&)UJ4Y5&2U5U5)JJ:,Y2UP:&uUO5B52JBYoY:B:joBYu 2Bu:o<5oUJu4PlPl&u5oY:D)Nlu2PRPY<JoT&&JoJ5Y&:<)lBo<o<:2tPul2u2<5uJ2:)&:uBUBY8<l5u4P)24&R5<)o):4&YUYY:232w4<YPhPG&&&J&2)04542Y:BoBB)l4:Y2:&B)P&5U)&J)J:Y:42Bllod)u&2uPPlo<5<)uY2lJu:5::Blb5<P2UPZo)&42x&))5JY:q:BlP)5YP44YBB<25&l54)4J54UU&:JLus,u&u&PJ=4o)oP5%U%UlJ4YPJ2B)lug<<2_2ou8JuUuBP<oP4):la}=ou5B&uPo<5U5PUBJ&Jl&gUJUP)5JJGuu222ooPYUB)B4oYU:A:Yl5<2WP2YP&&{&ooU)P)JJBY4:5B))J4B4B:<BPPP52)C)2Ju))JlBBlWil<J!BP5&5oPUPUY)l4<&u55U&))JY_UPbP4&5A:u52<PPo5JYlulBGoB&Pu2B&P5y<52U24PB&<4Jl0W&<)<PPoP5&55lUl)2454::)B<_JJ5o<&25&U))YJl:u54o<&55oUU)4uuuu2&o2ol0luJ22P&o)42BPQ&louPuYo5o&5&UJu::5B)lYHluu2o5Up<:5R5l4QBu<5J4&YY:kBo:4glu:<lPPoo5)U<)JJY4tJJY&B/l<uuuPPPoY&Y5{)P)J4&4BB5UP)PJ54JY:Bpl2!Bo)uBo&ou&o5Ul:8!u)uoPJo:&uUPUY)JU2U4)B45Y4:4BBFP<Ju)2:o<&&P2o2&&5)UY)l:u5<<UB:pU<<uP25):Y&:YBU_P<::Y<XP4&u.J<YuBP<oP4:5Y)JJK42Y&uYo)&BU<))Jv)4YJ:ul5M4<2ui:uB4l&t)<Y55J4Y)44BJx2%l<UY)luB:{z<2&4UY)Y4BYhB&So<%ll2lP:&P&4)<))4uYPJBBJl/ Pu<u:2ll8<5<Pu52J4lYuB4B5*Y<luPP&PBoYPoP:&a5)U4JS4<Y<:2BJ%<r:l<m5<ouU24J<:oB2lollJlYP:2B&l)52Ui)lJJoJU:5B)<JP!uulo&ou5u55)4J-&lY)BJl<44KouuP&o)&25Y)uUo4o44:<l< PYo B2ZoA&P&:U&)UP6Y455uP:v5:u)P&<PB4l4aBu<2PP52J::Yz)oJY4)YY:lP55U5:):U54o&555UJ):4IY2<&oB2Y<<222oPUo442Blloi)u&2uSM2&PYU4U:JY45Uo4Bl5<542YJ:5BJl:oB)uJJ4uYuBUUP)JJU44YB2P&P&UUY)UPu&U&&5)UYB4<5uYP<olo:&o)&Jc4<YP:ololU<U26<2P5&<&))P2w&<oP&55JBAsBuu2:2loU&>5:UJoU4{Y4:JlUi4qlullbo&o)54Uo)l4&5o:4BlBl<2uUuY2BBl^B<2u&2))lYU:BBJ0&<l:B<uP:&PuJ&25l))oU5l5YUlJu-u2<PBo<&fo&)YJ&4)YoB5:JG47:uu25o5P45l)5):J)o)U<5:)OJ2OuuBP2oU5&5P5YJ:45YU:4BYcYAlulP52<oBUoU<)4424Y&:)P)<JP45_BPu&25YUPUY)ZYP:t:Bl&xur:<oP2PB&<5)Uo5BJ4:u&l25&Y)o)55J:YBfP2<)2<2:od&2Y)lulB<4u4P2PllB*Bu<4P&u):U4&<:PJUY:YY:lluPJ&454):)U:dB&W<s&<BuJ<5oB&B5/&oJP4PYJBEU2JPJ54JY:P5ol&5UY)lolYoY::)ll<u<&2&PtoU&P<u2Y2&P)oY4YB4.UH4<J<Xo&&I525lJ<)PYoY5:Yl<<<l&2JPJPY5u5J)2JoPY&<5qU2)&Bl<:P<o&l5<5<4uBP<)):o:4BlhY<UB&<lo45<5oUJU_4P:u52UB)5JJ4:<5PU&JoYU<J<4U4BY4BC)Q4<4PY5:JP<5u5PU))B4B5lY&B:F<jBu)2lP)&J5:<lP2P2o&&)YZlP<ouB2&2B^Bo^UP)5J)Y/Y)B5B44)l5uPP4B5gu(4<B2<UJY&:YB;loB)<luBPUo2(Pu4uU24PB45::lJ;l-BuYP&Po2l54)<)oJJ)B:PB2l:MU*42)PYoY+&<&u)2YPl&uPol):44TYU:PB5lJ&2Uo)&4JYU:B4u)oJo4UY4:Bl<1P&4&JPZo3&2<YBUU2B}lo<5B4l4XBu<2PP5oJY4Y9)oJ44)YY:l&u55U<))4uo2&:55UJ):l:uYPPPBolU<U2)44YoB&BU<)PJ54JY:.B22KUuouY2louJ:::l:N::<2a2UoU&<5))<):P4&u&lUu)oBJu02Yo4&BU<<Y2:Pbo2&&4B:lBl<<05P5&2ou5&UoJPU:Yo:oB&m<J4YBYlBuloPYUqJ<4JYuYJ)J:Y%&<)2)2B&y<lol)P)Y4p&G5UUP)5JJ<YulPY&P&:U<J5PPoY&U54UBBo<)2JPBol&lUYuU2:PYol5uY5wJuTu&:2l<l5IJ<:)PJYY)YJ:Bl4O5l)u:PB&5&l55u)P&P:&752:23U<Bul2JSoPY&Y)z)UJ)Y4&YUP);J24&<PP4&<&PU<)542o<&<5PU5)JJ:Rd2UJ&l4u2<l2uPoYJY:l&lu<5uJulo<o)&5ojoU&4U5)uJJ44:u:BloVU<J2<<}u122P&o)&Y5lBuBo4JY::Bl<8Po:oB2l&5&25&U)FB<<2J2&o4&B52)o):J4)P)YJlYJ:YBB(2<5uU2YPl&25PoP&P55UJ):4++2oou)lB<Puu2oPU4T4uBJf<:)4Y:5Bql27&&W)4424JY&BoY:%:<:uU:)l-l:<(u25U4U:<::BolJJJY2YBB<lPo)U2)PJUY5J5B4l)J<4&Yo:UB4PuU2Uo)BP:42J4o5)&)UJJ)<u<l5HY<4uBP<JU:NB5luJuY2Y&:)BYPu5BUJ))4:4u:&lYy4l)u4<&ouo)5BUl2<P)oo&U54:B<2<)uJP2&C&o<ou:2)PYol4:BJ<<BBu:2oP)l)O4<:2sP2JU&4UJUlJu4o<UP5Pl5J5)))UY4uY:BulYZu<Ju&:Pl2lU 4<B5uJU44J:BYlY<uuU<)Poou&:5J)J2:oB&<5PU5::l22u2Po2oBuY5uJuJJ4:Yl)B:YO)2eYYB&l,-2<&))J<Y<Yl:&l&3^<Y2o:&lYlJ,:u75U))J)Y4Y:l2<u<:nYPYoJ5<5U)BJ&4l:<YJ9uaY<PYP:JBUl4IB)<)o4;YYBzU2u:2lou&o5UU44Bo5u:PPo<&P55::OYuo2o2)PBlB<Uuu2oPUJl:2l);Ul2<4ulPoolnU<luY2louJ4B5l5Qu<&2&:)l8l:<_u2U)4uY):lBBlJJJYUYBB<lPPJUY)uJ<Y5Y4YYl<buu&uBP5o)W7ufuP25PJJuY2:2lol:uB2tPooJ5JoB):J:Y2:)5Y)BJ/42Y&u)P:5<U&UB)445Y24)B:^4Blu22&PUo)5:<B2PPuoo&UYBl)f&<)24:YsPSN<2u&5l44:<:oBJBb<P2uuPP)oJ5BU&)l4<4o4<Boh2lu<&2JPll3HJ<Pu52J)u:UB2luEU<luUP<o2l4-4<B4):l:5Yl5l:uJoYuY):YBlo&o4oJo4)<:2::l4#2<_u<2lB)l)_Y<l2uPooUU52B)24J45YJ::2oo&&&UUU244:<BYl<s)<o3uP)o)o4ouUB)PJUYo:<B2)PJ)4UY4:B2&5uUY)52l&Z&25&U)l:<Yu4P5oloYU<U)))4)4l:4B5lP:5uYYBBBluco<U)uJ2Yo:&:UE<cJ<o2525o:o:5<UB)JPJ&2&BU<)PlJu22<Po&J&5)u)lP<oB&o5UU4B=u&2kP2Pl5<&P)o)5JYY<B<UPJuJU44YB22o)5o5B)u4uJ&:J:BlYil<5u):4B4lB<<uP254l5l4<Uo)lJ)4YYluU&P&4)pJ<U:Y2:JBBUl4J42Y&:)2f&PUo)BJ&JB4<:&B584<2uY2BPuPk5u)/J2J5Y5JYBF7<<JuuuJ:Y7<CV<2u&5B)lJl:<:Uk&<J2o<&o<& 5B)<)o4o)):UBUlB<P45:l:4BBV<U&U)4uJB:2B&B4^:<ou2%Y<Pu5PPPl&u5UU:)J4<YP:JB:Y4B)Blvu<oU5J<4&:>YYg<B.<P2^25ulP&5<u<2:PooU&4:ulJ<<<YBJPYo&u2oJUJ4oo<565oUU)4BluJP<P)&)U<Pw54JlY:4YBRVP<)4J:::Bl<xP&P)24L42YuY)BBcU<PuoP)P:olo2UBJ2444l&lU:)2J&4)/loP&P555:))4u)PYoBPBlNl<<Yo:)B)lY/lUP)B4YoB&BU<)PJ54JJ:Pl22/UuouY2louYJB&BY;K<:u)<4Pl58U))<))P4&J&lUu)oBYu9P<oJ&u&J2J5Y4zY5YlBUlJ<u4P:2:UB4lBou)uJA454BBPBYto<5:Yu2o4&o&:<:PoP<oP&5Y5l&<2<&uo<Y2u5<52)u):)BYB:&B)l4Blu42<Po&u&BUQ2uPuoouU<PU5lU)oWU:Yl<Ib<2u&U)4oYu::U5JPJ44B:<22&2&B2:5&JPYJYJBUlU<&uBYJ:YBBy<<P552Yo&&j52U&:lO:u42B2U&U5!U2)oP&&&&J5:)DBUuPuJ2Bo4&52o5&)Y44Y&)PYYB:l:Yu:5B&l)fY&4)5424)&:UB)<JP45<:P4ol5J5o&BJJ4_YPB<B:BU<:22PPPllY;:uL22P&oY&Y5l)uJo4UY4JB2q}&uBuJ2:oW:o:Ue<l:uu2o2JoY&P5uo4&25&)8J<4oYU:4B4%2<ouo25<J2o2Bo<&P4)l&lB<BuBu)o<&4U2)o25ouo4&BU<BP<)<l2<P)o&5JUu)4J:oP&B5UU4)Bbou)2Uo5P-5lUlJo44oB5UUu)oJUg222Pu&j54Uu&lJ<Yo&UUlUY)l4u<4P<oB525u)hJJJ))BB&BPcJ*JuB<YP2&)&:U:)5JuY*&)UPU:Jh42QlP5oY5PU&&5):4u4l:lU&JJJJ4::Sulo45XUoJ2J<)&:<BUlE<!uU^YPUPB&u5lU4):PB5<5uUo)Ul<u:P2P5oY5YUuJ2JUYJYUB5lP<4<52<P)ou(2<Yu52JP:J&BulUlY<<T524o)lJ<)<B2<PP)lYl:BlY<5<BB)<Bog5P2o&:UB)B&2UXU5)JJ:.2<)oUoJ5)UPou)UYU:hB2loJ&4:YJ::lyo5UUUJ)l4P:P5UUU)4JBY<:PB5uBY:uu25P&o)&Y:uD#<PulY:BBl<8P<5&lJ44<YoBuBB4Y.<u2Poo<oloPUJJ&JYoY5PUM)2J&uf2<o2o)&JU&J<PNo5&P55UJBl<<u52loB&l<<)42oPUo4:&lo8U<5u:95>luu&JUu)lJuY<:5:Y4)1<uL2<j&P4&:5)ouJ:JB4B:5l<sP<2uBl:<uu5PyPB&&5PU5)l4<4Y:UB)lB<k<YuBPPo&&Y5)Y2:2B5BU<&uU2:P:u&5BUU&<)uU<:ul<:JlUhPP3PPu:&Po2o&4u4UJs:B4)BU<Bx)gu<ooJ2:U))))245J)luB5<&u22Y<uPY&lUs)PU:)4)&B llSBB:uPuou42BPYooU55&4l&4UYUlJu4o<4PboJ&&55)4)l4<J::PlJlB<BuU22o<l4UPj5o55ool<&l)PlJoYUY):YBlP5UU)U)J)<Y):ol4^:<:2)2UoPoJ&BU4)5J)oJ555B)<JPf42Y2Bo2&UUUP)5l4BYBBPlJ):45Y<:PB52B5lU<)JJ:4JYBB4l5J5Y4Y4:Bl<o<Ub):JiJlJPBPluR)<e2&2Bo5&)&<)<))JY4B&lUP)2J&4)<LPU&k&Y<J2:2Bo<&PYJl2g)<o2<PJz)2:5UUloo)rYPBu:<lo<)uBYlBJl2d&<)UAJP42:u)UYBF&<&u5PuBY<2<tu22&U4YU:ylxCAl4u22:oo&5u5Pu&B4oY5:o)):u#UuPuJI<B:<&<<uP25UBYuB2lYEPZY<fPPo0oB5&UuU:)S4JY:B:lu<PA)u5Po&<&P<P242UP4oB4&:5B5{)#:2<oo&J5u5l)4J5)::<Bl:2sl<ou)P&ou&P<o2&2)PYol4BBBll<22u2JouoBo:UuJP454l:5B2>uJPY2YU:4BBo<5o))JB4&Y2:lB44)BluB2BoP&JEY<B22PBo5&J5:B2<uu4242loPoo5&)&JBoH&U5PU5)J<22uPuo2P4o2&<2PPBoU&45BRP<Uu&2JuY&u&o5l):2Bo2&u5oUUBU<52P25B)I2m:uC22U54::{:ulBWB<Y2}o l2<5<5uJ2:J1YPBUl:6o<uuB2J=UP255)ooPUYY7:2Bol&<J44B2:llu.oUJU:4&4u:5BJBl<<<)u5<b<Uu4Poo5&U5Y)PJu4UYY::l2Yllll2N&<)5yJPYo:BB&BBluu&2uP8oU&P&l5&)B4U:242B5,Uu<u)2<2<&25JU2J<J)Yu:P54J2)l4uYoPJP:5&5u)5JJJl:<:)B5:s:UB4;P<4uJ2JPY&R5<U5)5J4UlJU42Y&:)2U&B5o)MUY4PY4:&U&JBJJ4::s2Aol5Y5lUB)P4&:&:ll:qB<:P<2luB&B5Y)2UY4YYP:5B))JJl4B:<BPP4U2U:)oPo&o&)5YUll&u5u)2Bo2522P&4Jl4lY<B5BlyU<JY<::BolU-45<)l42YBJlBJl)<5uJuBPBl<<u<ouU24)2Yl:oB)T&<uBA<4Pl&:uY5uJ<4JY&YlUdJUJP45YJPlou5455)YJl4P:&:BBY:o::l.nJ<4uB2lo)&)54U)):4o)oJo4UY4:Bl<VP<5&J2l&)&25&U)BU<Pu)2BoYoJ&<UJJ_JYYUB<Y<lY<2r)2BPPo&&B54)lJ5Y9:u5)UB):4_Y2P:PJ&oU2uPP2PUo4&BY)l:<4:JuTPl&U5P5:PY)2Y4:o::U:JP4<YP:5uB&uU2)YJPJYoB5uUu)oJUQ42:o<l&<<<Ju:Pk)UY:B!JYB<<5u&PYo#5T<22P25PJo:4&lunU/Yu<<oP4oJ5P5lPBUPY2:2B)llJu4:Y&:)BYo2UPU&)44k:7)<Y)BJlJYk:>B2l&M)<Yul52)o&JU4UBJ<4P=Juxol&<UAU4o))uY4B4JoB4<4u22&PUl)<&<:2RP2)J:uBllu<<u5uYl42B&JUuUB2You&852U&B:<42<PooPlJ<5<B2<PPJJ:UBY!5iu%<2UPBo<&BUPJH2:o5&<5PU5Bu<&u524ou&u52U5J&P5&4&45B)<l2uY2BP)o)5<545:JB4_:FBUlUlYubu&PuPJ52clu522P&o)YuBUMo<J<)25o<l29B<5uJ2:)&4uYYJ)BB<Qu&2Bo:&B<c2u2PP5oJ4u:2B2poh:2BPSoo&JUJ5QJY4uY&B2BlF<4u:2:&B)lY&u)u)JJ4YlYllol)Y5Oo2uo)oo&lU5)8P<o5&o5UU4<<u<uoPBoUll<)u22&P)JP:Ul&4ol4uJP2PloUj)<lu:PKo2J)Boloju<:Y5::B4lB<<55J4Jl:2:oUoJBJ)4YYlu5&2&)5:)JJ&5PJJBl}(<Puu22l)u:&:54)u))4lY5B}luwJJYY::AB2l&P45:)uJ:4Y:JBJH2{l<UEJP)o)&lUoo)24o)ol5uUo:)<)u52BPo&452UY)B)5Yl:)B<)<Jl4oYU:42:525&)DJBJYJoB<B5l4<UuP2&BUlU+4<B2<PPo5JU4:)u4J4&Y):Y&<&PU:U)JBY<Y&BUlplBB5BlZu<JuBP2o5&)5)UUJb4PY)J5Uu&4uuJ&l&<2Y:54o<&o5oUU)4l)u&P:B)}).:u>22)P4BBuBPNP<uu<2Bo<2Y&))S5<4u4)&o5lU))YJlx4P2oY&K5Y)P):44:2&l)J)2J&4)<<P:&&&JUJP4U)4&::)54uB^<UuU2)oP<Yo2U4JUJ4YJBaBo4:B<4Y:oBvl2_&&<)<J_4&:<::lB<<42YU:5BJl:oBUPJ2JBoBU&Uu)oJUu:2;o)oo5JU:)u4P4YYJ4244YBBPl:a)ud2hP<o45(UuUB5uUU)&J)4Y<uo<&<55U:2Ko<oP&55J:ul2h2uo<4o455&&UJ))4UJ<BLlOd&<Y4l:UB2l&,)5u)P4PY):<:BBlC:4&Y::JB:S,o&)4J:4<:uB4U5)BJ44B:<u&&Y&Y5l)YJUoUU=5YUlJuu5uJo2Pl5PU5UYJB4&YPJ:4oYUBPl2W2<JuBPuo&&)5oUJ&Y)P)gJ24&RBul2l&<oU)JJJY<:P:YBUX2<l<rPUou&Y5<5uJuJJ4:YlU<)<JP45YJ::5K5)o&u4o&Pl&u5o:o_Pu<uP22u)&l5)UY)U4JJ::BBMloTJuJ<lP&oJ&5Uu)UJuY2:&55UJ)lJlYu:oBUl4YB5U5PPJoJ&:UX)2J&2)uu<llP()<Uu42B)u:<BWlY)l4lY2:&B)P45l)uJP44YPBuB&:)<o<4ulPYoU&J<4P22lou&oBJB:<&<u25PJPl5<5)U55*5UU4J24JY&:ll2lB<Juo2louulP2o2&&5):4 :<5Y5B2B4lB<<5PJY4&:E:oJ2B)<)u<2PP&l5<o<4uBP<J5:oB)GPlll4u42JoQ&455)UJ4P:&o5<UP)5l:uoPoP)oY5oU<2<PYoo&U54Yl3o<U<u2l&&&u5Y)P):PB5&5uUo)U<:ugP)Po&J5:UuJPJY4JJ2J44B:)B&lY<Pu22uPJ&X52U<&u55U&))JYh:25oP&&S:2<2<PPo5JlB4l<kouuuBlY2&&BUP)lJP4YYU)PYU%l<lu<:ol:l)kY<lJPJ5:,YYl<wP*)u422P<uJ2uPool5<Uu)&JB4Y:2:BlJF&B);Yh:u822)u4B:2BUX&OP942PPJo&5uU4&4J&4:J)Yo:l)BYuYu:oBUol52)PJ:4o4:Y<BllJI:uo2<u=oB5<U5JuJ24o&&U2UJ):4M<5PUPJ&JUu)u)&4JYV:YBPd:JJ4JY:UeulB)F)uJU%oP5o5UU4)Bl5<2u:FJo<UuUPJP4YYY: lPlJ<&<BP5B2l:95<Ju:U&4Y:uBoYlvB<B2PPJB:Lo<<uP25UBYl:<lJll<5u2:<o5lo6U<45BJ&YP:JB24P<2:2<:PUoB&45&PoU4JB:M:JlPL4YJA)2lPPoJ&BUxos&u)4:5B:l<F&lY2=PB<)u3&oU5J)4oY2:UBBVJ<QBJl<2J&i5:)u)<JlY))o)Y:5m4u)<4PJ&2&l5UP5&u4YYBJ,BBwuuIBUlBnoPB5JU5)o)U4UYYJ)4_Bl<42%Po&2o&5&UJ&5&BJY:)x}B:u&22P5P4&&uYP5J)JJ4J:2B:,_MlBxlU:llB;2<&u)UO4U:oB)B)Z)<<u&lPuJ&)5)UlJoPU&o&Y5l)ulPuJu:P5&ouP&)U4J<4):UB)U4J2JlYu:o2P&(5P)oUAJYY<&lU))2J&4)<5PP&4uo&YJPJB4&)B5)J2):4%Y2<YoU&B5uU55:4<YlY<B&l5<4u22YPBouoU5J)YJU4&J4B<l:e242YB:5BJl:o&UPJu4o5YYululJF:<l:FB&lP=5<J52JYYu:)BYUBJJ4uYo:U2<&:U2U5)Y&JYl:ol&l4<:4BBoBulo*U&5)2JU4::4:)BWS)<lu4P5&_Pc54)u5:4)4l:2l>lYgB4lB5B2l&R)UB)<4J4&:4BBl2<o<:u4<P<YulPPo)&:U2)rJ&4oYU::lo:2lfl5IJ<:5l4o4U:ul-BBlP<&uYPP&25P<&222JP:&t4UlPlJRBu425doPo5J)yJ<JYo)5P5:)gJ2sJuBoP&2PPUJ)YJl4:Yl5&):)JJ:Y1PoPU5<&:)uJoJJYY:PBuY4:2B&lY<&u&2PP&o452Uu)&55)P)4JBY<<UoA&:U<U<J<J)4BUYYPBolo4JB2:Bl<8PoY5:U:Jl4&BPlU<2lPul2BoY&l52)2U54544BPBBBo 5u:2<B</fco<Uu4U24lYo:)l&+u:.0oPo&<<YoP5oUoPJ55&BU<)P<)<YPoP<&&5)5BJnJU4&)lJ54JYlB<l4}5u<uBP&oP&l5J)2J&4UY4:l4::)B<lPs5&&)YJ24P:uY)lUD=u4uJPJB:e2<<uP25)&4BBJBUhUJ4:2YlBulo5J5:J&JuY5:J:l7<+)<50mmU<422PPo4&:UuUBJu44YJ:44l:4B2l&A)&<):J245:PBTlulou22&P&lGQ_<2u&2)PYolB4Yo)4J44B:<BPl5wJ5l5cPo&4&)5YUltou5u:2Y&u&&o4))J)YuYB:5:)L:W:22P5oU2lULU52PPPo5&J5:)=J2BUH):B,<!u<ouUUu)&4*Y5:4:ll<BAl2P<2:P:2l5J)PJ5Jl:4)2JY45YJ::Pu&Y5:)<4z)4Y5:YUJJcJBY<:P2)&25PUUJ5P)o)&Y5l)uJo4Ul5<Bl2FU<5uJ2:)U:uBuB:)BY Yu:oBUPU55)P)5J&):42lulP<2<B<uP4&4oh5:JPP7oP&P55UJB2ll<):UlUlYhluu5)J:YBB5Bll5Y5;)2:o}&u5)UuJ3JPoP5U5UU4)Bl&<5u5P)P<5))&JJJJYJ:uB5:J<&<Y21P:o)&4<Yo2Pjo2&&4ll4<<<ouJujoP5u&PU))J4BY&:ll<lolYuY2PPo&)&)Ul)2U5Y2:)::luBU<Y2Ju:P:5<5)UJJYP:&o5<UP)5lJu)2<oYo454Ul2<oUoo&U54:Jn&<42hPBPYo25Y)u)B4J:242BB*ol2u5Po2PoU5Y)<2uoDo&&)5Y:P<0<&uJP5o2u<oo)FJ5JlYlB5UUJuJY4l:uu&oY&l5uJnJ44B:&Bu)uJ&4&Y):Y&2&2U2uJPoPB&<5P:ol4<Juol2u)&U5UUBJPPUoU&45B)<JP45v2):lu<u<&u)2Y)<45Y2YJY4u5Q2u)2o<JPl&l5P)U):&BUu)uJo4Uh:2l&on&u&uJ2:o+:&BJBJRBu2.Y2BoY&l52)2Uc4&Y)::U2)2J&4)YY:lluPooUu:Plo<&P55YlE4<<uoPuPB<Y&2)P)&J4Y3B*J<:)lJbJYll5l2c&<))BJ<YJY&B4lBm2uou:24uPuY2lo5&l5l)<)l4JYUB<lPQoB2llA5<Ju:UlY2:&BUll(Uu&uJu2oQ55<2uB25PJo::PBUv)uuuJ2uul&P&YUm2aouoP&55J:2Wluou)2B2u&U55)<)Y&4)lB5Bo.494ul:ul4l&z)<YUu4u4JY4BlBl<o<)B5u>oY5u5&U4U<4o:2)u:)l)<:uo2&oUl)<U<:2sP2))JlBBl3fl<JBUu<oJ5J2P5u)lY&&u55U&))JY.uP<P)o:.:uo2<PPo54BBu,U<5lU2UoPl<<u<ouU24)JYJ:4BlrB<&uB2JE&2Y54U:J&45Y5:5UgJ2JP45YJu2ol5o5)UBJB4P:o:JlYlJ<2ul2oP)&&5uUP2ooYo)&Y5l{Pw52yuYo<&P&)U4)2J<UJ)uJo4JYl:ll)pB<)u4PuoP2&o+oJ&:UwB&}luo2<P:&&P&U<)UPO&U&P55UJ-l<u2425oY&l5P)&)BJY)o):4rY5:YlulB<2u42)P:oY55oP&J5UU4)Bl52&2Uo5&u<u2J2&P)oYB<BPA:-)uBP<P&&U5(5B&5&lUu)lJJ4Y:<Bul:,UuS22P2u&PUPJo:56YUB)l)<4<2P4&U5Y5Y)YJP4)JJB)l)yluoYU:BBYll<u&)J<4BY<BSU&)4JJ4::yo9o55:UP2<o2oo&U54:J#J<4ulPBo&&B5JUoUo44Yu:::)R<<Uu2:2lYl5tJ<:5o)&J&YUY2l4<<uY2<P)ooPuU))))4)&YBB5B475<luUP&oBlJ<<<B2<PP)B:)l<lU_Pu2Y4B:Blyu<o5oJJY2:P:)Y){lu<2PPuoPuJPlU4)4JUY2&B5B)<JP45YJ::9UP2<UP<2YPl&u44l5O:<<u&<Yo8&B&#Uo)&4JYu:4B:l<B4j5u<u<&}5rU&)Y2loJ&25&U)::<Uul25o5&luB&5U2):oYUPUL)2J&u4uBo5o25UU4)I4u4JYU4<4)YYB<loZ4<BuYP2ou&)5BU:5<U<)PJ5:JuYUkloYU<42:2lou&o4)lPD4<222P4sJoQ5:)uJo4:YP::B5>U<44BYBB<lP95<Ju:&>)2&U)JUY)l4u<52)o)&uUN)<J7YPYu)T4u4&l)<:PPoooJuUoY)YJJY<YUBBl&7lu<B&uYoY&P55U)2J&uoB5<UPZ)}Y2o2<o&&)&B)+)UJ&Ul)5JJYo:PBYl5zl<:2uP&oJ&BPB&l5uUo)Ul2222BPo&o5)U&)P)oYo:Ul;:lv2u52Y::lux<<Pu5)m4&YB:UUUJ.JY4l:uu:&Y5lUB5UJ)Y4&YU5)wJ24&cJo<&<&22o&4JJ4J:DB&U)JlJ:Yp:222&u5lUu)<UU)B:::llB%)l:2&o&2o5<55U4JU4PY&55)<)4JBY<<5Plo45lU<)&4J4B:BU<JoJo4UY4<lo:5 U&J<o:)PYUB)+ujJ<uBuu)o5&u5oU:))P)&B&:Un)2B4;Y<Y2BPu&&UJ)lJ54P:X:Y:uQ&uPq&Pooo&4U<uPPUPUo4&BY&B5l5<)nlPl&4PJ5B)uJ,Y5:<BYYB1:<:22P)BY*P<Zu22&)lYoBuB4l5<Pu :bBJlPj5<JU<Jo4P:24YlPcP<o2+:JlVlB<<uP))42:<J24o)U4&4YYlBu2)&:U<Ul4&Y=:4)J:QSl<l2oP4BBs2<uuo2U4)Y2B)lU))Yu4::GB2&U&4)P)g4oYUY:Bll5IoBBl&/)<B2qPJo5&:5l)2Ju4JYY:BYK:)BPl5OJ5<)o44YJ4YBo_) 545:l:4BB9<U&U)4uJB:2B&B4Z:<ou2>Y<Pu5PuPl&o5:U))l4uYo:UB5Y4B5Blau<o55J:4VYJBUJ5B:<:uo2UPJl4u2<l2uPoYJY:l&lu<5uJulo<o)&5odoU&4Uu)oJU44YYB<l59U<Uul(luJ22P&o)Y4:BALT&uo2(P<ou5sU2uYPJo9&25&YB_J<xuPP<P:olPl)5)o4444:lUuJ)J&4)YYu4o5&YU<)l):JPY:B2Bl14uPMP2lo&Pl55)<JYUBJJYPU2JPJ54JY:uoP&o&5U5PJUY&4UB5!G#Y<o<UocoJ&u<uu)2&P)oYYPlxc<<5<B2)B2lBE5<Ju:42Y5Y5B4ZeBBuPu5P<olE<<<uP25PJo:5-YY:&JY4YYl&uUUB2)2<lUuo&5&5JU:JalP2Y2J&K&*UPPoUoJY:u:&l&q1+4u):uBJl&0)<Y5u4<Y2:&B6l<<o4&Y::JB:8L&2U5J44<Y:B&U5):J44B:<u&oU555l))Po&o&)5YUlBB<JulPP&u&7oo)VJ5JlYlB5YYBU-uY<uPBolUp4U&Jo4UY5::454l:uuUuJo2<:&)5B)YJ2Y2Y2B)lJll<lu2PuoP&:5<U:J&5244:JB4Y{eo<4PToo&J&YUY)<Jl4)YY:)lf<2<&2P2:P4&252)&J&JBUU:)BBlP<t<:PPP+&W&oU)UB&Y4:YP:ll5Y4<Y2<25<&&lU&)o2&o:oJ&:U9B&<&<Bulo2o25)5:5<J:Y2Y5:Y:u=&uP<525o4&25P)&25&5o4&BU<:U+Yu:P&PBo&o)5BUl4244:PB&BJBu<&25ogoU&8ol)2J&4UYl:Ul&lJl2u_P5B2dH_5<Ju:)54PYlB::u6BuPtUPSoP&J5ou525PJ::&lB5&25&l::<B:lo,U<45&4oYU:5Y:lu<uu)ul2Yo<s<u)uo2UP4JPB;l&lJDlNo2)o5P)&B5lJ2J4YP:&:J:2fl<ou)P&ou&P<o2<2)PYol4)l<s5uuu52lP42U5lUl)<Poo:&)5YUlBJ<B2Yu4Pl52UUu)2:P:&_52:osYu<Y<:UBolU.4&P)J4iY2YlB<)u4&4&Y):Y22&5UUJ<J)4<U<Y2B:C}u6uoP5r&Pl&:U4J5JJoJ5u5B)<JPlY2U2Bou&l54U:2BoY&u5oUUBWj<<<222oo45JUo5&4oYo:4l<)P4u4UY4:B25o2&:PJ)<4UYY:)lP,J<P2oPUBJv&,Bu<2PUU4B:<YPVo<ou)2nPB&)52<J2u2Bo<&P44Blj2<<2UPuo:lB<ouu2oPU)B4Pl2lo<P<lYll5l2M&<))BJ<YJY&B4lBq2uou:24uPuY2lo5&B5:U:J24uYJ:lB4=&B2.J65<Ju:UoY<Y5:4lUMP:uRUPJoJ5<UPUY)U42Yl)k:2T4<oul2PBP{Y8U<4uB424&:l:4{{<2<U2JPuo#2)P<oP5LU<)oJJ4JYYB2lP+P<5lU<P<YulPuJ5:<l<l2<2:Pu424o4&25UuUouPYol5uY4 5<:u<2&uY&_5B53)oJ&YJ:uB4l:e<l4<52<Pe&u5U)AJlY9&uUYU&))JYvPP3P&oJ55U2o<)5YG:&BulB<5:&=JPooYuuoJUBJ<42YPBUlJ)Y4lYz:2B&2l54)<)oJJ)B:PB2l:*U:5XlP2o&&U5)):Jlo<&:5oUU)4<Yu&P4PJo:5)UlJ&44Y4:<U<)&Jo4UY42oo&&)5)uYPooi&25&:)>4uuu4P)o<&J5Yu2P<P5oJ&:YlKo7UuuPgll2:&J)<U:J54lYU5)Ul):4TY2u2PJ&B5U)<25P:o4&BU<BJ*Uu&PuPoloz)<)uY2l)lYBB&U:JY4<YP:5ulog&1Uu5U4U:P4Pl(l&MJu522Pol&<B<Ju:PVYoYUl<B:<uuouJPYoP&uP4o2&&U^)2J(4JY5::BBll<ou4eJu2uBP<oP42B2lPhUu5ulP5o2L<uBuo2UP4JPBVl&lJylbo2)o5P)&B5lJ2J4YP:&:J:PlqZJ<4Puo&&25B)P)B4l:u5PU))UJ44Bu2o)&J5Bug2qP2o&&)5YUl)ulPYJBJBB8<<P55J&JBY2:UBB1U<Uu225o5PY5E)&JoP&ol&J5:){lEuo2lP<oY&5U2)Y2:o5&<5PU5::l22u2Po2oBouU4J4P5&P&45B)<*U<Y2:o&oB&&UoUlJuYuY5B)UJJoJBY<:P2J&55YUlJ5JBY5:<lueoJ5:uY4:Bl<PJU&)YJz4oJ4:ll:Bl<PuoP)o<&J5YU(5J)&4MY2B)e&cl<42UPPlP_)<Uu42B)BYoBXlU)l42Y2:&B)&B56U&25P4o4&BU<:&<&2uYlBUl2{&<)5J4P4l4UB<BlZ2uPY&:lBJl:<F&o)54uY)B&B215a:4::5B<lPm5&u)uJ<Yo:J:4l<>au&Y5BlB4lB<<)&))Yu4BB2l&l4<:uo22<YuP25ou&&5PU4)44K4B:2B&l5:4l<ll<uuo5J4:Y2:uBl))4J4::}B22555Uo)YJ2Y):<BJlYlP<)uJPBo&&lU<uUozPYol5ul5lJu2<lPPo5oY5BU&)P5:Uo)U4PYd:)BYlJ<ZuP2<PooY2Yo:&N52U&BY<JuBP)PPPo5J)fJ<JYJ4Y4Bll58UuJY4B2Blfu<o5UJ5Jl:PBUlfl:Jl:5:2B&l)5BU<JJJ&Y4:BB2,oy:<4RPnY<l25P)o:5oU<)&J54JY::lY2:&B5lJQ:o<)4PU&2&Y5l)uBY<:2lu:o2&B5YU:4<Y2&oUPU))YJluJPPo5&&54U&JUJUY5:ulPl4<o<:YBBYlu/o<U&:424::e:YlB4:CP2o25PY&<U<uP2BPUo4&BlUv2<)uoP*o6oP&)5BuBPYou&o5U:J<C<2u:P4P)PU5o)Y)U4uYJ:2UP)4JU44YBuP&252U))l52oo&:5)UY)llBuJ2Bol2lU2)<2)&<o:5+U2bU*42P2Zoo&U&:Ul)5JoUB)&J)Yu:5B2l&gJuP2uPUo5&BPBoB5<UP)5JJ4:uou2lU_:<YulPu)5Y:BOlBJ2Y5Y5:JB:o254)o4A&Y4u:4l<l:<)2ul<uo&.552:5&)uJY&4U2UlJu4o<4P2o:5UoJ5&)CPl&J52U&))eV2<24PYol5{)1)242Y4&:5:)wJ24&Y):YPUPu<52u24PB&<Y5l5l4uPuBl22UoJUFUP2PoYoU&45BT2A&ulu4oK&2&UUJ)uJZU))<JPY-YlB<lU8&<5u:Poou&PP)&2P2uu*uBuYu)u<:l2RU<5uJ2:YPYPB)lP)lJlYu:oBUl4PB4H5PP)&P&:UI)2lJ<BPPo22o5PUP)J4kUP&&5lUJ):4%}42lo:<YolU2J54YoB&BU<)PJ54JY:<)22AUu2uY2lou4UB&lJ<o<5232Uoo&uU2u&2&P)oY&lUu<o7&l4:fl5lP*5<J&lJ<4&:<BqlB>Bu5222Y2l5m5u)uJJ4J4BBuBU PQY2o:<BBloLU<45uJ&4JYUBll)<Pl&2oPoo45<<P222UP4oB4ul)K)Z4::<)o<&J&BUJJuJ4Y)B<5:)&J<4PY5<4oJ&lU<U:o)J<:u5oUo)UJ44B:<BPl5aJ<l2PP2o&&)YllU<Y<JYJB)BBf<<P&UJ24JYuBulJ4)l5uPP4P5&<5)Uu22oJo5&J5::Y3U<:2uo%PBP25B)o):4::oYPl)ll<<u)2&oJ&u54U:<)ouoU&45B:uJo45YJ:BlIm2<&24PJoC&u5o<o)4JBY<B&2Jl4K:ui5<P5o)&YJo:&Jo4UY4BPl<!o<5PB2:oPP:5&U))Y4oYu:&BUl4l)u<2PP5o4&:Ua)24UnYY::lluBP<Uu42B5<2J55UJ):4/Y2YYB)VB<Buu25PU)J5OU<)PJ5:2Y:Bbl28U<)uB2l&PU^5UUY)B)OYP:5BJ<:uou225P)o:&l5U)o4JYYYBBPlPl&<4u:P_o25J5)U:)l4oYo:JB4<BP:uP2)PJoB5_&a)544Zl:7BoloB5<4uBP<5P2:5J)mJ14&Y&YlBY<<uouo2:P4YY5<UP)5JJ:J:{B&l&yB<Y2<Pu&55P54)uJ<)2Y5:JB:uyuIu&2:PY&25u54)U4:YJ:<BJl5u5<:2pP2o&&B5Y)2Ju44YU::BB<2&5u52lP::55oU&))YYYl:uBJlU<0<B52Po&)U<5:)&J2)oY):YBluuu5uUP<PB&55P5:)J4lYo:2BBl)ul<l2uPooU5:5B)5JP4lYJ:ll9u2uuu)P2Pl&U5o<J)4Yk^P:olDlJPluW22P&o)B&5l))JoY<Y4B+l<<&uUuJPoo0Pu5&U))YYlY&:ol/l4<&u<uJP5&YU&Uq):J&<oYB:lluzou)u4P&o<&B55UY):YuYo:&lulYoJuP2oPU545lU<):J5Y2Y:U<l2Q&5&uYP)ou&o5UUl)BB<YB:5lPl::&uPBJPJUY5&Uu)lJUBJYl)olo252<u:PJo2)U5)PdJ!BuYB:UlolB-luPB4P4&lU:U2J<J)u<YlBulo<J<:uBP:oPYY54U:J7Yo:4:)l)llP&u&2UP45nUPUPJoJJm1:<B2l&#l2<uloXoo)J54UlJ<4oY5:B:51(<2u&&4PY&{5uU)UuJ44B:<<4l5 4<:Pu)&o5555Y:uJ24oYUl4uJA<uuu5PUP::B52UYoJJYY::u<YlU,Y<B2<PPo4oP5:)cJ2B:Y)::BlR&lluU24PB)J5PUU)J4l<2:PlPl)2<u<2uPo5UJ55B)lJPYoYJo4lIT)))uJP4Pl4P5oU))4JlY<:PP&l4v:uCP<P&o)&YU<l5JoYUY42&l<KP<52sYso<5P5&)&)Y4FYu:UBUl4&:uu2PP5oY&:U>)2J&<UY::llu{o<Uu42Bo<Y25UUJ):4YY2:&B).u)uu2P5PUYu&BUu)PJJ4JY:2llPd&<)uY2lou&o5UBJ)l4<YPB&BJl:<^u2)oPJoY&lUl)oJU44:P&Plo<J<J5<PMoP&&5YUY)l<<Y&:UB4A:<<uP25PJ4Y5<U2)&4&4YYlBulo&5<YuBP<oP&55JU:J&2&Y5B:BY&U<uu&2Uo<oB5<B2)UJJ4::4B2l&b)<YUBP2oo&UUBUBJ<4PY52)BB*c<2uU2)PYol5uBP))J44BB<BPl5aJ<:UlPPo&&)UBUlJu4oYU2JBlK<<P2U2JP:&,)2Yu))Y<4l:PBo:4T4<Bl&PP&Y&JU5)^4U4&Yl):Bl<5<o5Y24Pl&<5PU5)B)5Yr:2B&P:FYuL2uP)Pu&45B)<l)45Y4::l PP<52B2YPl&u5oUU)4BuYuBJB5<uf:us22PYU5&Y)P)uY54JYY:Blu^P<4<P2:o;&2)UU4):JlYu5JBU<PTB2o2PP5oJ5l&n)2YO4)2lB<ludouJPP2B&Y&PPBUJ):4DY2B,B)<o^l2:2oPJo4&B)u)P4:4JB&B!l2Q&<)P22l&4&oUYU4)B4<:&:)BJ<5<H:E2&P)oYU<)P)oY244R5BulPI5<J2:P8&Y&&)PUYJ<4uYo:4B4<o<<2:25PJo:5SUJ)&Yu4YB2Bulo{Uu:5<Pu&B&52oU:Js42:U<YB:<J<u&22JP4oB5<uJ)5Y24:B4B2lUy)<Y:PPu&:&U)PUBJ<4P:)u:BB<)<2PP2)PYol)uY<)UYP4BBJBP)UIJul52PP5q&)<<UlJu4oYUPoBB<J<Pu)2JPl&fJ2UB))Yo4l54B&):AY2B&:PP5<&J5B)(UI45B))YBl<Y<oPu24U4&2U&YJ)4Y)Y155B&l)_Y<l4BPo5u&4)J)<J&45:JBUlk<Y<&&92B&)&uJoU4)4Y5Y<5JB5&B0B2uP)P&52&Y):)uJo4UB4lul<<B<5PP2:l<&2UU)))YYJYu::BJl4aBu<JuPU5&&:)))2J&4)YYBolu<l<UP52Bo2&PU))<):Y4Y2B)BJlY3lPuPBPU5&&B)Y)PPU4J:llul2uu<)4YP<ou&oUJU:)BYBYP44BJl:<d2o24P)5J&l<u)5JU44ByuPlou&<J2:P>o2&&5)2u)lY:Yol5B4W*<<2P:lPJ555j<P)UYP4YB<l2lou2<4P<PuoP&5)JUBJQYBY&lPBYJ1<u252YP45J5<)B)5JJ4:Bul<l&u&<Y2YP2oo&UU:JJJ<:uY5lPB:Qw<22UP:PY5B5u<<)UJ44B:<UJl5uo<:PlP2oU&)UYDBJ2YlYU2*l <Y<P2)Y&PB5452ll)4JY4llul:lUu&<BPYPPY:&4Ul)4J2:uY)&ol<Tu<o2JPUPB5B5P<1)YJ:YhBoB:l)uJ<l44P5oU&45BJ<JP:uYJl4l7,o<&2)2:Pl5Y5ou&)YY)Y<SP)YlJu5uV4uP&B)&B)<)2Jo:2Y4lYl<9P<5PJo5o%5B5&JP)YoZYuB5lul4uJu<oJPUoJ&:UVJ)J&:&YYl)lu_o<Uu4P4o<5l55J5):4uY2F&lYlYuJuu2&PU0u&l)2B5JU:&Y:l2lPg&<)PY54ouU<5UJ5)BouYPB)u:lBu:u2)oP4oY&l)P:UJ):)YB5<l&-5<J2lB!o2Uo5)<YJ<4uYoBJX_lB2<uP2wP4o:5OU2)UJ):UYlyulodJ<42BP&oPUu5J<BJuYlY&B4l4lluBuoP4PYoB5<JP)JJJ:):Hlll&JJ<YP<P)ooUo54<BJ24PY5BY2S_<2<u&Y)PBol5u)52UJ4:::<5Pl)XJ<:Puo)o&U)5YJ&JP4oYU:4lB*<2tu5oJP:&u52)&4uJY:J:u2JlJu5<BP2PBo5U&5:8)Jo4&Y)lY YXu2<uUo5PB!u5P)))4J::::2Pol4=Y<lPPUUo)U)5Bl0J&45YJBl2o P2ou))4o<&u5oUU4<JB:::PT&lJrluwP2ooo)U55l<)J5:PY4bBA&>P2uuJY)ouYu5U)44TJl:B:o<4lYOBu<oPoYoJU)UhJlJ&lJYYllDldo2Pu4oJo<5U5U)J<Y4<:B:&uJlYu4uu&ol:o4U)U<4:J)PUYBlukJt&2ouYo:ou&o5UJ4J44<Br:5C&l:4<u2PUo2oYUYUu44J)44YBB<EP*52Uu:oJo2&&5)UY4^4uB<:UE)lB<2uP&5P4o:UYU2)5J)UJ:alPPUM)2UuBoPoo&55JJ::Y42B2:)C)ll42uoPJUBolUlUPu5JY4::Wlo2)jJ24ul2loo&U54J.P<4PB5:J5:(u<2u&P4o5ol)2Uo>uJ44B:<BPM5XJ2J23&Po&&45Y)l4Y4oBP:45l922<u5PY&!&0)fU&JYJ:4l:ucoF5L4242<&<o5x45:JuJ&4&B5:Y5lRP<ouUP:)<&u)2U5u)J:YF:2lU))CY2l2u:ooJ&45BJ2Y+45B4::J:a2<&u)2Y&4&u)uUU4YJBY2:Pl5<&0:2Y22)4o4U)5lJP4l4UBU:B&JQ&<5uJo:o:&2)2U)4)Jl&2:olJ<2WB2l2PJ&oY&:UNJoB)4JB4:lo<05<Uu4ob)&&o)5UJlY4uY2:&B)<PLl2l2o&Uo45%U<JP4)4JB)B 5JvU2&uY&l&Y&o)PU4uJ42u2:)lYV:<fP(2&5Yo:&lUu4oYo44B4B<<<N5o4u:&}&5&&)&UY4Y4u:P:Jl45:<uPQ25U4o:U:U2Y&4<4YB4Bu<B(J<:ulo2J5&U)5U:4B42Y&:)0Y24<uPu2U&UoB<uUPJ)B:4BBBB2Y:+J<YulPuY2&))JUB444PY5:JB:-Y<2P22)&4ol5PUoJJ4:4BBlBPpJO4<:2L&2o)&))JUlYk4o&):4}+<&<PP&2J::&u52U&J4Y94lluBoJB#Y<B2<o&o4&J)B)O224UY):Yf<Po<&PJ244U&<5PU5)Jo2Y*l<B&<4ZYu<2uoo.x&4)4)<2o4)BU::Qu<&<&P52Y&u&25oUU44Y&Y<luB5<U%:Y<22oU5&&Y)B)u2o4JY4:BI2<2<5PJ2:qo&P5&U)JB4&Yul&BUU4<#u<2Po)&u&:Ju)2&24)YY:lluJ4<UP)2B52&P5)UJJ:ulYPl2B)o<<<Pa2o5U&2&B)B)PJU4JUPBehoo)<JPJ2lUo&&5UU44Bu<YoloBJ<4<q&P2&&)o:&lJv)oY&44BuBusPu2<JPJP )P&&)5UYYl4JYoloB4u5<2u&2UoYB)5<J<)&uu4BYlBu<o<&<4PYP<5u&5lKUB4uYlY&lUBY42<uuo2Uo:&<5<JP)52u4::}B2ZUu#<YoXPu))&)54UBJ<YPY5lUB:u<<2uU2)oY5&5uJu)UP)4lBlBPG))&<BPBP2Yl&45YUlYu4BYUl)BB<l<PYU2Jol&&52Jo)){4Y<:uBo#Ju<<Bo<PP4&&Y5:)q4o:uY)l:Bl&<<5uU24PB5J5PJo)JYBYR:oB&{)<)<lPlPo:l&:)Y)<4&kJY4l4l(u<<&u)2Y&l)B5oJ&)4YYY<5oB5kYosu<ouP&2D&:5l)uJou&YYlBl<<B<5uJ2:og5P5&J5)YYlYu:5BUN:<Uu<o2P5&:&BUT)2Y&:PYYlBluuP<UYY2B&2U655JJ):PaYo:&B)EBuJuuo&PU<<&lU<)P4):uY:gul2)&<4uY2l&PJU5)JB)B<4YP:5BJl:4&u2ooP)5l&lUP)o4U&2YBlllP)U<YPYPq&o5l5)J4)lYoY&:UB4<Bu:uPo&PJ5Y5#uP)&44:UYlNulo)U<:uBP<&&5<5JJBJ8Y2Y&:)BY<<<&uooJP4BB52UP)54Y:J:W_&l&Y&<YulPuoo,B54J:J<:5Y5:YB:<m)uu5o5PY4P5PJP)U:4Y&:<tul5{4<:o4P2&U4Y5:JBJuBUY):4BBu<UPuUo)P:5l52Y5))YYY&:u}PlUuJ<BPoPo&5545:JBJ2l5Y)l4Bl2u<:uUo)PBUJ5&U))44lPY:Pjol)Uou<2uPo5UU25B4pJP:&YJo2l<<ou)u)oYPl:u5oUU)4YfY&:PDUlJ5:uS22P&&4&l5l4PJouUY4:Bl<dP<)uJoYo_Uo5&U4)Y4l:P:o3&l4JYuuo2P5&Yl)U<4uJ&2uYB:lluuo2<u4o:o<U255u4):Yu:Y:&h)lY&BuP2oPU&:55U<4oJ5<)YlB.l2<Uu&uY&<ouYP5JU4)B4<:2:5})l:2uu22UP)&Y54Uu42JUPu:dfNlP<)&:uBolo2UP5)UY)l:u1<:UOJlB2;uP:UPJ&l42UP4&J))2:bBulo*UU)ul&uoPU<5JU:Jg42:B:)X4ll22uo2JP4595:UP45JJ:S:<B2l&u)2)ul&uooUU54ulJ<Y&B2:JLB ,J2uU2)PY5<UYUo4JJ45P:uBPl5<Yu52I&&o&l)5BUlJuY5E4:Y<ui<5Bu52JP:&r<)U&4)JYB2:uB5lU<4Y&2<&2o5l45l47J2YUYY:Y_lsuuUu)24PBU<5)U54JJ:B>:2U5l)<B252u&&oUl4U )<JPY):Y::<uq2<<u)2YPl5P)uUU4BJBo<:&B5lJ<luP22&Jo)u)5l)uJo4U5<:B<<zP24uJ2loZ52loUJ44Jl<5:59Ul42Bu)2P&&oJ&BUp4PJ5Y4<lBs<udoP4uY2Bo<UPB5U44:4pB2:&uJlYuluB2o&Uo4UBU<JUJUYJBPBs<uk&oJuYolou)oUAU44:4<B::)BYlBuuJl25&)oYBUUP)oJU:4:<B<<PQ52Ju:4&oP5UU4UYYv4u2o:UB4lBu2u525&Yo:BmU2)&J)YB:2Bu<UpUU4uBP<oP&5U;U:Y142B):)BBlluuu:2U&JoBflUo45JJYloYBP<&A))o2<PuooUUUJUBY<4PB5:JUBkeuo242)&:ol:<U5)UJ4:G:BBP<)_J5Y2uP2o&545lUlYo4ou5::BBS<<Pu)2J&:&X)&U&)4JYYlB<Bo<5+4Jo22&Po55Y:f)<Y24&B5:YBl_u2o&P24&B&<)PU524J::u<&B5<J9Yu<2PPooU&4BY)uY&45BP::l}r2<&2P2Y&l&u)5UU):JB:2BoB5<4;:222PP&o)UY)4)uY&4UBY:B)uxPu)2J2:5u&2:oU4)YJl:PB4BU<BMBU<2oP5oJ5lU<)2YJ4)oYB<lu#ouJ&B2l5&&P5yU4):4zY25YB)<:slP52oPJo45Bu))PY54JoBBu<PC&u42&2l52&oU4UY)B4<BP:BBJ<B<,PP2&BJoYU<U))oYJ44oBB2lPv5uYP2P*5&&&sUUY)l4u:5B5B4uu<<4P2)PJo:UuUB)&YB4YP4BPlosU<4:PP<5o&5)lU:Ju42:&oUB:<l<u5J2J&YoBJ<UY)5YJ4:2cBolJO)PY25Pu5o&U)oUl<o4o:)u:BBu<<2o)2JPYol)ulo))YY4BluBP2UeJ2:22P255&)):UlJ245:UBJBBu<<P&U2J&B&3J2UB))YY4ll4B5lJ;Y2t4:Po5U&Jl&)uJ24&B)BJBlu2<oP)24YP&uU&U))JYlY3P2B&l)EY2<P:Po54&4BB)<JP45:YBUlCu5<&))2YPl&u5oJu)4YlY<lUB5lYN:2-2:P&5)&Y<:)2Y&4U::&Jluuo<5J22loO&2)&)4)Y:FYul&BU)Y3B222UP55Y&::l)oJ&4):BB<luuU<UUJPQo<&PU))5)::PY22oB4lYmluu2JPU5Y&BJo)PJ)4J::l4l2u&<)42P<52&oUJ:B)l:uYPloBJl:<1P25uP)5:&lJ2)oP)44BWuPlou)<Jo2P<o2&&5)lJJw:oYoluB4lB<<uP2UPJ5B5mJ&)&J44YB<lolouJ<4P<PuoP&5)J)5J8:oY&l4BYJX<u252lP4U<5<B2))JJ4:Bul8l&u:<YUlP2oo&UU:)2J<:)Y5&JBlZI<22U5YP:Uo5u&)))J44B:<UJl5uY<:o&P2oU&)UY25Ju:&YU&Yl1u2<P2)PBP:Uu52)))JJY4llulYlUu:<Bo2PPlU&JUlJ:J2:)Y)&Yl<Zu<o2Jo<PBUo5P<&)JJ:YMBol<l)2<<lYuP5oU&4)FJ4JP::YJ&UluC2<&u)BuPlUP5oJB)44_Y<BP&&l4uBuhUUPU54&YJl)JJo:)Y4&Jl2&2<)2YY)o<Uo5&fu)BJlYulol:l42mu<o&P5:h&B)uJBJ&:YYYu2l2eo<U2:PYo<UU55YB)B4ZY2BUl&lY2Puu5)P)o4&BU<)4J5:YY:hol2-U<)2YP4ouU&5U<uJ>:2YPB)2:lB2uu2&)PJoY&lJu-oJ)::YBC2lPPU<JP:o:o2UU5)JB)lY<Y5BUl:lB2uuP5UPJ5l5s42)BJ)::YlA4l5&)<4oBP)oPUU5JUBJ_bPY5B42lFd2Puoo&P4oB5<JP:2JJ:l:*hol&JJ<YP<Uoo&U454&oJu4PY5:Jo4><25u&o2PYol5uUoJ5J4B#:<^Ul5}Y<:PuPJo&UY5YJuJ24oYUl4l<j<25u5o:P:N<52)U4PJYB2:uPPlJQ4<BP2o5o5Ul5:lRJP4&Y)BBO4.u24uUY4oI&<5P))::JBB5:2osl)-Y<l2uB4oUUB5B4UJP4)YJB:)U 22Uu)Y:o<Uo5o)JJ<JBBP:PlJl4-:uSo2oho)Ul5l4oJoo)Y4lt+4dP24uJY:ou&25&)44<JlB5:o55l4^Bu<P&&+oJ)2UGu2JU4)YYl<l2yo2lu4uKou&P55UJP24nB&:&<xlY<<uuPoY5oY)WU<B)J)::Y:</l4q&24uYPQou)&5J):l<4uB5:5<:lB<xu2o&4)o:)uUu4UJUlYYB=<x5_52:u:&2o25J5J)YJ)4uB5:UuYlB2PuP&5ouo:)uU24lJ44B:#lPU<R)2BuB4Jo&&55JJ:4542B):)vlllUUu&PJoPoB)oUPu5JY4::ilo<<K)P<ulJJoo&U54JV4P4PB::J2<y<<2u&2)o4ol)oUo4BJ4Y_:<lP#omJ2l2KB<o5UY5YJ<uB4&B4:4&5/2<Pu5oJ&U&s)&U&4YJY&^:ul5lBj4Pu2<J2o)&J5:Ju4o4&BB:YPBrP<ouUP:Pl&<)JU5l)JlYm:2B&<PIYPu2u&4oU&:5BJ<4P45BY::55Go2)u)PBJu&2)UUU4)JBY<:PR52&t:P222&)o)x:5lJPBU4)Bl:B<5Fo<5uJ2:4B&P)4U)4&JlYu:oBUlYzBPP2P&YoJ&lU=JoJU4)lx:l oC&<Uu4oBo5&P)4UJY<4n&P:&l4<uIlP52oJ5o:&BU<J&J:4Jl2Bro2R5<)uYo<oo&o)lU4uB42YP:5lYPO<<P42&u:o:&lUu)oPB44luB<<Yg5<Yu:o.l4&&)YUY2r4PB):Ul:ll<<PU25o:oB5-U24&Y<4Yl2Bu<);U4YuBo25<&5)lU:2k4oY&:)lBDl<uP42U:JoB5<UPJ)JY4:l5B2ooF4<YuloP5u&UJ2UB3<4oY5:JB:J&<2PJ2)5Pol5PUoJUuJ4llPBPPYXYP<2^52oB&))lUluB45u5:: FU:<oP42JY&&u52U&4)Y&4ll&Bo<Y64)P2uo&5u&JJu)CB545Y):YH<,)<oPB24P4&<5PU5JYYPY0lJB&l&=Y<l2uPo52&4Ju)<Y445YY::h-HY<&PY2Y:&&P))UUJ:G<YulUB5u:}Bu622&&Y)&:J2)uY)4UcY:B<<<)<5PB2:5P&2UoU4JYY2YulUBU2YpBPo2P55&u&:J2)2Yl44u::luuV:<UPB2Bou&PYUU4Jll2YPlJB)&l<<uu2oPB:B&lJ&)P4)4JYBBIl5a&<)U4Pnou&o)YU4)B4<YP2&B4l:<gP82&P)oY&lB<)&JU44BYB<lPd5<JUYP<o2&&)UUY)l4uBo<PB4uP<<P<25oJol)3P2)&Yl4YloBuu4(Ju<4<Pu5Y&594U:J<42Y5:)BYoB<2uo2U5foB5<UP)5B44:l&B2<BW)<:ul&u)<&UJ<UB4l4P:5:Yd:Y,<2PY2)5uolJUU5)BuB4ll)BP<Y}J<B2wPPo&&):4)CJu4oB::4BB(<<P&U2J52&z)4U&)JJY:ljBBo<Bd42:2<oPo)UJ2:)sY)4&Bl:YuoqP<4J42Y5&&<J)U5)4J:Y<:2B&oUQ:<l2u&JoU&45B)<Bo45lI::<Us2<5u)Pu:u&2)4UU2uJBYu:PBYlJk:5l2PP&o))X5l)uJo4UuJ:ll<NPu:uJ2:ov&2:oUJ)YJl:):oBUl4gBU/2oP5oJUoUD)2J&4)u4B1lu#o2)u42Bo<&JlJU4YP49YJ:&BJlY<5uu2oJ5oY&BU<J)J54JY:BMoug5<)uY&2ou&o5UU4l:4uYP:5T#l:<su22&JUo:&lUuJYJU44YBB<o20U<Ju:oUo2&&5)UYlB42Yo:U-4lB<<uP25J)oB5RU2JlJ)4YYlBuoPC)<4uB&PoP&55JJ::B4PBB:)HBlluuu5oUP:oB))UP4lJJl2:uB2l:K)P&ul&)oo&U54UB4u4PBl:J<5f;<Pu&o)&<ol)JUo4UJ4lU:uQPl4}JPo27&4o&)l5B)ouo4&lu:4J&N<<ou524P:&w:uU5))JYB&:uBolU#4ol2<&Yo5)P5:)<J2:&bo:Y<5bu<UuU52PlU<2PU5YuJ:BU:2<Yl4<uJu22&loU)25B)uJP4)YJ::Pl*P<&u)o<Pl&u5oUUlJJlY<:P{:lJ.:u-22U5o))P5l4YJo4)Y4BP<lSPuYuJoBou&P5&UJ)Y42JY:oBUl4ulu22oP5&YYzU<44J&PWY::llu=oP:uY&&o<&o55U4):4PJ::&B)lYu4uP2&PUo44)U<J:J54JY:BEl2<U&Yu:oUoulY5UU4)BY2<5:U=Pl:Blu22&P)5YulUuJlJU:oYBool&<)o:uBoYo2555JUY)l4u&4:UgolBu:uP2)PJ5:JYU246J):&YlP<l5uUo5uBo4oPU<5J4uJ<422%:)noll<Puo2JP4oBPPUP4nJJ4B:zBol&u):YuloYooU<54u)J<4PUJ:Jm)>f<2u&24PYUl5JUo4PJ4&5:uY)lUQJBA2^&>o&&)5Y)^JuBo:>:4V4g<B<u5lUP:5RluU54oJY:i:uqulUT44q2<oBo5U&5:)uJ2:&:Y:YOJNuuluUBYPB&<U<U545J:Y=:2B5l)2Yuo2u&uoU<P5ll5J&45:J::c4K222u)2BPlUuUuUU45JB:4:P)UlJ7:2u22&Po)&Y5l)2JoBUB5:BClXPYmu4:uo<&2UlU)4UJlBA:oBJl4uB2)2P&PoJU5UpPPJ&4)Ul:l<<Mo<Uu42lo<)P5lUJ4Y4d&Y:55ul:jlYU2o&oo4U:U<)&J5:JU:By<<1&22uYlRou&o24U44B4<YP:5B4l:PMu42&&)oY<UU2d:J)445PB<<ui52Ju:Puo2U&2)UY4B4u:l:U)YlB<<B525&4o:5AU2)5J)BY:5Bu<&.UYPulY5oP&5u^U:4l42B5:)BBlluP5U2)&4oB:PUo)5JJ4:J2B2<&w)<:ulPPoo)UU2UBY<4PU4:4&<,<uo5)2J&Yol:oU&)UJ44BJPBP<5iJ<B2#Poo&))UPUlYu4o<):4&u>uu&5J24&:&8:&U5))JY4lJoBo<U,4<l2<P&o5)JUo)AY24&uY:Bucx2u5542Y&B&<:5UU)JJ:YtJ&B&<)LYu92uP5oU)4U&)<YP45Y5:B):GPuU5Y2:&l&uJUU))4JBB<<6B5<J%:Px22&uoJUY44)uYo4UB4:BhYSPu)5:2B5<&2Y<U4)YJlBu<<BU<Y0BPu2PBUoJ5l:2)PYU4)J4:llu o2U&52B52&P))UJUY4<B2<uB)<BKlPP2ouooYUk:P)oYJ4JJYBEl2N&2)Iu2l5o&o)4U4)P4<:&lPBJuu<j)<2&P)oY&l)))oY444l2B<l& 5uYPRP/55&&oUUY)l4uBo:)B4uu<<PU25Pso:Uu)<)&Yl4YBYBuloEU<42)P<5U&5JHU:Ju42Y&>:B:uP<uPJ2UP4oBU2:5)U:N4:o5BPl&b)<YJ4Pu54&U5YUBJu4PB5BuB:u&<2PU2)&4&<5U)Y)U:<4B2JB&lUxJ<B2eP5P!&)5YUlF445Y):4luB4<Pu52J4W&u5PU&4)BU4llUBo<J042:22&P<5&JJ2)_Y)4&o4:Yv<Po<&ow24&U&25PU5)Jo2YNl)B&u<9Yu<2uP4<)&4JP)<W54)Y4::lQ>2<J<22YPl&u:UUJ)YJBY5o5BUu>>:Y222P5o)505l)u>P4)Y4:B<2+P<5uJ2:Jl&P5&U)4:JlYu:oBUoJGlu<2P&YoJ&:U!)2Mo4JYY:l<oko<Uu4oBU:&P)BUJYm4=uB:U;)4YtlP)2o&lo4JPU2)JuJ44l&BHJ56&<JuYPVou&o:5UY)B4<BJ:5BJl:<,&P2&5roY)UUu)&JU44-uBu<4Z5P<u:PQo25UYYU:Y54u2J:JB4lBu2552U52o:PlU2)&J)YB<uB2<lkUuuulP<oP5)Y:UBY442<):4BYll<UJU2)55oBBBUP)UJJYI:3B2ooHJ<Yul&Poo&U54UB;V4oY5:J<u=x<2u&2)J4&05uUo4lJ44B:<BP2&m4PU2%&lo&&)5YUl<44&lK:4BBL<<&u52Jlu&-)JU&Y<JY4l:uvo2PE4P&2<&Uo5Y25B4A&24&l<:Y<5tuP4uJP<:<&u)BU5wBJ:Y<:2BJl)ZY5B22PooUU45B)<JP45u):BlS#22Uu)2YPl&u:PU))4JBB&:PB5lJa:5l2PP&o)Uo5l)uJo4U!Y:B<)RPP<uJ2Bo_U22&U)YPJl:l:o<<lYdBBP2P5<oJ&:Ua)PJ&B):P:l<YmoY<uYBUo<&P<:UJYo4_B::&B4lYulBu2o5<o4)&U<U&JU4J)>BG<B+&<)uYP2ou)oUTU4Y)4<&::UMJllPmu42&5PoY;:Uu)BJUY:u<Buuv%55:uBP*o2&&PYUYY44uY&:UB:lB2<&{255&o:)YU2oJJJYYPBB2uckU5220&:oP&:l:UBYY42Y5:)B:ll<Puo2UJJol5<UP4)JJ4::6B2oomJ<Yul&5oo&U54)BB)4Plu:J5SVC2lu&2)&jol)4UoY2J44l:<zP B_JP&20&4o&o45:Ul4J4ol2:4BB/<<Uu5&JoY&s)BU&PuJ:Y5:u<oiof4P)2<Buo5B&5BY9J44&lP:YP5ePU)u)P<:<&uJnU5JUJ:Y<:2B5l)OY5B22PooUU:5B)<JPY5Pl:B<4>2))u)&UPl&uUYUUYPJBBY:PBUlJ<luB22&lo)l<U<)uJo:UB&:B<JgPPRuJ:&o<&)l)UJY&Jlu2:oB)l4plu<2PJ&o4&:U+4oJ&4)YY:l5P3&P<u4Pro<&o55JJ4J4.BY:&<<lYUUu22oolo4))U<)PJ5YRY:<hc:h&PPuYBUo2JJ5J44JU4<Bl:5UUl:U_uP&&ouoY)JUuBBJJ4gYl<<Nls5Pou:UUo2Bl54)B4P4ul<:UPBll<<uP25oJo:)YU2)5J)4BYlNul:6UP5uB&:oPYJ5Y):<l4Pl<:)PPk<2Buo2J4FoB):UPuZJJ4::yl2l:n)P5ulYooo)P54UBJB4Pl.:J<U=+<Pu&o)C5ol)4UoYmJ4j5:2BPlYVJPU2dP2o&&B5Y4l4X4ol2:4)5Eu<JuU&J&&&b)BU&25JY2Q:uBo.O=4PJ2<P5o5&J5:Ju4u4&l&:Y)YZ2<ouUP:o<&<JuU52PJ:YG:2lULlMYPB2u54o)&45B)<4B45l&::<l^2<5u)PYYB&2J8UU<UJBB::Pl)P:SBPY22J)oJ&Y5l)u5U4Ul5:BluTP<)uJo:UY&2JuU)YUJl4l:&lU5JglPY2P)loY))UK)oF44)lU:l&2*o<Uu4PBoU&PJuUJuG43Bl:&B)<2{lP42o52o4&lU<4P&54Jl&B(<4-&:5u:2l<o&oJ2U4)B4<YU:5<J!o<_PB2&luo:BUUuYo4L44l)B<)uc505u:ox:u&5JPUYl54PBo:Ul<U<<uo_25o:o:5<U2)5J)4YuBB2loNU24uBP<oP55)oU:Y442P):)<Ull<uu:2U5PoB)YUP)UJJ:::YB2<l+)2)ul&4o&&UUuUBYY4PY5:JBB.NP2P22)55ol<4U&:BJY4B:UBPu+xJPU2(Poo&&))&UlYY4oYU:4lu!<PPul2J55&+u4U5*:J::<uoB&u2b4o<2uPPo5UJB:)<YB4&lP:YZ4722o22245)&<)lU552J::#BUB&u2mY<4225zoU)4U&)<YB45)<::&PaPuU5Y2:5J&uJUU))4JBB<PPBUuox:P422&uoJUYUY)u:I4Ul&:BP:ePu5252:5J&2BoU)Y5Jl:PuUB)u&(BUP2oP5oJ&:o2)2:<4)Y::llPco2U&52B5:&PJ<UJoo4<:2ooBJu5wlYo2o5Po4Uh:P)o:u4J2^B<l2Z&<)ll2l5:&o5)U4JO4<BP<2BJu)<CP:2&<9oY5l4J)&:244BlB<u E52J2BPZ5B&&JuUY)<42YoB&B4u4<<uP25PBo:JkUP)&:&4Y5UB2B</)P425P<U<&5<UU:P042B&B<BYu:<uPl2U;2olU<):)5:54:uUBouPw)uu4uP2U2&UBJUBJu4PY):JB:ol<Pu&2)5&ol5uUo)U#J4l:<BP<M#J<:2_o2o:&)J)Uluo4ol&:4BB_P<Pou2J5J&95PU&4)5)4ll:Bou<N4:Y2uPP&o&JJJ)ZJ24&Y::Y<lhP<ooo24l5&u&YU5YJJBY!>zB&)5OYo42P&o&4&4JY)<YB45Y&:Bp1<J<&o&2YJ5&PJ2UUJ<2<YuTuB5UUk:u<22P5o)&Y:B)2Jo4Ulo:Bl<{Pu52<2:5:&2l)U)YJJlYuB4BUu&xBPB2PPUoJU:P:)2:<4)lo:lBPX&<Uul2B5B&P55UJJ<4Vl2B5B)u)>lY42&):o4)B)<)P:P4J&4BwuB(52)2<2lUr&oJuU4&o4<:Pl2BJuJ<Z542U55oY5o%o)&:&44n)B<lo!5<Yu:Pm4u&55)UYY)4uYo:UB4o:<uuP25&2o:5hU2J&4{4YlYBu5UQUP)uBP<&U&5JoU:Y:42Y5:)pYYY<uon2U5PoBulUo)54&4:l:B2l&A)uFul5u5<&UJUUBPJ4ouB:J<:<:<2o22)BJol5UUo4UJB4BllBPu<nJUY2;o252&)J)UllJ45l&:4lPUP<ooo2JJu&g5PU&)JJY4l2<B&lUm4PU2<PPo55JUP)D:I4&PY:Y<:}u<ou4245)&<J<U5)4J::u<&B5uPFY2P2PPooU&44u)u:z45l5::lG%2<&&J2:5:&u5oUU)4JBY5o5BUu)W:PJ22P5o)5r5l)u P4)Y4:Bl2}P<5uJ2:Jl&P5&U)YUJlYu:oBUoJXlu<2P5PoJ&:Ua)2mo4JYY:ll5;o<Uu4PP:P&oJ5UJ2l4FYP:&B:lY9lU<2&PUo45FU<)PJ54JuYB<l2i&PUuY2lou&o:5UY)B4<Y):5BJl:<sUu25P)oY)YUu)oJUY::YBuuPd5oluBP}o2&YlYU:Yl4u&2:UBYlB<PuP25J)oB5=U2)UJ)4YYlBuoPI)<4uB&:oP&55JU:ll4PY&:)l<ll<uuoPJ4PolJ<UPJ<J44::3lo{:a)PYul2Boo&U54JBJB4Pl5:J<:/b4Pu&P4Ul&}J2Uo<BJ:4B:<l&2J(4Pl2>:2oU&)5YJ<Bo4&l4:45P92<Pu52Jl2&jJ2U&YYJYY<:uBo2)9YPl2<PPo5&J5:)&u&45l4:Y)2Qu<&uU2lPB&<:2UU)JJ:l<:2B&l)kY5B22PooU)o5B)<JP45u):Blj/2<Uu)2YPl&u:PU))4JBl<:PB5lJ<luB2P5Uo)&PU8)uJo:U05:Bu2,P<4uJ)&o<U22&U)YBJllP:o<Bl:<PJP2o54oJ::UF)PJ&44YY:lo<m&<Uu4&Uo<&P55UJlY4<Y2:&xulYhluu2oU)o4JqU<YUJ544Y:+mul3&P4uYPuou:I5JJ4oB4<l&:5<Yl:P&uo2YYYo:J2Uu)4JU4YYBBUlP/55)uBP+o2)P5)UY)l4uuP:)B4lB<2uP25PJo:YlUP)&J)BUYlBulo,U5JulP<oP)u5JU:Jw42uo:JBYll<ouo2UP4oB:NUo)5JJYu:CB2l&b)542HPuoo)o54UBJ<4PQU:J<lh;P5u&2JPY&oloU&YJJ4B<:<Bol564<:2gJuo5&)5Y4:Ju4oYUl4uJy<P5u52YP:5l5oUYY5JYlu:u2,l4GY<B2uPPo4oP5:)9J2z<YY::BlK&lluU24PBJl55UU)JJ:&o:2<)l)2B<l2uPo5UJ55BYoJP4)YJlYluv2l2u)&lPl&P5oU))4YBl::P<JlJ_lu+Y5P&5)uY5lYoJoB4Y4<Pl2wJ)Ju45uodJB5&UJ)Y4aYu:oP5lYsBu<&&P5oJ&:Un:PJ&BYYY<Plur&<U2<Y<ou)555BY):4<Y2:5B)lY&Bu22oPUo:&BU<)P4)u2YB<2l2B)<JuY2l&P&l5U4B)B2&Y&:5BJ<:u)u2&)P)Ul&l<4)&JB2BYl<olP<l<JuBP+oP&&5)B4J%4uYo:JB4lB<<uP<PPJ)K5bUo)&JJ4YYlJolo24<4uBP<oU&55JoxJbB5Y&:)BY0u<uooPrP4)u5<YJ))<B4BwqB4l&2:<Y&5Pu:J&)U:B<JuB)Y5v:BB^(<2P&J)P:)P5u4J)UY54ll<BJl52l<:&oP25:&)UYJYJuB)YU5lBl2&<P254)PB)252)C))Bv4l:uJUlU2l<B2<PPoJ&JJ:)UJ2BJY)uul<5&<&oUP2PB)o5P4l)JUuY(Bo2)lJP<<l&oP&oU&4)B1<JoBYYJ<ul{<l<5P)PPPl)55o4:)4zJY<BPlUlJP<uh:5P5UB&YUl<<J&B4Y4Pbl22U<5uJC1oQ)55&U))Y42Yu*olXl4Puu<5JP)YB&B)u<lJ5BBYYoUlPZo<UP4P)o<))554l):u&YPBUlolYPouuYoPJo4&B)2)UJ5l<Y:uPlP3&<)2Booou):5UYl)l4<YP:5B4l:Pou2&BP)oB&l)uJ:JUBlYBUYlo2Y<Jo:PUo2)J5)X:)lU5YoXUl2lBPouPP:PJB<5u)2<oJJBlYl<)l&2Y<4uB%PoP)45JU:Jb4PY&g)lPllP&uo5BP::u5u)P<&J4lh:+o<lU2:<YPlAuoo)Y54JYJ<::YU:J4NFNP)u&2)PY&-5u4oJtJ4lP:<U:lU&4<l2/B)o&):5YYoJu45YUl4JBW<P)u5&BP:ou5PU&oYJYl&:uBolU;l<B&<PYo5J<5:2)JP54Y).Y&+K2PYuU:)PBJ)5oJ5JtJ:lU:2<)l)<&<louP&oUJ25BY)JPl:YYB:nJd2P:u))Po<)J5oUB<BJll):P52lJfBum2PP&o)Y4U;)uJoB4Y4:Bl<<PoluJ5PorB&5&Y<)YJlY5:o<:l4Pou<2oP55J5lU!YUJ&B:YYoUl2qoulu45oo<&P55)+):Bq:l:&uIlY4Uu2)2P)U45PU<Y4J5oUY:)&l22&uYuY5&ou4B5JBJJVB<2o:Uu<l:oUu2YoP)5Y5)UuY:JUBBYBB4lPu5<4u:5Uo2)B5)YP)lYu:Y:UuulB&)u&&lPJ&2l2UPYBJ)2&YlB2lo_)<4uBJ;oo&55JYRJW42Y&B)l2llP)uo44P4)&5<UPJ)JJlu:s<Jl& J<YPlTuoo):54YuJ<5uYU:J4G{!PJu&2)PY&25u4oJqJ4lo:<U:lUuJ<B&Q4Po5Jp5Yu:JuEoYUl4lP8<PYu5&:P:&J52J&):JYl5:u<:lUJl<lP<o&o5J<5:BUJoBBY)Bu5uG2P:uU4:PB&u5PUU)JJ:<l:PB&l)2l<l2uPo&U5u5BYUJP2JYJ<olk62uuu)5<Pl))5oU))4YBU<:P<YlJP<uTuoP5o)ul5lY)Jo4UY4Bul<2P<luJ5Po9wY55&B)Y:l22:&<ll4JYu<ouP)5J5&URY4J&BYYYP<lPuo<)u45&o<)Y55:A)lYv:U:&ublY&5uP&:PU&<l<UuYYJ5luY:B<l2v5<)uY)Bo2&o5U4B)B4<YPB52ul:P5u24)P))P&lUuJUJUlmYB<UlPwU<JP:oPo2)45)YT)lu4Y&:UCUlBPUuP25PJ&25_4242J)l2YlU4l&)5<YoBP4oP)B5Ju4JD5lY&8)0&llP)uo)<P:4:524PwUJ4lP:iu4l&)U<YPloYooJz54Y<J<<&Y)lJlP0XP4u&5<PY)55u)o4uJ4lo:<2Yl)Pu<:2&Y&o5J<5Y:4Ju4&YU:YBB,<52uU2JP:)252U&))4YY&:u<YlUUB<B&)PPo55&5:YoJ2B:Y)::Bluu:ouU5fPB)o5PPo)4J:U2:2<:l),Y<l2&PoUU525BYUJP&gY4::lu22U5uJ52PlZy5o5u)YYBYP:P<llJP_up)oPU5)&:5lYJJolIY4Uulu<P<UuJ5Po7445UY<)Y4oPo:&uyl4&<u<2oP5o4&:U*luJ54)YY<uluMo<U24Poo<)455S:):BUY2:&mulYPPuu&YPUoY&BJ<HoJ5BlY:lBl2ul<JuYPoou)Y5UU4)B4uYPg5x<l:P5u2:lPJ:u5<Uu)JJUlqYB<UlP7)<JP:o>o2)Y5)Y<)ll4Y5:UB:lBP)uP25PJ&u5H42J2J)lPYlU4l&5B<:oBo5oP)l5Ju4Jv)BY&:)95llP4uo24P4oB5<)&)YJJl5:kJ2l&})<YP<Uoo&J2544&Ju4PY5BY2Ix<Plu&&oPYol5uUo4)J4l5:<uil5z4<:P}Yuo5J<5YhYJuBBYUl4o5k<P:u5&:P:)55PJ&J)JYlU:u<BlU2<<B25o2o5J25:&UJ&45Y):YBlv&lluU24PB2)55UU)J4<JJ:2B&l)Bouu22Po&JJB5lYJJP55YJ::lO<2)ouJ5PPl4J55Y<)44PPP:ou/lJ5tup2PP&oJ&Y5ll<J&4UY4<<l<;P<52JPPoi)45&KY)YBUYu:ot{l4PPu<&YP5o4&:J6o2J&BlYY<PluuP<)u4s<o<)Y55UJ):4PY2%&l<lYP5uu:BP)YP&l4<eoJUluY:5Bl2UU<)PYPlou)B5U4B)BBUYol5 ol:P)u2&lP)X55W)u)4JUl2YB2)l&P-<J22Y2oP)l5)2u)l42Yo:)B4lB5_uo25PJ)k5.U2)&4)_PYl<JloU4<4&5P<oP5l5JY2JbB4Y&:JBY<lu<uo&BP4)25<l:)UJJYl:{<4l&-)<Y2oPuUo5l54Y&J<o:YU:<B:26u^u&5<PYl:5u2U)):4YC:<<Yl5&2<lUlPoU&:J5:Y5Jul:YU&JBBu<<:u552P:)2524:)JYYYo:u<BlUPP<B4uPP&55:5:YUJ2TBY4<oBl1U)Uu)5PPB:&5PUU)JJBYy:2PolJyY<l&oPooU&4UB:)JPBlYJ&>lX2Y<&u)PJPl)U5oYx)4JlY<lP9<lJP2uD&UP&:u&:5lJ:JolnY4:Bl<64<5oJo&ov)45&2u):2#Y2IolBl4P&u<:uP5P:&:4^J&J&l<YY2UlPu)<)o4Jlou)Y55:u):XlYol&lolYPUuu&UPU)u&lJ<JPJ5l2Y:<)l2<Y<)2YoYou):5UB2JzBJYP+5lul:PUu2o<PJB<5mUU<UJ)lPYB)&lP^U<JuBPOo2Yo5JUY)lBoYo:UB4CB<UuP&lPJB!5R4Y)&J)YuYl<UloP6<4ulP<5Pu55JY2J3:<Y&guB:ll:ouo5ZP4oB5<Uo)5:JYo:w<4l&4u<:YUPuoo{B54YPJ<BYY5:YB:dtP5u55pPY)55uUo)U4:I<:u<:l5&)<l26P2&UJY5:Y)JullYU:4BBr5)5uU5oP:l)52U5))JB4l:uPPl)_4<B&)PPo5&J5:BlJP4&Y)<2Bl-u<oPUl4PB):5PJo)J:&Y<:2J)l)PJ<l2uPooJ&4JB))JPloYJU&l<)Y<&o)PPPlJv5o)J)4)oYu:PU:lJP)ue5<P&o4&Y5lY&J&loY4<Yl<%P<52YU}o<Ju5&BU)BJlYuB5u4lYPBu<5BP5oJ&:U7o&J&lJYY:llu3l<Uo4P&o<Jo55:P):(<YPR&l<lYoduuQ&P)U25;4<JBJ5l4Y:B4lo2u<4oYoJouJ&5U<&)l)_YoG5B4l:o<u2l)P)JU5<4u)lJUlYYBBPloU4<Jo:o)o2J55)9P)l5<YoSUB:lBouuPU&PYBP5042JlJ)l:Yl)ll&5J<:PtP4oPJ)5JBPJ/42Y&B)lollo2uoB&PYJg5<UP4PJJll:VB2l&<2<YP<Uoo&J454l&J24PY5:J4e{bo5u&2)PY&25uUo:)JYV2:<BPl5,J<:PV:wo5J:5Y:oJPlJYUB:l<*<o)u5Y5Pl&t52)U)lJYno:uoBlJE4<Bo<P5o54D5::&J2uYYJBBlJ#uoYuU5lPl&<5P))4PJ:EU:25&l4nY<lPPPJoU4P5Bu<J&45YJ::)&d2oYu)UoPl&P5oUUUuJB;o:PuYlJo2uSPoU)oJ4<5l4&J54UY4:B2uSoo:uJ2:oN&25&U)U2JlZ&:ou:l4oPu<P&UJo44uUHB)J54)YY:l22_&oBu42Bo<&P55UJUP4=X5:&uBlYoouu2oulo44bU<:5J5lBY:Bz4&i&oYuY2lou&)5UU4:l4uLU:5BJl:<pu2P&YUo:4uUu:4JJllYBl2UxjUoBu:4)oo&&5)JYJ44u}):UullBU5uoP)oBo:4oU2:JJJ4YYllPl53U&<uBUooo&55J)lJ242_::)2R_9<uuo2U&#oB4oUP:BJJ4l:cl2lB#)olulB:o&JY54J>BP4os4:Jo&*,<2u&2)U:&v45Uo)UJ44B:<BP:B/J&q2VU5o&JB5YJ<Bo4&zY:4U:3u<Pu5PY)L&<4UU&JBJ:4l:uBo:li4&<2<UUo5Jl5:JHuu4564:Y)UH2oUuUP:)<&u45U5l)JBYt:2B&4YKY&22uPooU&B5B)<Bo4U3l::lGc2<&u)PYYB&24)UUB<4#z&:Pl)U&,B&o224lo4&Y5l4uY<4U<7:B2&jPU:u4Pl&P&24YU)BM4}Yu:olJ<5_B&U2P:5oY&:U#Jo4Y4)<P:lUuK5<Uu42B&)&P4YUJBo4*Yo:&l)<Ngl&&2ol2oY42U<J&BJ44<uB+5UN5<)uYPl:<&&4YU4<l4<g):5BJBP<_&o2&UYoY42UuJ5B44Y<<B<P4-U<Ju:Pd<&&&4:UY)l4uY&:UB42l<u&)25PJo:5GU2J&uU4:<2Bu24jJ&IuBP<24&54YU:B242pJ:)lBPu<2&U2U&JoB5<UP)5&:4:<PB2l&t)<BulPu)&&)Y(UBJ<4PY5:Jl:5l<P&J2))u&<45UoJJ254l<&BP56aY<:2 &2&P&)Y<UlB54o2B:Yts<P<P&:2J)<&<52U&J44:4l<)Bo2YyY<B2<o&&P&JYo)6B545Y):YBlzo<o&:24)&&<5&U5JJ42Y0<5B&JP0:&P2uPoY4&4YF)<B545xB::(u_&<&&Y2YuJ&u5oUU)4Y<Y<<UB5lJX:uu22P&ol&YYP)uJo4UY4:B#<cB<5&B2:)&&o44U)JB4oYu<JBU54^lu<2Po)&&&:Y&)2<244YY:llu%B<U&l2B)&&P4:UJ):45Y2<UB)2lrl&&2ooJ5u&BYP)PBU4YY:B=l2Y)<)5#2lou&o54U4)BluYo<YBJl:<+u22&o):45zY&)oBB4:<2B<s&)2<45uPsYY&U5)UY4lY<Yo<:B4P2<<)J2UoY5<5VY))&2)4BYlBu_50Y<45oP<)U&U5JU:4uYeY&u<BYP2<2uo2UP4&U5<Y))5lu4::uB2n&eB<Y52Pu%j&)YiUB42l5YU<lB:J&<Pu&2)oBJu52Y4)UYo4B:<BPl5o&<:5PP2)4&)YuUlJuYBYU<:BBPP<P&42Jol&o52Y))):5Yb:uBolU<4<B5oPPo5&JU})GJ24lY)u<BlDu<ouU24oB5<5PY4)Jl2Yu<UB&c4Plu(55Po:U&Y5B)<4&lJY4u2lcBJ<&u)2YPlP)5oYY)4l2Y<<JB5gY))u<5UP&:u&B5l)uYoY+Y4u2l<P)<5Jw2B&uU{5&Yl)Y2lYP:oBU3:uPu<54P5)B&BUe)24UY&YYu5luP)<)u42Bo<&o55Yl):lUY2:UB)AY<ouu5)PUX&&lY&)PJ5J<Y:uul2P)<)5-2l&PJU5)YB)B<<YP:5BJl::2u25JP)oY&lUP)oJUlYYlu&lP!5<Ju:Pn&2P45):1)llUY5<:B4< uUuP5YPJ4Y5uU2)&4):oYlu&loPw<452P<oPPB5JYlJKl&Y&<:BY<<oou&54P4BX5uUP)5JJU_:0u5l&T)<Y22PuooJ)5Y:2J<4PY5:JB:<a)uu55:PYJo5PYJ)U4:z<:uu)l5P<<:2-P2&UJY5::oJu<PYJ:4BBF<l4u55BP:Jo52YY))4BWu:2uJlUoU<l2<PP&)J:5B:&J2:JYJ:YBlKulYuU5lPBJ&5PY:)J4lPY:Pu4l)Uou<2uPo5U5F5B:&JPlYYJ5BlK<ouPu)UuPlY<55UU)4Yg:U:PuBlJ&Yuu22P&&4Uo5l:JJo<5Y::Bl<1Pu:uJUuo%J45&U4)Y4l:2:ouYl44)uu5)P5oJoPUr:oJ&lYYYu2luuo:Uu4U<o<UQ5542)B4aPU:&uBlYEluu2&PU&:5lU<:JJ5U2Y:BXl2<&uUuYUPou B5):<)B4<YJ:5u:l:oou22UP)oYU<Uu:)JU44YBBPlP<)uJu:Uoo2<:5JUY)lYP:P:U2<lBoJuo25PJo:o5U2:JJ)k<YluUlo<JYBuBU&oP&454U:JbYo:::)2ullfuuo2UP4oBU:UP:4JJHu:qu)l&<42<ulU5oo455YUBJ<Y&B<:J22xgP5uU2)PYolUlUo:YJ4X2:<uJl5<Y2)2_UUo&u^5:UlJu4oP):42Ph<<Pu52JP:&75lU&B_JYYj:uBolUM4uu2<UYo5&J5:)DJ24&-J::2UIu<ouU24PB&2:)U5BPJ:oJ:2B&l)<uJu22)3oU4u5B)uJP4BYJ::PlbP<&u)U2Pl&u5oUUlJJlY<:Pu:lJy:uX22JooJ&Y5l:&Jo4UY4:BocWo<5uJUuoG&25&U)l44cYu:o2Zl48Bu<2PJ&o4&:UF:YJ&4)YY:lo<;&<Uu4UUo<&P55JJo:4NLl:&uYlYoUuP2oW4o44YU<)PJ54lY:lu2&K5&UuYPJo2&o5U)4U24<<u:5)2lBolu2PUo:oY4BUuQoJJ44YBl<W)M5&Uu::Bo24o5))uuu42<P:U2JlB<uuP2UPJo:YlUP)&J)>pYlBulo UuluB)DoP&U5JUlJ>Y2:M:)2JllUluoU5P4&BUUUPBoJJ<o:uuUl&%l)l2x)<ooJ)54UlJ<4&Y5:JPYR<<2u&5BPYol5uUol5JY4B:<ull5mJ<:P+P:o&455Y<uJu7PYU:4l<L<&Hu5UUP:&<52J&JBJY/4:uuUlUl:<l2<oYo54U5:)QJ24JY)BBfo/u&PuU<<Pl&<5P)5JuJ:KB:2UllJo4<lPPo5oU4J5BB<Jo45YJB:&l3P&Pu):JPl4<5o)U<JJl=l:P2llYo2u;2)Y)oJ445l!4Jo4)Y4BNl<iP5&u42:o7J)5&U))YJlu<:&BUl4o)u<2PP5&J55U!B<J&2YYYuBlu7o2uu4UJo<4u55U4)::N:J:&2olYouuuu5P)o45<U<BuJ54JY:BPl2<U22uYUBouS:5)U4)BY<:::52Ul:4)uPUoP)&BU5UuBPJU55YlB<lP<5))uBUBo2dP5):4)lYuPP:)2)lB&)u&5lPJ&2l2UPBoJ):<YlB2lo%J<4uBJgoo&55J:oJ}42Y&:)P4#s<uuoU2P4oB5<)PJ<JJ34:%&&l&oU<YulPooo4P54:YJ<4oY5lJh2>Golu&5YPYo<52UoJ&J4qY:<BPl59B<:Puo4o&4U5Y)4J24oYUB4.<-<&uu5B2PBJl52)U)YJY0B:u55l)74<BP<Y2oU4U5:uBJ2moY)BY&B{2&2uU)2o9JJ5PU:<:JByl:2<:l)_:<l2PPooUYJ5l)<JP*mYJ::l},25ouJ2YPlJ:5oUU)44B<4:P2olJ)WudUuP&o)5o5l:BJon&Y4:ll<uPuluJU)o*5l5&4u):Jl:::o2&l4;Bu<2oP5&Y52UMBuJ&2AYY:llu<ouBu4UYo<-:5U:)):4wYB:&2olYo:uu25PU54uBU<B<J5;&Y::ulP%&:YuYUBou&o5UUl)BY2Z5:U2Jl:)Juo2&P)&YoPUuBPJU&PYl2<lP<)<lu:)Ao25J5)UY)lYuY5:U2JlBJluPU5PJ&l42UPB&J)2B:TBulobUBTuB)<oPJ)5J::JH:2Su:)2Yll&uuo5BP:&BlEUoB&JJ<o:u22l&_l)l2*)uool/54UlJ<4oY5:JPY=<<2u&54PYol5u)oJuJ4y::<&5l5oJ<:2 oBo&4&5Y:BJu4&YUl4zot<&<u5U&P::)5PU&)4JYSB:uBolU<u<BP2PUo54J5:<uJo4&Y)BYWJHu&PuUBPPl4<5P))4{J:<_:2Y0lJ,Y<lPuuJoU4J5BulJP-5YJBl!Pv2&&u)&vo.&u5o)UJ<JB<_:PPRlYo:ujPo&BoJ4Y5l<2J54UY4BB()}P&&uJUook425&)4JmJl<u:o&JlY+Bu<2P&<oJ4:Un:oJ&V)YYl<loCo&)u45oo<&P55UJ4o4y<2:&2)lY&guuPooJo44:U<BYJ),JY:lu2&t5&)uYYPo2&o5U)4<:4u<2:58olB&Zu22YYYo:4lUuu4JU4YYBBulPW55)uBPjo2JU5)UY)lYuYl:U2JlB)PuPU5PJo:5uU2B2J)*4YlB2louU25uBUBoP425JZ&J<42Y::)24ll<uuo2lP45H5:UPB5JJU::<B2l&<)20ul)<oo<<5Y:BJ<Y&:Y:J2:mH5uu&2)PY&lo5UoB5J4oY:<2Pl5<Y2o27)2o&2)5YUlJuYoB2:42:.<&:u)UJP:5u)4U5B)JYPZ:PBolU<4ul2<)2o54u5:BCJ2YU:):Y2lAu)5u)24PB&<5YU5BJJ:Zu:22&l)<B2U2u)&oU4U5l)<JP45:l::Pqi2&&u)U:Pl5uUJUUBJJB<):&25lJ<l&22P)&o)l<UC)uJoYUPJ:lPDgP2uu4U:oZ&)l)UJBYJl:):oB)l4;lu<2PJ&o4&:U.:oJ&4)YYBllY,o&5u4Y<o<4P55UJ4)4G<H:&2UlY<!uuooPJo444U<B#J5:)YBB^vJZ&&UuY2lou&)5U):454<<P:55Jl:<*u2P&PloY4BUu2BJ)=4YBl2lo*5&Ju:5YoP&&5))Ypo42<P:UU)lB&<uPP)&2o:YdU2<UJJ4YYlBu<<rU&4uBU2oP455JJ:J<42<&:)2Yll4:u&PUoYoBYTUPBlJYs::fB)5)EJ&Yul5ooo&)54UlJ<4Pu&:4B:(goou&2)PY&l5)UoB5J4P<:<2Pl5(Ju<2f)^o&4U5Y)9JuY5<4:Y24+<<PuU2JP:5u4&U5B5JYJU:uBolU64l42<)<o5&Y5:)<J24&UY:Y2YHu<ouU24PB5245UUBUJ:o;:oB&l)uYo42u)PoU&Y5B&BJo4)ul::PGx2P2u)2YPlUu4<UUBYJBYP:PoulYu:B{22)5o)4:5lYUJ54BPB:lPPQPuUuJ2BoX&U5&U)l44IYu:ouJl4fBu<2PJ&o4&:UdB<J&4)YY:lo<9&<Uu4U:o<&P55UJlY4<Y2:&2)lY(luu2oJ5oY&BU<B<J54JY:B82PZ&&JuY)uou&&5U)<u<4u<o:5yJl:<<u22UP)oYYBU2)oJUl)YBB<lPn55)uBP7o2J25)UY)l:uUo:U2:lBP:uP4/P4o:22U2BJJ)4YYlBUlo<JoBul)&oPJu5JU:J%Y2J4:)Pmll44u&U:P45cUuUPBYJJuU:<B2l&<)2,ul)&ooV&54B2J<Y&vJ:4Puz%25u52)PY&lo5UoBYJ4<5:22)l5<Y2U2=)Uo&BJ5BUlJuYoB<:4PuM<oYu5UlP:5u4&U5BBJY<B:PBolU<4):2u)Uo5Yu5lBoJ24YPY::PPwuJCuU2YPB&25PU5l)JBY(:2uol)EY<l2uJPo)&45BYlJP45YJB:l5;2&Ju)4lPl455oUUJ*JB<2:P24lJiBun227)o)4B5l)uJo4UY4lLPP>o&JuJ&Wo<&25&U)P<Jl<&:ou)l4KBu<2PY4o4Y+U-)oJ&pBYYB2:Yko<Uu4JBo&&o55)YlW4<<4:&4JlYvluuP5UuoYY5U<PuJ54JY:Bt8Yn&5<uY)5ou4B5UU4JB4<<::52Yl:<ku22&o)oYY)UuB4JU44YBB<,5s55uu:)Jo2&55))uUu4u<U:Uoox2<uuP2)PJ&<oJU2)&J)u&:PB2louU:4uB)PoPJ25J:&Ju42U):)P<ll<uuo2:P45V4PUoB:JJ25:FB2l&<)f<ul)5oo<<5YBPJ<Y&:5:JP2p0oPu52)PY&l5)UoB:J4oY:<2Jl5<J)Y2<)Uo&B&5YB<JuBo:q:4P2D<&Yu)UPP:&&l&U5BlJY<&:uB&lU<<<B2<J2oU&J5::>J24&Y):YPBv2<ouUUYPB&<5PU5l)JBYF:2u5l)RY<l2uJPo)&45BYlJP45YJ::PlSP<&u)54Pl&u5oUUlJJlY<:PuPlJ_:upP2P:o)Y<5l<oJoEBY4:B+:xP&JuJ)uoO&P5&)4Bl4-<o:oY5l4xBu<oP*5oJYGU9B&J&JlYYl<2oT&&:u4JYo<&P55UJP24t<&:&2BlY<<uu2oU)oYYuU<)PJ54JY:*n42X&&BuY54ouo55)U4YJ4<<4:5BJl:<Pu2PUPYoYY5UuJ:JJ44YBl<l&A55<u:B)oP4B5))BJ)4u<::U&Jll<<uPP5P4o:Y5U22PJ)<PYlBuMBEU52uBP<oP&55J):Jo42<::)PP_<&Juo2BYBolY)UP<JJJ4B:rBPl&A)542iPuoo4Y54UBJ<YPPY:4PPFw)&u&)<PYolU:UoB:J4<o:<Bol5<Y2u2_)Uo&BB5BUlJu:oY4:4P2O<&)u5:2PB&&l&U5BlJY2J:uB&lU(:<B2<J2oU&J5:BPJ24&Y):YPB=2<ouU5)PB&<5PU555J:<o:2BUl)D:<l2uU&o)Yb5B)<JP45YJ::2<fP&Yu)2YPl&u5oJU:5JB<U:PB4lJ&&u<o2M&o)Y25lB)JoBBY:BP5PFo5DuJo<oy&P5&U:)YJlu<:&BUl4P<u<2PP5oJYYU<)2J&VBYY:lluso55uY2Bo<4J55UJ):47uu:5B)lY<<uu2oPUo4JlU<B4J5<2Y:B<l2VY)Yu:)&ou&U5UUY)B4uYP:5P)lB<9u22JP)oY&lJu:<JU<2YB2PlP2l<4P:,Eo24B5)BP)lBUY5:B&Bll&4uP42PJoB5qUU)&J)<4:IBulo24<4uBP<oPY&54U:J%6UY&:)BYll5<u&2UP44P5<UP)5JJ<Y:<B2l&e4<YulPuooY55YUBJ<V4Y5:JB:>doPu&)<PY4)5uU&)UY4lJ:<2Yl5o:<:&UPP5&u)5YB5JuX:YU<<lwS5)5uU)PP:&o52U5))4<4l:uPPl)R4<B&PPPo5&J5:BlJP4&Y)2uBlku<ouU)JPl&<5PU))JJ:Y0:2PolJ-Y<lU)PooU&45BlZJo45YJB<lT 2<&u)5:Pl4J5oBu)4JlY<:PJJlJ&ou322P&o:&Y)<:oJ&<<Y4oBl2IP<5uJfio(4:5&U))Y4uYu:ou)lY&)u<2PP5oJ&:)^<uJ5<2YYuolP&G<U2:U<ou4l55P4):4gY2BU2Yl:&4uu&UP)o4&BJ<:jJ5<&Y:2Yl2uu<J2BUuo2Yu5U4o)B4<YP:5Jll:&Yu2)uP)4)&lUuB2JU<oYB2YlP&2<J2lo)o2Y<5))J)l4uYoBJBllB&:uP,5PJo:5zU2))J)<&Yl2:lo&P<4uBouoP4l5JB&JZ+:Y&B4lBll&4uoBPP4oB5<UPJ4JJ<5:^B2l&iB<YulP&ooY254UBJ<4PY5BJt&99&:u&5lPB4J5u)5J:J4<):<Jol5aJ<:Pu)&o5Yo5YYuJ24oYUl4uJ/<5bu5)&P:5Y5P)U:YJ:<Y:uuBlUe4<B2<YBo5Y&5:BYJ2<2Y):YlP{u&luU)&PB4:5P)))BJ:<4:2:<lJsY<lPPoYoUY55BUBJP45YJ::M)r25qu))5Pl4B5o)JJPJB<Y:PP4lYq:ubPo&to)YU5l&oJo4UY4:B2l=P5<uJ)UoZ4l5&)4JBJl<::ouJl:GBu<P&oloJY)UVJuJ&4)YY:llY6o5uu4))o<YW55UJ4<4y<4:&PulY&)uuP5P:o4Y5U<B)JU4JY:B#Cu1&52uY2lou&55UU4J24<<l:5B4l:<Ru2P&oYoYY)Uu:4JJ<&YBl2-JE55ou:5<o2&&5))BBu42u<:UUBll<<uP25)&o:YJU2l<J)<UYlBu,P,U52uB)JoPY<5J)lJ<42<l:)lu1<<uuo2UoooBY4UP)5JJY2:xB2<2-)55ulPuoo&U54)B4B4Pu<:J22fu&Bu&P4llolY:Uo:JJ:4B:<l&6o#J5)2+ouo&&)5YUlJ44ouu:4P)z<5Vu5PYoP&DYBU&BBJ:4l:ul5l:{45J2<B5oU&J5:)DJ:4&u2:YPJ;u5<uUP:&<&<YlU5UoJBYE:2lUU&CY542uPPoU&45B)<J:45uP::P4X25uu)PBo4&u:EUU<J4-Y<:PB58<e:5Y22P5o)&Y5l)uJY4Uuo:BPYVP52uJPlo2&2:<U)luJlYu:oBU8B8B5:2PPUoJ&:UN)24J4)u&:lP:_o5Pu42B&o&PYlUJl&4 <::&t)mYsl542o&5o4)5Uu)P244JuUBal2L&<JuYo<o5&o:PU45&4<YP:5lJXP<>5B2&luo:Y4Uu)oY244u5B<Plz5<Yu:&No)&&:2UYlU4u45:)B4%h<<U=25PJo:5PU2JU4:4YuYBuu)xU<4uBo<2)&5:&U:P)4Pu2:)lBj6<uUu2U<Bol5<UPJ54<4:uYB2)Pa)5)uloP)U&):UUBJ54&Y5:JB:Yo<2U22)JPolYlUo4UB54BuBBPoP}J&22uo2:o&J:UUllJ45uo:4lPUP<oUP2JJ2&95PU&)JJY4l2<B&lUe45&2<PPo55JU5)_ll4&PY:YPYiu<ouJ24JU&<:EU5)4J:B0:YB&o2cY5U2u25o)&4U:)<1 45YJ::lPv2uUP22YJY&uY&UJ)4JB:<B4B5o&(:Y)2PJ2o)5B)2)ufu4U<):Bl<>Pu5J)2BJY&2<PU)l)Jl:P<UB)oUfBu52&P5oJ&:Po)2r24)uP:lPlLouJ&u2lJl&PY:UJ):47Y2B4B)o)!l5l2oJ&o45B)<)Pc24JuoBuo1c&<lJlP7Jl&ouJU4)l4<Yo:5BJoY<<u22&J<oY&lUuJoJl44uJB<55j555u:PXoU&&:2UYl44uY&:UA4ll<<5B25J2o:4)Uo)&Yo4Yu4Bulo!Uu*uBo2&2&5:5U:m:4PY&:)lYSO<uU<2UlPolYBUP)54:4:u:B2l:=)<YuloP&9&U:)UB4c4PY5:Jlli:<2Uo2)::&;5uUoJJ4&4B2<BP<<HY<:2}oo&4&)::Ul&l4&YU:4%N<Y<PU)2J22&<52U&J4BlYn2oBo5u>:<B2<o&)J&4B<)d4)45Y):YBlu2<oUo244u&<5oU5JJuYY<ulB&5&LY5Y2uo5Uf&Y:4)<)P4UYJ::q7u+<&Uo2YB:&u:uUUJ:4BY<2<B5I9dlud22P&5u&Y:Y)ul:4UuU:BR2<o<5UU2:)u&o5&U))YYoYu2uBUoUVB5l2Po55d&::Y)2lB44u):llUUU<)UU2Bl&&P5UUJ)B4OY22oBJlY1l5J2oPUo45BU4)P{24JoyBHoNw&<)2B2lJY&o:PU4)l4<BPB.BJo5<n5Y2&Yuo:&l):)oEP44YBB<l4K5uYP<P_4{&&P<UY)l4u:oBuB4oJ<<Y:2UJ5o:UuUB)&!&4YooB2lodUu4<2P<4F&5<UU:l:42:U:JBYoY<u4o2JP4oBU<)l)5Z&4:u)Boo2g)uBo5P24u&U)oUBJ<4P:5BBB:oY<2&B2)J)olUPU&)U6U4B:5B&l5.J<:P)P242&):PUlll4o:Jl5BBol<P5Y24P:&852)Y))8)4lulBoo&L4uBPJPP42&J:o)u,H4&:4<llGol<ol:24PB&<UP;&)4c)YzBBB5o&aYuo4oP&4o&4YP)<Jo45Y4::lj&u<5u)2YJ5&u5oUUJ44UY<2cB55:b:5:22P&&4&Y:))u7<4UYY:B<<<P<5UP2:J)&2BlUJ)Y4JYu2<BUl4CBu52Po)&U&:::)2),4)YY:lXu<:<UU52BlJ&o:PUJJl4PY222B)4l<Nuu2ooUPj&B::)PPo4JuJB0do<J<)U)2lB<&o5UU4JBYUYP22BJo&<uU 2&o4UP5}:l)o4J4YYBB<7P<<<JU)P_)4&&:&UY4<Y5Yo2oB4cP<2uP25PJ&&5rB3)&k<4YuYBuT5<l<4UYP<2l&U5JU:JZYBY&2&BYoY<uU22Uo4&&5<B1)5Qu4lu:B2lYUY<:UYPu&4&U5YUBJu4PY52)BB_p<25B2)PYolUuUl)UW54BoPBPoPTJ<:PuP24.&):UUlJ24oBU:BBBo4<PUS2J2l&<52U4));U4l:uBolY_42!PPPP4P&Jl4)uJ24&:)B<BloB<o:<2YJ4&<U&)5)JDJY8juBUl)yYul4<P&4P&4<Y)<x<45:Yu=l<&7<&ul2BPl&u5oP:)4z4Y<uYB5o5>:2u&JP545&YlB)PJo4UY4l<l<&<<5U52:JB&2U&UJ)Y.4Yuu:BJoU3Bu545PU45&:Jl)2J54)Y::llu&P<)u42BJ)&P55UJJ:2oYP2uB)5l6l5l2oPU5o&B:4)PX24JYBB8yoEY<)U&2l<4&&5UU44B44YP2<BJo5<kYP2&o4)l5i::)o:544YBB<lP5<<JU5Pmoo&&54UY4<loY&22B4oY<<uP25oJ:Y5<::)&uJ4YuJBu.5P4<YU)P<4:&)5JU:4ul&Y52oBYrB<2uo2UP4Po5<:B)5=o4:uYB2CUPY<:UJPu4)&)54UB42l5YU2&B:p&<ou&2)PYuP5uB<)U#24Bu:BPZ)P:<BU:P2P<&J5YUlJuP4YU25BBo:<PUP2JP:5J52B_))j54luBBoRJMY<BUYPP)4&Y5:)9J2YBY)2UBlhu<ouU24PB5U5PB<)JgUYLulB&b4)Uu/U:Po:<&:5B)<YP4BYJ2Ul=oB<&)l2:&<5&5oBP)4luYu:PB5KY<4u1)sP&):&:5l)u45:PY42Yl<)P<)uJ2:o,&J5&BP)Y}:Yu:5BUH4<)u<UBP5Vo&B:4)24UlYY:2JluuU<Ju42B&2J55UB&):4&Yo:&B)lY:Puu)<PU42&B::)P4)l:YB2:l2Uo<4uY2louuJ5UB5)B;:YP2PBJl:l5u2)bP)45&l:B)oJB2BYl2YlPu4<JuBP8oU&&5)B4Je4uYo:YB4lB<<uP)&P4o:5gUP)&J)4YYlP<l&1U<42MP<oP&55JBYJ<42Y&2<BYll<uuo)5PYoB5<U))5JJ4:lm<ll&&o<YUuPuU:&))4PBJ<<KY52&B:2&<ouY4YP:4:5u%Y)UJY4B:PBPl5&)<B2DP2oJ&)5YUlJu<PY):4BBo4<Pu52JP:4l5PU&))+P4l:uBolU<:<lU:PP4o&J5B)bY2Y:Y)2UBlu<<oo<2YPB&55PBo)JJ:Y3:PB&h4<<<l)<Po:U&:5B)<4P:PYJ24lVJY<5UU2YPl5u5oBP)4;YY<:&B5<J<4u=)-P&4o&Y5<)2Jo54Y42:l<pP<5uB2:&uJ&55B))YoBYu:oBU_4l2u<)2P5%2&BB+)24UY2YY2llu)4<Uu42B&<5555B)):PBY22&B)wBouu2)oPU:45VU<)PJ55lY:Pcl2oB<)UY2l5uJ<5UB4)B<<YP<:BYA:UluP)oP)4P5<Bu)oJB2BYlP<lP2U<JuBPXoP&&5)B4Jy4uYo2wB4lB<<2PP<PJ4Y5;g&)&f)4YYll)lo&o<4U:P<oo&5)JJ2J;<kY&2oBY4:<2uoPUP44:5<UP)5JB4:BuB:l&&)<Y&BPuoo&UU4J<J<<2Y5U2BB&L<22UPBPY4l5u5<)UJ44BB<&2lU&)<:YBP24&&)UB:uJ2<oYUo4lGM<<Pu5llP:Y;52:B))WY4lBP<Yl)&Y<BluPPo5&J5:):J2<&Y)2YBl&2<o2U2YPBY 5P:l)YX:YV:)&)lJ&Y<l:BPoo)&45l)<JP<&Y4::lRo4<&u)2Yol&Y5oB5)42<Y<2PB5lJuou>)DP&4U&YUm)uYoYlY424l<&%<5J22Bod&55&BU)YJlYu:YBUz:uUu<)PP5JB&:Ua)24&YUYY2BluJB<)U42B&25u55BJ):)UY2:&B)wYlPuu)PPUl)&BB<)P4)4:Y:P3l2)&<4uY2l&u&&5UBJ)BxJY&25BJ=l2UuP)&P)5&&lUu)o4U:2YBPilPPl<JU:PD&o5J5)BY)l2uY5:UB4lBuYuP)5PJ4o5,B2)&444BYlP2lo<&<4uBP<oPUQ5JB:J}<2Y&2JBYblu:uo)5P44&52BP)54Y7h:<P2l&UB<:ulPu&oB55YB:J<YlYU2JB:Q&)&u5))PYll5uU&)UJY4B:<P2lU/J<:UUP2o&&)UYB)Ju<PYUoBBB&<<Pu5PBP:4:52Bo))J:4llulUlU&U<BozPPUI&45:)uJ2<oY):YBln2<o2JouPBY<5P22)JJ:Y/B2lMl)&4<l:4P&4U&45B):JP<PYJ2Ylwgo<&P)lYPlY-5oBo)4JnYu:PJJlJ&:uk22P&o:&Y)<:oJ&<)Y4YlluiP<52Juuo9Y25&2u):<dYuB5BYl4&lu<UBPUoJ&:)yJ8J&<)YY5:lu&&<U2:U<ouYo552&):4.Y2:&JBlY5=uuU:PU4Y&BJ<:cJ5<4Y:P<l2PY<42Y4Bo2Yo5UB2J=<uYP::&:lB5<u2ooP)o:&lU2)oJU<JYlB<lPol<Ju:P%&25_5)BY)l2oYo2)B4lB<JuP)oPJ4:5kUP)&Y)Y:YlP#lo&o<4BYPuoPUP5JB:Je42Y&::BY<<u5uo))P4l352UP)54JY::>P2l&4u<:)DPu&5&l54BlJ<l4Y5:JB:<d)uu5))PYl:5uB&)U4:8<:uPol54&<:26P2o&uB5Yl>Jum:YU2YBB<2P4uU)YP:u<52U&))JYY::uP&lU&Y<B)2PP&5&45:lhJ2XBY42:BlFU)Uu))YPBUl5PUU)JJBYq:2PolJ0Y<lUJPooU&4UB)4JP<5YJ& lG&P<&u)PoPlYp5oBU)4JlY<lPlolJ&4u7)gP&:u&:5l)oJo<UY4:Bl<SJ<52YPuoeYP5&)Y)BJlYuBolZl4&Bu<::PU44&:)u)YJ&<JYY<UlP9o<U24u2o<YP55uU):<<Y2BUBBlY5auuYPPUo4&B)<)5J5<JY:2)lo&5<)2B&5o2Y&5U2:)l4<YPB5l)l:5+u25BP)4:&l)PJPJU<YYBU:lPx5<Ju:o&o2Y55)BP)l<2YoBJ>HlB52uPuuP4o:5VU2))J)<:YlP2lo&J<42Bo)oPY55JBoJu<PY&:l&lnZ52uo)PP4ol5<Uo)5JJ<Y:<B2l&&<<YulPu&o5u54BBJ<25Y524B:.qu<u&)5PY4l5uU&)UY4YY:<Pul5&5<:J)PPo&5P5YBlJu4oYUBuBB<2<&u5)4P:5&5oU&))4Y:o:uPolU4P<l)uPP&)&:5:l<J24:Y):YBl<ulJuU)4PBll5PBU)J4lY<:2P5l)B:<l2uPo&U5J5Bl<JP<FYY2Blf<o2BuJ):PlY<55UU)44BYo:PP5lJoou+)PP&&45P5ll2Jo&PY4:Bl<+PuouJ)BoI445&BJ)YY<:J:oPJl45uu22PP5oJ5lU,lPJ&<JYYP<lu<o2+u4)Bo<4Y5)B4):Yuc&:5PJlY)Pu22oPU&4B:UulPJ5:oYBP<l2fY)Yu:J^ou)_5UUY)B4uYP:5P)lB<Su2UBP)oY&l)u)YJU<4YB&PlP&U<Ju:ooo2YP5)BY)l42Yo:UJBlB&luP2BPJo:5F)o:)JJ<4Yll<lo;U<4P.UPooY55J<BJ<42Y&B4ul_%52uoouP:oB5<)&:JJ4<l:A4Ml5F)<YP<Uoo&Y4545PJu4PY5BY2D+<55u&42PBol5u)5:4JYu2:<lJlUTJ<:2>&Po&Y55YlPJu4&YUl4JBS<52u5)5P:J)5oU&oYJYu=:uBolU<><BP2U5oUYY5::rJP4&Y)BY&BT25&uUBPPlY25P)55lJ:u<:2&2l)&J<lPPoooUY:5BooJP45YJB:hJ1255u):JPlYP5o)J:BJlu2:P)2lJD:uM22R4o)YB5lBJJo<JY4lOuU_o5JuJ5lou&25&U)):JluP:oPJl45<u<PPo)oJYBUpB4JU<4YYBo5o%&5Ju4)5o<&o55U4):4Nuu:5B)lY&5uu2oPU&45oU<loJ52:Y:Pul2q&<JuY)BouY&5UUY)B4<U5:5P)l:<Ru22&P)&B4uU2loJUP4:gB<lP<)o:uBJ<o22&5)UY)l:uUo:UP:lB&BuP4_P4o:22U2lJJ)4YYlB)lo<JoBulJ&oP4)5JU:J}Y2J4:)ohll44u&):P45V5JUPlYJJoi:uB2l&<)22ulJ&oov&54l2J<Y& J:4ouN{J2uU2)PY&lo5UolYJ4<5:2P)l5<Yuo2+JUo&U25YUlJuYo:4:4ou><oYu5)lP:5u4&U5lBJY<P:2BolUc4B22<J)o5Yu5:loJ2YUI/::oo+uP&uU24PB&<5YU5llJ:uo:2PYl)<Y2u2uJ)oUY2U=l&JPY)t::BooC2B4u)2YPl5ulPU)llJB:Y:oPYlJ<2J22PJ4o):&5l)2Jo4)Y4:Bo3Ao<5uJ)oo-&25&))J2Jlu&:o&4l452u<2PoJoJYlU3l5J&4JYY:l22_&5Ju42Bo<&P55JJ:)4hu&:&B:lY&Uu2oo{Uo4:<U<l5J5lqYlB&5&W55BuY&lou&&5UU:)B4<u2:UBJl:&Uu22&P)oYYBU2)oJU<:YBB<lPk5o4u:J2o2Y45)U:)l:uA<:UPBlB&PuP&lP45:2 U2l)J)<lYl<Ul5#B)BulJ&oP:)5JUBJS4oY&:)P4wx<uuo)#P4oB5<UPl&J44::FPol&V)<YulU2ooY454l2J<4oY5:JuB#<5&u&2)PYol5uUoYYJYuu:<PUl5ZJ<:oH5lo&YB5Y)2JutBY)l4JB+<5)u5)lP:)&5oUY<YJ:u&:u<4lUzY<B2oPPo5Y)5B)hJ2XBY):YBlxu5Pu)24PBYP5PU5)JJ:<l:PB&l)<;<l2uPooUYJ5l)<JP<4YJ::lM.2o5u)J<PlY)5oU))4YBl::PPYlJ&vuS)BPU5)uY5ll5Jo<:Y4<Pl23J)Ju4JPo7=B5&UJ)Y4UYu:oP5lYbBu<UYP5oJ&:U(luJ54)YY2Jluro<Uu4):ou&P55U4):40Y2:&PUl:+luu25PUo4&BU<l2JU4JY:2ll29&<)uY)Bo2&o5UB4)B4<YP:5P)lB<#u2)5P)oY&lUulPJ)44YB<PlP+5<Ju:)loP&&5)YB)l4uYo:U52lB5&uP)BPJoB58U2J5J)u<YlBulo#:<4uBP)oPY:5JU:J_42Y&B)lUll55uo5BP:YP5<)&J:JJu2:s25l5j)<YulooooYl54UBJ<4PY5:Jl4r*5Uu&)lPYY&5u)5J&J4uP:<u&l)iJ<:Puolo&:r5Y)BJu4oYU:4luj<5)u5J3P:Y552)U:YJ:uo:uJ&lUE4<BP2)5oU:<5:Y2JP4&Y)lYu4Ru5YuUJuPB5:5o))::JBuU:2<2l)9Y<l2uNJoU:u5BlUJP<lYJ:::5T254u)JuPlY)5o)J:BJlu5:P:ul4G:uK22w)o):25l)uJo4:Y4l_2Pgo5luJ&gou&25&U)::4cu4:oB)l4}Bu<2PuBoJ:PUKl4J&uuYYl<2of&U,u4q2ou&P55)YBW4<uY:&PUlBCluu2oulo4:oU<lYJ5u2Y:lu2&r5U<uY)BoP&o5U)4<:4uu4:5&4l:5Uu2PUUYo::5Uul)J)44YBl225KUU2u:u<oP&&5)UYU&4uuY:Uo2lB5JuPP):&oB:UU2AlJ44YYlvuNomUU2uBJ)oP::54)lJ442ul:)5Yn<<uuoPJoUoB:4UP:4J44::clol4w)U5ul:uo5&U54UB454Pul:JoU(=<ou&P)o2ol:)UoP2JYu&:<BP<:^JUu2kJ)o&:v5YUlJ&4ouB:4BB0<<&u52J&)&D:JU&))JY4l:uloc2s4UP2<UJo):<5:Ju4l4&2w:Y4XQu<ouUP:&2&<:YU5Y:JBYj:2,&yJIYU52uJ:oUU55lJ24)4522::(:KP<&u)2Y&5&u::UU.2JBuJ:PB5^5,:U&22J:o):P5l4u&o4U2u:BiY^PP_u42:<2&2:lU))YJlYP:olJ2BElU42P<)o4&:U9J2U44)2o:l)4R&Uuu4o(&4&PB<UJ<249Y2:&l)vBflU42ooJo4:UU<)PP:4J2PB9oYp&<4uYol<u&oBQU4so4<4&:UBJY{<IU:2&P)oY52UuJ5B44Y2)B<53;5<Ju:o}2U&&B2UYPU422.:Ul:<)<<Ul25PBol5#U2J&4B4Y2)Bu)2ZUU&uB&<) &5BoU:%&42hY:4lY5B<2Ul2UJ2&#:YUP):u:4B24B25&F)<:ulP2oo&U:JUlJ<4Pu::JB:E*u22}2)4&olloUo*2J44B:uBPolWJU52FPPo&U))oUlrJ4oul:4JYSu<P272J45&152U&)BJY:<:PBo&2!4BU2<PPo55J)))dO:4&5u::oJ+uu52o244)&<YlUU)JJ::gouB5&2#Y4:2u4=oU5:Y<)uHl45<P:llk%2uU&Y2:44&u2&UU)4JBY<))B5&&X:U&224uo)&Y&&)ufl4U2&:Bo:0Pu)&:2B44&2<uU))YJl:P<UB)&5+BGJ2oP5oJ&:&5)2<74)25:loB(o<BJB2l4Y&P26UJ)B4LYP:&B)o4<+uu2oJBo4&BU<JPJB4J25B.5&k&UPuY2lo&&oByU4*U4<Yo:5lcUk<<U42&oPoY5TUu)&JU44u:BulPn5<Yu:PAo25U4<UYSU4uJP:UB4lB2<2u2542o::)U2UYJ)YBB4Bu&dCU2UuBP<oP&5)=U:R)422<:)BBll2uPf2U4PoB:JUPlVJ4::BYB2olc)Uoul5Uo5&BlBUltY4PPo:JBBZ_<ou&2)J4&r5uUolBJ44B:<BPo&k4<:23J4o&&)5YUlB24o2<:4o)w<<ou5oJ4J&#:YU&4PJYBU:2BoyU*4U)2<PPo5&Y5:JuJ)4&2o:YP4q2<ouUP4&U&<:lU5P2JBuY:2<&<<dYUJ2uo5oUou5l)<4U4522::o4b2<Uu)oY&o&u:lUU+PJB42:oB5q&9:UY22P&o)5d5lJPJ54U2U:BB&7P<5uJP:2o&2BuU)Po4Lul:olJq4ABUB2PU5oY&:UmJ24<4)2U:l)6QoUou4oBU:&PBPUJQu4>D):Ul)54<IUB2oJ o::4U<)JuJ442JBW2uO&<JuYPTou&o:5UY)B4<u):5BJl:u}u:2&4ooYluUuVuJU44B2B<oBZ5U&u:P<o2U&)<UYb)4uuB:UJ)ll<<2u254&o:5/U2)JJ)YBBSBu&u_U&UuBP<oP55UiU:6Y42&l:Jo)lluPu42U4UoBJPUP)5JJY:PlBP&u,)4JulJloo5J4uUlyB4PUU:JB:xv<2u42)4)ol:5UoqoJ4YBBUBP&2hJ5o2u4=o&&lll)yGl4oP5:4BlK<<ou52JJY&<52U&lBJY4l:ulollm4UJ2<Y5o5:55:)!4Y4&22:Yo4Gu<&uUo4_B&<:BU5!2J:D):oB&4YsYU42uPooU5M5BJ2B54U25::5Udo<&u)PYYB&2B<UUPPJluB:Pl5:lQ:UY22Y2o)YJ5lJP444U2U:B<BSo<5uJP:&5&2BuU)2JJlul:olJ2u>lUB2PU)oY&:U_)2Y<4)2):lo5xoUou4PBo2&PB2UJlo4u2S:&Bl5l<nUl2ol5o4&lU<)oJ54JuYB<l2V&5BuY2lou5oUuU4wJ4<P5:5o5l:<N2u2&42oY:4Uu)&JU:4:JB<oBf5U2u:2uoP&&5YUYX44uYo:UBllBu22B2545o::lUP)&J)YY:&Bu&<zUYPulJBoP5))<U:x:42&B:)BYlluuJP2)45oB7lUPCPJJYlj5BP&2V)562aPuoo&UUuUBCB4PuY:JoJ^au22J2)4UolYJU5noJ4YPoPBo&P}JU)2qPPo&&J5YUl!<4&YU:4o2s<<Pu5PJo5&,:lU&<YJYuY:uBo<u{4UU2<4+o5&45:4I4B4&22:YoU{uQ5u)24&&&<B^U5)JJ:YP:2lU<uQYUY2ul5oU&45BJ<J5452&::))1PU2u)PB&4&uBuUUW 4^Y<:Pl55)VBUY22BPo):)5lJPBU4)2U:B:YKo<5uJ2:<o&2B2U)M<Jlul:olJ2uElUl2P&JoY&:Us)2424)2):lol*oU&u4PBoU&PB2UJlo4u28:&Bl5l<nUl2oJuo4&lU<)oJ54JuYB<l2O&5BuY2lou5oUuU46J4<P5:5o5l:<I2#2&42oY:4Uu)&JU:4BUB<oBh5U2u:oloP&&UuUYb44uYo:UBllBu22P2545o:4PU2)&J)YY:oBu&<DUYPulJBoP5))2U:X:42:U:4BYlluuU42)45oBdlUPLPJJYlBPB2&2=)h52*Puoo&U)uUB9B4PuY:JoJ_p22ul2)4)ol:lUoP2JYYB:uBP&2#J5o2u4+o&&lll)^}l4oFP:4BlA<<ou52JJY&<52U&lBJY4l:uloXu+4UJ2<Y5o5:55:)VJ)4&22:Yo4du<&uUo4oU&<:BU5A2J:2):PB&lBeYU42uPooU5<5BJ2454525::2U3o<&u)PY&)&uB<UUPPJluB:Pl)l:_:U:22J2o4&Y5lJuUJ4U25:BUlqPUPuJPlo<&2B2U)l44<Yu:olU<50BU:2PJ1oY:JUzJoll4J2):lU<%o<Uu4PB&)&PB2UJBo4#2b:&l4-:hlUl2o22oY&BU<)P444J2JBIoU=&U&uYolo5&oBoU4944<Po:5lJ<J<eUl2&J<oB:YUu)4u44Y24B<l:T5<4u:P<o2&&:UU:)l4uuJ:UB4lBu<uB254&o:l2U2D2J)4Y:<Buol!UU5uBPuoPU5U2U:*J42ul:)&oF/<u2B2U45oB5<UP)BJJYl:JB2&2I)B22KPuoo5U5YUBO:4P5w:4oJy(uou52)4)olP&Uo)UJ4YB4&BP&2*J442b4Mo&54)uUlkl4ooU::BB,<uP2u2J4)&^YYUUR&JY:<lJB&&oA45:22PPo55J)2)Wml4&<<:YoY(uu5Po2444&<olUU)JJ:YkB&B&&&LYUP2u4uoU5:Uu)<<u45Ul:Bls(2<&2J2Y4Y&uBuUU/)JB:<B)B5&&7:5U2o42o)5BYu)2<u4UoL:ll<hPu5J)2B4Y&2)<UJ7)JlYUoUB)&UTB2<2PPUoJ&BUT)2to4JYY:lo5yo<Uu4PBo4&PB2UJu.4n23:&B)<2alUY2o4Po4&lU<4PJB4J25BOoYs&)uu:2l&:&oBPU4)B4<YJ:5lYGY<})_2&:lo:&lUuJoYu442JB<):OUU5u:ou5{&&B&UYBl4PYo:Ul4B2<<)O25BUo:::U2JU4U4Y2YBuuUXJ<4uBo<&Y&5B&U:l)4o22:)lBu5<2)u2U:<&Z5<UPJ5Y<4:2YB22Bd)U)uloPoY&UBUUBUY4oY5:JB:<)<2)22)4<ol:lUoJJ444B2lBPo4!4<:2xP2o4&)B)UlWl4o2&:4lBCl<P)22JJo&uB7U&)lulY%2lBoPuO4<l2<Poo5&J:Y)<J24&uB:YBlxuuo2u244J&<l5U5d5J:Y :JB&&2VYU42uP&oUU4Uo)<RB4522::Bu;P<&222Y44&u5oUU)lJB:2BPB5&5-:Uu2PP&o)5Y)Y)u<<4U5P:loBwPu)2a2:4:&2PoUJ)YJl:uoPB)&5bB4l2P4PoJ5l45)P<24)2k:lluKo<U2U2B4B&P:YUJgJ4K:2:lB)&UMl5J254oo45PrP)o<P4J5JBqlPe&<JuY2l4<&&5UU4=24<YP:5lJ>P<vUl2&YYoY:YUu)o4u442UB<&0b5<4u:ou)&&5B2UY:J4PYo:UB42l<uUl25PJo:5dU2)&)r4Y2PBuolnUU&uBo2)5&UBPU:h:42Y&:)lBou<2)I2U5Bol5<UP45B&4:24B2&<N)2U26oP)U&)B5UBB:4oY5:JB:Yo<2)<2)45ol:BUo)U)u4B2&BP&</JUU29&2<&&)B&Ulb44o4J:YBBYP<P)22JP:&m55U&J45B4l2lBol57Y<B2<oP&2&JB))_PY452&:Yz<<4<o)o242Y&u5PU5JJ4lY(2lB&)5(YUY2uo5oY&4B4)<:l4)YJ::lF1)<&)&2Y4P&uBuUUJ4YUY<PMB5ouplU:22PY:Y&:BY)ulo4UYY:Bl2OP<5U)2Bos&2:4U))YJlYu2PB)l4wBu22PP5oJ5:UJ)2<u4)Pl:lolvo<Uu:2B44&PB2UJ)B4_B2:5B)&&1lU42oi&oY&BU&)P<24JY:Bxl5K&u42o2l4l&o<kUY)B4<:P:UBJ&)<-YY254&oYU<)J)o<o44)PB<lPe5uJJYP<4l&&<5UYzY4u:5{lBY&4<<)<25PJo:5V)B)&<&4Y2PBu&uKUu4ulP<Y7&5:uUl_:42YYoYB:&Y<u4:2UPYoB5uUP)5x)4B:nB2o4f)<YulouoY&UB5UBuP4P2P:JB:Gl<2)w2)4Uol52Uo4UB54B24BPl4tJ5&2<&2<&&)B&Ul_Y4olB::lPUP<o)22JlB&R5PU&)4JY4l2<B&lU 4U22<PPo5&J:Y)<J24&Y4:YBl(u<o&)244U&<BfU5)4J:BshlB&&2{Y5u2u5:o)U42B)<ZB452P::u&/o<YJY2:44&u)5UU)YJBY2:PB5o)-Bu 22J4o)&Y5l)u3P4)Y4:Bl23P<5uJ2:&:&2BIU)TUJlY2:oBUI:VBU42PP5oJ&:Ug424&4)25:lPo*ooOuYoBo)&PBuUJfU4_l):UBl5l<=Ul2o4Ao4&lU<)5J54JuYB<l2f&5BuY2lou&o:5UY)B4<Y&:5BJl:<!Uu25P)oY:)Uu)oJU44-lB<olC5U5u:P<o2&&2YUYaJ4uYo:UBllB<<&o2U4&o:5>U2)&J)YYPBB2&.yU&<2.J:oP5)4:UBLY42U5:)BYlluP5U2)4UoBJPUo)5JJ::gYB2&23)U)uloBo&5J4BUlvl4P:5:4B:7j<2B42)4)ol:lUo;&J44B4UBP&u.JU)2T4Lo&544l)3NB4ouY:YBBO<u&&J244J&3juU&))JY4l4)Bo&2-4UJ2<4<o55YY})<Gl4&)B:YBlsuuoJ52Y4)&<JYU5h&J:BAPHB&&o_Y2J2u&Bo)&4U:)<<u45YJ::lur2uU2)2Y4B&u25UU)4JB:<BlB5&Ui:Y)2P4oo))Y)Y)u<24U:::B:U0o<52u2:4Y&2BPU))BJlBuBPBU&UHBU:2P2)o4&:U<)2<o4)YY:ll&bouJP<2BY<&P4kUJ):4z:244B)&4-lY42&4Uo4U{U4)P<54J&:B<l2/&u)252lY<&o<&U48B4<BP<2BJ&:<TUB2&UloB5lj<)&<544u&B2&PE5ue4SP<Y2&&J3UYJ}4uY&:UB4o:<uuP254oo:5GU2J&424Y2BBu5U%UU4uBP<&Y&5B5U:pl42Y5:)%Y#!<u)u2U45oBulUo)54&4:2lB2l&M)uSuloPoU&UB4UBl54&Y5:Jl:<u<2)o2)lo&/BuUoJJY24BP<BP&lQY<:2co2:o&JB4UlPZ4o2U:4>s2U<o)52J;B&L52U&))4u4lPuBo&2*4UB2<oP&P&JBY)yl44U2):YloUo<&)U24o:&<5oU5)4J:Y72uB5l)CYUJ2uPooU54UU)<<245P:::&F_2<&ul2Y4Y&uBPUU)YJBB<:5B5&5t:UY224loJ&Y)2)u<P4UY4:Bl5XPu)2:2:Ye&2PuUJ)YJl:u:YBU&J{BYJ2o45oJ5lUY)2<&4)J<BQluLouU< 2BYb&P<oUJ!:4.:o:UB)&YfluP2oPUo45B)Y)P<&4Ju&Bu&2x&u4&lP7Yu&oJ4U:)B4<:Po&B4&Y<^&42&4)oYU<4))&<U442uBulPO5<JPuPxY2&&BPUYgl4u:oBlB4&:<<5Y2)4Jo:5&h&)5<)4YB:Bul&=U<YuBP<42&U5JU:^442Y&:)lYm)<u)P2UYBoBB<UP)54)4:2:B2&o})<:ul&u&l&UBUUBI:4PPg:4B:<5<2)o2)PYol5UUoJJJ:4BP<BPuu-Y<:2+o2&Y&)B4UlP44&2U:4ON<U<P)52JYU&G52U&J))<4lP<Bo)&,4UB2<o&5P&JB:)Hxu4UY):YllsJ<o)524J5&2BPU5JYl_Y<P2B&5JAB<l2uoo:5&YB:)<BY452J::<K2l<&))2Y4J&uJ:UUJ4u:YuP2B5ouXl)122PY:Y&:Bl)uu44UYY:BlusP<5U)2Boy&2B<U))YJl:u:YBU&JABJP2P45oJ&:UJ)2<24)24:ll2nouJ5B2l4B&Po&UJ):4CB2JYB)&)nlUl2o2Bo4Uv)Y)P<&4J4YB<l2G&<)Pj2l4l&oB5U4Jp4<:&luBJ&4<0Lu2&P)oYUl)2)o<&442YB<BJ#5uY2YP/Y2&&B5UY)l4uYoBUB4&Y<<)P25PYo:Uu)<)&<U4YJBBulo=U242PP<Y2&5B)U:)&42:U:BBY5=<uPu2UP4oB5<UJ)5<)4:P<B2lUs)2Y2JPuYo&UBUUB5B4oY5B5B:5<<2u&2)PYol5u)U)U<:4BP2BPl5gJulPuP2Y)&)rY)<Ju4oYBoBBl5o<PUu2JPB&-5&U&))64YX:uBo&514<B2<PP4&&45:)f<(4&Y):YBl&<<&uU244B&<5PU5J%2vY<PUB&22#Yu62uPYoU&4::)uJP4524::lkw2<&UU2:Pl&uB;UU)4JBY<22BUlJV:)j22P&o)&Y:B)2Jo4U2l:Bl<.P<5U)2BoX&2B)U))YJlYu2PB)l4wB)22PP5oJ&::l)PJ&4)2J:llu0ouJ2)2lY&&PJ)UY):4kY)o)BJ5<9lJ52oP)o45}U<)Pf&44Y:BL&Ps&<)uY2l4<&&5UU4<N4<YP:5lY64<<)U2&Y3o:&lUu4oBP44P2B<&2!552uB&O<2&&BBUY<P4ul4:Jl<U<<u)42552o:5<U2)UJ)4YuBB2loEUU&uBP<oP&5:)UBJL4225:)BYll<u&52)YvoBBUUP)UJJ4:B5B2&4b)<Yulo:oo5JUBUB<54P5&:4B:%;uo2B2)Y2olu5Uo)UJ44B4UBP&YAJ)22t4Jo&54ulUl<U4oJ&:YBBx<u&PF2JYP&}5UUU))JY4lB<Bo&:14)P2<44o55YUU)E<)4&<2::BlLuu5u:24Yo&<PUUU)JJ:Y1B:B&&B8Y)o2u4YoU5:)&)<<J45oP:Bl1=2uU2P2YY&&uUJUU)4JBY<:&B5&lC:)&224:o)5BUP)u<44Uu)B-l<tPu)uY2:Y5&2UJU4)YJlYuB4BU5MsB)52P4BoJ5l)J)2<Y4)Uo:llu6ouJ2<2BYU&PJoUJ):47Y24:B)5<;l)U2o4lo4U^2P)P<:4JY<Bel2N&u4P22lY)&o5:U4)B4<YPB:BJ5u<G))2&Y^oYU<Ul)o<B44l2B<lP!5uY2&PSYJ&&lBUY)l4uYoB<B452<<)J25Y<o:Uu)l)&<l4YBJBPlobUu:2)P<Y4&5)2U:JG42Y&B2BY5P<u)42UYuoBU2)o)5uV4:uUB2l&!)uB2UPuYY&UY))FJ<4PY5l}B:5o<2)Y2)Y2olUP)2)Uu<4B:JBol5gJul2lP2Y:&)<B)sJu4oYUYuBB5&<P):2JYP&IUo2)))uu4llBB&lU^42nPUPPYB&Jo2)aJ24&Y):lBl55<o)B24Yo&<U&UU)Ju2Y7lYB&l)QY2<PoPoYl&4P!)uJP45YJlulO5U<&)l2YY&&uU5)&)4uPY<5&B5lJk:2u2BP&:V&YlJ)2Jo4UY4BBl<5)<5Jp2:Y5&2UU)o)YuoYul5BUl4xB22P&P5:<&::2)2J&4)YYBUlu5J<UJ<2BYU&PU))}):u&Y2:5BJlYxl2PPBPU:u&BY5)PJ54JY:Y5l254<)Ju2lY)&oUJ2B)Bu5YPP2BJl:<!2o2YP):2&l24)&JU44YBBulP5Y<JJ2PkYJ&&U4)<)luUYo24B4lB<<2&PBPJ:P5zUY)UJ)4YYll5lo5:<4JPP<Y4&5UYJ2Jau)Y&)<BYll<u25P2P4:o5<B<)5JJ4::/l4l&5B<YJoPuYY&UU:)PJ<uJY5l&B:pI<22UPUPY:&5u&u)UJ44B:<Bll55l<:J&P2Y:&)UBJ)Juu4YUullW+<<P2)2:P::552=J)JJY4l:uYYlUUe<BJ5PPYB&JUlP2J2uYY)o)l<bu<o2Jo5PB:U5Pl&)YJ:Y7:2B)l)U<<lJUPoYl&4).)BJPu:YJ<olua2<&24P)Pl:)5oz4):JBY<:PlmlJUuu.J)P&:m&Y)<JlJouBY44Yl<HP<52YPUoX:J5&).)BJlYu:oB4l4U2u<JJP5:<&:)u)PJ&ulYYuJl2{o<U2:Puo<:455Bo)l4MY2:&BllYUPuuJ4PU:u&B)2JJJ52 Y:54lPK&<)2BoJou:Y5U)))l4<YP:5:<l:Uou2JYP):2&l)PPUJU2<YBP:lo15<J2lP4o2::5)P4JS4uYo:UR2lBU&uPJ:PJ:P5*)o)5J)2uYlP2l&KU<4PbPooP:B5JB_J<42Y&:)BlllU5uoJBP4:o5<)&JJJJ22:3uBl&=)<YP<P:oo:l54lJJ24PY5:Jl:RmUUu&JlPY:&5u)5)YJ42P:<24l)gJ<:Puolo&B85Y2)J24oYU:46P/<U)u546P::552)U4;JY2o:uU<l)G4<BP2oUo5B<5:U4JP4&Y):Y:&yuUJuU4<PB:U5P))P:J:2&:2PYl)XY<lPP&coUBu5B%BJo45YJ::i}g2U4u)4uPl:)5o)JJ2JB25:P:Bl4g:u>PooBo)B25lJoJo4UY4:BlYzPUYuJ42oV:J5&)4JUJl2U:o<UlY/Bu<P&ouoJBPUa&4J54)YY:ll4DoU:u44Po<:455)YJ24z2):&o4lYhluuP5&uo4BoU<PPJU4JY:Bi*:;&UBuY4oou:Y5U):454<2J:5oPll<}u2PUoooYB&UuYJJU44YBB<:4f5Ulu:4&o2::5))Bou4u24:UuB_X<<uPP)&5o:B5U2Y1J44YYlBul5qU)_uB45oP:B5J)l4u422Y:)&#ll<uuoPJ&UoBBUUPu<JJ4::tB2-Bv))<ul4Uoo:l54J!4D4P2::J<:,z<2u&P4o5olB)Uo2:J44B:<BPKuaJ)u2i4)o&Bk5YJ<4<4o2B:45:m2<Pu5PYoo&FBJU&<PJB4l:uBoSlf4)22<4Jo5B<5:Ju4E4&2l:YJ)b2<ouUP:oJ&<B4U542JlYx:2B&B3rY)P2u44oUBu5BJ2o545P/::P4>2<&u)PB&4&uBYUU55JlY<:PB5=U_:)o224Yo)B25lJP4)4UP<:BU<#o<5uJPl&8&2B:U)95JlYu:oBUdPQB)&2P4:oJBPU0Jo4x4)Pu:lBPCo<Uu4oz)P&oBBUJ:J4<Y2:&B)B2;l)52o4Bo4BoU<)P&J4JP2Bql2n&<4uYo<)o&&BlU4454uYP:5lYPK<<)42&2<o:&lUu)oUl44PPB<&4G5)uu:ou)&&5l9UY<:42Yo:UB42l<u)Y25PJo:5=U2)&) 4YPoBu&Y7U)2uBo2&u&Ul1U:<u4PY&:)7Y4l<u)42U&5oB)JUo)52B4:PUB2l&,)<:uloP&2&UlPUBJP4&Y5:Jl:<5<2)B2)lo&EB4Uo)UYu4BP5BP&lbJ<l2f&25u&)l2Ul<U4oP<:YBB )<PJf2JP:&g5JU&J4Jl4lPYBo25CY<B2<oP2Y&Jl&)8PY45P2:YV<<<<oJu24l5&<5PU5JJY&YqPYB&)5kY))2uo5)4&YlU)<2P4)YJ::3OBU<&Ju2YJU&PBlUUJ:4JY<PBB5U2=:uO22o&&U&YlU)uB:4UPo:B*2P5<UJP2:l4&25&U)JBluY2o3BUP:qlu<2PP5P<&:l))2ua4)P5:l_P4&<UJo2BY2&o55UJJl4uY2o<B)<o<Kuu2oPU&B&Bl4)Pu<4JPUB9S2I4<)Jo2lJJ&5luU4JP2PYoo<BJ<J<*uP2&PJoY&lB<)&JU44:&B<lP{5uJ25P(YY&&lYUY<)4uYoBgB45o<<):25P4o:)iU4)&ut4YPoBuB5_)<4ulP<Y:&55JU:JP42:UB)BY5)<uP:2UP4oBU<U&)5u24:5)BP5{^)uB2)PuYl&UUU)}J<4P:5o)BB5)<2YP2)Y&olUP2&)Uuo4BP2Bol5EJulPYP2:<&)lJ)VJu4oYUB<BB54<PJ<2JYU&/U2)&))uo4luJB55ud4ut)&PP:<&J)))_J24&:)B2Bl54<oJ424YU&<5PU))JuPYXPYB&lJFY2l&BPoYl&4BY)<:Y4UBJ):lZ5J<&J-2YUo&P54*4)Yu5Y<B:B5l4v:u<22P&4U&:5l)uJ:4UY4:Bl<u4<UJ<2:Y)&255U))Y4<YuPYBUl43BuP2Po)5o&:lU)2:P44YY:llu_&<UJP2Bo<&P55UJ):4oY2P:B)5PHl)42ooJ&&&Bl))PU544Y:B,l2<4<)Jo2lou&o5UU4)B)UYPPBBJ5o<.)Y2&o4BU5.lJ)ou<4:YBB<<P<<<JJoPVY4&&BlU:4<YuYoo<B4UB<2uP25oY&k5ml:)&B:4:YlBuc5u2<4J)P<)U&U5JU:J^YuY&o<BY5J<uu52Uo4&P5<l4)5oo4BPUB2^U)Y<YJ5Pu2P&U54UBY<:<Y5ouB:5U<2<o2J&Y&J5ul:)Uu24BJBBo<5<J<:J)P25u&)Jo)wJu4lYUo&BBc<<Pu)2J5:&)52W<))ooYmP}B5uUL:<BJYPP&)&J&P)<J2YBY)ooBl5:<ouJ24PB&B5Pc<)JJ:Ya:2B&llUlufJ:Po)&&45l)<J&45YJ2Yl<A2<&J22YPl&u5oB5)YJBY<PYB5lJv:u&4&P5:o&YY<)uJ&4UY::Bl<&2<UuJ2:YJ&25&U))Y(BY2:oBU527Bu<2PP:::&Bl:)2BB4)Y::llo!o<UUJ2lo<&Pl<UJ):4.Y22oBJlYGl):2oPUo4&BBy)oJ54JP)B.l2Q&2)452l:!&olAU42u4<BPB<BJ54<IJ<2&5loB&l)4)ouU44P4B<lP*5<JP)P8:<&&l)UYJV4uBo:JB45Y<<)Y25&)ol5&)J)&u54YYPB4l&jU<YuBPo2B&55JU:)o4YY5:)lkB)<uuo2UP2&55uUP)5Pl4:PBB252%)<Yul&u)<&UlJUB<)4PB&:YB:::<2JP2)PBol52Uo4U&44BPlBP5pLJEl2<P2<)&)lYUlJu4oY4:49#PP<oJU2JBJ&<52U&J)u4Y6ouBoJ<tY)l2<o&)J&4lB)/B:4UY):YBlP2<&JJ24PB&<5PU5)J)PYfo2B&5JhYJ<2uP4:4&Yll)<JP45Y4::lPN2<&UU2:Pl&uBlUU)4JBY<22BUlJw:)U22P&o)&Y:B)2Jo4UP&:Bl<TP<5U)2BoH&2luU))YJl:uoPB)54qBJP2PYUoJ&:u&)2uP4)PY:llPbo<UBB2B:x&P55UJJ<4_:o<)BJ5Y}lop25PUo4&BYu)ouU4JY:B0l2w&<)<22l:<&olUU4<l4<:&<JB45:<6R225P)oY&lY2)&u)44YBB<lP#5<J<PP1:u&&l)UYue4u:5<4BY5B<<UJ2UPJo:UuY&)5uJ4YPSBPloRU<4<oP<:2&5lJU:u<42:U&oB:5l<u)B2JP4oB)<)o)5uJ4:ovB2&Y_JuB2UPu:&&U4lUlJ<4P:)luB:Uu<2&J2JPYolUP)<)UuB4B<oBol5ZJ<:P&P2:&&)llUlJP4o:UBoBBUs<P:u24Y:&G)2P&))uY4lBBBou<qY<B4&PP:)&J5:)_JP4&:4BYBlUo<o5J2:PB&<UPU:)JulYt5YB55YdY<l2:Po:U&4}1)<J&45YJl5lGUP<&u:2YPl&uU5Ju)42rY<PoB)lJs:2u25P&:Y&Yo))uJo4U::u<luUU<5u22:o>&2UUYY):2PYu)oB)l4jBu<ooP5:4&:ao)2J54)YYJuluU5<Uu42Bo<&P55P:):22Y2:&B)lYgluu&)P):l&B8o)PJ54JYlPol2U4<)4&2lou&o5BbB)l25YPoUBJlB<TuP2&P)445MUu)o<U44YBB<lJUJ<44PP.J<&&5JUYJ24uYo25BYlB<<)P25PJo:5zBu)5J)4YPBBulo0U<4U:PuoP&5lBU:J+42Y&2UB:ll<uJ52UP4oB)<PP)52u4:o9B2BURJ<YluPu:l&U54UBJo4P:)JYB:U4<2uP2JPYolUu)&)U2o4B5JBoUu Jul2PP2B<&)2UUlJu4o:UluBBU4<PYo2J:U&tUo))))254l{#B5lUK4<B2lPPBu&JlY)auB4&:)loBlUY<oU{2::)&<5JOJ)42UY7U2B&lJ/Yuo2uPo45&Y5B)<u245YJ::l{&u<5u)2Y4l&u5oUU)4E:Yu:PB5U<c:uk22P&4U&:5l)uu)4UY4:Bl<&2<UuJ2::o&25&U))Y6BY2:oBU5:=Bu<2Po5&P&:-J)2u)4)o5:llu<2<U422B:4&P5UUJ4:4lY2oBB)5YAl&425PU&4&B-4)PJ54J:uB/wo<4<)452lU5&55UU4JBYYYP&<BJJ&<<JB2&o45U&lj:)oD!4YYBB<6PU&<445Pkl<&& PUYJl2<Y&&uB454<<Jo25oY)P5<ZB)&+l4:YlBulo<:<44)P<:2&5soU:4s4UY&&2BYo5<P4/2Uo<B<5u0l)5B:4::<B2lUh)<YUBP2oo&UlJUBJ<4PY52)BBye<2J:2)PYolUuUl)U2o4BoPBPUu J<:2uP2:B&)q&UlJ24oBUloBBU)<PJ52J2l&<52UJ))2&4l:uBolY142(25PPBu&JnU)mJ24&:)BlBlUY<o:<2Y:)&<U&)2)J2UYtY:B&l)OYul4<P&Bu&4<Y)<ul45:Y<Pl<UB<&c)2:Pl&u5oJD)42)Y<o2B5Uo3:2gPUP&B2&Y:5)P2X4U:<&<luUl<5oq2:o<&25)U))YRBY2:oBU5JvBu<2PP54)&BU{)2uY4)YY:llu&P<)u42B:P&P55UJJ:4JY2&fB)5lclJ:2oPU&4&B!))P2<4JYBBK<2<Y<)4P2l:u&o)5UY)BYPYP&<BJl:<tu52&o4&P&l-:)o2P4YYBB<aP<o<J45PalY&5hPUY4<YPYo&2B4Ul<<uP25oJ:Y5<_:)&P54YoJBu<oPP<44)P<:2&5uoUB4!2uY5&2BYo5<P4T2Uo<B<5u9l)5<:4::<B2lJE)<YUBP2oo&UlJUBJ<4PY52)BBq6<2)&2)PYol5uBP))J44BooBPl5#J<:UlPPo&&)_uUlJu4o:UBuBBU4<PJJ2J:U&^52):))2P4loYBol)D42B&:PP:l&JB:)3254&B))YBlUJ<o4n24UP&25JVJ)425Y7u5B&lJ8Yuu2uPo45&Y5B)<u&45YJ::lb&u<5u)2YYB&u5oUU)4W:Yu:PB5U<i:u_22P&)J&Y;5)uul4UYY:B<<PX<54u2:Y=&2)oU4Ju::Yuo:BU5u<Uuu2PPUoJ5<&J)2J&4)P2B)l2>o<Y<o2Bo<&Plo)P)B4{:o<)BJUPMlo}25PUo4&BP&)Pul4JPYBm54G&<loJ2l:J&olP)o)l4<Yo:5BBB5<(u22&Yo&&5hUu)))u44YBB<5u<<<4u:PNlU&&T<UYu&4uYo:UB422<uJY25P4o:5<U24&&)4Yo5Bu<<rUPPulP<BU&5CPU:Jm42Y5:)lB1:<u4g2UU<oB5<UPJ5Y24:oJB2)lrJJ5ulPu&Y&U#2UBu44PY):Jp:<:<2Jl2):Pol&PU&)U4l4BoYBPl5!Ju<2hoo&)&)NUUl5:4&YU:4lBB&<P4u2Jl&&<llU&J44o4loBBoou^:<B2<oP&-&J*U)XP<4&oo:YC<Po<&4P244&&25PU5)J5uYRolB&24+YJ42u&o)P&4nJ)<2e45<F:lg7Uu<54P2YJ5&P#<UUJ<2<Yu&HB5J:i:u<22P5o)&Y:B)2Jo4U!::Bl<kPu52P2::4&2l)U)uUJlYu:lBUUPABJY2PPUoJU:)4)2ul4)oP:l<<z&<Uul2B:Y&P55UJJ<41:oBBB)UUIlPU25PUo45BUJ)P2u4J5&B<5l{&u4P<2l:B&o)JU:)B4<:Po&B4UU<KY<2&:ooYU<Yo)&2P442&B2lPg5<JluP1:l&&44UYu44u:5ZlBYU4<<4<2)PJo:56Ul)&2o4Yo4BuUuwUu42uP<:l&5:uUluY42YYoYB:U4<u&u2UPYoB5uUP)5d)4B:gB22UL)<Yulouol&Uj&UBuP4Po2:JB:n<<2Jl2):5ol52Uo4U424BoJBP5lwJtl2<P2&B&)35UlJu4oYY:4_k_u<P422Jl:&q52U&J)J:4lo:BoJ<6YJJ2<o&&Y&J=))HPl45Y):YllU<<&4224BY&<{*U5JYlDY<olB&&<TB<l2uPo<:&4WJ)<B&45o&::8u2J<54&2YJo&25oUU)4YPY<&nB5U&N:J:22o&&Y&YGJ)ul:4Jo5:Bl5U5<U4&2:):&255U)):JlYu2PB)l4nB&22PP5oJ5:UJ)22<4)Pl:l5Bjo<UPu2B:J&PpuUJ)B4_B2laB)UoDlJJ2o2JoY&B)))P2u4JY:BZl51&u4Pu2l:B&oB&UY)B4<:Pl<BJUU<mYY25:ooYU<UJ)o2P44:2BulPZ5uJJYP<:B&&<5UYu44u:5<4BYUJ<<UY2)PJo:5qPU)&2o4Y<<BuU<-Uu:&oPuB<&5)BUlJ742Y&B2BYU4<u4<2U:UoBU<)U)52o4:uUBoUu3)uu4uP2B<&U<UUBJu4PYU:JB:ol<Pu&2)UBol5uUoJUZo4BoYBP5J%JJ)2bP2ol&)roUlu:4oY):4{B<4<P4 2J&)&})YU5))YP4lo:BolUj4<l2<o&o)&J;))Czo4&Y):Yll<u<o4224l5&uAvU5)J4PYnoYB&UPtYu<2u&o<U&4FU)<u:454Y:Bl6Y&<&4o2YPl&u5)UUJ:l<Yu&<B5PU}BuH22o&2B&Y.4)uPB4)oU:B(2<:<5452:o2&25&U)JY4uYu&<BU))yBJB2P&5YJ&B#:)2BU4)5oBa<uu<<U4U2B:B&P4:UYJ:4)Y2&uB)oP<<Jl2oPB:B&lMB)Pu44JYBBjlPH&<)U4PNou&o4JU4)B4<:PB<BJU)<CJ&2&:&oY&l)5)o2u44oJB<lob52JPuPM::&&NuUY4B42YoBPB4UJ<<uP25PBo:Uu)_)&2&4YY2B2lo=Uu42YP<B,&5u2UBu:42:UBJBYUY<u&Y2JP4oBU<V2)U2&4:&BB2U26)2Y)lP2Bu&U4:UBPJ4oB5l2B:U:<2422)l5&#Uu)J)U254Bu)B&UPIJu242PPB2&)UUUlJ24oY):4BB&N<ou52JUl&C52U&J)4&4loBBo54y4J42<PP&P&Jh5)Oul4&YJ:YIlC)<o4u24:5&<&&UU)J44YkolB&l)hYu22uo5o4&4-4)<YP45YJ::(DkB<&4o2YlU&2suUUJ:YJY<&<B5:&q:uk22o&:U&:R4)uP24UoU:B<<P*<5452:)u&2<lUJJBB&Y2&2BU&P8Bu<2PP5&)&:Q:)2224)oJ:lXu<o<U452BJ)&&QPUJJ222YP&2B)J2ylu22oP)o4&BBK)oJ54JGlB.l2A&u)222l:B&ol4U4u44<YP:UBJU5<%Jl2&PJoYUlPu)o2u44o5B<2:K)<JlWPE:l&&5)UYJP4u:5<4BYU4<<&42UPJo:UKeu)52o4Y5UB2UubU<4l<P<B<&55YU:J_42:U<YB:U:<u2J2)P4oBU2Y5)U2)4:fJB2l&A)<Yo>PuBu&UbJUBJu4P:5o)BBUY<2J22):)olUPYU))2U4Bl2Bol5/Ju:JlPPBu&)<JUlul4oBU<5BBUB<P&)2Jl&&<Uo4:)J2J4l5<B&lU34<B2&PPBP&J0J)a2<4&:)BJBlUB<oU_2::4&<5J-J)42JY%::B&lJIYub2uPo45&Y5B)<B&45YJ::!So:<&4o2Y:u&uTuUU)44:Y<oBB5U&(:u<22&&5<&Y;))uY<4UlP:ll<<5<54&2:oR&255U)JB4<Yu&uBUUU=lu<2Po5&:&:fY)2Pl4Jo):lluIY<U4o2B::&P5)UJ4:5AY2&<B)U&Xl<P2&PU<B&BGB)PJ54J:<B*}oP)<J4J2lPY&&5UU4JB)&YP&PBJJ&<<4<2&o4&J&l<C)o2l4YYBB<%Pn)<J4JPfl<&&E5UY4<loY&&&B4o:<uuP25PJuu5(<<)&B44Yo:Bu<oPP<44YP<Bu&5YEUl4=2uY5&&BYo5<P422Uo<B<5u<u)5:Y4::<B2l5G)<YUBP2oo&U4:UBJ<4P:5B<B:U:<2J)2):Jol5uU5)U2&4BoBBPlULJ2:lRP2B<&)f&UlY<4&YU)BBBUB<Pu52Jo<&nJ2UB))2)4l54B&&<XY2qUJPoBo&JJ5)<J24&:)lPBlUl<oY&24:Y&<U&):)J24Ya2uB5l)VY<lPUPoB&&4Y%)<2u45BJ:llQ)<<&452YlJ&2Uo)j)424Y<uYB)UU6:u&4&P5B5&Y:#)uJ&4UYY:Bl<&2<UuJ2:)u&25&U)JY4&Yu&uBU5B,BJl2PP5&<&:Z4)2224)Y::l<uYo<U4&2B:4&PlHU4):52Y2&2B)lYXluU2o5U&2&BKB)PoH44YPB^0oP)<J4J2l&)&o5UU4JB)&YP&PBJ)4<g4<2&o45P&l<()o#54:YBB<ePaJ<J4JPOJY&UW5UY4<G4Y&&&B4al<2uP25oJ5u5C<>)&l<4Yo:Bu{5u2<44YP<42&U5JU:J34oY&&5BYP<<u422U&45J5<<u)52U4:o<B2.&<&<Y4YPuJ:&Jz)UBJ525YU&UB:&o<2u52)P:ol5uBP))J44B<2BPl5VJu:UJP2B2&)llUl274oYUl2BBUY<P4P2JPB&y)2U:))254lBBBou<yY<BP<PPBP&J5:)yJP4&:4l5Bl).<oUo2YPB&<UP)4)J2JY*5YB5U5eY<lPBPoB2&4A4)<J&45BJ):l_Ul<&4P2YP<&25oP4)42YY<:PB5lB^:2u5&P5BU&Y4l)uJo4U:4Y2l<)u<5:22B:l&2UUJo)Y2BYu5uBUl4=B2<PYP5BU&:<B)22o4):Buul2)P<UUu2lo<&P55Pl):2lY2<UB)U4!lPu5<PUBJ&B<N)PB:4Y::ollP)P<)UPP<B<&o5B/B)lPfYPluBJlB<}uP2&P)4457Uu)oBJ44YBB<GP&<<J44Pf:&&&XUUY)l4lYo&PB4UY<<uo25&J&B5xgl)&Yo4YlUB2lo<B<44YP<oP&554U:4u4lY&&UBY:U<2uo2Uo4ol5<<u)5o24BolB2l&<2<Y44PuB2&U5:UBY<5PY5&5B:UY<2<U2JPYuu5u<P)UJ44B:oBPz)P:<BYGP24*&)5YUl4u)JYU&JBBJJ<o452Jol&552<&))))Yq:uBoEUu<<BY^PPlo&Js:)e4ol)YJ&YBlu<<ouU24PBu&5P<5)JBlY*&2B&<)PU<lYuPoBU&4YP)24P2&Y4&Yl1o4<U4)2YooBo5&<U)4o&Y<:oB5l4s:u*)uP5o)&YY<)uJo4U:4BUl<)2<5J:2:BF&25&):)Y2YYu&PBUlYvBP<PJP5B5&:bY)2Yo4JYYlJlu)P<Uu42Boo&PU)J&):PGY2J<BJlY7l2u2UPUBJ&BuJ)o254J:llYl2)&<)2&P<ou&oUUl<)lPvYP5oBJU:<C2oP<P)BY&lJ<)oJU44YBl:lP)5<J&lPdB2&&)))U)lPuYo&UB4J)<u2P2UPJBY5d:4)U2)4Y:o&ol&)U<452P<oo&554U:JH<uY5:)BYP<<uuo2Uo4&o5<<2)5u:4:&VB2l&<:<Y4YPuBP&U5YUBY<:lY5&5B:<B<2Pl2JPY&U5u<P)UJ44B:2BPV)<)<:Y*P2Ju&)5YUl4u4:YU&JBBJJ<o452J5:&o52<o))4B4l4)B&lU<u<B4BPPB&&J5l)IY2YPY)&JBlUl<o<J2YPBU:5P<5)JJ:Yn:5B&34<<<lY2PoJP&45B)<4PYUYJ&:l_JY<54J2Y&<&45o<))4<&Yu:PB5EJ<4uXY2P&l5&Y<X)uJo:2Y4&ll<zP<5uJ2:&/&J5&<))Y=5YP&&BUl:52u<YoP554&:UF)24&YsYY&lluUU<U4Y2Bo<5255<U):P=Y2:5B)<Y5YuuY2PU5)&BJJ)oJ5:5Y:5ml2v&<)uB2l&P5l5U<Y)BP4Yo:5BJz:uYu2Y&P)Mo5*<2)o:U:(YB5<lP<)<J<PP<o2525)<J)lPuYo:JB4<B<&uPY&PJB45Q5o)5J)YUYl52lo=U<42uP<&&5:5J<lJk2&Y5:)BY}ll5uoY)P4I55u<&)54YY<:R5ol&Y2<YulPu&o5l54<lJ<ouY5&YB:<uo&u5Y4PY2J5uUo)UJ4U2:<5&l5PY<:YuP25&Jo5Yu<JuP5YUu<lO<<)2uUY4P:4U5o<U))4uPu:255lU4P<B2uPPoU&J5:BlJP4&Y)<BBl{u<o2UPuPBlu5P J)J2lY7:2BJl))4<lY2Poo)&4)Bo<JPP&YJ&4l;PY<Uu)llPll25oUU)442Y<B&uJl4)lu+44P5o)&YUl<<J&P)Y4U5lu)&<52}Yyo<lo5&J2)Y4jYu:&BUl4&:uu2PP5Yl&:U.)2J&UYYY5<lux&<Uu:2B&<P)55<4):u:Y2&UB)gB<luuY5PUU45dU<)P45:<Y:5<l2JP<)4B2l&PJU5)<:)BUYYP:5BJl::ou2YUP))B&l<P)o4JluYl5PlPU5<4u:Pmo2&U5)<B)lPPYo&4B4xBuouPYUPJ4o5u<o)&Jl2l:Z5Plo)o<4ulP<oo&55JBYJ<42Y&<4BYll<u2o2lP4Bl5<L5)52Y4::+BBl&)U<YYKPuo&&U)4l4J<P2Y5l&B:u)<Pu&24PYl%5uUo)UJ:4BB2l&l5)Y<:YlP2o&&)UYJPJuP&YUUPBl)2<Po5P4P:l<52)U)))2Yf:ulYlU)J<BYuPPo)&J):JUJ2P&Y)&4BllP<&uUPoPBl25PU5)J4<YkBo,ul))l<ll2P&oU&4UB5&JPP)YJU&l<)&<&24oPPllo5o4J)YJBY<BPB:lJ)lud:<P&BY&Y)<:oJ&P4Y4<ll2.P<5uJGuoVl&5&Y4)YPuYulouPl4J<u<Y5P5J-&l)h<uJ5P4YY25lP)U<U2<Y<oul5553d):4<Y2:5B)lY&Bu22oPU):&BU<)P45YPY:5ul2U)<)4l2louUO5U<4)BP2YP:UBJ<:<2u2Y&P)B4&lJ<)&JUYPYB52lPL5<J2<Pc&o555)<l)lYlY5:UB4>BuJuPY)PJ^&5<<&)&44:<Yl5olol)<4uBP<&PY:54<lJCo<Y&&YBY<<<4uoY4P4)l52UP)5JJY):f5&l&P4<YYuPu5o5:54u<J<P5Y5UoBB<(u2u&Y4PY455P<U)U4<P<:u55l5J)<:2<P2o5&)5YBBJ24oYU<:BB6<<P25PPP:lu52N)))2l4l:uBUlU)4<BY2PPoU&J):)<J2P&Y)&4Bl54<&uUPBPBl25PU5)J4PYwBolPl))l<lYDP5oU&4UB)&JPP)YJU&l<)&<&242lPllo5o)&):JBY<BPYYlJ)luE:<P&BY&Y)<)5JoP4Y43ulu8P<52JPuomlo5&Bu)BPuYuB5<WlYJ<u<)2P)oJ&:)RJBJ&P4YYu5lu)U<U2:P<o<l555Y4)l4%Y2:&dolYJuuu55PUBB&B)2JYJ5PBY:U&lPQ&<)uYozoulU5U<B)BPoYPB5lul:Juu2UBP4Bl&l)P:UJ)PBYB&&loN5<J2:4loPlU5)J5JpPoYo:B&BllJPuP5sPJoB5>UP)&J)<4:VBuloPJ<4uBP<&P&B5J<lJq2&Y&&YBYll<UuoYUP4ln5<Uo)5YJuJ:952l&uo<YoUP2oo5J54u1J<4PY5:YB:<uuBu&YYPY:)52Uo)U44Y5:<5&l542<BY2P2U&UP5Yu<JuY5YUYuBl#<u2u5YJP:lu52UU))YY:J:u5&lU)4<Bu2Poo55J5:u2J24&Y)BiBl<P<JuUYlPB<P5PU5)J4:Jo:25)l)4ouXY&Po&JUo5BuoJPuUY4::l=<2uYu)YlPlM>5o<Y)4YTGP:o54lJ2Uu<22P&o)2<5lu&JolJY45ul<uPo2uJ:<o,l55&Yl)B4lP<:&54l4&&u2YUP5&hl,U<u5J&<:YYBTlu9&<Uu4):ou&P55YY):4tY2B&lDlYJuuu4UPUBl&BU<JoJ5P4Y:52l2T5<)PYlloul&5U<4)BlJY&:5J:l:J2u22&P)&<&l)P:UJ)PlYBo&lPg5<J2:4loPl)5)2oJ*P&Yo:UJBlBJouP2JPJo:5r)o:)JJo<YlY)lojU<4PbUPool:5J:EJ_42Y&B4ul_yJ)uo&&PYoB5<UP4UJJo<:=5Jl&tJ<Y2lY<o&l454A4J<PUY5BY<o(<J5u&P&PYol5u)oJlJ4o<:<Uul5)B<:PuP&o&l:5Y4JJ24oYU:4;&y<JUu55YP:lP52)U)JJYoP:u&ol)m4<B2<P)o5lB5:uPJ2P4Y)BY,CiuJUuU)2onlo5PU:<:JBoP:2U<l)/:<l22PooUYJ5l)<JPl)YJ::lp<2uxu)YlPlBo5o<Y)4JB:&:P5UlJJTu,2PP&5)5)5lu2JoPUY4l:lu}P<luJ:(o6&25&U:)YY<:Y:o5Yl4U<uu2PP5&J5RU=u&J&&uY:52lu<52Du4:uo<Uo5)UJ):Y3u):55YlYJ:uuY)PU&:5:U<uUJ5BoYBBVl2W&uUuY:2ouJ55U<l)B:<:4:55Bl:JPu2B<PJ&YU&UuuUJU<2:m5olPk:):uB:Po2<Y5)U:)l42Yo:UPJll<<uP5)PJo:5h)2):J)PlYl&olo)Y<4uBo2oPlU5Ju_JS4PY&l)o)llJ2uooPP4U55uUP)YJJoE:WB2l&/4<YP<PYoolY54B5J<4PY5BJZo*^J&u&BuP:l25u4oJ_J4o<:<l&l5l<<B2^o:o&lJ5YuuJu45YUl4l;8<J&u5Y4P:ou5PU&J2JYo2:uBolULl<BP2Plo5ll5:::Jo4&Y)BY:PLuJ)uUBPPll&5P))J<J:oo:24<l)mY<lPuoooUll5BulJPPYYJBl22;PJ4u))YPl&u5oUU&pJBo&:Pu)lJJuuCo2Uuo)7<5lu5JolBY:BB5OXoJ4uJ)ooulU5&Ul<l4fo5:olIl4Alu<2oP5oJYYU<)2J&l4YY:llu<ouuu4:uo<B555<l):4V:u:&54lYJ2uu2&PU545lU<u&J5P4Y:o)lPc&uBuY:2ou&o5U)u)BY2YY:55ll:Y4uP2&P)&YU5Uuu)JU&PYl5&lP<)uPu::oo2<55JUY)lYuJJ:U5llBJluPYYPJ&lUYU2u4J):&YlBulo<Uu5uB:ooPYz5YuuJjYo<l:JU<ll)2u52UP4&BU)UPu4JJwo:.5Ul&<42Pul:5ooYU54UBJ<4P:&:JUucHoou&YBPY5l5lUou:J4o2:<<Yl5<J2J2.:5o&Y<5BuPJuY5y4:YU2q<))uU2JP:56luU5u:JY:J:25JlU<<J<2u:)o5l)5:)<J245Y):YPBM2<ouU5:PB&<5P)5<lJBoP:2&)l)J<<l2uP5oUl:5BuoJP4UYJBllU,2JUu) ooK&u5oJU4PJBo2:P5)lJJBuRPo44oJll5lY<Jo4UY4:BllMPJ)uJ2loq&o5&)4J5Jloo:ouYl:wBu<2Po&oJ=<U,)2J&4)YY:llU>oJJu4:<o<lU55)YJ&4do&:&iYlB7luuP5&oo4TuU<5lJU4JY:B+clV&J:uYJPoul)5U):JF4<o):5G:ll<wu22&&uoY(2Uuu)JUo!YBB<:4Q5JYu::2o2lJ5))BBu42oU:UPlll<<uPP)&Jo:sPU2U<JJ4YYlBuZ5ZUJluBJ&oPl45J)l4442o4:)o{bm<uuo2Uo<oBeoUPu4JJou:cB2QJc)JBul:ooolY54Jh4&4PoJ:J:Uj<<2u&2)&UolCoUol:J4o<:<IP226J4>2y:&o&<P5:)lB44ooJ:4))vuJ5u5PYoJ&/_&U&UPJ:4l:uBom<644<2<J)o5l:5:434P4&oY:YUu7u)&uUP4ol&<E&U5<4J:o2:2lUF:iY4u2uhJo)&45BJ2J445oB:::4GP<&u)2Y):&2O)UU>{JBoo:Pl)<op:4o22K4oJ&Y5l)uJl4Uol:BUohPJYuJ2:&5&2(UU)ulJlo&:olJ8i_B4P2P&ooJ&:Un42JB4)ol:lUo=o4)u4oG&Y&P-4UJ2(4<Y2:&B)<o/l4o2oPJo45hU<J&oU4J&<B9:u_&<)uYo<oo&oZ:U4<B4<YP:5BJX<<n452&::oY_PUuJoJJ44&<B<u41)JBu:ouoY&&1:UY&542Yo:Ul:<U<<4)252ooB50U2)&Yo4Y&PBuoJgU4SuB&<oJ&5GlU:2o425<:JBYWu<u4U2U:loB%&UPJ)Y54:&PB2jB*)<YuloPo&&U<+UB<J4&Y5:J#:Q2<P442)B<olBUU&JJJY4B&5BP24z4<:21oo&J&)<2UlB&4&YU:4wgj4<P4l2J)<&<52U&))4l4l&5Bo)-;4uZ2<PP&u&4<b){254&oB:Y_<<J<o4Y24<:&<5PU5JYY&Yy&UB&<2kY<l2uPo&&&4<<)<2U45ol::gupU<&4:2YB2&25oUUJ:Y5Y<&)B5UJIluz22P&&5&Y<u)u2)4U&D:Bl<<5<54B2:o#&25&U)JY4&Yu&UBUP<<w4o2PP5&i&:<P)22J4)YY:llUUU<)Y}2BB2&P5UUJJi4KY22oBJlY;l4&2oPUo4&BBp)oJ54JPuBIl2!&<)U4P>ou&o4JU4)B4<YP)JBJ)2<yu22&P)oY5o.o)&2l44%uB<lo.5<4u:Pv4u&55)UY2o4uYo:Ul<U<<u4Y25Yuo:5<U2))J)4YuBB2loEU4uuBP<oP&5:)UBJk42oY:)BYll<uUP2)P4oB42UP)5JJYlu2BPUl,)u5ulPuooUU45UB2J4P&F:JUBm/uo5)2JB&olB4U5)UJ4:Bm:BP)<9J452SBPo&54Yl)q2:4o)<:YBBt<2P&22JBU&8nBU&2JJY:<uoB&)Pa4uJ22PPo55YYj)<Pf4&4Y::Bl}u<oB:24BJ&<<fU525J::uu&B5)&-Yu42PPooU5:Y<)uPu452<:ll%h2<&BB2YBY&u<uUU2)JBY22)B5)UW:4P22P&o)5u(u)2PP4UuU:BluGP<)uJ2:Jl&P5&U)J<JlYu:oBUoJflu<2PB1oJ&:Ux)2&)4)&Y:llujo<Uu4PP:P&o<UUJoP4NYP:&B:lYplU<2&PUo4.)U<)PJ54JuYB<l26&o4uY2lou&o:5UY)B4<oB:5BJl:<jUu25P)oY=lUu)oJUY<o<Bu)&%54&u:P<o2&55)UYlB42Yo:UU4lB<<uP2:Y:oB<2U2u4J)4:YlB)lo;U5JulP<oPK&5JU:J!42uo:JBYlloPuo2UP4oB:iUo)5JJo):wB2l&N)5429Puoogo54UBJ<4Pu&:4B:8v<Uu&2)PYol:<U&)UJ4oY:<BPl5{J5Y2<P2o&/u5YUlJuY5<4:Y)ui<24u)2JP:5u4&U5PIJY)<:uBolUX45:2<B)o5:55:25J24&P:::)Pdu<5uUB<PB&ooBU5)JJ:&U:lB5l)<u)l2uB:oU<2UJ)uJPu5YJB<:JC2<&u)BPo4&25oUUP>JB&J:PUUlJr:ue22B4o)<&5l2JJo4UY4:BYB1PYnuJ2lov&P5&U)P<Jl&4:oUsl4bBu<2PBYoJ<5UW24J&4)YY:lYlioY<u4Pbo<&o55)mUt4q&5:&U)=U<Huu25PUoloUU<)PJ5oJ:)B<l2<UoYu:B2oulU5UU4)B4<)Y:5UBl:5:u2:JP)5Y5PUu2)JUolYB<5l&O:):uBB&o2&U5)U:)l4oYo:UPJll<<uPJ5PJo:5hU2loJJ4YYlU2lo_U<4uBJeoo&55JuoJ942Y&:)u:ll4&uo:BP4ol5<)&:JJ4&<:_9<l5r)<Yul<JooiY54l4J<oUY5lJl4_p45u&::PY)o5PU4<4JY&P:<P2l5v4<:2uP2o&YU5:UlJuo5YU:4BBk<52uU2JP:l552U&))JYtM:uU)lU4<<B2uPPo5)B5B2PJ2oJY):YBl6U)Uu)B{PB4l5PUU)J4uYf:2PolJwY<lJ<PooU&45Bl9Jo45YJPJlV+2<&u))4oG&u5olU)4JBY<:PP&l4y:uW)UP&o)&Y5ll<J&4UY4B2l</P<5PJ5)oCO)5&lU)YNUY2loJUl44Pu<:JP5)=&lU&<&J5&<YY<llu#&<Uul2Bo<Y25UUJ):<oY2:&B)lY&Bu22oPUll&BU<)PJ5<)YBBfl2J4<)uY2louYP5)U4)B<JYP:5BJl:ouuP:YP)7P&lU2)oJUYlYBU5lPj5<Ju:PX&o5l5)22)lPuY5:UB4<g<4uP:lPJu:5>U2)&J4u<YlU4lo2P<4uBP<oJBJ5425Jtu<Y&:JBYGi<uuo)5PYoB5<Y&)5JJ4::&&&l54P<Y)oPuo&&U5YUBJ<<2YU:JB:22<2u&2)oB4u522<)UY)4B:<BP<5P&<::YP27u&)<:Ul4PlUY)UUBBuU<ou52Jol425P2P))u2Y<:uBolU4<<B::PP o&J5l)=4ol)YJU)Bl)X<ouU24oBBy5o22)Jo&Y<U#B&llUlut:lPoB4&45l)<J545YJ2Yl<f2<&oY2YPl&u5oB5)YJBY<UEB5lJx:uO)uP5o)&YB:)uJo4U:<&<lu4u<5BP2:o<&255U))Y}BY2:oBU&4;Bu<2PP)4l&:ul)2Bl4)YY:l<uP<<U:42B4l&PBuUY4:5!Y2U&B)JY*loU25PB:B&l22)P254JYBB!XuK&<)U4PVou&o4JU4)B4<YP2&B4l:<do&2&P)oY&lB<)&JU4422B<lP75<JUYP<o2&&<:UY)l4uYo25BYlB<<)<25PJo:5GBu)5J)4Y2lBuloQU<4U:PuoP&5uxU:J(42Y&2UB:ll<uYY2UP4oB5<B2)UJJ4:5UB2l&#)<YUBP2oo&U<aUBJ<4PY52)BB I<2:P2)PYol5uBP))J44BUEBPl5wJ<:UlPPo&&)u5UlJu4oYU2JBl!<<P:V2JP:&>52Bo)JJY4l5YBolU14<B5uPPN5&Jul).JP4&B)<UBl4u<o)&24U&&u)PP5)Jo:Y#U2B&ul0Buo4oP&OJ&4lo)<Jo45:&::lA&u<5u)2YB<&u5oUU)4b:Yu:PB5ol6:uc22P&4U&:5l)u<P4UY4:Bl<&2<UuJ2:lP&25&U))YaBY2:oBU2:1Bu<2PP54)&BUd)22)4)YY:llu&P<)u42B4B&P55UJ):alYP:&B)&Yxluu2oPU4J&lU<)P2:4JY:B#l2&o<JuY2lo5&o5UU4)B<FYo:5BJ):<vu22&P)445RUu)oP444YBB<lPPU<J::Pdwo&&5JUYJo2oY&UUB4)l<<uo25PYo:5RBu)5J)4Y&lBuloKU<4U:PuoP&5B5U:JT42B&<oBY4=<u)22U4&&h)<PP)5o44:U<B2uYD4uu4uP2tU&Uu)UBJu4PY4:JB:ol<Pu&2)4<ol5uUo)U^J4l:<BP&50J<:2jP24o&J5YUlP&4oYU:4BB&+<ou52JoP&p52U&))B:4lU2BoJ464<l2<PP<J&JuB)MJ24&Y):Yy<oo<&:J24U2&u5PU5JY/!Y<U&B&:UKY<l2uPoYu&42t)<J&45YY::ZuP&<5:Y2Y5Y&P5oUU)452Y<U5B5JYX::222&&)o&Y22)uo54U:u:lO2o5<U:l2:)o&25&U))YoPYuU4BUJ:8Bu<2PP5)4&B25)2J&4)YY:lluP&<UB12B/U&P5UUJJll2YPU4B)u)<<uu2ooJJB&l25)PlJ4YY:BAl)U)<JB22lo&&o5)U4J<4<YP2&B4l:<0:&2&P)oY&lB<)&JU4422B<lPA5<JUYP<o2&&<:UY)l4uYoPuB44P<<u&25PYo:5F&J)&o44YUPBuJ4*Uu:U<Pu_)&5Y:UlJg42YYoYB:4o<uUo2UPYoB5PUP)5b)4B:(B2JJL)<YulPu4P&)54UBl)4PY5:JB:ol<Pu&2)J5ol5uUo)U::4lU&BPl)rJ<l2Eo2&P&)uBUlJ)4&5::49^{Y<P:Y2J)u&E52U&))4Y4lUUBoJJS4<B2<PP&<&J2P)6JP4&Y):YBl<P<o::24eo&<5oU5JY4UYKUUB&l)(:<l2uo5)4&Y2P)<2Y45YJ::lhBF<&:B2Yo<&u5&UUJ:y<YuU)B5)<w:u_22oUJY&:2o)uUP4UY4:B(2P5<UBu2:&Y&o5&U))YsBYuU4BU4<AB:)2Po)):&B2U)2BW44YY:lluP&<)BP2Bou&P55UJ):<oYPUYB)4o,luu2oPU:P&l2&)PJ54JYlBRl224<JB<2lo2&o5)U44E<YYoUYBJ<4<3u22&&)&:&l25)oo:44&lB<S&uP<JB2PDBU&&5)UY)lY5YoU:B4Ly<<u&25oY&o5w2))&Y54YYlBu<oPP<4BPP<TJ&5<4U:4ul&Y5)IBY/5<Puo2UP4YU5<2J)5JY4::uB2jUoY<:B&Pu52&U54UBY<lyY5)<B:45<2Y52)oBJu522:)UUu4l:<BPl55P<:B5P2oU&)5BUl4PlUY))2BBB<<Pu52Jo::l5P24))ooY1UJBozJ4Y<BB)PP2&&J5:)Z4oY&Y))oBlUu<ouU24PB545P2l)J&oY%UYB&h)u&<lB5PoUl&:2&)<4&lJY4)olyP<<&u)2Y&<4o5&P<)4B<Yu:PB53YoRu<B:P&)5&Y5l)uJo5:Y4)5l<4:<5BP2:&u:45&P2)Y)BYu:oBUl4u<u<B:P5<2&:2J)2J&:uYY)Plu4:<UBP2B&2&o55Pu):Y5YP:&B)>Y<2uuB4PUEP&l2))P45Y4Y:)&l22:<4B<2l&P5:5UP2)BuJY&:5BJ<:<2uPBBP)<P&llU)&4J:oYB)JlP)5<Yu:P;&o5J5)P&)lPuY5:UB4<v<UuPluPJB:5uU2)&J)YPYl)JloY2<42nP<&PPY5JP2JEo<Y5)<BY<<u&uolRP4BB52UP)54J:J:1))l&UU<YB5Pu&5445YP&J<Y5YU:JB:u{Plu&l<PY<55uu&)U4:.<:u):l5uu<B2!P2&UJY5:P)JuPoYJ:4BB<24Pu5loP:)Y52U&))4BY<:uJ<lU)4uc2<PPo5&Y5:PUJ25uY):BBl<u<:uUl<PB4&5&2l)J4l:<:2)Bl)<luG2uPo5UU25BP)JP&lYJ5BlC<ouUu)loPllu55UU)4Y 7P:oJ<lJBlue22P&&4JlUsP:JoPUY::Bl<<&oJu4l)o>WP55U))YJl&U:oJ#l4YJu<2&P5&JBYU<P)J&PJYB)5lu<5o4uYl&o<5Z55UJ):460P:5JulY<1uu2oPUo4ooU<PJJ55uY:))l2<UoYu:l5ouYl5)U4)B4<mo:UJ2l:<<u22&P)oYo&UuP4JU52YB)JlP<)o:uBlUo24o5)UY)lYuPP:)JulB4JuoBlPJ&:BlUPP:J)l2:<)Ulo<JJ5ull)oPBr5YU:J+:2Y5:)JPllYJuoJBPY5i5PUPo3JJP::uB2l&<4u&ullYoolU5:UBJ<Y&:4:JJU6EJ2uU2)PYol5:UoomJ45):<B&l5<Ju42RlJo&L55:P5JuY504:YJ&6<JPu)2JP:5jluU5opJY2B:u):lU<:JJ2ulYo55:5B)8J2:&B&:YJ5NuY:uU:YPB525:U5o2J:JB:2B&l)<Bu22ulloUl4Uq)<JPY)B<::J4G25:uJ2YPl&u)uUUo2JB5Y:PB)lJ<:u<22l:o)Y<U<PJJoYJ<B:lJ)KPuJu42:o7U24uU)oPJl5J:oU)l4u-&P2oFxoJl:Uu)2J&Y4xlBFJYZo4)uY2Bo<5&<5UJoU4.o2:UB)lYu<u&2ohPo4FlUu)PJ54J:YBKJ4d&:ouYP<ou5o)uU4oo4<oo:)Jul:uu2P2&n<oYJuU2)oJU:4:5B<JY;5:uu:U<o25U)&UYoU4u2J:)B4lB<<B)25cuo:uUU2PlJ)YYPBB2JY UoYuBl)oP)5UuU:o542Y5:)s5lluP4<2)V2oBBJU&)5JJ:::JB2JB=):Pul4Uo&5JU<UBoJ4P*4:4B:}duou42).&ol4&U&)UJ4:9B4BP4ueJ&<2<P2o&&)U&UloJ4oU2:4l;0<uPu:2J{P&qlJUUo<JY:<<oB&4-_4)<2<PPo55JlY)<oJ4&lu:BJ5(u2o&P247&&<u4U5JJJlBI)2B&4<.Y:52u54oJ5<r<)uoB452o::l<(2<5u)2YJB&25oUUo/JBY<:PB524m::U22Fbo)&:5l)UuU4)U2:BoBqP<UuJ2Bop&2:oUJ)YJl2u:oBUl4uBo:2P(#oJ:4UhlBJU:)UY:lJ4Do:<u45Po2&JlJU4oU47&::&BJlY<*uu2oJ5oY&BU<PYJ54JY:Bp2P^&:uuYlJou&&5U):l<4u5::5Y)l:<0u2PUUYo:u)Uu<oJU44YBB<4)g5:2u:l)o2uN5))BBu425l:UB<ll<<uP25Zlo:u)U2PlJ)5&YllPuY^):ouBBUoP&55JU:4:425l:)JollYYuoPUoPoBuJUPYBJY52:#loP)TJ:oulu<oo&U54JpBP4oU<:J&:vG<2u&2)<<olu4Uoo<J45U:<l&2J_4:52_2)o5&)5YUl&54oU<:4J5v<YBu5PY)-&<uBU&J<J:4l:uBoo5_4:52<l:o5uo5:)j<U4&Uu:Yl<{u<&uUP:o<&<u:U55)J:Y3:2lUpltY:)2uYooU&45B)<4U45U2::J)I2:fu)PB&U&uulUU54JBY<:PB5<oj::)22llo)u&5lJP4:4UUo:BTU%o<5uJ2:<o&2ulU)ooJl5Y:olJ558l:42PBBoJ&:Uw)24P4)Uo:lJ4yo:uu4o}&4&P2<UJ&44vY2:&B)>3}l:42o9<o4uUU<J&444JU5BM2Kx&<)uYPl&:&o2<U4)l4<5B:5lY_<<y:Y2&uUoY&lUuJ54:44UUB<5Pk5<Ju:Pa&U&&2uUYoU4u5l:Ul:FY<<:B25uJo:53U2)&4Y4YUUBuJB0U:ouBo2oB&52PU:454PY&:)BY<)<u:B2UZPoBu4UPJ)4g4:UJB2):=)<YulPu&,&U2PUBoJ4PU<:Jllio<2B02)ol&V5uUo4U4Y4BU4BP4<3J4B2Xoo))&J25Ul2u45YU:43go&<oB22J::&u52U&J4J:4lUlBoUUM:<B2<o&o:&J24)1<&4&Y):YBlkl<oBu24-Y&<5&U5JJ4)YCUYB&PB/B:)2uo5&5&425)<U245YJ::aual<&B22YYl&u5oUU)44JY<U:B5420::J22oU&U&Y2))uUo4UY4:Bl<<Z<5B22:N)&22.U)JBluY2UlBU<uflu<2PP5UU&B2))2ol4)U&:lePy)<UBo2BlU&P55UJ):4BY2UlB)4o*l:Y2ooJ5o&B24)P5o4JY:B7l2_5<)Bo2l 4&o2uU44=YBYP)<BJUY<{u22&o)&P&l24)o:<4:UUB<j&k4<JBUP_2)&&5)UY)lY2Yo)<B4<5<<:l25oY&55L2B)&524:YlBuloP)<4B5P<hl&554U:Jt)BY&:)BY;*<uuo2UC&oB5<UP)UJJ4::}Bollv)<YulUo4:Y)B:Bl_PuUuYPYl4= <2u&2)YP&O5uUo)UJ44B:<BPPUe4<B2 PPo&&)5YJl:B4oY):4BlI<<ou5Pm0B&g5PU&J&JYY3:uBolUcl>U2<PPo5555:)<J24Yl5:YBlsu<:uU2YPB&u5PU4UPJ:YK:2BBl)(:<l2&uloU&45B)BJP4UYJ::P<0P<5u)2BPl&u5oUU:eJlYu:PBUlJABui22)5oJ&:5l)oJo4UY4:Bu&Xo<UuJ2Bop&P5&U:U&JlYu:olol4xlu<2P2uoJ&:UR)PJ&4)YY:llu/o<UuYP5o<&P55UY4v4aY2:&P:&<Uu)4J2J4Jl::BUl4<2<lmBPYol5o)A)<J2oP&Y5UU4)B<Uu)P4o<&u5B))2UPloY&lUu:UBBu:ulPBo)z)uJu:PWo2JBBBl)z!ua2PP<Plo9UW)2J4)J4BBul5)U4u4YYlBu2U5e5YJZJu45:4:lllJuY_Y&:)BY&255)U4<4)Y<4&lulU7Yu)2oP5l5z)<BPlPuoo&U4ll2<Pu:2o2:H:5PUuU:J=4UYP)ulol:<:u42Jo5&J52UY)B&2Y)YBlZJl<&uPpu::l2_<<Pu5JJ4lY)B<lJ4JJY4l:ul5P4{Y<l2<P&o5&J5:)k5&4&YJ:YlNzu<5uUP4Y:&u5oU5)4J:Y;:2lUPY_:u32uPBoU&45BJ2B54UYY::lUN2<&u)2YlP&u5UUU)4JBY<:PB524N:u<22P)o)&:5l)U:24UY4:B<<ZP<UuJ2BoT&5&IU))YJlBu:oB)l4uM5P2oPUoJ&lU^)2J&4))l:ll2Xo<)u4P8o<UP42UJ)B4%YP:&BllY<oB22oP)o4UBU<)oJ54JY:BP::X&<)uYolou&&5U):l<4uYo:5BYl:<(u22&lNoY5SUu)&JU4:YB<<l5D5<4u:P&o2&:5)UYJ&4uY&:UB4lB<<uPo5&ko:5<U2)5J)Y<YlBUl59U<YuBoloP&U5JU:JV454x:)BYll2buo2)P4oBYuUo)UJJ4B:HB2l&_lPJulP2ooU<54UlJ<4oY5:B:59c<2u&ouPY&N5uU)UuJ44B:<ful5.4<:2E)Po5&J5YUlJu4oYUl4uJq<<ou524P:&o52J&:oJYYM:uB&lUsl<B2<)ooU&Y5:)<J24&Y)BY&Bc2<&uU2BPB&25PU5YBJBY<:2B5l)NY<l2u4:o)&Y5B)uJP45YJ:::4d2<&u)2:Pl&u5oUU)4JBY<:oB5lJ3:uS2BP&o)&Y5lB2J&4)Y4:Bl<WP<52,42oS&25&U:)Y4>Yu:&BUlllUu<2PP5oB&:U<)2JJJ2YY:llu;l<UuY2Bo<4o5UU4):4<Y2:&B)lY4Puu25PUo4&BU<)PJ5)5Y:B<l2nU<)u:2lou4&5)UY)B42YP:5BJl:4ou22UP)oY&lUu)oJU)UYBBulPg)<JuBP+o2o<5)UY)l42Yo:UB4lB<<uP25P45u5tU2)&J44:YlBulool<:2uP<oP&54ll4<ou(YUBIBYll<u54):JB:uBjl&YJJ:4::dB2l&0)<Y<lU<o55<54UBJ<u42&PYoU52U2U5)Y4<&<52Uo)UJ4<<:2B:l5DJ<:5)4&J<YBlo:2<<uY2&::luA<<Pu5Ul44Y)B5UUJAJY4l:u2xo:UP&<JEJU4Y&YU<)_J24&P2P<&<5<<52<24PB&<Y<BUS<<4u)P5o4o:5<u<22PooU&4:U)24<45YJ::225UUU)4J<4::&4UB)dU<2222oB)l4+:uj22UJo4&:5l)uJo<+YB:Bl<dP<5uJ2:oK&25U)2)YJlYuu<o5&J5)55))JJYB:Ylu)oJ)4)YY:l&c&JUlu:P)o<&P55:YT&<5u4PJ2l&<5u)&JP4Jo:5PU<)PJ5l:<2ouoP525BuBPsou&o5UYYBl4<YP:5lYow<<u22&PBoY&lUu4oBP44YBB<lPn5u5u:ouJ&&55JUYJu4uYo:UG42J<<uo25P4o:UuU24&Bo4Y:<Bulo UuluB&<:<&55YU:Ju42:5:)^Yeo<uu52UP:oBU8UPJ)JB4::2B2m&n)<Yul&uoJ&U5lUBJ<4P:4:Jt:<J<2uJ2)oFolU2Uo4UY&4B:oBPl4aJu)2iP2&}&)5:UlJ&4oYJ:4^B2:<PuU2JPB&M54U&J4llYy:PBol4q4<B2<&P)2&J5l)qJo4&:4:YXl2B<ou424PB&<UUU54JuJYM:&B&lYxY2u2u&o&l&4U<)<J545:)::(uil<&u:2Yol&u5oUU44YUY<:)B5lJ0:2P22&&&P&YUP)uJJ4U:B:B<<<<<5ul2:oo&2UuU))YY)Yu:5BUtyvBu22P&5)&&:Uu)2JU4):P:ltPoU<)uB2BoP&P55UJ4:42YP:)B)llVl2P2ooJ5<&BUo)P454JY:B_{o<d<)2<2lo&&o5UU44-42YP::BJV:<9u22&P)&&&lUo)oJB44:ZB<s&oJ<42<Pjo&&&5)UY4lBBYo:YB4Ru<<uB25PJJB5<UU)&J)4YYlBu<oYU<422P<o)&5U<U:4uH&Y5BkBY><<uuo2U&4)J5<U4)54<4::)B2<&Po<Y2&PuoY&U5YUBJ<oJY5:lB:s5<2uU2)ouU:5uUJ)U:P4B:uBPlUgJu<<JP2o&&)JoUlJ24oYYYoBBd<<Po<2JPB&9522o))4}4l:&Bol)R4<BUuPooY&J5:)7J24&B))YBlw5<ou:24oo&<U&:J)44PYW:oB&l)gY2l&BPool&4Uo)<J:45BJ<)l(GJ<&2+2Yoo&u5ouB)442Y<:4B5lYF:u&&<P&oB&Y4u)uJ&4UYY:BloBB<5uJ2:U2&255U)Jb))Yu:oBUul Buu2PP522&:UP)2JJ4)Y::lluo&<)2D2Bo<&P55UJ4:<2Y2:4B).<Vlu)2ooJ&<&BUU)PJ)4JY:Bh<2<4<)222lo)&oU<U44B4JYP:BBJNP<a2U2&P)5&&lU5)oJl44:VB<lJ1Y<J2uPz)i&&5JUY)l4uY)YuB4lB<<&<25P4o:5XoY)&J:4Y:2Bul57U<45lPuo)&55JU:J-42B&))BY-P<uuJ2UouoBU2:5)U4<4::uB2l&S)2Y&4PuoY&UUuUBJJ4PB5<&B:95<2u:2)oJol5uu4)U4I4B:UBPl)nJu2oBP2o4&)YuUlJ24oY):4luB4<Pu52J)2&O5PU&):)&4l:uBo2l>4<l2<PPN&&JU<)7J54&Y4:Ydl2B<ou:24ou&<5lU5JU{<Y9B2B&P&GYub2uPJoU&l&U)<JP45<5::l<Z22&&o2YoP&u5)UUJ2JBY5EuB5llf:&l22P5o)&:5l)&Ul4UY4:BP#IP<UuJPlJ2&P54U))lJlYu:ohU25sBu&2PPYoJ55US)2Y24J:<:llPLo<Uu42B2Y&P55UJ)B4*Y2:&B)lY,luu2oo)o4&BU<)&J44JY:BkP<&5U&)<Puou&o5UU4)B4<4P<&B:l:<;u22&P)oYU2Yu)5Jl44YBB<PJ&Y5:J<JlYo))54)5)l4uYo24o2&25PUl)JJ4Y):YBUHUJ4YuYlBulo5:U))BJu45:u5:U:Jf42Y&:)BYll<uu5P^P4oB5<:5ll<)uYPPuJ&455<BPNPuoo&UBul2<ouuuUP5ou&25P)uJo4)YPB&B:/5 lYh:PBPl5GJU4)o4JoU5<5YUlJuAo25PBo55o5:)&JUPl&552U&))l<u:22P5&P5_Uu2PPPo5&J5:)8J2YBc):lBl8u<ouU24PB5<4PU))lJ:YE:2ou&UU2UPJPP5&u&45B)<dJuK2YPu&2&UUU)lJ<Y<&P5BUU)4JBXB2oo+&Uou)&)U4PY:J45l)uJoYJ<B:ll2tP<YuJ2:oe&2P)U))BJlY2:oBJl4<PPl2PP)oJ5uU#)PJ&4JYYB2:Y6o<Uu4P2o<&o55UBU54KY2:&l2lY<7uu2o))oY5gU<)PJ54JY:Bt)U/&<YuY2lou&o5UU4ll4uYU:5BJl:<Hu22&:ho:5<Uu)oJU44YBB<<U9U<Yu:Ppo2&&5)UY&u4uY5:UB4lB<<uP25J4oB52U2)&J)4YYlBu:&KU<:uBP<oP&U5J)ll24PY):)loll<uuo2U<BoB5PUP)UJJ4l:yL24&c)<lulPooo5554UBm44PYJ:JBlsF<ou&2)):&q5&Uo))J44B:<BJ4UqJu<2z5Yo&&J5YUlJu4)4u:4BB(<P:u524P:&0YPU5):JYY_:uBolUu4oJ2<PUo5&B5:)YJ24YUJ:Yl2puPBuU2YPB&<5PU4UPJ:YH:2<ll)Q:<l2u)&o)&l5B)2JP45YJB2<B%2<Ju)oUPl&25oU))44uJ4:PB5lJu)u12PP&o:o&5l)uJol<Y4:ll<uJo4uJP8o-Uu5&UJ)Y4lYu:):ul4qBu<o2P5o4&:UP5:J&4)YY<Ulu/&<UP45Jo<&U55UJ):4<Y2lYu:lY<2uuoUPUoY&B)u)PJ4JPY:B9l2u)<)u:2lo&Pl5UU4)BBJYP:UBJ<:PYu22JP)oB&lUP)oYBl:YBBolPP7<JuBPOo4&&5:5&)l4uYo<<B4ll<<uPUUP4&<5_Uo)&J)4YBl<BloNY<42uP<ol&5UJQYJ<4oY&B5BYZ2<uuoU)PY&u5<U&)5JJ4:By&ul5C4<Y2uPuo)&UU:<JJu4UY5:BB:zK<2P&P)PY&25uU))U4o4BB2l)l5Ll<:25P2o&&)UBJ2Ju44YUBuBBO<<P2)oPP:&552U:))JY4l:ul)lUyl<B2UPPo)&JU:J&J24UY)B)BlL&<ouUUYPl&o5PU5)JJ:Y9:2U4l)<<<l2uPooU&4)*BPJo4:YJB2lh82<&u)B<Pl&)5oUJ)4JBY<:Pu&l4<2uC2JP&o)&Y5l<)J&4YY4:Bl<6P<5uJ&<o<&55&U))YJlYu:o2)lY<uu<2PP5oJ&:U%2UJ&4BYY:llu9o<Uu4)lou&J55UJ):43Y2:&5(l:<2uu2oPUo4&BU<4UJU4BY:B_l2N&<)uYuJou&o5UUY)B4<YP:5BJl:<MuPPlP)oY&lUP))JU44YBu&&u5YU5uBP<oo525)UY)l1u2<2)ol&PUK)&JP)::<:<l<lJJ4YoYlBuloP4&<JyJuY<YYYkl)<)4oYJ:)BYll&5)2J<4l&q5UUP)5JJ!U2ooY2)5UU9)PPPoB&U54UBBB<ouBPUo&5PUUUJ)BPB&55uUo)UE<u22:o2oJ52)<J)Po&<&)5YUlBB<JuBPl2<5=Uu)4JY4YYY5oU)))JY4lPVPJ&lF:u52<PPo5J:Bol<<o<5uYotoP5P<52:24PB&<4JlW#U<<Z&2YoU&YUT&u)JJBYPYlY:l5B5u2u4oE&2io<Yu)2YPlJo44lJlY<4u&:&B4lJC:uvJ:J4Y4:4U<)JJo4UY4u&&&5<5U)UJY4)Y55U)))YJlYu<:o:&U&lUlJ24}4B4lBlVu<Jr)u:o<&&(5<lu42Bo<J)BoB4ll<YuU2JB4%<mluu2o)4Y4:2B&lUJ)YUY:B!l2PYUu)JJ2)UYBBJlB<ulPuYPdo&&<<uuJ2&P)oYYoB5lU<YuJP,<Pl5T5<Ju:P#o2&&5)UYJ<45Yo:UB4o<U<Uo)JJlol5)U2)&J)_oPuu:oJU<ol):4UYu&U5J)MJ#42Y&:)BYlltu&P)uP4oB5<UPBUJ44::eB2l&r)<YPlJ4oo&U54UBJ<4UY5lJam+8<2u&2)PY575uU4)BJ44B:<uYl5g4<:2yP2oJo25YUlJul:YU:YBBZ<&ouU2JP:&<52U&))4uB::uBolU<P<B2uPPoU&JU<5JJ24&Y)BoBl{2<ouYuoPB&<5PYl)JJBYk:225lJeY<l2PPooU&4)BY:JP45YJ::leDB<&ull:Pl&u5oB<)4JlY<:PB5lBl5uH22P&4u&YUS)uYo5UY4:ll<yP<52:2:&uJ&55UY)Y4lYu:oBUl44Pu<2oP5o:&:Uu)2JY5JYYBaluoB<UuY2Bo<&P545P):4(Y2ulB)l:aluuU&P)oY&BUP)PJ54JY:42l2b5<)u:2loP&oUJYB)l42YPBYBJl:<xu2U5PJol&lU&)oJU44BBJ<lPmJ<J2CP &J&&U4:lJ%45Yo:)B4lB<<PP52PJ&u5IUU)&Jl4YBl<Blox:<422P<&J&55J22J+4&Y&:BBY!<<uu4&&P4&<5<Ju)5J44::<B2lJl2<YulPu52&U5YUBJo)BY5:JB:<l<2u52)&Yo:5uU5)UJ:4BBJBPl5o4<B22P2oJ&)5YUlYu<UYU:BBBQP<P2B2Jol5&52U4))J:4l:uBo<Uuu<B2&PPoY&JU2)OY24)Y)B<Bl^5<o2<24PB&l5PUJ)J4uYO:oB&llu<<l2oPoUz&45l)<JP45YBY5lr+2<&o<2Yo}&u)ol2)44dY<:&B5<2=:2uU&P5oY&Y)2)uJo4UB4)ol<Q5<5u:2:oJ&2UU)o)Y42YuBJBUl4,Bu<PUP5ol&:Uu)2J&4):BlYluy4<UP*2Bo<&P55Jp):42Y2:YB)lBSluuPlPUoB&BUu)PJJ4JB:Bll2rJ<)ul2lo)&oU&)5)BY&YPxJBJlB<#u52&P:P&&lUu)o:444YlB<lUl<<Ju:Pd)X&&5JUY4lBBYo:YB4lB<<2P25&JB45<UU)&J)4Y:lBu<o<o<422P<o)&5U5U:YnY5Y&:lBYqu<uuJ2UP45<5<U4)5JJ4::_B2<&_:<Y2&PuoY&U5lUBY<4UY5B<B:/5<22U2)PY&45uU4)U4<4B:UBPl54)<:2oP2o4&)UuUl4u2PY):lBB}B<PuY2J&:)Y52UJ))JY4lBuBo_JoB<l2&PP&4&J5:)%Y2luY)B<Bld5<o2&24oBBH5oU4)J4oY#:UB&<)YY<l2&PooU&4UJ)<4&lJY4B2ln<u<&u)2YPl{U5oUY)44PY<:&B5RVYBuc25P&4u&YUS)uJo4UYlYUl<fP<5U22:o<&2J&)<)Y42Yu:UBUl:mBuo<BP5oJ&::))2J54)YY2_l2fo<UuY2Bo<&P5:P4):41Y2uuB)l: luu2oPYPo&BU<)Pl24JYBB}l5lQ<)uY2lJ4&o5)U4)BtuYo:5BJll<Lu22&&))U&lUu)oJU44:)B<lJYU<Ju:PRJY&&5JUY)l4uY)YuB4lB<<5:25P4o:)vP2)&JJ4YYlBuA<rUu:5<Puo5&5U)U:Jm42Y&5lBYR8<uuU2UP:oB55Po)5J44:u)B2l53)<YulP&2l&U54UBlJ4PYU:Jm:Y#<2u52)PYol5BUoJJBB4l:PBP+&OJ<:2hP2lY&)5:UlJo4oYJ:4<B3)<PuU2Joq&0U4U&)))54l:uBol)g4<B2<PPo5&J5:)O4K4&Y):Yl<fJ<ouU24)B:nB5lIhB<&ulP<BULu8Y<l2uUUYIYYlWlub5u4ulPlluvP<&u)2YJU&PUoUU)4JBq)P)oPo454Ul)YJJJ4:4BB.&lo<)2:oul2d5<5uJ2:4BYUB:U4JuJlYu:ou4P<UAUuJ<JYoY5<Uc)2J&<hu:PU&&n5<lu42Bo<Y4:YlBZP<o2<PYB4nJIluu2oUBYP:YBo:J<>uYP(oP2&&BUu)UJ2oP5J5UU4)Blou)PJ&2&4525uJ&4)Y4BuB4W)g:W=2YPuo&525l)<PuoP&&5)UYl54P:u:UB4lB&2U)JoJBYuBu:&!JyBuY2lP5o)/J<YuBP<oPY<JYU:Jt42:UuYB:ll<uu:2UP4oB5<o5)5JJ4::<B2lU1)2Y&4Puoo&U54UBJ44PY:MUB:v}<2uY2)P:ol52Uo)Y)o4B:<BPl:}J<B2eP5P;&)5YUl:24oY):4BBou<ou52JP:&w52U&)l&:4l:uBoqu84<l2<PPo5&B&5)#J24&:2:Yl1Vu<)<u24PB&<JoU5)4J:YZuPB5l)aYu,2uPooUU44J)<JP45YJ::luR2<YBJ2YPl&uJ&UU)YJBY<:PB4BP*:u*2255o)&:5l4u&o4UYY:Bl<+PuVuJPl)2&P5)U)JcJlYu:oBUJ<-Buu2PPJoJ&lU0)):P4)Y::lS&Wo<)u42lo<&U&<UJ):4,:5:&BJlY<2jY2oPUo4)lU<)oJ54J<BB<lP%&<4uY2lou&42)U4)l4<lo:5B4l:<Vu22J22oY&lUuY&JU4YYBa<2aZ5<4u:Pko2&J5))Blu42Y5:Ul<lB<<uPo5U&o:5uU2)UJ)Y<YlBuP&c)<BuBP2oP&55JJ::Y42Y):)Blll<2uooUU5oB5PUP)JJJYU:vB2P5GJunulPPoo&U54JB::4PY4:Jl<!k<Pu&o)UUol5&Uo)YJ4Y<:<BPPUf4uu2dP&o&&)5YUlo<4oYY:4luL<<)u52J)B&<5UU&)4JY4l:uzoPYGYu22<P)o5&45:4{424&YB:YlPeuuuuU24&2&<5&U5)lJ:Yu:2l&%u.YuT2uP4oU&:5B)<J545Y4::lPx2<&u)oY&<&u5&UU)YJBY::P*5d:1:u<22P5o)525l)uY<4UYY:Bl2RP<UuJo:o4&255U))YJlY&:oBUlBZBu22PP)oJ&:U-J2uo4JY::llUco<Ju42BJu&o5UUJJu4fY2:&B)P:<QuP2oPBo4&BU<JPu&44YBByl)!&<4uY2l2:&o5UU4)l4<YP:5BJl:<au22&onoY&lUu)54&44YBB<:&JPJ&P:)5Yo:oB5l24l<:uJo<^YFv<ouP25PJ4<:ol4EJJ44lYlBulo52UdJ5P2o&&55JU::<uJYU:4BYll<uo&J>P:oB5<UP)5JYYP:vB2l&P:U<Ju4&Y5:5lP4uJ<4PY5:J2B8<<2u&2)PYol5uU4o)J44B:<BUl5e4<:2XP2oJo25YUlJu4)YU:YBBI<llu52JP:&<52U&))JY<n:2BolU(Y<B2<PP5:JB5:)LJ24BY)::BlQ5<ouYuoPB&<5PUl)JJBYN:5:al)tY<l2BPoo)&45BBuJo45YJ:llfs2<&P)5UPl&u5oUU)44<Y<:J<olJz:uWPUP&oJ&YU1)uJ)JuY4:Bl<<)<5u42:oS4P55U))Y4!Yu:oBUu<oNu<2PP5&:&:U<)2JJ4):OY)luko<U2B2Bou&P55:4)B4eY2:)B)lYslPu5<PUo4&BU<)PJJ4J:26Bl2L&<)P<2lo2&o5)U4Ju)4YP:5BJ<u<;uP2&P)J:5eUu)oJY44YBB<<PP2<Ju:PHo2&&5YUY)l 2Y&:)B4L2<<uP25&J))5XUP)&JJ4Y:<Bul45B<4ulP<52&554U:JT42YJY2BYll<uPP2UPYoB5<Yo)UJ44::<B2l&1)<YJ5P2o&&U54UBJ<4PY5u4BBw<<2uY2)PYol)uPo)UJY4B:uBPlBfJ<:_:P2o5&)5BUlJ24oYYYoBBA<<PPJ2JPB&I52:5)JJ:4l:)BolU74PB2)PPoU&J5l)=JP4&Y)u:lz>2<ou:24PB&<JPUl)JJBYH:oB&llwY<l<:PooU&45l)<JP45YJ::l0E2<&u42YPl&u55Ul)4JBY<<)ooo4&lUY)UJJo45J5l)uJol42:P:&P555lU4J&Yu42B4lo1l<PY&:oBUl48B5u2oPUoJ&:Us)2J&:)GU:ll2!o<)u4PMo<5Pl&U4)B4FYP:&B)lYmlr:2oPUo4&lU<)PJ54JY:B>l2(5<4uY2lou&5U<U4)B4<<U2lo2&D54)<)44YYl5<Uo)oJU44<P2;PJQ4<Ju:PVo2455JU:)l4uYo:UB4<BP:uP2UPJoB5,Uo)&4)24:QB2loy)<4uBP<oPou5JU:JZ4PY&:)BYll<uuo2UPY&C5<UP)5JYYJ:gB2l&PJUJ)UJl4&:YBPl:yl7UPNPJoubu<5u&2)PYJ::2lul:Jl4B:<BPl5o4<B2<P2o&&)5YUlYul<YU:YBBwu<Pu)2Jo::l5PU5))J:4l:uBolUl&<B2<PPoU&J5:)CJ24&Y):Yl-iB<ouU24od&J5PU5)JuPulPoo<&Y5YUH)oJJoJ5<5B)<JPllul2BoY555Bu4PJPl&u5o:<iBluu&P5PJol54UP)P4PY:44Bo)PJ)4UY4:BPU&oU6)B2l&&&25&U)Bu<U272)uB&PU.)PJUUJYu:&BYl5l:u<2oPuoJPBU4&YP<o<&P55UJ):46Y2:&B4gYmluu2o)+:.:4Bu{u<&u22<2u&u5oU:5YJFYP:)5J)2)B4<YP<lol&J5<)<Jo4uY,5<)z)oJU44<<P)oo5)54)#4P4U:U4Jl3O2<5u):Jl&lB<<uP5)4YYu:<BBBA<Uuo2:o&&UrJuPuBP<oPJJBuBB<u<Pu)P:o<5<<P222UP4oB45B:coTBb22)oo&)5:ol)5J4Y<YY):UBJ<4PY5u4BBEz<2u&2)PYol)uY<)UJ44B:<BPiu=Ju2l<P2o&&)U<UlJ24oYU:4luB4<Pu52Jou&15PU&):)&4l:uBoF<i4<l2<PPJU&45:)AJ24&Y):Y6l2B<ouU24PB&<5:U54J&:YM:2B&l)jYu22uPoYu&45B)<J&45YY::l&2<<&u)2Yo4&u5&UU)YJBYo4BB5lJ-:uY22P5o)5v&))uJo4U:::BluSP25BJ2:o<&25&U))lJl:PuUB)lBHBuu2PP5oJ&:u&)2J54)Yl:llP{o<BBY2Bou&PU)UJ)B4RY2:&B:B&Aluu2ooJo4&lU<)U)<4JY:BV1&b&<JuY2l2:&o5UU4)l4<YP:5NJ4:<^uP2&P)oY5PUuJ5B44Y:<B<lYX5<Ju:Pkl)&&5JUYJu4uY5:Ul<uY<<uo25&2o:5<U2)5J)YM4)Bulo%U2PuBPuoP&4&PU:Jc42BF:)B:llPuu:2UPYoB52UP):JJ::)3B2lUM)<YulPBoo5J4BUlJo4PYB:JB:(/<2YY2)PBol5&Uo)JJ4YP)uBPl)tJ2B2_PPo&&)5Y)2UY4oYU:4Ml*<<ou5oJw:&35oU&))JYY):uBo:oX4uj2<P&o5&45:)rUB4&Y):Yl}iu<ouU24PB&<5PU5)YJ:Yc:2BUlBqY<l2uUUY5:5B:,2J&44YJ::ldo<55)&J<o2&u5oUU)4llYu:oB5lJE:uS22&&)o&YUt)uJ&4UY::BO<U2<Uu42:o<&25&U))Y)JYu:oBUlYXBu<2PP5oJ&:UE)P4)4)YY:llP J<Uu42B5<YJB&lY4:4uYo:&B)lY5B)o25P:o4&BU<!PHJ<42)PYloOJ<)uY2lJSY&BoldJ/4YYP:5BJu52J&555&)JP4B:<:)YUB2:(BUlP65<J)lJoYP:4:Bll<24PY5:UB4lB2<PY2)o&o:51U2lB<:202lP<&5&:UYJ2J&Y5:45Y)<Jn42Y&l)P:522uu52lP4oB5<B56&<U2<2oo<&Jp4<BulPuooU::B)}Ju4PY5:J<&_u<:u&2)PYJ)Yo:PB&l3uY2Po2o4&l<l22P2o&&)BlcU<F45B5:4BB3<&u)&oJ)o4PY5:&4)<BuPP2oJo:5B)uo<JJYY:UB%hP(Yuo25lYoo5<UJ)&)l5Y&25UU5)JJ:uP2PoJoBGBuo2uPooU)P)BY4YBB<BJ:llod2<&u)JYY<Y4B2lY):4PY<:PB5PlUqUoJoUl4:)l5l)uJo4UBo:ll2^P<5uJ2BoI5oUYU))lJlY5:oBUl4}BuB2PP4oJ&BU;)2J&Y4:l:ll5-ou)u42Bo<&P5YUJJ24pY2:&B)lYu<2o2oPlo455U<)PJ5YY:JBrl4x&<4uY2louUoU:U4J&4<YY:5lJl:uu2B2&ouoY5JUu)oJU44B&B<lYy5<Yu:Puo25U4YU:JU4uY&:UB4lB<<5o2UoPo:5 U2)&J):Yr4BullxUuouBPooP5)4:UBJ442Y::)BYll<u5&2)o5oB5<UP)5JJ::TYB2!u-)uUuloooo5J4BUlJB4P:2:JB:nq<2YP2)Plol5oUoJoJ4YBo*Bol)iJu52.P&o&&)Y:)6Jo4oY):4BB!<2PB52Jon&S5&U&J&JY4l55Bol:G4u/2<PPo5&Ju2)#J&4&YB:Yl<Auu5542You&<UuU5)JJ:Y&X<B&l:!Y2J2uP&oU&Y5B)oUB45YJ::#4;2<5u)Pk2)&u5oUU44JBYu:Pl)P:IBuP22oPo)&Y5l4uB<4UYl:BloLP<:uJP2<<&25JU)4YJlY2:oBUl4<us42PP5oJU:U>)PJ&4:4&:llu8o2:u42lo<5&YJU4J<4rY4:&B)lY<oB22oPYo4)uU<)oJ54JY:BP::%&<)uY&2ou&&5UUlUU4<YP:5gll:<<u2PU)Yo:52Uu)4JU44YBB5uuN5<Bu:&Uo2&55)U:)l4&Jl:UB4lB2)uP2UPJ&<oJU2)&J)B4YlB2lo<J&BulP&oP&J5JU:J34)P):Jlull<uuo2)P4&<5<UPl&J44::}B5l&V)<Yul4oo&&U54)VJ<4PY5:JPY-<<2u&2YPYol5uUo5oJ4Y2:<B&l5_4<:2Pu:o&&)5YY<Ju4&YUB:P<yu<)u5PYP:&b52)U:YJ:Yo:ulPlUr4<B2<u<o5&l5:)uJ245Y):Y:J>u<ouU2YPB&<5PUU)JJ:Yb:lB&l)xYu<2)PooU&4Y&l&6o<4ulPl&20o<Ju)2YPlJPBPBY<P4<Y<:PB5lJ9:uf)YU&o4UU5l)uJobl26Pfo)52U&)oo:4&YP:lloI<<2lYlo24&l&l)oJ)4J5J4CBll5m4:)YBBPlu7o<U)44y4J:uB4UYJ:4wY2:&PJ&Y5lUB)BJ44YBuBJ 2<oB)25o2&u5P<42u2lou&oYolp<u<)2224BYK5<Eu22&)Y:3:_l&bJ<4lB2:Poo)V)<:u:Pxo244B4lUJ<4&Yo:UB4PB&M55U4PY&)5IU2)&BYu42:o&oJ5&Ulo4)oY::5:lUlJY42Y&:)P2&P5PU:J54JY))<:5lY<U2<BYB2l&#)<YoBPuoo&U54UBJ<4PY5BuB:}<<2u&2)o.ol5uU4)UJ:4B:uBPl57Ju:PUP2o5&)UoUlJP4olUlWBBgu<PuB2Jo5&F52)P))JB4l:uBol) 4PB2&PPo)&JUU)GJ)4&:)B4Bl*2<ou)24oW&<5P)<)JJlYL:oB&l)pYulP)Poo)&4UX)<J&45YJP5lC92<&u42Yo<&u544&)4JBY<BuB5l4I:u<22PJP2&Y5l)u424UYY:BloBB<5uJ2:&U&255U)4YB4Yu:&BUl4!Bu)2P&:)Y&:U<)24U4)Y::llo3o<Y<o2Bo<&PU)UJ)B4DY5Y=B)lYOl2J2oP)o4UH:P)oJU4J:uB-l2Z&u4&lPSoP&o5YU4)B4<BP<2BJ#w<pu22&o<oY&lu0)oJJ44:ZB<l5N5<JfJPFoP&&54UYJx4uY)YuB4lB<<2l25P4o:Uu:&)5JJ4Y:PBuloTUu:5<Puo&&5U&U:Jq42Y&4&BYk7<uu52UPYoB5<&l)5JJ4::<B2l&n)<YulPuoo&U5:)oJ<4PY5:Yl&(8<2u&U)4UYFB4BJjJlu222JB&LBCJ<:2xJ&YUYB::/2x5l)u:PB&5&l5555J)YAY)B5Bl*U<J>&P5PBlJ<5<B2<PP)4Yllsw)<<<)<)P4&uP)&J5<2:&C&<5PU5n:<oulPJuJoB5l)UJzJUJU:Jl<lJ<Uu82)P4lu<<<&u)2Y)oY4B2BYB<<522P5o42:5oU))lJJo4525l)uJo<l2mouoU&)UoJ=2lo5&25&U)Bx<P2oP)oJ&JU5242PP5oJ5l:2)PJ54):u:lluRo<UlB2Bou&P5UUJ)l4%:2ooBJl:Glu&2oPUo45PPu)PJ54J:2BjlP_&<)uYP22Y&o5UU4JP4<Yo:5BBB5<hu22&&SoY5sUu)ol)4YYlB<lPy5<Ju:& <2&&5JUYJd4uYJ:Ul:P<<uu525P4o:5VU2)&Pl4Y:SBulU+U<:uBP5Uu&554U:J:42Y5:)B:ll<&^l2UP4oB5BUP)UJJY<4JB2l&#)uBulP2oo&UYYUlJu4PY5:JB:az22&u2)P:ol52Uo))J4:B)<BPlU,J<B2fPUo&544l)wJo4oY4:4BB^<<PY:2JPB&H5&U&)4JYYo)2Bol)w4252<Poo5&J5:)PU:4&Y):YNUbu<&uUo4tB&<5&U5)4J:Y5:2B&:&{Yu<2uP5oU&Y5B)oUB45YJ::.)t2<5u)PBJu&25&UU):JBY<:PB5ul1Bu<22P5o)&:5l)u)%4UY4:BlukP<5uJ2:o7&25&UJ):JlYu:oBJxufBu<2P)u4lB&BulY<P<:Yl:llu1o<U5Y2lou&P55UJ):40:2ooBJl:%lu22oPUo4&B&Y)PJ54JYBBml2_&<)uY2lou&&5JU4)B4<Y&B2BJl:<I55JUJJYJBulul&<Jut2YPP&:Z)<:u:PFo2JYYUBuJ24uYo:UB4Pl<uuo25PJo:5hU24&Bo4Y:CBul&zU<:uBo<:2&U54U:J<42Y&:)BYBJ<uuo2UPYoB5<UP)5JJ4::#BP<2R)<YulPPo&&U54UBlJ45Y5:JB:0!<2u&o:UY&<55Uo)UJ42u2uP&&2&luW2HP2o&&)5YUlY&5oYJB<BBk<<P)NJUYkYoBolJ)44W4l:uBo&o&Y)u))P&oB&J5:)OB5<42Yox&<5<UBuJP2PB&<5P::ll<)ul2&Pl&:Uou<2)PooU&4:Pl&95u42)Plu2Nou&u)2YPlJJBJlolY<Y2x2:P4PY5YUlJ5)&4J:Bl2)PJJ4UY4:B2P52U2))Jlo2&25&U))YJlYuYou5l:<5u<2PP5J:::B<1J<P,4u:o2o5T5u:u42Bo<JJBElUH<l&uYPUoY5QouUJ)B4P4l4:B5:5<2<4PRo2lo<<<)uY2lJo:2B5}uB2<Bu:P4oB&uUuu&2&P)oY&lUu)o)U5J:<B<lPs5<Ju:PLU<J&54)u)l4uYoPJoK&4UL)J)YPY&&5DU2)&Bl<:24PBPU5UUD)2Joo&5#5JU:JLl&uB2JoB&E5o))):4:&M5)UP)5JJ(:2lo&ol5:Uo)B4 o5&l54UBJ<l)2o24Pl&Y5UUJ24oJol5uUo:4<2<lP2PooJ5BUuJuUP4JY:B<l2JPY<YU:4BBP2U2U442J2Yo:llolY<o22P4BUlUE4<B2<PPo5&J5:)uJ&4&Y):Yo:&5UYuJP<PB&<5Pl)l4<4uPPuo2l4<J<l2uPo)B:PBYloBJur2Yog&PP&5B)uJU42&P5)UU)4JB<U2oox&B5&uX22P&o)4:U=)2Jo4UY4:Bl<uPo2uJ2BoA&P5&)U)YYllB:oB)l47lu<PJP5&G)4UT)PJ&4lYYBWluz&<UuluUo<&P55)3):4<Y2:J:2lYtluu5)PUoY&BU<BoJU44Y:B<l2r&<)uY)Co2&55UU4)B4<YPl5u&l:<uu22UP)&4&lJu:<JU4:YBB2lP<P<Ju:l&o2&U5)UY)l4PYo:U)JlB<uuP2UPJol59U2+BJJ4:YlB2lowU<4uB)uoo&U5JUBJ{42Y&B55oWF<Buo5YP4ol5<Uo)5JBJ5:NB2l&P:<Y2pPuoo4)5YUlJ<4oY5:JB:u{Juu&2JPY&15u)<)UJ4:J:<Bol5D4<:2qP2o&525Y)dJu45YU:4BBu<<Uu524P:&<52)J))4u:4:uB&lUu2<B2uPPo5&JU<5JJ24&Y)lPBl{2<ouYuoPB&<5PJP)JJBY6:225lJSB<l2PPooU&4)BY:JP4)YJ:llg<J<&P)lYPl&P5oUJ)4Y4Y<:Po<lJNlu*2oP&o4&Y5l25Jo4)Y4B-l<NP<5PJl:or&o5&UJ)YY4YuB5u4lY<uu<2BP5oJ&:U/2)J&44YYB2luM5<U2<&Yo<&&55J:):4<Y2:5B)%nl)uu2oPU5B&BUu)PJ4JPY:Bal2<2<)u:2l&P4U5)UB)B45YP:5BJ<::Uu22)P)ol&l):)o4J:<YBBolP/4<Ju:P9&o&:5))<)l4PYo:UB4lB<BuP2JPJ&u5pUo)&44:2YlB&loIB<4uBP<5P&J5J)<JW45Y&lPBY<<<4uo2:P4&u5<UP)54YYP:WB)l&h4<YulPuoo4u54)uJ<4JY5:YB:uWuJu&2BPY&<5u)J)U4::o:<BJl5<2<:2VP25&U&5Y)oJu44YUloBBF<<&u5P<P:&252U&))4B:P:uB:lU<Y<B2<PPo5&Y5:))J24JY):YBl#u44uUP<PB&J5PU))JJ:&l:2B4l)<<<l2UPooU4Y5l)5JP4JYJ::lK*22&uJP2Pl&55oUU)4JB:o:PBllJW:u622P&5)5u5l)JJoYQY4B:l<uPuJuJPooA&45&)P)YJl:U:ol<l4kBu<2PP55J5&UL)YJ&YuYYBBluuo2<u4P5o<&:55):):4+&):&BllY<Uuu25PU&:Y<Uu)4J54:Y:BXl2u&oouYP&ou&Y5U)W)B4<<o:Ulul:<Pu22&P)oY<PUu)BJUY<YBB<lP(5o4u:P5o2&l5)U:)l4&Jl:UB4lB<BuP2UPJo:Y<UP)5J)Y7YlBuloaU<&uBPuoP&U5JU:JfYof):JBBll<Buo2UP45;4PUo)JJJY::.B2l&,:P<ulP2oo:b54UlJ<4P<U:4luw3<5u&2)PYol25Uo):J4Y2:<BUl5uJo)2gP)o&&B5YJPJu:o}P:4lPw<<Ju524P:U&54U5)lJY<&:uB&lUuP<B2ouBo5&J5:B5J245Y)lYJlVu<4uUPOPB&U5PU555J:Y&:2BUl)r:<lPP)Uo)5<5B)PJP45YJl:uYZ2<Yu)PuPl5P5oUUBYJlYU:PB4lJ6:uE22B4o)5P5l)&Jo4UY4:B2ucP<:uJPoo3&P5&U:U&JlYu:oPll4xlu<oPt5oJ52U0)UJ&Y5YYl<2om&uZu4o&o<&P55UJP24NY):&l<lY<<uu245&o45PU<l<J544Y:B<l2yJT2uY2louYu5UUY)B4oJB:5BJl:55u225P)&BYuU2)YJUYPYBB<lPu555uBP5o2&:5)J&)lYP:o:Ul2lBuJuP25PJo:U2U2)lJ)4YYlBulouUu<uBPJoP5g5J)YJA:2:u:)loll<4uoP4P4oBU:UPJZJJY&:cB2l&<42gulPYooU<54UBJ<4P:<:JlPry<:u&24PY&l5YUo)BJ4Y&:<B4l5yB&J2yPPo&4u5Y)gJu4o42:4BBI<<ou52JP:&M52U&))J:YB:uBolUi:u/2<PPo5)4lP)2J24&Y):YBlBuUP&U2BPB&<5PU5)JJ:IP<2BUllDY<l2uUUY5:5B:K2:54):<::l>!25Y)4J44Y4P4YYJ)BJBY<:PB5lJq:5B52P)o)&Y5l)uJo2U<Y<BlP8P<5uJ2:o*B2:YY))B4lYu:oBU2:&lUP)lJBYY:YloM<pJlY24P4&<55P4uB2Bo<&P55UJ):<)92:)B)lY%luu2oPUJ)JBUP)PJ54JY:BMl2oJo)ul2lou&o5UU4oB<2tP:)BYl:<fu2&5YuoB5<Uu)oJUBY2&<:lP_5<Ju:4UoP&&5)UY)l4uYo:U2Yll<uuP2UPJo:5zJ):JJ)4YYlB5loj)<42:P<oUo<5JU:J%4UY&:JBY{2lYuo2UP4&45<Uo)54Y<_:<Bol&n:<YulPu5o&45Y)SJ<4&Y5:lB:<uu4u&2YPY&J5uUo)U4::2:<BUl5<5<:2OP2&U5-5Y)PJu45YU:4BBK<<Bu52YP:&o52UU))4uB::uB5lU<B<B2uPPoU&JU<5JJ24&Y)BlBlz2<o2JUBPl&25PU4)JJ:Y;l2B)lJRB<l2PPoo:&4)+)UJP4JYJB.lA=2<&24oKPl&&5oU4)4JBY<B&ZPlJ<uub2&P&o)&Y5l)oJo4JY4B2l<-&<52J4Yo<&P5&)u)Y4<Yu:o2)lYMlu<2&P5oJ&:J&:oJ&4)YYlllu,&<UuY2BooPB55UJ)::7Y2:5B)mB&uu225PUol&BU<)PY54:YBBul2vU<)2<2l&P5B5UUB)B4UYP:5BJ{lu:u22JP)&&&lUu)o4JYUYBB&lPQ:<Ju:Pfo2&)5)UB)l45Yo:JB4RP:uuP2)PJ5:5mUP)&J)4Y:2YYlo1U<4PBP<oo&55B55J{42Y&llBYa><u25U4PY&g5<UU)5JJ4:l>B&l5d4<Y2<PuoJ&UU:)PJ<45Y5::B:.q<22UPPPY&25uUU)UJ44BB2l<l5 l<:22P2o&&)5Y)4Ju45YUB3BB72<P254)PB&<52Ul))JB4l:u2&l)iY<B2PPPo5&JJ2:PJ24&Y)+5Bl92<o2&24ouP45PU5)J:UYb:PB&l:l&<l2uPoUY&45l)<4&.JY4:llhW5<&u)2Y&l&o5&UJ)44.Y<:)B5yYu5uI2&P&&2&Y5l)u45YuY4Bul<*Y<5uJ2:&u5P5&UB)Y44Yu:oBUl4<uu<2&P5ol&:Uu)2JY5JYYB<lu2)<UuY2Bo<&P545P):4 Y2DJB)l:glu&<lPUo4&B44)PJU4J:l22lP_U<)2R2lou&o)UUB)l42YP:)BJEu<T2o24P)ol&lUo)oJU44ByBulPj4<J2bPeo2&&U4Ja)l45Yo:4B4lB<<uP2JPJol57UU)&J44Y:l&<l&t)<425P<o&&55J5UJ=42Y&:JBYll<uuo2UP4oB5uU&)5JJ4::uBUl&C)<Y)l4P4B:&Bl)N4B4PY5:J2<&oU&)lJ5Jl5lB&lPll<uuJ2&LP&u&l)&)uJYYPY:)YDuK5u)BUPlo:24<Ju52JP:&bP5U&))JY4l:uBolU<:2J2<Poo5&45:)=J2YU:U:Yl<Zu<5uU24PB&<U<U5):J:Y+:2B&l)dYu22uP&oU&B5B)uJP45:4::la 2<5u)2YPl&u5oUU)4JlYB:PB5lJ,lu:22P&o)4YB4l2<)<B2JoyoBo5U4U4J44P&oUPU))YJl=U2Bo&oloPUJJ&4JYB4OBUlY<u<:YBB&luho<U5&J2YJJ5B&BBOu4uYB:&B)lYou&UJ5J)YU:2:P1PzY<l2<Bul&z&<)uYUJ45:B5J)4)B4<YP<lol&J5<)<Jo4uY0Y<l<iP<Y(4ulo2&UR)ulu:PDo2JYBulJ(2lUuBPJoB5uoPUYJ%4&Y<4lB):)<o<:Puool5Cl<4uBP<JJYY::7<Wluol):4l1ll<uuo4u4j:qBGU&)lJJ4::!u4&45&5:):4<4BYY5:)5J<4PY5<:225u5P)2)B)uY4B4U5JmJ44B:<2JoY5&UY)2JYYJBu5B)UJu4oYU<Bo&&uU&UU):Y<YoBoY&))JY4l:U<2lUHY<B2PPPoU&J5B).J5JRY):YBlro<ou)24ouP45PU5)J4<Y,:PB&l)l5<l2uPoo)&45B)<YPl2YJ:llTW2<&uY2YPl425&U4)4JBY<:PB5<JP)ur2&P&oY&YU2)uYolPY4B<l<R5<5ul2:o&B25&U4)Y4JYu:&BUlBLBuo<BP5oJ&:U4)2J54): Y)luno<U2l2Bou&P55:4)B4uY2:5B)lY-luu4lP)o:&BU2)PJ54JY:oUlP*U<)u:2lou&o5U:Y)l42YP:UBJl:<%u)&PP)oB&l)P)oJ)44YlB<lUl<<Ju:P6&o&&5JUYJ2)YYo:UB4<u<<uo25PJ)B5<Uo)&J)4YYlBuloU=<Y2IP<o&&55JU:YCBlY&:4BYll<uuU2UP4Jl5uU5)5JJ4::IB2<&Po<Y2uPuoU&UU&UBY<lMY5::B:e2<2u42)ou:o5uU5)UBJ4B:uBPlJ>Ju<<JP2o&&)44UlJ24oYUuYBlG2<Pu)2JP:&652<,)JJB4l:PBolUN4<BJ)Poo)&J5l)=J24&Y)u:ls!P<ouJ24PB&<5J4o)JJlY_lPB&lJDYu92uP)Pu&45B)<Yo45Y4::lPB:<&u)2Y5u&u5&UU)4BlYu:&B5lJ9:uC22P&:<&:U<)uJ&4UY4:Bl<oo<UuY2:o2&25&U)4YB4Yu:5BUl:HBuB2PP:UU&:Uu)2YB4)Y::ll2Ko<Y<o2Bo<&P)lUJ)B4yY5YcB)lYOlo22oP)o4UBP<)PJJ4JYlB!loC&u4&lP o5&o5BU4)B4<YP5:BJ8(<vuU2&P4oY5oP2)oJ444llB<lo/5<Ju:PP2:&&5)UY:y4uY&:UX42J<<u525PYo:5&U2JUlY4::2Bul:;U<4uB&<)b&55BU:JP42Yl:)lY5B<2uU2Uo5oB5oUP)::U4::uB2uJD)<:ulP2oo&Y&oUBJ<4Pl4:JBB}j<5<N2)PYol4<Uo))J4:B)<BPlJQJ<l21PJo&544l){J54o:u:4BB9<<PY:2Jo &+5UU&)4JYYoS_Bol4M4oU2<Poo5&45:)PU:4&Y):Yu)Cu<&uU2l2U&<5PU5:)J:Y<:2v&4)aYuu2uP5oU5u5BJ2B54UYl::lJ^2<&u)2Ylo&u5UUUJiJBY2:PB5P4jBuP22PUo)&Y5lJuuP4)YB:BluIP<4uJ2:24&25&U)):JlYu:oBUl4ZBu<2&P5oJ&:Ue)5J&4)YY:l&Jt&<Uu42Bo<&P55UJBB4<YP:&BJlY^luu2o5:oY&lU<)oJ544Y:B3:Be&<)uYP-ou&o5UU4)B4<YP:UBYl:<!u22UouoY&lUuBU<<u522Pl&UPUU2)JPuo&&&5)UYBoC<<4:YB4lB<<uPUUP4oB5tU2)&J)4YBl<BloL)<4ulP<oo&5UJtYJ<4PY&:4BYll<uuou2P4oB5<Uo)5JJ4::aB2l&c)<:2<Puoo&U5:))J<4PY5u:o4&lUJ&4J&4o:2B&BJhJJ:Y5:<BPl5oM5B)YJlJ):)B<lP_&4)YU:4BBb<&ouU24P:&j52U&))YYl4:uB&lUKY<B2uPP&5B)5B)<J24UY):YBlAu8vuU24PB&u5PU5)JJ:Y_:2B&lJuu<l2uPooJ5P5B)<JPe52&2B&)&UUU5(4<4U&P5)UU)4JB2o2ooJ&ogluU22P&o)4PlPllb&u&2JP5ooW&<luJ2:o643:5l:;<u<u42&oPl:<Uu<2PP5JB:ulUm5B)uU2UPB&P2U<4u42Bo<&P55UJ):4RYo:JB)lY_l&5J24:YU5EUP)PJ54J24Po&J_)42Yo:UB4lB<<PP::42:o:5BJl:o5)oJo4BYJ:2:oE)X)ulP2oPPs&U5Y)uJYoo555)UY)lro2)2)ol52UPoBo5))Y4)rYJmU<U2<2:P&l5<&<4uBP<)J:=BUl<B&<Y2UPY&hPu5JUBJPJl&WUOUP)5JJcPPuou&455UmUu4&4&:YlXE<BUv)<,:Yl4V-<2u&UYYGY^B&lJm4Bo:B<Jou<5P4U&JuPo&2&)5YUlBUu<25PJ&APB5o)4)l4lY):Plu)44u4l:uBo245JUJJk4&UJ&Y)u)*J24&uYPBoP&2U)U:UuYE:sB)lolBSw2P2PoJ&B5l&&J5JBoJ&l5B)<JPK4uloo&P_&<&u)2YPl&u5o5U:J4=Yo:PB5lJUPU<)Y4Jo45o5l)uJol4222l&2&o5J)BJuYu&o5)U))YJlS22BoJPo+Bu<2Po)J:&BU;)2454)YY:llu2J<)u42Bou&P5UUJ):b<YP:&B)lY_luu2o&U)5&BU<)PJ54JBuB>l)<o<Ju:2lo4&o5)U4)B4<YUY<BJl:<buY2&PJoYUlPu)oJ)44YBB<TZK5uY5TP<o&&&5YUY)l4uYo5BB4ll<<u525PYo:5C:P)5J44YYlBulosU24BBP<o&&55YU:JY42:U<YB:}2<uu&2UP4oB5<uJ)5JY4::PB2lU,)uul+Puo5&U)UUBJu4PY5:Jl<BJ<2u&2)&)ol52Uo)UlY4l:2BPl5FJ<:2X&2&o&)5BUlJP4oY):41B_B<Pu)2JPl&S5lU&J4Yt4l:&BoNos4<B2<PP52&J5l)=J54&Y4:Ylo<J<ouJ24&o&<5oU5)4J:YP4:B&l)WY2&2uP&oU&l&U)<JP45B5::l<Q2<&5J2:o<&u5oUU)4JBB<o<BUlYC:uu22P5o)UY)U)uJ54UY::BlB=P252l2:ou&25UU)JUJl:PBuBUll/Bu42PP5oJ&:)J)2JU4):M:llPVo<Bo)2Bou&P)5UJ)B4NYP:&B:B&Cluu2o&Uo4&lU<)U)<4JY:B!25Z&<JuYPoUC&o5JU4Y<4<Yo:5B4l:<P8:2&P)oY)uUu)&JU4l4UB<lPZ5oBu:P<o2U&4oUYJu4uY&:UlJlBu2552UPBo:55U2)&J):Y14Bul)dU<luBPooPU54&U:JP42YJ:)cull<U)42UPBoB)4UP)UJJY<:#B5Bp#)<Yul&Yoo&)54UBYJ4oYJ:JB:.{<2u&2)U:&;5oUo))J44B:<BJ4UIJuL215Po&&J5YUlJu4)4u:4BBW<Pou524P:5u4&U5):JYYJ:uBolU<<:l2<PUo5)45:)<J24&Y)BO:)0u<ouU&YPB&u5PU4UPJ:Yk:2<Ul)W:<lPPUUo)&l5B)lJP45YJB:&l8P<Uu)PBPl&&5oUBoYJBYP:PuPlJCBuH22P&o:o&5l)uJoloY4:ll<<&&Ju4P<of525&U))YYlYo:&BYl4<uu<2YP5&Y52UI)UJ&4lYY:llu<5ulu4PPo<5555UJ):Yu:l:&lMlY<ouu2oPUo45BU<)UJ5Y<Y:Bul2ZYP5uYP2ouJU5UUY)B4uYP:4:Pl:<=u25)P)o:&l)PBUJ)4lYBl<lP=5<JP:P2oP&J5))/)l4JYoBJB:lB<&uPPJPJo:5;)o)lJ)YuYlBUloSU<4PrPUoP&B5J)2Ja42Y&:)q<ll<&uo2lP4&O5<)P<&J44l:1BUl&0:<YP<)oo&&454)WJ<4PY5lJu)hh<&u&2YPY525u)5:4JYYu:<B:l5TJ<:2bu*o&&Y5Y)<Ju4&YU:l:UL<<Pu52YP:&<52U&UPJY4l:uB&lUW4<B2<PPo5&J5:)JJ24&Y):Bllyu<ouUU545YU:Yl4s2<4u5u&P4&:U%UUJgJYY4&:U5)<JP45<BP&o:&U&oUlUy4N:455UB)4JBY<P5o4&Y5&UB)JPUo:&Y5l)ul)u<2UP2lPWP<5uJ2:od&2JBY))B4)Yu:oBUuH2Bo2)UU<UJ):4JY2:&44:u:llu0o5B)J4I4BYoB4UYJo4cY2:&2o&45uU:U)4<YU:2U2)UJ54JY:P:oP5JU<uBPPou&o5Ul<OJuG22P)lYl:<Mu2PU)Yo:&lUu)&JU44YB8<2vw5<Ju:P,o2&B5))uY:4uYo:UldlB<uuP2UPJ&<oJU2)&J)Y<YlB2lo(YyouBP<oP5U5JUBJQ42<5:JBYll<uuo2UP45IYPUo)UJJYm:OB2l&u)oUulP2oo&)54)oJ<Y&KJ:4Bl;p<)u&2)PY5<YoU&)4J4Y5:<BPl5uJo)2GP&o&&Y5Y))JuY5<4:Ylud<<ou52JP:UCJlU&):JYY2:uB)lUu42:2<PUo5&B5:)oJ24&_U::lu6u<)uU24PB&<B:UU)4J:YL:2BUl)<Y)B22PooU&:5B)uJP454o::lx62<5u)2YPl&u5oUU)4JBYo:PB5lJHluP22P&o):lBBSP<)4J:f:Bl<tPU5U4J&Yu:&5UUl)YJlYu2Bo&&B52)2JUP)ol&:U-)2<J<JuBP4o5<5<Uu42Bo<uJ55UJ):4^Y2:&B)9Bu<uu2&PUo:&BU<)PJ5YlY:Bul20&<)uY2lou&J5UUY)B42YP:JBJX<<5u22&P)&&&lU2)o4JRBYlB5lP*4<Ju:PL52Ju5))u)l4UYo:4B4lB4&uP2BPJo:5tU2)&J)&<YlBJloqY<4uBP<oPJU5J)2Jg44Y&:JBY#olouo2)P4&25<Uo)5JY4::PY:l&h)<Y2PPuo&&UU:B<Ju4oY5:BB:A <2P&5oPY&*5uU&)UJY4B:<U)l5fY<:2=P2o&&)5Y&YJu4&YU::BBZu<Pu5o5PB&r52UU))JY4l:u:RlU94<B2uPPo5&J5:);J24&Y):BBlMu<ouJPuPB&<5PYY=USBuu2lP4o:EBuU2uPooU42B2lu<3u42u<lo<5o<Ju)2YPl&uY&U))YJBY<:PB5lJu:oY22P5o)&:5l)PJoYUPJ:llucP<UuJ2:o1&2&<U))YJlY2:oBUl4(Bu<2PP5o4&lUT)2J&44:Y:lluVo&P)PJo4):UBwlU,Pm2uUPJo:&o5:U)JUPJ&2&BU<)Pl2u)2zP4P5&lU&)<Puou&o5U):l<4uYo:5B4l:<Tu2P&YUo:5^Uu)5JU44YBB<:l35<Ju:P<o2&&5)UY)l4uYo:)lPlB<<uP2)PBo:5CU2W26J2E25BPlB1U<4uB)o4::P:l:Y^&l5u5ouBBTP<uuo2U4<YJBnl2L)JYY5:RB2l&uBPY&<J&Ul)UJ4YU:<BPY)BJB:^M<25uJu42Y5B&BB;&<u<<2&oU&452U4)54&oU&l5YUlJuuU2YP:o5&l54u)2BP:&e52:JVu<)uP:PB4lU+4<B)542Y):5:B+PJ&4&Y):YBlvu<o&t54o4&<5PU5JY31Y<:PB&lB=Y<l2uoo:5&Y5l)<J445YJ::ltoP<5uJ2YPl&u5oUUJ:e<Yu:&B5d+j:ue22&&)o&YU<)uJ54U:2:BC2P5<Uu:2:oP&25&U)JBGuY2:)BUlYLBu<2P&5)&&:UP)2JJ4)Yl:l<uuP<U2+2Bo<&PU7UJ):BlYP:JB)D<Rluu2oPU:P&lU2)PJ54JYlB332Uo<Ju:2loP&o5JU4)B)YYP:5BJlB<Ou22&P)oY&lUu)&J)44YBB<l&V:<Ju:P7JoY5::lo<PuoYU:UB4lB<<5o2UP4o:5eU2)&J)YYPBB2l&6U<YuBP<oP&5&oU:JI42Y5:)BYll<uuo2UP4ol52UP)5JJ4l:&B2l&})o:)UJl45:5Bl)gJU4PY5:J2u&B5PUUJo4<Y25&Uo)UJ44BuuBolU9J<:2OP2o&U)4UUlJ24oY):4BlK<uPJ&24PB&Q5oU&))JY4l4:BolUi4<l2<PPo5&J5:)ZJ245YY:YBl,u<52<24PB&<4:lJBJ<)u<PYPl&552u<2&PooU&4:<ao<2u5YYB5l_12<&&:JoYuYoBPl&_)<2uPPUl4lJf:u{22)5oJ&Y5l)uJo4UY4BP4uyP<5uJP5oh&P5&U))Y42JY:oBUl4<Uu<2oP5oJ4BU<)2J&4)YY:lluuooPu42Bo<&P55U4):4&UP:&B)lY<)uu2&PUo4&BUo5BJ54JY:BJl2L5<)uY)xo2&o5UU4)B4<YPl5JJl:<_u22&P)oB&lUu5uJU44YBB2lP.U<Ju:)<oP&&5)U:)l4uYo:B<)lB<<uPPoPJoB5.UP)&J:J&YlBulo<&<4ulP<oUo<5JU:J;Y&Y&:JBYll&2u&2UP4ol5<UP)5YJ5::ZB2l&c)<Y2uPuooPo54UBJ<4&Y5:4B:ZZP5u52)PYol5uUo)UJ42&:uBPl5_4<:2gP2o&oP5YUlJu4&YU:4BBC<<Pu52JP:&552U&))JBYB:uBolUolU2J)4U)J:u:B9Pl&<424ouoU&o5JuJP4PB&<5PYJ{u,B2PP&o&5uuY)2J<JY4l:5B2lo:B4)YB::laf25:UJJ)4P&PUYUU)4JB*P2YPU&B&PU)J<JJYUB2Yui<<2<B2PPo&&5&5U)BJ&4l:<5UUB)YJlYuPooJ&P5Y)o2&PBoJ&:Uh:U<P<JuBP4o5&)<J2o2Bo<&P4BBl<<C2uUPUol&o5uU5PNPUo4&B)2B5JU44Y:B2l2T&<)PYllou&&5UUY)B4UYPB)u:lB<2u225P)oY&lUu24JU4YYBBPlP>)<JP:5Yo2&55)U:)l4&YoBU&Jll<uuP2:PJo:5G)oB)JJ4:YlB5loWU<4PzUPoo&)5JUlJF42Y&:))<ll<ouo2UP4oB5<UP:UJJ4B:AB&l&^J<Yulu:oo&U54UlJ<4PY5:JB:ez<2u5PPPYol5uU5JWJ44B:<uY&Y555B)B4u4lY:5lUlJu4oYU:4BBL<<Pu)P2P:&+52Y)s<K:2<22PU&Y5.)f22o<o5&J5::2WPu2uBPBorooUJUJJo42YPBUU)J{J:Y+:2uBoB&:U4J&J:oJ5P5B)<JPuB2)Plo45&U&UJ)l4P&PUJUU)4JBW52:oooBo2U)Jo4)Y:JlB5l4<<<Y<JPP2P5b5U):4fou5j5&U))Ylu25P5oJ&=5Y)o55JUY5:ululPJ54)YBlolu6o<U5BJB4&Y5B4B4<<<oO)Poo4ol5P&J)B4YJlYll2l4 YuBYlBBl23&<)5lJP4BYJ:4ll;2<o<U2UoY&P5o)5& P)oY&lUuB&J)44YBB<lP-5<JP:5Yo2&&5)UY)l4YYo:B<)lB<<uP2YPJoB5ZUP)&J:J&YlBuloh:<4ulP<oUo<5JU:J1:YY&:JBY<<&ou&2UP4&)5<UP)54cB4:OB2l&<u<Y2sPuo&&U5l5UJ<4PY5B2B:^<<2uJu2PYol5uJB)UJY4BB225lU1J<:24P2o&&))YY4Ju4oYU:4BB}P<Pu:P)PB&<52)&))J:4l:uBolYlo<B2<PP&5&J5B)FY25&Y)::Bl#u<oul24&kJP5oUJ)JJBYH:2B&l)4u<l22Poo4&4Uw)<JJ5UYJ:BlZ<Y<&uJ2YPl&u5)5u)4JBY<B:B5l4+:Pz&lP&o4&YUF)uJJ4U:)2ul<_&<5P22:o<&25UU)Jq))Yu:oBU<P^Buu2Po)J:&BUu)2JY4)YY:l<uP<<Uu:2Bo2&P5lUJJ:ulYP:UB)#3Klu22oPYPo&BU<)P:d4JYBBkIoo)<JuB2loU&o5UU44BB:YP:)BJll<Ku42&P)J:5qUo)oJ)44YBB<<PP2<J2^Pqo&&&5YUYJo52Yo:4B4uu<<uo25PJo:5P&:)&J)4Yl2Bul&xU<45lPuo5&554U:JE42B&<oBYCu<uuU2UPBoB)<PP)5J:4::2B2l:w)uB5uP2oJ&U5YUBJ<4PY5U7B:O2<2u42)PBolUuGP))J:4B:oBPlJ!J<:U<PPoU&)5YUlJu4olUB2BBe2<P2<2Jo&&v524J)JJB4l:PBolU*42}2lPoo)&JUU)-J24&Y)Y5BlEu<ou)24PB&<5PU5)JJ:Y7:&B&l)XYu<2BPooU&4Y<l)N:u2uBuloo5bUo)lJ<42&P5YUU)4JB_PP2oo&U5uU2J5PU&2&Y5l)uBUuX2PPJooPo54UBJu4P&B5&U))YYllB:oB)l4QBu<25P55Ju:Uh)PJ&4JYYB<lu*4)4uYP<o<&o55U4):4<Y2:&oYl:9luu2oPUo4&BU<:oJ544Y:B2l2_5<)PY54ou&&5UU4)B4uYPl5JJl:<<u225P)oB&lUU<UJ)4BYBB<lPpU<JuBPRo2:)5JUY)l4uYo:UB4lBouuP2UPJ&85dUP)&J)J5YlBulo/)<4uBP<o&&55JU:Jo42Y&:)BBk&<uuo2U4uY2BoB4lY<U22:ulUl&{)<Y52J5YUB<B)l<lwuP25P)&T&)U5U45B4JYH:Pl<l:^lY}:PBPl50J&&J2UPoU&:5YUlJuF)25PJoJg2u^u52JP:YoB<B5l4<UuP<&PJ&4UPUY)Po5o5&J5:4=&24&YJ:YBlDu<UuUP:)<&u55U5)BJ:YM:2B&)l}Yu12uPUoU&:5B)5&o45Y4::yu82<5u)2YPl&&olUU)4JB:2:PBUlJ<l522PP5o)&:5l)uJo4U)B:BlujP<UuJ2loHU24uU)):JlY2:oBJl4<PBu2PPUoJ5lU/)PJ&4)YYB2:Yro<Uu4ovo<&o55UJBB4<YP:&B)lY9luu245&o4&lU<JuJ544Y:B<l2XJq2uY2lou525UUY)B4oJB:5BJl:uuu225P)oY4GU2)&JU44YBB<lPG5)uuBP<o2&&5)UY)lYP<U:)BYlB<&uP25PJo:JoUP)5J)4:YlB2lovU_&uBP<oP&U5JU:J642Y&:)BYIE<5uo2UP4&z5BUP)5JJu<2)o&o5&4UU)PU&4J:4lPlYtP4&Y4:JB:,+&5)oJU4U&<5)Uo)UJ4uo2&oUoB&lU4J&Po&4&)5YUlB&<J24oPoY&P&2)5JJ4Y:2:YlJlBl<u:22P5&P5cUu22P5o5&J5::)<&l5:::YBl}u2oBU24Pl&<5PU5)lJ::u<&B5lYdYu<2uPooU&4uP)<Jo45Y:::lu+2<Yo52YoV&u54UU)YJBYu:PB4BP/:uR22PYo)&:5l)&Ul4UY4:B{PFP<UuJPlJ2&P55U))lJlYu:oBUYBABuu2PPUoJ&lUt42Bu4)Y::ll2io<Yu4PP5l&P5UUJJ)4MYP:&BJlY<23Y2oPUo45JU<)oJ54B45Bbl2=&uYuYP_ou&oY)UY)l4<YP:5BJl:<&o<2&PJoYUuUu)&JU4YYBBo:B05<Ju:o2o2&55)UYB742Y&:UBYlB<<uP25YuoB5<U2)&J)4YYllPPUL)<YuBPuoP&55JU::o4PY5:)B:ll<2uo2U2&oB5<UP)UJJ4::1B2l&=)<Y2EP2&)&U54UBJ24UY5:JB:&:5P)JJ<PB&&5uUo)Uy<u22PoU&&5YPl2uPYo&&)5Y:Ys2<Y2&PP&u5&5UUY2Yo:&S52U&B_<<22<loP&:5BU25:424JY4l<l)<uuPY4:lBlpu<o)&JhYo&2UPU5)JJ:vUPUo2oJ5JUB)4J)JJ:JB:folP<U2Yo<luH:<&u)2Y)&Y5B):U>5hl2J2)o)&:(luU22P&o)YuBPlB<P<42Pou&Ji&<UuJ2:o>445UUY)YJlYu<425o<<%uJ2PP5oJYqB)llx4u5P{uio45u<J2o2Bo<&PY5lY7u<PuY2)o:&o5B)E25o&o4&BU<:J<muU2<u&oY5UUYJvUu4JYBBPBlJX4JYP:5BJP(5UUPJUJJ4lB2B5Z5JJYuYBB<lPPlU2J<)X4P:UB:UBJ54uYo:U24&:UPU:J442YY:BUo)YJ)4YYlP4&o&)UPJM4Po&545JU:Ja9J2oP4oU&2&&)PUB4PY2BUlPQ&<Y2<u!ouol55)L2<P&oo&U54l&<&<4uY:YBBQw<2u&)u)&ol5uUo)U<54B:<BPl5EJ<:27&2&<&)5YUlJu4oYY:4BB<4<Pu52JPl&75oU&))J:4l:2Bol)g4<B2<o&&<&J5l)ZJP4&Y):Yklc2<ouJ24oD&<U5U5JY4UYg:&B&RJkY<l2uPo5P&4Uu)<Jo45YJ::<p<&<&u:2Yo2&u5YUU)4YJY<:UB5ll{:u.22P&l<&YUu)uJo4U:}:BloBB<5uJ2:)&&255U))YNAY2::BUl:=Bu<2PP::J&:U5)2BY4)Y::llJ^o<Y<o2Bo<&P4:UJ)B4 B2<uB)^P#lu)2oo&o45PPu)PJl4J<2B,lP#&<)uYP22Y&o5UU4BP4<Yo:5HJ2)<Gu42&oZoY5:Uu4o&U44:&B<lY.5u5u:PEJP&5U2UYJu4uYo:UI42J<<uB25oPo:54U24&Bo4Y:)BullIUuJuBP<lJ&5UuU:JJ42YU:)luYf<uu:2U)<oB5uUP)5JJY<4JB2l&!)&uulP2ooUU45UBJ)4PYB:Jl4/a<2552Joool5oUo)UJ4:B3:BPdALJu&2_PBo&U)4UUlJ44o:<:4l:q<<PBY2Joo&(54U&JuJY:lwBBoi<D4u&2<oPo5UJ4:)<J:4&:Q:Yl:^u2o2224oU&<5BU5J5J::u:YB&+oQYuo2uPooU&4UU)<JB45:&::lub2<Y2u2Yo)&uJ2UU)YJBY<:PB4BP%:u{225Po)&:5l4uB<4U:o:BlU^PuouJo:)5&PUQU)J&JlYU:ocUK:qBu42Po<oJ5oUr)24l4):5:lloVo<Uu4oBoB&PUuUJJU47YB:&H)nlelu:2oo2o45JU<)P4Y4J:5B^l:,&uPuY2loU&oU<U4J54<YB:5BJPB<<u:2&P:oY&lUu4o&U44:UB<lB>5uYu:PWlU&&UoUYJU4uYo:UB4Pl<<uB25o&o:54U2)Y:54Y:JBuuJ9U<YuBPuoP&4&PU:JA42l4:)B:ll<&_l2UP4oB45UP)UJJYlu2BPmu )<BulPuooUUd)UBJ:4P:2:Jlu#*222u2)o)ol5YUoJ<J4:B:2BP>o/Ju52+o5o&&)))UlJB4o:&:4lse<<Pul2Jo)&(5lU&))JY:lBYBo*PO4uJ2<P5o5&JU4)84N4&YY:YBlFu2o&P24o4&<U<U5JoJ:BOslB&W&^YuY2uPloU5<)u)u4>45eY::l<>2u2u)PE2)&u5oUU::JBYu:PB4BPf:uV22UYo)&:5l)U:<4):5:B25CP<UuJ2lox&5&kU))YJlXU:oB)l4;BY&2PP)oJ5)UC)2J&4)5<:ll2rouGu42Bo<&JoJUJJ,4%Yl:&BJlY<<uu2)2uo4&BU<JDJ544Y:B=<Hm5<JuYP<ou&o5UU4U)4<YP:5B4l:<_u22&P)oY&lUu)&JU44YBB2l&z5<Ju:5<YJ&J5)UY)l4u<&:)B4lB<<uP25PJ&l42UP)5J)4:YlBulo=UlUuBP<oP&)5JUBJH424<:)BYll<2uo2UP4oB5<UP)5JJYJ:hB2l&V4<lulPuoo:&B}7oJ24JY5:JB:&)U2U5Ju4B:u5PUY)UJ44Bu<o7oU5:)<))J&oU5<5YUlJuvuu)Plo2525:UUJ&on&e52U&))JY4lYuuPlJ<)<B2<PP)BYll<:PAUu)uYP<o:&&5&)&JlY<&25JU5)JJ:-2Puou&U5Bou2PPloU&45B:5<2u)u:Pu2&&Y54)oJ#o<&:5oUU)4l2ul2oP)&&5uUPU54oYU:UU<)&Jo4UY4u2ol5)UPuYPoof&25&Y4l:uuu5uoP)&:Uuu225P5oJ&:Y)7&B544:<:llu(oo4)JJJYZ:&4YUJ):4yY2o)B)l:gluu2oPUo45BUU)PJU4J:&BWl2K&u42u2lo2&o5JU4)B4<YPlABJll<ruP2&P)oY&lU))oJJ44YlB<lPr5<J2PPMoP&&5)UYJu4uY)BoB4lB<<&u25P4o:Uu:&)5Jl4Y:<Bulo>U24BBP<o4&55lU:J&42Y&<UB:q&<uu:2UP4oB5<<Y)54{4::;B2lBC)u!<)Puoo&U45UBJu4PB5)JB:34<2232)oUolUPYU))4U4B:YBPl5FJ<::&P2&<&)U)UlJP4oYB)YBBsY<P&22JPB&v52U&):)&4l:uBo2Pk4<l2<PJUo&J5:)G454&YJ:Yl%Su<)<u24PB&<UUU5)4J:YP4:B&l)dYP&2uP&oU&4Yl)uJl45YY::l_g2<&BB2YoJ&uU=UUJoJBY53uB5doZ:2l22P5o)&:5l)&Ul4UY4:B<V_P<UuJ2:J<&PU<U))BJlYu:oBU:o+Bu:2PP5oJ&lUi42J:4):):llYvo<Yu4PB&:&PU2UJJ<4r:f:&+)<2ilul2oouo454U<JP4o4J:)Bnq;,&u&uY2l&5&oU2U4JU4<:,:5lYor<<uB2&o2oY&lUu4o<U4Y:)B<llb5<Bu:&_oo&&UPUYJJ4uY::Ul4<)<<uB25PBo:54U2)&lJ4::JBulobU<4uB&<)D&5UoU:J442:2:)lY5B<2ul2UoUoB5YUP)4)P4::(B22ua)<:ulPuJ&&)U&UBJ24PY5:JB:Yo<22<2)o5ol5YUo)B:)4B:YBPu2,J<B2VPPo&&:&&UlJu4olP:4BlD<<U<<2JP:&7JPU&)JJY:lbBBoZPt4u)2<PUo55JlY)<J:4&Y::Yl4Nu2o&P24oJ&<5lU5J5J::vouB5a2qYuY2uo<oU&l&U)<JP45Q&::l<f2uU5Y2:o4&u5lUU)4JBB<PPBUn&y:uY22PJo)UYUJ)u4<4U:5:BlPiPu5u42:oJ&25JU)JUJl:P&<B)T5vBuU2PP5oJU:Uu)24u4):U:ll2*ouJPo2BoB&P5YUJ):4!:o:4B)(Jqlu52oPUo4U,UU)P4&4J:uBwl2D&<)P52loB&oU5U4J=4<:PBJBJX5<r2W2&oooY5o&o)oJB44:JB<loL5<Yu:PP2:&&5)UYJ44uY&:Ul<B<<<uo25o<o:5<U2)UJ)YW4)BuloQUuuuBPuoP&:JUU:JE42zJ:)B:ll<2uo2Y2ooB5<UP:4JJ4B:MB24)6)<:ulPuoo&U54UB<)4oYU:JBlye<2u&2)25ol5uUo))J44B:<BPl5 J<:2<Poo&&)5Y)<J44oYU:4&<5oU2)5U)4lYu:YlJ)4424l:uBo2:5)5l)24I4YYBUP)wJ24&Y)u:l7/2<ouU24PB&<UP9&)4JBY0:oB&l)KYuo&CPooU&4UP)<Jo45Y4::lPB:<&u)2Yoo&u5&UUJ:K<Yu:oB5l4;:ui22P&UB&:Uh)uJ&4UYY:Bl<Bl<5uJ2:o<&25&U))YJlYu:oB)l40Bu<2PPBoJ&:U_)2l54JYY:llu8o<Uu4PP<u&P55UJJ<4IYP:&B)lY<2-Y2oPUo45uU<)oJ54B45BMl2T&<luYPWou&oY)UY)B4<Yo:5BJl:<KoU25P)oY5 Uu)&JU444)B<lP15<4u:Pgo2&&5)UY)l4uYJ:UB4lB<2uB25PJo:B2l5l5<42_<BoPo55<Ul2*PUoP&55J:UXouYuUPuoJ&2<PuB2UP4oBBPlU,&<J.YPuPool5:<B2&Puoo&UYVlYwu<&222lo<1u<Ju&2)PYJJ:5lB:4<Juu2&lJl5xJ<:2&bPo&&J5Y)uJu4&YU:4BBcolBu52JP:&252U5))JYJJ:uBolUAY<B2<PP55J&5:)uJ24&Y)B<Bl^u&&u)2BPB&<5PU5)JY:lY:2B)l)sl<l2PPooBB<5B)2JPYYYJ:Bl*w&<&u:u&Pl&u5o):)4JlY<:P2Ul47lur22P&o)&Y)lYBJo4JY4Bql<yU<52g&4od&o5&)&)Y4QYu:&BUlllUu<2PP5&5&:U<)2JJJ2YY:llu<J<UuY2Bo<4o5UUY):4<Y2:&B)Nu:buu25PU&B&BUu)PJ54J:<YJl2=&<)2l2lo2&oUJ:B)l42YP:JBJl:<-u2&4PJoB&lU2)oJ)44:uY4lPa5<JPuPVoP&&U4:lJC4PYo:)B4lB<<uP&YP4ol5QUP)&JJ4YYlY:loOU<4ulP<oP&55JU:J942YU::BYll<uu5PUP4oB5<YY%Y<5<B2Bouol&:&B)B4<Y)4U:Y.p<o4&Y::JB:zGo&&YJ4J:YY:5U5J&J44B:<uJ&_5UU<5&JYYU:Yl_:u_J<B2P2lly}J<Pu52J)DYU:PlUlJcl2225o5QU_4<B2<PPJU&45:)HJ24&Y):Y_l2B<ouU24PB&<5UU5Jc&BYb:2B&nU*Yu_2uPooU&l&U)<JP45:)::l<022&B)2YoH&u5oUU)BJB:2<5BUl:Q:u<22P&o)&Yuo)uJ&4UYB:Bl2,P<:B42:o<&2UoU)):JlYu:oBYBoHBu<2Po&oJ&BUq42Bu4)Y::llu=o<)u4oBUl&P5UUJ)B4/Yo:&B)aoClu22oP)o4&BU<)P454JYBB,l&_&<)uYol&)&o5)U4)l4<Y&:5BJll<LuP2&P4oY&lUu)o)244YBB<lo,5<Ju:Pxo2&&5)UYJ<4uYo:UB:XP<<uP25U4Y&::Bo+o<:4B:)BuloTU&B)44nY2:4Bul4gou&2)::BYll<uuoU)PYol5<UP)5JJ4:la<ll&9J<Y2bPuo&&UU4=:Ju4oY5:YB:x.<2u&uPPYol5uU&)UJ44B:<BPl59J<BoYP2o&&)5B)2Ju4oYUou&s&uUPu)PRP:&a52:&lJ<BuPPdo)lJ<<<B2<PPY3:J:Bl)<ou)Y4BABlhu<o5&J%4:Yl5&Ul)JJ:Yb<oP5&Y5<&l)245YY&:Uu)<JP45+lP4&o5v<)u)2YPl&u5oUU)4JBY2B<B5lJ0:5PJu)o44:&BPlo<)S4242loP&)<JuJ2:o1&25&U)JYBlYP:lBUl46BU_UuJYY):4Y2ll<ou52<B<lUpo<Uu4U<)5:&:Ul5Zu4uY):&B)lYou)<J<45Y:J<U2))J54JY:u<&<&:Uo)<P<o5&o5UU4B<uI2{P&oYll<2u22&P)JoBuY2)54u44YBB<25&UUU5+Jl4l:uBulkyP4PYU:UB4lB5lU)JBPY&o5FU2)&BJuJ2uPJ&P5JU{)uP2oU&55JU:l2<YP 2BBBD2<uuo2U)2Y2:uBU))4U4::OB22:&B)#52J5YUY4BtlYDo<o2oPB&DSu<Bu&2)PYJlBPBB1oOY2aPJ2PoU5Y)<22P2o&&)5YUluu0&bU::lo#<<Pu5Jp4lYlBf:UBtBBY<:4BolU.4)oJ*4&Yu::B:l<n&<4Y4B<BlRu<o5J)Y4YYU:)U)J&J:Y%:22J&4&:U:Jo4o4)::B2llj52fYYB&lji2<&UYJ4Y<:<BJlYyP<Yu&:&B4lJ=:u6U<J5Y&:<Us)uJ5YPY4:Bl<o5UY)YJ24<Y&:4:o9o<&uJP)B)lY<du)2PP5oJ4JB<_5b4u42oP6oB35u&u42Bo<JJB_lU*<l&uYPUoY5kouUJ)B4P4l5<U<)PJ54JY:By^4P&<4Pu2lou&o4BlPbY<oDJPToY5MUP&&)B4uYU:2:)l:<<<B2&uJ&5PU<Y2:P=o2&&Y<(<MY<222P5oP&u&2)2J&4BJ::<losJJY4YYlBuloSUl4):U<o&5<5JU:JDlo2UPuo2&5U&)2):4B:<52U:)5JJ4:<2Plo55YUl5:J2YuY:5:)2J<4PY5u5oY&P5U)u24oPol5uUoB<<)2<PoPo&o&:Uu22::Blgu<ouU245Bd5::yum<<Pu5U:4u:PY2lUpu<)uvPPoBPU&Y)jJoU5)::Y:Bl:CUu<Y):YBl;U:&uU2:PB&P5PUU)JJ:Ym:5:+l)GY<l2oPoo)&4Uu54JP45YJB5lNQP<&24Ulo1&o5o)P)4JBY<lPBJl4<gu02&P&5<&Y)<)oJo4YY4Bol<*P<52Yo5oy&U5&Jl)YJlYuB5lul4<Pu<oJP5oJ&:UL)lJ&4YYYBolud5<Uu4B2o<&&55U:):4_Y2BU2Yl:<uuuolPUo4&BJ<)UJU4:Y:B2l2<5<)2BPJou&)5U4P)B4<YP:5l:l:<2u22UP)oB&lJu)4JU4lYBB<lPuP<J2loNo2&45))&)l4uYo:UAUlB<ouP24PJ&u59)2JuJ)4lYlllloyY<4P!<:oP&45JJ&JH42Y&B)lJll<ouo2JP4&u5<)&4<JJY<:nB&l&c)<YPloloo&:54UBJ<Y)Y5:JllEO<Uu&2lPYol5uUo4oJ4Yu:<BPl5<m<:2PoUo&&)5Y:BJu4&YUl4JBN<<:u5PuP:&l52)U:YJ:YJ:uBJlU(4<B2<BJo5525:)4J24UY)Bu4 Ku<BuUUJPB&u5PU5)J4<JJ:2B&l)o4<l22Po5UJ55B)JJP4lYJlJl,u)oUu)PoPlUP5oU))4:2Y<:U:<lJ_:uZooP&oJ&YU25YJo4UY4u:l<Io<52Y)po<&Y5&42)YJlYulouPl4<5u<2:P5&4&:JjYlJ&Y2YYB5luu:<Uu4JUo<&:55UY):4uY2l&uolY<)uu2:PU5U&B)<<2JUY2Y:l:l2<^<)PY54ou&l5U)2)BYPYPB5&)lB<)u2P)P)&&&lJuooJUYoYBB<lPu)<J2lU2oP5u5)4<)l4uYo:U)<lB<4uPP2PJol5 U)YPJ)Y&Yl<ulo()<4ulP<oUo<5JU:J}B2Y&:JBY62lYuo2UP4))5<Uo)54Y<V:<BBl&<P<YulPu5oJP54))J<4lY5B4B:G(4Uu&PoPY&=5uUo)UJ4uU:<Bll5wY<:2uP25&Jo5Y)4Ju4:YUB&BBu<:Pu5P&P:&Y52UB))YYl4:ul2lU<o<B2YPPo5<85:)YJ2YPY):BBlauY4uUP&PB&Y5P)2)J4:2l:PBll)<5<l2:PooYoo5B)<JPlPYJ:BlOu2ouu)P5Pl&J5o)2)44BPF:olKlJ<Uuz2BP&U)5P5l)4JoYJY4lBl<2P<luJP&o1525&J5)Y:lYJ:ol<l4u)u<olP5&YYAU<)BJ&4lYY:lluuoUUuYP)o<&l55J4)::X:::&lPlY<Juu2)PU&4U)U<):J5:4Y:B4l2<&)Uu:PUou525UU:)BY<P2:Ul2l:<uu22)P)&BJJU2JfJUBoYBB<lPu5u4u:P4o25<5)):)lYP:Y:Ul5lB2SuP25PJo:U:U2J2J)YoYlBulo.Uu&uBPYoP5P5JUlJhB2YB:)l5ll2)uoo4P4UB5:UPJuJJ:5:rBYl&<))420P:oo5&54)SJ<BPYl:JlU1Mu3u&o3PY&oooUo)YJ4:5:<Bol5OY<:2Pu:o&&)5YJUJu4&YUl4JB3<<Uu52:P:Uu52)U:YJ:Yo:ul)lU84<B2<BJo5&B5:)&J24UY)Bu4T>u<)uU)uPB&u5PU5)J4<JJ:2B&l)&2<l22PooYoo5B)<JP<<YJ:BlZu2:&u)PgPl&o5oJY)4YdVP:oB:lJ<uu-22P&o)<u5l)&Jo4BY4B=l<<P)&u4PKoS5)5&U:)YYllB:oBYl4<<u<PJP5&nuBUz)5J&<:YYBvludo<UuluUo<&P55BB):4<Y2l&J)lY<2uu2UPUU5&B)2B5JUYnY:B4l20&<)PY54ou&45U)<)BYuYP:5Ull:<5u225P)oY&lUu:PJ)Y<YBBUlPS5<Ju:PYoP&J5)UY)l42YoBJ2Bll<ouPo2PJo:5=J2:uJ)Y1YlB&lo=)<42PYPoo&Y5JU:J>4PY&:JBYll5<u&2UP4&<5<UP)5JJu5:SB5l&/4<Y2<Puoo):5Y)uJ<4oY5:4B:_XlBu&2)PY&}5uUo)UJY4B:<BPQ2XJ<:2_PooY&)5YUl+4uou)PP&%5P<&2u2JP:&D4JB46:Blu524o<oY5:U2)lP&oJ&J5:)hBYu)3J:lJ5uZ)J<2UY}&ll42U)JuJ:Y7:2uUoJ5lUPUuJ&YJ:lUM)oJP45YJoPo<&YUJuY2YPl&u5oUU)4BY><:&BBlJ/:uW55J4YYB7l<a<<B44&o55UJ):4_Y2u&Ul&oUuU))YJl<&P5P)&)U<)<)o4)4l:4B2(YJ)o2&o5UU4)B4<lP5:oP&P55UJ):4AY2Y&uU<4aluu2ooJ)B&lU<)PJB4JY:BSNoP)<Ju:2loB&o5UU4)Bo&YP:)BJl:<mu22&o4)l5pUo)o4P44YBB<lUuY<JuBPT&B&&5JUY4<poY&::B4ll<<uP25PJJB5<U))&J)4YYlBu<oYU<42PP<oJ&55YU:JrluY5:lBY*&<uuo2UP4l&5<U))5JJ4::5B2lJl2<YulPu&J&U5YUBY<5PY5BPB:e)<2u)2)oBJu52)<)U4{4B:<BPl54F<:2JP2&u&)5BUlJUB2YUBoBB<u<PuU2JPB&n555g))JY4lB2Bol)i4uu<4PPo5&J)u);JP4&Y)B)l+=Y<ouY24PB&<)Pu<)J45Y%::B&dueYul&UP&&u&4U))<JB45:JoYl<gY<&222Yo)&u54&4)442Y<:lB5l4!:uu22PJP2&Y5l)u4q4UYY:BK2o5<Uul2:o&&25&U)JBluY2:4BUllqBu<2PP525&:Uo)2JU4)Y::ll&ou<UuY2Bo&&P5UUJ):9<YP:5B)lY1luu2o&U<4&BUu)PJU4J:oBTl2B2<)u:2loP&o5)U4)B)YYP:5BJlB<Hu22&P)oY&lUu)oJ4:)YBB<lPR)<Bu:P}o24)Bu_&hP4PY::UB4lBoBUoJl)wYYBuB&l4JJ4Y:<B5lo6U<45<4eYc:&BY)FJq42Y&:)BYll=u&P2JPloB5<UP:Y<U2u2:BolB9)<YulU4Y2:4BlBltl<5uY:YlPO;<2u&Ul4<YuB&lPEJ:BYa:5BPl5CJ&D)lJlYo:4Jl)<J&4oYU:4o&5&54UY2Yo5&E52U&:Yd:u:<ooP&P55U5)oJ)o)&B5:)TJ26PuJP)oPOP<BuU24PB:UB2l)Iou62*2PP)oBDBu52uPooU44:l-2<Uq4P2P:oono<Bu)2YPlJ2B2B4y2<:222)P4l:J54)YY:lluXooU:<J5YPY4:Bl<P&U&UB4&J&YUBulUll<U2&PBB4l4aBu<2PP5oJ&:UZ)oJ44)YY:lPo&:5))4J2o2&Y55UJ):l:uPPJPB&B5UU2J<PJ&2&BU<)Pl5u)P1P)&5&lUU)JP<oJ&o5UU4lP<&2!P&P:&&UP)Y2UPloY&lUuBor)u:22Pl&Ue)u2u:Pro24)B5l4<&<U2<2)o&&2<2uU25PJo:Y=BPmU<:4B:4BulojU&lJVJuYu:JBJBB<u<U2P2Y&oW<<&uo2UP4Y4:ulUllJYY3:qB2l&55U<J&PPo)&U54UBB2<o22P&BlkP<2u&2))JYPB<l2:<J44B:<l&&uw4u82+PJo&&)5YJlJl4oY4:4l<n<2mu5PYou&155U&4uJY4l:uBog;=4u<2<P&o5&Y5:JuJ&4&Y::Yloau<ouUo44B&u5UU5)BJ:YB:2!&<27Yu22uP)oUUU5BJ<4o45Y:::t2L2<Ju)PB:4&25)UUJ2JBY<:PT5R5V:uP22PJo)UU5lJP4P4U:Z:Bm<_P<5uJPloP&25YU)JYJlYu:olJl:-BuU2Po5oJ&:U,)24<4):M:ll)yo<Ju4PBo&&P5JUJ)B4LY5:&<)WPAluo2oo5o45<U<YPJl4J:*BglBc&<YuY&loJ&o54U44U4<:&:5lJ5Y<<u&2&oBoY&lUuJ5l44Y:uB<lJ85<Ju:&EY2&55:UYJ24u:):U.4<&<<uU25PBo:UBU2J&Yo4Y:uBuZ)RU<luBP5Y:&55BU:4l42Y5:)B:ll<&+l2UP4oB)aUP)UJJYlu2BPlJ0)uoulPuooUU5BUlJo4PY4:J^)Z6uo2B2)o<ol55Uo)UJ4:CB2BPl:iJuu2QP2o&54)5UlJ)4oY::4BBb<<Pu)2Jo<&85JU&)4JYYlo<B&l4 4uu2<PUo5)J::)<J&4&:o:Yd5#uu52u24ou&<U<U5)JJ::^BUB&lY Y2&2uP)oU5:)U)<JU45:<::l%S22&2U2Yo2&u5)UU45JB:2:)B5llg:2<22P&o)&Y)))uJ)4UY::Bl2cPu)5:2Boo&25BU))YJlBu<<BUtcDBu&2P&2oJ5lY2)PJY4):B:llu*o<UJo2loU&P5)UJ):4,:o<)BJvPbl2P2oPUo4&Bu5)PJY4J:oBMloR&u)J4Pho&&oUBU4J24<:&uJB4du<qu42&P)oYUl4B)oJ:44:2B<<I75uY5NP<o)&&U4UY)l4u:5u4BYto<<2l25PJo:)V5U)&4}4Y:&Bull+Uu:ulP<oY&5UYU:J%42Y&::BYiP<uu:2UP:oBU<Uo)5JB4::uB2l4+)uYPJPuo)&U)uUBJP4PY5l<B:d2<2uU2)PYol5uJ<)UJ44B:uBPl5+J<:2WP2o&&Y5BUlJu4oYJB<BBE<<P&UJ24JYuBulJ)4424l:uBoP25x)5)2J:YoYBU<).J24&Y)u:lTc2<ouU24PB&<)PY2)JJBYf:PB&lJ_Yul4<P&o)&4UC)<JP45YJYUlds2<&uJ2YPl&u5oUU)4JBYu:&B5lJm:uu2YP&o)&Y:ul4<<<:2)ou2u&:UPuYPPoN&25&:YeP<B2)<425o<<uu<2PP5oJ4BU<)PJ&4)YY:lluuooPu42lo<&o55U4):Y%Pu:5BJlY<<uu2oPUo4o)U<)PJ544Y:Bgl2Z&<)uY2lo2&U5UU4)B42Y4:5BJl:o4UUJlJ4Yo::B&)54u44YBB<PU5)U2)PJ54U:U:4l4<24PYY:UB4lBoYU)4.U:YY:PBUJ2J)4YYlBU4&NU<YuBPPoP&U5JU:Jy4549:)BYll<ouo2)P4oBoYUP)5JJ4B:,B2l&u)oUulPPoo&U54)<J<4P<U:4lRkp<2u&2)PY5lJBUo)4J4Y<:<B&l5uJo)2FP&o&&Y5Y)sJu442B:4l{=<uEu524P:&252UJU2JY4l:ul<lUtY<B2<)ooU&Y5:)<J24&Y):Y5)b2<5uU2:PB&<5PU5<uJBYu:2B5l)7Y<l2u2=oU&45B)uJP45YJ::lmT2<&u42BPl&u5oUJJuJBY<:PuY&U&BUu)lJ44:&BU))uJo4U<lo3oJ&45BUlJl4u:uBJU:)YJlYu:o2)lYQlu<2PP5oJ&:JkYlJ&4JYYBqlu,5<U244:ou&o55U4):4WY2:&:PlYQluu2&PUo4&BU<)PJ54JYBBul2p&<)uBPoou&o5U:l<^<uu52YoYll<5u22&P)J<::B2l5<Pud2uBolPW5<Ju:)<oP&55)UY)l4uYolUu5lB<uuP2UPJoB5H)2<oJJ4:YlBPlo9U<4uBuYoP&55JUBJI42Y&:)BYll<uu&2JP4oB5<U&JuJJ4::e2&&P5U)25PJl4B:YBll2<24&YY:JB:j7o&)oJo44:<5&Uo)UJ44BuuBolUqJ<:2CP2o&U)4UUlJ24oY):4BlR<uPJ&24PB& 5oU&))JY4l4:BolUw4<l2<PPo5&J5:)_J245:<:YBl{u<52724PB&<B)lJll<luP2PoJoJvYu<2JPooU&4Y5ll<5u4u4P4o2&U<UuB2YPl&uB)B)l:<Ju&:&BBlJ0:up55J4YYBel<{<<B4J:<:Bl<xP&)UlJJ4l:):4U4J<JlYu:ooUoY55)2J5P)&*&:UN)2<J2u2YPP&<&4oUu42Bo<&PYUU4)B4sY2:&B)lYjlB52oP)o4&lU<)PJ5YpUBB_lPD&oUuYPpou&o5UUlUU4<YP:5u)l:<<u2PU)Yo:5ZUu)YJU44YBB<PoLU<Yu:Pgo2&&5)UY&P4uY5:UB:lB<<uP25YBoB5<U2)UJ)4lYlB&:lEU<4uB5YoP&U5J)ll24PYY:)lPll<uuo2Ul#oB5UUP)YJJ4::rB2&_/)uuulPPoo&J544PBo4PY::JlYaa<Pu&2:PY&2oYUo)UJ4Y::<Bol5>Bz52,P2o&5B5Y)rJu:o>P:4lPI<<)u5P#P:&&2PU&)lJY:P:uB&lUV4<B2ouBo5&J5:JoJ245Y)lYJlau<4uUP3PB&55PU555J:Y&:2BUl)F:<l2&uloU&45BYYJP4UYJBlP2WP<Yu)PPPl&u5oUUPkJBYU:PBYlJ8:u_224>o)5u5l)PJo4JY4HP2o_P<:uJoUo%&P5&UY)Y42JY:oBUl4u)u<2oP5oBo5Uf)2J&:4YYB#luuooPu4PPo<&)55Ul):4&l<:&BllYuBuu2&PUoY&BUo5BJ54JY:lll2I5<)2Wu)ou&o5UJ:)B4uYPl5JJl:<&u224P)&<&lUu5uJUY<YBB2lP}U<J2<uJo2&&5)Y5)l42YoBJ2Bll<5uP2lPJo:53U224J)Y2YlB5lo.U<4uBJ4oP&:5JUlJM4oY&ll2Zll<Uuo&(P4ol5<Uo)5JBJ5:!B2l&2<<Y2aPuo)ou54UBJ<B2Y5:4B:uHPlu&2lPY&P5uU4)U4<BY:<BJl52&<:2<P2o5&)UC5)Ju4oYU}5BBpu<Pu4uPP:&G524o))J:4lluJolU<<<B2&PPo:&J5:&:J24YY):BBlb2<ouYuoPB&<5PYu)JJBY_Bo2)lJ<u<l2JPooU&45B2&JP4BYJBul+%2<&u)J&Pl&U5oUJ)44sY<lJu4lJ<2uO&UP&oJ&YUn)uJ)JuY4:Bl<2)<5u42:oPP:5&U))YBJYu:&BU<4PJu<2JP5ol&:Uo)2JYB5YYBolu2B<UuY2Bou&P545P):4HY2DlB)l:ilu&<lPUo4&B4Y)PJU4JB:Jal2iY<)2<2lo5&o5U&U)B45YP:)BJlB<Su)<)P)o:&lU4)oJ)44:;B<lUl<<Ju:PGoY&&5JUY)l}2Y&:)B4lB<<uP25&J4U51UP)&J)4Y:<Bulol2<4uBP<oo&55JU:J342Y&:)B:bm<uuo2UP:&}5<UP)5:42&:PB2l&7)<YUqP2oo&U54UBJ<4P:)<:BB <<2u52)PYol5u&u)UJ44B:2BPlU%J<:<4P2o&&)5:UlJu4oYU:4BBg<<PPP2JP:&*5oU:))JY4l<:PJ5<&:U5)lJUo)525:)HJ2u:2UPBoJ5oUoU))B42&254U5)JJ:<M2lP55u5<)<JoP5&<&45B)<B5<lu4Plo<&&UJUBJBo<&25oUU)435Y2:5B5lJ^:&&Uu)Yo45)5l)uJol4Pzo*&2&)Uo)BUf4<:K:4l4l:4<:u:oBUl4ooU&JU)PY)Bul2lUluuUulP=&&&BU5))P8o5&P55UJ:B<)2 2UoU5,<<u)2oPUo4YPB&l5<4u)2l<ulon)<)uY2lY9YJBlU:4u4<YP:5P<&YUuUl)J):Y4YoB4lJ<lu42:o2&Uo5U))&JBY5&U5lUY)l4u*42)PB5uUf)&2)ouo:5=U2BYSBuU2BPooB5Y)P2OPUoP&55J:o3)u5<&2JoB52<Pu&2UP4oBY)U&)BJJ4::=uU&P&J5B)4J54)&JUPUBJ<4P<P24oP&B5Y)JJB4yYP5PU:)UJ44Bu<o2&J52)<))4uYP&4UuUlJu4o2<P4Pl&JU&)J2Yo5&Q52U&B)<BuP2&PBo45lU5JL4uo)5<5:)ZJ2T<uBoo2u5<5)U:2:oU&<5PU5B<<u2Pu2ouoJUoUPJP4UoJ5&5B)<JP+22)PCo<&l&&)o):YUY5B5UJ)lJBY<:PPBo45JUo2oPJo)&Y5llla&uY22BAlo%P<5uJJoYoYJ:4U4JJJlYu:ouB&P5YUo5J40YYB6lP:&ABuu2UP2lP<o<Uu42B)):)BPB4_4<luY2J24&45B)&UoJ)Y:BuBl)PJ54J:2J<l2_5<)ul2lo2&o5UU4Ju)4YP:5BJGQ< uP2&P)P5&lUu)oJ)44YBB<<PP2<JulPao2&&UlUY)lz2Y&:4B4lB<<uP25&J))5QU&)&JY4Y:UBu<oPP<42<P<o5&554U:J&22Y&:4BY_)<uu&2UPBoB5o&B)5JJ4::JB2l5()u3<)Puoo&UBUUBJu4PY5u4BB7u<2u52)PYol5UP&)UJ:4B:lBPlU J<:2zP5P0&)5YUl4+4oY):4luB4<Pu52J4&&g5PU&J4llYc:PBo<<g4<B2<&Puo&J5l)kJo4&YY:Y3l<o<ouJ24ob&<UYU5JY4oYf:&B&l4TY<l2u&o&5&4U<)<J545:<::lq<=<&u:2Yo<&u5oUU444oY<:UB5lBq:uU22P&5F&YU2)uJ54UY::Bl<<:<5ul2:oo&25&U)JBY4Yu:4BU<okBu<2P&5o4&:U&)2JY4)B5:lpPoU<)2u2B&o&P55UJJl<JYP:BB)<ofluu2o&U&J&BU))PJl4J:;B#<2<Y<)2P2loJ&oUlU4)BYoYP:lBJ+&<ju22&P)&)&lU))oJU44:5B<lU3l<Ju:PN4P&&5JUYJo2uYoB2B4ol<<uo25PYo:5P&:)&J)4Y2nBul&AU24&JP<&p&5UoU:JP42YY)JBYV4<uU&2UPYoB5<UP)4)P4::bB2o5Q)<:ul&u)<&UU5UBJY4PY4:JS:uu<P2u2)oUolUBUo)U444B:lBPl5IJ<:2G&25I&)UJUl4Q4o:<:4CB<<<P2o2Jo4&LUuU&))424l:BBoc&Q4u!2<PJoY&JU))(:<4&YJ:YlFEu<)<u24PB&<JuU5)4J:YP4:B&l)HYU82uP&oUU44J)<4a45:o::lPr2<&5J2:oY&u5oUU)4JBB<<kB5!5p:u:22Plo)UY44)u4u4U:U:BLL6P<5Bl2:oY&2UuU)J)JlBu<<BUrUkBu:2PoJoJ&::<)P4P4)YY:lluqo2U&52Bol&PUoUJ4u4,B2<uB)8J-l2_2oo)o45PJl)P4o4J75BOlPZ&<JuYP22Y&o5UU4:U4<Yo:5BBB5<.u22&)2oY5XUu4oBP44:YB<ll;5<Bu:&L<2&&U5UYJ:4uB<:Ul:P<<u2P25&5o:5zU2)&Pl4Y::BuXo#U<:uBP5Uu&5UUU:B<42Y5:)B:ll<&Vl2UP4oB4uUP)UJJY<4JB2l&=)&&ulP2ooUU45UBJl4P:u:Jl<_j224P2JoJolU9Uo4oJ4:B:lBPy&+Ju42Eo<o&U))5Ul4u4o:P:4A<8<<P2J2JoB&R52U&))JY:lBYBo ).4ul2<o)o5UJU4)y4P4&:J:YlY{u<ou:24ol&<U2U5J4J:Y8UuB&E&mYul2uo&oUU42B)<4u45Y:::lYd2<&YB2Yol&uUuUU)4JBY<uoB5zUN:2E22ooo)5uJ:)u4P4U<4:BluIP<UuJP<2J&25&U)BYJlY2:oBYBoVBu<2PJUoJ&BUVJol)4J:Y:llYdo<Uu4oBYo&PU5UJJ:4.YB:&I){)9l222oo&o45BU<4P4J4J:lB%(<K&<BuY2lo&&oUUU44(4<Y&:5BJ<o<O222&o)oY52Uu4o4V44:BB<VP/5uYu:P&&5&&U)UYl)4uY&:Ul<lB<o7B25PJo:YJU2)5J)Y34)BuloaU5YuBPuoP&5Y4UB4<42Y&:)BYll2u&<2UoYoBUuUPJTJJ::WYB2%5h)u:ulPUoo&BJ5Ul4<4PuU:JBB7GuPu&2:2&ol5uUol)J44l:<BP)YEJu223o2o&&)5YUlP54oY::4lJG<<Pu5PO2w&65JU&4)JYYz:uB5lUplkU2<PPo5UJ5:)<J24YUJ:YlPzuUuuU2YPB&<5PU4UPJ:Yr:2o2l)K:<l2u4:o)5%5B)PJP45YJ::2<kP<:u)2:Pl&u5oUU<2JlYU:PBUlJg:uH252Lo)&Y5lllJo4)Y4:B2udo<)uJ2:oX&25&U)<P4QYP:oB)l4wBu<2P54o4&lUZ)oJ&4)YY:l&Jk&<Ju4P<o<&P55UJUU4bY2:&BJlYZluu2oPUo4&BU2)PJ54JY:BPl2c&<)uY45o2&o5UU4)B4<YP:524lB<<u225P)oY&lUuYJJ)4YYBBulPhU<Ju:u4o2&&5)U:)l4uYo:UB4lB<<uo2)PJo:50Uo):J)4YYlu5&2&)5:)JJ&4U&)U2U:Jp421)<loB&M5lUJ5B45:55oUP)5JJ4:u<BPl5W)<YulPuooUU45UBJu4PYU:JBlSMu2Jo2JP:ol52Uo)UJ44B4YBPl5TJ<B2RP2o&&)5YUlJu4&YJ:4BBa<<&2G2JP:&C4YlP^:<<u:PoPB&YUPuk2YPPo5&JYPlY<uu:2uPJo&P2UJ)J)You&<5PU5)JlBY<:PB&l)SY<l2u&o)P&45l)<Jo45YY::sxUu<5uJ2YoL&u5oUU)4))Y<:PB5l4g:ug22P&o)&Y5l)2JY4UY4:Bl2<u<5uJ2:)&YYBPB:Bu<U2PPUoY2B5&UJJ(J4oY5JU7)2J&#42<P:o&&JUJ5B4u4&:PB5Bl{<4uYJ:&B)lYoP)T)&JJY5:2Bo)&454JY:BF2454U&U:J:Y<YB:Y::A:uW2Uu5P4&lUPu&2&P)oY&lUu)oJU44:/BUlP(5<J5yJlY<:P:BBl<24PYB:UB4lBoPUY)U4Y4B:2l5l4<4BBYlBulo-U&YulP<oP&55JU:J!4)U5:)BYll<&uo2)P4oB5<UUU<JJ4::%B5l&aJ<Y22uYoo&U54)5J<4oY5:J2B <<2u&2JPYol5uJo:PJ44B:<BPl5p:<:2&SPo&&)5Y)UJu4&YU:4BBNolBu52JP:&)52U5))4>J):uBolU<o<B2uPPo5oo5:)7J245Y):YBl_u&&u)24PB&25PU5)JY:lY:2B&l)%Y<l2)PooB5J5l)uJPYUYJ:Blh,2<&u:u&Pl&u5o)))4JlY<lPJ5lJSBu}22P&oJ&Y)<:oJ&44Y4Bul<kP<5uJB2oI&P5&UY)Y4<Yu:o2)lY<xu<25P5oJ&:U-&&J&44YYB-lub5<U2<llo<&o55JP):4<Y2:&B)9Ql)uu2oPU5o&BUu)PJ:54Y:Bul2u.<)u:2lou&o5Y5o)B4<YPl<BJlB<fP25uP)ol&lUP)oJl44:PqllPkJ<JPUP-oP&&5JUYJ2)YYo:UB4<)<<uo25PJPU5;U2)&JJ4YYlBu<oPP<42<P<o&&5U<U:Yf52Y&:YBYCu<uu&2Uo:J<5uU))5JB4::ZB2l&Jl<Y2uPuoJ&U5:UBJ55oY5::B:uu<2u52)PYol5&&l)UJ44Bl2BPlUeJu<<JP2o&&))lUlJ24oYUY&BBN<<PuU2JP:&#52Y5)J4,4l:2BolU}4<BJlPPo4&J5:)AJ24&:4B)Bl9&<ou:24PB&<5P)<)J4<YM:5B&l)=Y<l2YPooY&4UP)<JP45BJB<lzi5<&u:2Yo<&u)oJ<)44uY<:UB58fC:u&4&P5ol&Y5l)uJ&4UYl:Bl<55<UuJ2:o<&25&U))Y.BY2:oBUlB*Bu<2PP54)&BUV)2J54)YY:llu5U<)u42Boo&P55UJ):o&Y2:JB)mu.luP2oPU:2&lUo)PJY4JY:BWl2l<<)uY2lo2&o5UU4)l4<YP:5l5l:<.u22UPYoY&lUulU<5uB:aBolPR5<J)JJ<Y5YB54)2)l4uYouBoZ&<Uo)2J)5:ol5)U2)&J)ulP2o<&oo5U:)cJJYU&)UvU:JN42<&2JoB&PUq))24P4oB5<UP)5JJ4::nBolY=)<YulUo)4:J:Yl4.&4&YJ:JB:%7U<U44ePB&&5uUo)UlquY2uP&&2&lU<2uP)o&&)5YB<g2<)2<oV&<#2<5u52JP::2:YlP)44P4l:uBoPU5J)<)J4UYa:)B4)uJU4&Y):YPu5u5JU:)lUP&<5PU5)JlBY<:PB&l)*Y<l2u&o)P&45l)<Jo45:2::l&YP<&uJ2Y&g&u5&UU)4JBYo4BB5lJr:2<22P5o)&Y:1)2J&4UYY:Bl<6P<:oU2:o<&25BU)):JlY2:oBYBo{Bu<2PPloJ&BUc)5)C4)YY:lD2to<)u42BJu&o5UUJ)l4zY2:&BluJtlu22ooPo4&lU<)oJ54B45BHl2z&uouYPkou&)&uU4)B4<:o:5B4l:<V5P25PJoY5<Uu)oJU:4/JB<lok5<4u:Poo2&Y2JUYJg4u:&:UBYlB<<uP242Po:5DU2J5J)4:YlB&:lIU<4uBoooP&U5J)ll24PY5:)l#ll<uuo2UU ol5uUP)UJJ4B:aB2B< )<YulP2oo&U54UBlu4oYU:Jlbn1<2u&2)lJol5PUo)UJ44B:<ePH:CJ<l2yPoo&5&5YUlJY4oYJ:4l^9<<Pu52Jo<&75PU&)JJYY<:uBoiY/4<l2<P5o5&J5:Ju424&YJ:Yludu<ouUo4&U&<5oU5)4J:YU:2lUllQYu<2uP5oU&45B4<uo4UYY::lu!2<5u)2Y&0&u5UUU)BJBY<:PB5Nq>:uu22PUo)&B5l)u4:4UYB:Bl<7P<5uJo:&&&25)U))lJlYY:oBU<UXBu22PP)oJ5vUEJoJJ4)Yl:llU=o<Uu4oQsB&P54UJ)l43Y2:&m)<ualu&2oPYo45)U<)P454J:uB/l&.&<)uY2l&)&o5YU4Jg4<Y&:5BJ(P<3uU2&P)oY&lUu4o4)44:2B<l)X5uPu:PT&B&&5:UYJ24uYJ:UB4zl<<uo25PBo:5uU2)&4)4Y:<Bul&LU<4uB&<o5&55YU:Ju42:u:)BYo3<2uU2UP:oB5<UPJ)l:4B:PB2l:R)<Yul&u)<&U5lUBJo4PYl:JB:Jl<2u42)PBol52Uo)Uor4B:5BPl)nJ<:2EP2lY&)UgUlJU4oYJ:4lBU1<ouJ2JoP&}55U&)))54l:uBol)I4<B2<PPo5&J5:)<J24YY):YBl%P<JuU24PBY5BOBUF<u/YuB&B&l)(Y&))44)YY:6lg:oa)uJP2P4o2PUUPUJ)B44Y5:)UJJJJBY<:PoJ&B&B)uJ5)0YuB.l2l5<5yP2JP:&<V&uPuJ2:ogJ::ll:<A<P2P<Jo&oY5^U:))J4oY5PUW)2J&uf2<o2o)&JU&J<Pw&4&P55UJB<<o2&Plo5ol&uU5)U4YYP::Bll2l<u2P<oPoU5Uo:)<4uY4:2:4J<)B4<YP:55Jl:<<u22&P)oY&l)uJYJU4YYBBolP>5<J2lo4o2&55))<)l4uYo:U UlB<uuP2UPJol5g)2J+J)4:YlBPlohU<42Po:oP&55J)&JX4PY&:)BYy2lYuo2UP4&55<Uo)54Y<7:<BPl&EY<YulPuoo):5YUlJ<4oY5:4B:{g&Pu52JPY&{5uUo)U4<BY:<Bol5<5<:2<P2o5&)Ui5)Ju4oYUBUBB(u<Pu4uPP:&K52)4))J:4l:u2&l)%Y<B2uPPo5&J):YYJ245Y)::Blh2<ouB&)PB&u5P)))JJBY{:PB&l:l&<l2uPo&J&45l)<JUJ<YJ::lM<U<&uJ2YPl425&U))4JlY<:PB5<JP)u02PP&oJ&YUe)u4o25YY:ll<kJ<5uJ2:oHPB5&U))Y4NYu:oBUl4ZBu<2PPUoY&:UK)2JU4BYY:lluPUU5)5J:Y2&&5JUJ):4t=)uo2l^=bluu2oPUJY&lUu)PJ54JY:B.<2Pu<)u:2lo2&o5JU4JB2iYo:UBJlB<ru22&P)P5&lUu)oJ)44YBB<lP95<Ju:P<oo&&5)UYJ<4oYo:UB4P}Uh)Y2)o&o:50U2:JgBuu2>o5&<5YoB):J:Y2:)5BU:JA42Y&uJB:!G<uuo2UP4oB)<Yx)5J44::<B2l56)uYJBP2o&&U5:UBJ<4PY5YoB:9!<2u52)PYol5uUo)UJ44lB&BPl5cJ<l2UP2o&&)Ble&R4uu2<2loJ&&<&u42JP:&bBJB5_o<5Y<:5BolU_4U<):J:YPYY5l)UJ24&Y)uP&P&l5&)&JJ45Yo5&U4)JJ:Yg2YPJ&o5<u<2&PooU&4BU;&<<u5YYlulMQ2<&&lJo4:Y&44l<H:u<2o<5Pl&25)UPUuJY)Y:UBwNo<U4J:5:Bl<TP&BU4J&YPJ)Bol4:l<5u4P<PYl:<uu<2PP5Y:BPB)zsJUYAYY:lluP&U&)PJ44u:U:YUYJ<4IY2:&2Y5a5B)u25P:o4&BU<MP6Uu22lo2lou5<)uY2l4J:)BYl4:UB_l2PB&<5P2B)oJoJ4YU:BlJY2Z4uJ24<Koo5JU:)u4PUuJoBulj:YBuY5BuB4lB<<&oJo42YJ:<l5ll<UuJA+BPllvU<4uBUuYu:bB5BB<P<Y2oP5<BA<<:uo2UP4)l:lB:pPZ42<2)ou&PouUK2<Pooo&U54%/<&uuY)BUB:Nd<2&YJu4JY24UBBWJ<B2u<PPY&L5&U<2uP5o&&)5Ylok2u<2P::#5y<<Pu5U<4u:PY2lulJuouUPcPY2)5)U5)BJoY4:2BYlBl5uUuJ2loJ5o<52<24PB&<45Bll4<lu<2&oJoB5B&U2uPooU&4Yl)uJP45YJ::lEV2<YBJ2YPl&u5)UU)YJBY<:PB4BP}:uH22PJo)&:5l)&Ul4UY4:Bl&QP<UuJ2:24&25&U)):JlYu:oBUPYdlu<2PPUoJ&:UQ42Bu4)YY:llu.ou:u4PP5l&P55UJJ54_YP:&BJlY<2_Y2oPUo45UU<)oJ54J4UBvl2N&<JuY2louUo2UU4)l4<YP:5lul:uu&&25PYoY5)Uu)oJU445PB<loA5<:u:Puo2U&2)UYJ<4uYo:UlulBu2&52UPBo:5PU2)&J)4Y5oBul5RU<luBP2oP&:24U:Ju42B<:)B:ll<uuo2Y2ooB5<UP4uJJ4B:#loP)rJ<lulPBoo&U54JB&<4PY4:JBlk.u5u&2)U4&}5&Uo):J44B:<BPUlGJu92jP2o&&B5Y)2UY4oYU:4{5H<<ou5oJ{:&V54U&JAJYYJ:uBo:o04u&2<P&o5&45:)&U&4&YY:Yy&;u<&uU2:PB&ooBU5)JJ::5:2B5l)<uJu22PUoU&45B)uJP4UYJ::Pl9P<&u)2:Pl&u5oUUUBJBYo:PBJlJ/:u-PoP5o)5<5lJ2Jo4UY4:Bc&iP<4uJ2lo-&P5&U)J<JlY&:oB4l4xBu<P&P4oJ5uU7))J&4)YY:lx58o<Yu4P.o<&o55UJJ44CY5:&BYlYxluuP5&uo452U<J5J54JY:B#l)y&<:uYP<ou&&5UU4JY4<YU:5B:l:<9u2PUUYo:5PUu)UJU44YBB<:<y5<Bu:Puo2&55)UYPP4uY):UBBlB<<uPP)U:oB5oU2)lJ)4YYlBu:ukU<luBP2oP&U5JU:Po42YJ:)Blll<uuoPJUBol5&UP)UJJ4::cB2:2d)uaulPPoo&)54UBP&4PY4:Jlf3F<2u&P4Ul&f55Uo)JJ44B:<BP:PjJu<2+Poo&&J5YJl&u4oYY:4Bla<u&u5PY)X&<5)U&)BJY4l:uBo)B!4uu2<PJo5&Y5:)&&P4&Y::Y25Xu<&uU24PB&ooBU5)JJ:QU:2B5l)uYo42uP)oU&Y5B)&JP:5UJ::lo+2<Ju)PBPl5P4UU)JuJBYl:PB5lJ*:Y&22P4o)525l)PJo4Bl):Bl&ZPoouJ2BoH&P5&U:U&JlYu:ou&l4=lu<2U2<oJ&:Ug:2J&4JYYlluBdo<:u4Puo<5u554JJo47YU:&l)lY<Yuuoo%Uo452U<)UJ5YYY:lu2&r5uFuYPBou&o5UU4PP4<Y):5l<l:<uu22Y55oY5PUu:4JU4YYBBulP/4SPu:Pmo2JY5)U:)l4&Jl:UB4lBo)uP2UPJ5:JYU2)4J)Y*Yll<lo2Uu2uBP&oP555J)JJ 424<:)BYll<2uo2UP4ol5<UP)54b4::/B2lU<B<YulPu)4:<B)luB5<:2)P:&<P254UlJo4IJB:UYUmPAY2<PPB&*2ZJ<:2()J45:ul^:o<<u5f4P2o5&:5Uu)o4P:&852BB,:u8ul3Y<Pu5Uu)oJU5uY):):llY<uuBl52loB&lPPU)JBY<Y&BU4&:)<&uP<n<&l4<o<l2uPo)):)B5lBDou422PYoBmou<u)2YPlJ2B2l<OU{l2o2:o&&Uo&UP2ooPo)&Y5l:URBu&uluPoJ5&UJ)BUg4UYYBuB:JBJlYu:oBU&4DBuu2PP5oJ&:Ug424Y4)Y::ll2{o<Bu42B&2&P5JUJ):4#Y2:&B)s4Ilu22oP4o45tU<)JYP4JYBBClJj&<JuYP;ou&)&uU4)B4<Y4:5B4l:<P-:2&P)oYUxUu)&JU44<lBulo%5<Ju:P>o2U&PuUYJ_4uY&:UB:lB<<Pj25P:o:5hU2)&J)4Y:UBul&%U<BuBP2oPU5UYU:J<42Y5:)B:lluP2&2UPBoB5oUP)5JJ4::2B2l5})<lulPPoo&B5lUBJu4P:U:JBBk(<2u&2:2&ol5uUoJ)J44l:<<Pll%J<B2HPUo&&Y5YUlU:4oYU:4Bli<<Pu52JP:&a52U5))J:4l:uBolJ<u<B2<PP)Y:U:Blu;l<4u::lBl^u<ouUUYPl&u5PU5)JJ:Y!B2&olJ :<l22PooU&45B5YJP45YJ:Blvq2<&u)2YPl&u5&U:)4JBY<:&BBlJI:ub5BJ4:uYBBUM+K)4JBu:Bl<DPo:))Jl42YU4Blu<Tzuu52UoY&P5:Ul)2UYYUYBBullv4<:YBB&luTo<U5&J2YJJ5B&BBeu4uYU:&B)lYooUB)&JlYB5LUU)PJ54J<uPBoP&UUo)<J252&o5UU4JP:lYP:UBJ<:<suP2&PJoY52&Y)oJU44BBB<lop52J&)PDoo&&5)UYJu4uYou)BYf<<<uP25PJo:)q4l)&JY4Y:uBul&KUu<JPP<o&&5)JU:J<42Y):)lvB)<uuo2U&4oB5uUP)5l44B:uB2l&t)<YulPuJ&&)5BUBJ<4PY5:JM:2Y<2u)2)Plol55Uo)U2o4l:PBPlJ1J<:2go2:o&J5BUlJ54oY4:4BBou<ou)2JP:&Q52U&4)BU4l:PBolJ(4u22<PJUo&J5l)V4P4&YJ:YlNFu<)<u24PB&<UoU5)4J:YP4:B&l)aY2P2uP&oU&4Yl)uJ&45YY::l_m2<&lY2Yo<&u5&UU):JBY<PYBUlYV:u<22P&o)5_&))uJo4UBu:Blu-P<5oB2Bou&25UU))YJlYuP:B)l:xBuu2PP5oJ&::<)PJU4)Yl:llu,o2U&52Bo2&P5)UJJ<48Y))5B)lBrlPu2oP)o4&BU<)U)<4JY:Bd<2S&<JuY2lJ2&&5JU4J<4<YP:5^J2)<Euo2&P4oY52Uu)ol)4Y:<B<lPI5<Ju:&_Ul&&5YUYJu4uYJ:Ul45:<uu&25PYo:52U2)&)P4YYlBul&VU<4uBP<oP&55JUlJg42Y&:)lgll<uuo2UY2ol5<UP)5JJ4::;B2P5MJ<:ulP2oo&U54UB:&4oYU:JBBVX<Pu&2)25ol5uUo))J44B:<BPl5iJ<:2<o4o&&)5Y)<Y:4oYU:4o&5oUU)55P5YUlBJl:<S:J2<P<P5&P5J)&olJ5Y&:5JYl<<&u)uBok<BP<5BUY5U5l)<J:4)Y4:llPvo<&uJ2lu<25PooU&4B<l:T:uPuY:l<)e2<&u)JPY2:&BoYuYJ::2UP4oBuU5lUl)o4uYUBPJ:lo<PuolJ2l&P555Y)B&YUlYY:JY&:2:ll)f:u<ulPPoJ&:P)oB&:U,)2<)2-2oPYlP}:<Uu42BYP:4B}l50&<Pul24B4u&Aluu2o47YlBul<YB:&B)PPo5&J2PU4)4J<4B:PlW4)V<uQ2<-&P45ZU2UUJJ5U)4:UB&:u:4BBlB<Puo2:PYol55U5&U5:UY)l4uulP:oU&B<2uU25PJo:B5BPpu<P4B::Bulo.U&<)5Jl4UJ:B2ll<2u5h)P<oo&45&u5P<P4oB5<Y5ll!4ul2<P&&J&BUB2<&4oo&U54l&<ouU25<P<YulUJ):4n5J:<B<B5gP<J2&llP5&&55PY)<4&Y)YBlI4BB<<BuY<UuP2uPJoU5LUo)!J&4U)4:&4l:uBo&K5l)uJ<5BU&))lPQ5<JBP24P4o<&BUPJ_&)4<:*B<4&l4uS222UoJuUP4UU)&UuU4)BJBYP:oB:lY<uuP2Y<Uu:2YPl&u:BBY85<2Y2l:B5lJj:UUJ54JY)J&JBY<<YulPu8Y&2525))&JYYU)<:)lUS):Bu2PUo4&RUuo_524=4BJJ4&YP:YBJ/u<uuU2:PJu:&5o<&P55lu<<uP22<i<Uu4U&))JY5&Y:::B2Q_<&2ul4P2&u52PUU:4uYoYJBY4J::<JuU<Pu<u:P5o4&UUu)2J-4U)5:<44YBB<oY54UB):5JUu)olW-2<&BX25P5P:&JUj)Y&oJ:YY::4ul5<Yul2Po&uPP5UP)u5BU4)54<Yo:5B)lJH:<l(<<:uo2UP4)l:lB:wP742<2)ou&PouUT2<P&oo&U54lPMuu>22:Yl5-(<2u&5J4JYU:lB&wY<Pu:2l<ol)<<<:2 P2)5:5BolYF2u)u:::lUO<<Pu55444Y)BnB5m:<ouBPt<5lJ2o<B2<PP4l:Bl<1b::BolUo2&&5)P2)JJJ4HY:B2llYU<=ulPv<ooJ5l)u)54)U5JJB5loB<BYl:7Bu)24P5ol5uU5)555U4)4JBY<P&oY&U.luY22P&o)Y2B0l4<)lB2Jo(2P&YUn)&J<)u&25&U))Y!(Y2:oBUl40Bu<2PP:<4&:UL)2JJ4)Y::llu(o<Y<o2Bo<&P54UJ)B4ZY5Y-B)lYIlu52oP)o4&B&Y)PJ54JYBB l2D&<)5:PDou&o5)U4)B4<BP<2BJl:</u22&o2oY5oP2)oJU44:UB<loe5<Ju:PP2:&&5)UYJ)4uY&:UBlBU<<uP25ooo:5<U2)&)P4YYlBul&cU<4uB&<<P&554U:Jd42:B:)lBPu<2uU2UoloB5<UP)5op4::<B2l)/)<BulPU:U&)5:UBJ<4PYU:JBBc-<2Uo2JPYol52Uo)UJ44B5&BPlJjJ<l2fP2o&544l)%J&4o:l:4BB1<u&&J24ou&GU<U&))JY4l5BBol4_4u22<Poo5&JU5)6J&4&Y4:YBlsuu5uJ24ou&<54U5)JJ::uB2B&lB(Yu-2uPooU&4U4)<J545Yl::l<T2<&uJ2You&u55UU)4JB:2B2B5lB*:2u22P&o)5BU&)uJJ4U:J:Bl<wP<52o2:o2&254U)):JlYu:YBUlBhBu22PP5oJ5lY2)PJJ4)YB:llu9ouJ&B2lo&&PU:UJ):4,Y2UuB)llwlu52oP)o4&B)))PJJ4JYlB_l2d&u42:2lo&&o5YU4)B4<:&BBBJdu<x222&P)oY&lU))oJ444:2B<lo_5<JPuP1o&&&54UY)l4u:5BuB4mu<<u)25PJo:UuU&)&JB4Y:uBulo(U<4P&P<o5&55lU:J<42Y&BPBYHu<uu52UP4oBU2Y5)UJB4::UB2l&p)uB5uP2oJ&UU&UBJ<4PY5<4B:g2<2u42)P:ol)uPo)UJB4B:uBPiLtJul52PPo4&)U)UlJu4oYUU<BBgP<PuY2JPl&G5)P5))Jl4l<2Bol)e4<B2<PUP<&J5:)FBP4&YJ:Yel2B<ou424Pl&<U<U54J&:Y,:5B&lY%YuU2uo5)4&YUP)<4545YJ::lQJ)<&u:2Yoo&u55UUJ<&lY<:UB522C:u<22P&o)5^&))uJo4UzP:Blu3P25&&2:oP&25)U)JlJllu::BUllAB2u2PP:oJU:PT)2JJ4)Yl:ll4_ouJ&B2lo5&PUYUJ):4RY25YB)H6bluU2oPJo45PJl)PJ44JyYBxlPO&<JuYP22Y&o5UU4::4<Yo:5BBB5<7u22&UJoY5OUu4oBP44:uB<l5I5ulu:5go4&&5:UY4v4u:<:UB4B)<<uP25P4o:5pU2)5J)4YYlB5lo0U<42ZPYoP&55JYB%B<Y222J&q&UU<)2U<Jl&dU&UP)5JJN22)o<oJPlUoJ<4oY)J4B2l5j:<U<&Pd2 &Y5P))JYPB&45uUo)UXu<l2JoU2:5)Ul52J44l:oB.)<J44oYU:4ul&l5:)P)4Y<Y)BulP)44J4l:uBo2B5PUY)oUJY0:YlanPB&<B2uPUo2<P<ouU24PB:<5PU))JJ:YD:2B&<)<2<l2PPooJ&4U2)<JPY4YJB<lL02<&u)2YPl5)5oUJ)44uY<:&B5Vvuuu#2oP&&8&YU8)uJ&4UYlYUl<ZP<52<2:o<&25J52)YJlYuB&BUlYkBu<UoPUoY&:U/)2J&4)BYJUlux5<Uu:2BoP&P55)Y):4PY2:&B)lY/luuPUPUo:&BUo)PJ)4JB:lPl2!U<)uB2loP&oUJJ2)B4oYP:4BJl:<Ou2PDP)oB&lU&)oJJ44:PB:lP8)<J2BP-oP&&5)UYJ2)YYo:UB4Gl<<uo25oJ:Y5<Uo)&JJ4Y:FBulol2<4uBP<oo&55JU:Jm42Y&:)BBll<Puo2UP4&3U<UP)5JJ<,2oPlo4&Y)j)PJ&JuY)Bll2<2<:uUP&Bl!:<2u&2))<Y::2B5>P<huu<uoJoU5B5BJuPYo&&)5YUll24&Y):4BBQ<<Pu5PJYY&<5PU&)JJY4l:uBoP)TY<l2<PPo5&J5:4}:l4&YJ:Yl9bu<5uUP<-l&<5oU5JuJ:Y<:2B&l)<>{)2uPooU525B)uJP45<4:Bl<L2<5u)2YPl&uJJU))YJBYu:PBUlJO:/422P&o)&:5l)uJo4UY4:Bl<*o<JuJ2:oW&o5YU))YJlu4PUPB&P5JU&2&PloJ&:Uw>o 4<J2GPoo45<5:u:P2o<&P55lJd><<ulPu}2lYTluuP5)4oY&lU<)oJ54JY:B+)Uv&<4uY2lou&o5UU4GU4<Yo:5BYl:<uu22Y55oY58Uu)YJU4YYBBulPm4MPu:P;o2&:5)U:)l4ul):)BYlB<uuP25PJo:U:UP)5J)4BYlBulo<J&BulPuoP&)5JU:JG42&4:)BBll<uuo2UP4oB:4UP)UJJ4l:HBol&^)&:2>PPoo&U54UBJ<4P&Y:JlQXA<Pu&2)PYolY2U&)YJ44l:<BPl5FJY22!Poo&&:5Y)<JuY5<4:Yl<w<<5u52JP:&&l&U5):JY4l:uB&lUm:<B2<45oU&J5:)uJ24&Y):YPBT2<ouU2:PB&<5PU5<BJBY2:2BUl)<-<l2U=&oU&B5BJUJP4UYJ::l;85f u)2YPl5)5oU))44P2J:PBYlJuoue2PP&o:&YU25YJo4UY4l&l<Eo<5uJ5<o<&U5&UB)YJlYu:oTolY<2u<2&P5oJ&:U35BJ&4)YYBblu>o<UuY2Bo<&P5UUJ):4/YoB6B)lY^l&YUU)5J)4uB&l5<&<B2uB&l2X&<)uY)qo2&o5UU4)B4<YPl5JJl:<au22&P)o:&lUuB&J)4:YBBulP05<Ju:)JoP&&5)UB)l4uYo:U,lll<<uP25PJo:5eU2U<J)4YYlB2lo.U<4uBP<oP&55JUBJu42Y&:)BBzP<uuo2UUBY:::l2,)JYYo:!B2l&P:UoJu4&4&:&:Bl2Jo4PY5:JB:o<<Pu52)PYol5uUo4UB54B:uBPlU*J<l2Wo2:o&J5:UlJ24oYU:4BBBY<Pu52JPB&+52U&))JY4l:uB&lJR4<B2<P&&<&J5:)zl2uUuBPhoU&oU))<JJ4Y&25:U5)JJ:<22YouoB5J)252JBYo&l5B)<JP45<4:Bl<W2<&u)2YPlUu4<UU)YJBYu:PB)lJ<:)l2PP5o)&:5l)uJo4U4&:Bl<*P<UuJ2:oW&25&U))Y41:P:oBUl4<ZuY2PP5oJ4)Bll&%5uo<YP4o25B5:):Ps5J&P55UJsouP25P&u2u42B))JY4lU)B9lfl&<2u)PohBo&5oU&o4JTYo:U::llY:lLu:24u52&Ptoo&l5:UB)l44Y4JJY5YBB<lPo4UYUBJBY&:&:JlB=PuwuUo<B:bU<<uP25U{)2JU4)Y):)l2;5<5u:T4<4uBP<oP&55J5::l4o:2:)BYll&PUB)l42:uY&lPQ5wlul<YPUo:W4uoulPuooJ4B2Bl<2<ouJPBou5u<oul2)PYolY&BJ<x<l22P2P)P#PB<l2PP2o&&)B2lT0l<JYJabBBL<<PUlJBY<:cJ:4oYU<BuB2Po<&5U2PY)P42YP)):B 2<&<42:r4uB&45)&o5P5B)2JY44Y:B%l).4BUl:6Y<l2u)24):UB2)2JJ45YJ::2:&UU))<Uo42&P5BUU)4JBlJcP<)22P<ou&25B)u&BU&)uJo4U<4PJou5:5Y)Y41ou5q5&U))Y*<u42Yo/&loJ)0J4JYYY4)BolJJU4:YY:lluP:5:UYJuo2&:55UJ):{uuY2:o<5Coo)<JP4Yo:55U<)PJ5l2l:<uuY2JP4oY5UUo)o5UU4)B4<<o:UBJl:<*u22&P)&u2EUu)oJUBJYBBulP/5<J2<uJo2&&5)44)l42Yo:U2Yll<<uP2UPJo:5/U)o5J)4YYl<<lo#)<4uBP<oUo<5JU:J!BuY&:JBYll&2u&2UP4&65<UP)5JJ*B:<BPl&IY<YulPuoou:54UBJ<4PY5:4B:_&:Pu&2)PYUB5uU&)UJ44B:oYBl5/J<:olP2o5&)5YBaJ24&YU:lBBm<<Pu:&UP:&<52)o))J:4l:2BolYlo<B2<PP&&&J5B)9J5JqY):YBl<5<ou)24&t4P5oUU)J4&Y+:2B&<)ou<l22Poo)&4UY)<YP4lYJ:Bl;{P<&uJ2Y&l5o5oU))4JlY<:4B5<JuouH2PP&oJ&YUl)u:oY4Y4:ll<<#<5uB2:og4P55UJ)Y4PYu:oBUz<Ylu<2oP5Uu&:U<)2J&4):!Y)luko<Uo22Bou&PU)::)B4<Y2:lB)lY+lPu54PUoY&BUu)P4o4JB:l5l2^5<)u:2lo2&o)UJP)B4uYP:UBJcP<%P2P4P)oB&lU2)o4544lBlUlPq)<J2)PV&o&&))YU)l4PYo:)B4m:<<oP2lPJol5kU&)&JB4YBl<Blo+J<4ulP<oJ&5JJ)oJE4oY&BoBYW<<uPo5PP4&V5<Uo)54p4:bZB4l&R4<Y25Puol&U)4YJJ<4&Y5:4B:<<<2o&P<PY&<5u)<)U4U4Bl<uRl5RY<:2<P2&5&)JY)5Ju45YU:BBBs&<Pu5U4PB&<52UY))JY4l:uUJlU;:<B2<PPo5&JUlB2JP4)Y)BoBlSu<oPU55PB&P5PUJ)J44YAl2uul)gl<l2oPoo)&4)BY:JP4JYJB#l.9B<&u)5:Pl&25oU4)4JlY<:P:ulJ(:uq2PP&o)&Y5l)uJo4UY4:Bl<xP<52u2:o!&25&:J):4SYu:oBUl4wBu5loP5o4&:U5)2J54)YY:ll&Bl<Uu42BoU&P5UUJ):6<YP:5B)l:Gluu2oPU)r&lUu)PJU4JYBB l2o5<Ju:2loP&o5UU4)BB&Yo:UBJlB<VuP2&P)P5&lUu)oJ)44YBB<lP95<Ju:P<oY&&5)UYJ<4UYo:UB4Pn5u)&J)JlY)5uU))&J)4Y<5P2&2&YU5)2P2o5&55JU:tB<U2::YBYll<uuo2UP4oB2<U&)JJJ4::b25ol5)<B2:Puoo&UY<l5ql<UZ:P2ol52U5&)J<4oY4:&U5)BJ44B:<u52:5Y5B):JUo)&)5YUlJu4oYU:4BBA2<Yu52JP:4ZBul)RuuHuUP<o2<:G4<B2<PJUo&J5:)hJ54&YJ:Yl8Wu<)<u24PB&<5UU5)4J:Y+35B5lJ+YuF2uPooU&4)4)uJo45YY::lrT22&B)2YoQ&u5oUUJ<JB:2<5BUl:=:uu22P&o)&Yuo)uJ&4UYB:Bl20P<:B42:o<&2U-U)):JlYu:oBYBoaBu<2Po<oJ&BU*)5)14)YY:llB_o<)u42BUo&o5)UJ)l4aY2:&B)<)<AuP2oPJo4&BU<4P&54JYlBAl2h&<luYo<)o&&5YU4)l4<YP:5BJJ2<Xuo2&P:oY5<Uu)4&)44:%B<b&85<4u:Peo2&J&2UY)l4u:5:UBYlB<oFB25PJo:UoU2)5J):YUlBul5OU<4uBP5oP5)4:UBJP42Y4:)BYll<uY42UP:oB5oUP))JJY2lBB2lU;)2PulP2oo&)54)uU44PY5:JAogR<Pu&2:2&ol5uUo4uJ44l:<LP22hJu_2fPoo&5u5YUl4l4&Y4:4ls=<<Pu5oJU)&95&U&)JJYY&:ul5P4fYuu2<P4o5&J5:4;J&45Y::Yl20u<UuUP:oU&<5)U5JuJ:YI:2lUlJhYuo2uP:oU&45BJ2J&45:<::lPh2<&u)2Y&o&u5)UUJuJBY2:PB54bs:u222P)o)575l4uB<4UYB:BlPjPuSuJ2:&:&P5)U))BJlYu:oBUB&+Bu<2PPUoJ&:Uz)2J&4)YYB=lP>o<Uu4Pzo5&P55UJBl<<u52loB&l<<uo2oPUo44P:FBJJ44JY:Bfl2o5<Ju:2lou&o5UU44BB:YP:UBJlB<7uo2&o):45VU2)oJ)44YBB<lPlu<Ju:P}oP&&5)UY)l4uYo:UBYiu<<uP25PY&<58U2)&<:<:PuP:l5<:<4uBP<45:):lBB<P<Ut:P4o45PU_U)U44l4lBol)tJl<2u2)B&l&c)<YulPuoooU4J)RJo4PY5:J&P&<5Y)JP2PYol5u)5B4JY4l:<Bol5DJ<:oE5lo&&J5Y)FJu4)YUB:2<Mu<&u52:P:&052U&5&JYYj:uB5lUcY<B2<)ooU&45:)ZJ24&Y):Y)Pju<5uU24PB&<5PU555J:Y<:2BUl)r:<lPP)Uo)&Y5B)2JP45YJ::uoKP<5u)2:Pl&25oUUU&JBY<:PBUlJe:uC22P&o)&YU=)PJo4UY4BOlJfP<5uJUx)&:o:5l&_<louBPBBJ>AFBu<2P)JYJ:uBol5JJ4)YY:lluo&<)uY2Bo<&P55UJ4:BYY2:5B)l:#lu22ooU:J&lUu)PJ)4JY:Bhl2l<<)uY2lo2&o5UU4)B4<YP:5B4ll< u22&P4&o&lUu)olYuhulPB255&U&)Y4uoo&)5)UY)llP2PorBllB<<uP25)4oB5<U2)&J)4YYliu2<8U<YuBPuoP&)5J):<l4PY5:)B:ll<uuo2U2&oB5<UP)UJJ4::}B2l&_)<Y2X&8oo&U54)}Jo4PY5:J24&oUu)P24ouol5uUo#<<4<l2Jo&&JVYu:2FP2o&4<l<lYA2u225PPouo2U2)&JB):Y<BolJ)44Y4l:uBo2B5PUJ):)UY)Y4B4{2<2<524P<o:&oUBuJP+PB&<5PYJ9)<)ulPoBUEf9Y<l2uU&4Y:JlWll_)<YYYBUl#02<&&JJUY&Y2BBl4BJ<Y<oP2o5l:7:uX22P&o)&Y&l:<J5Y&Y4:Bl<P45Y)BU<4o:&:)BB%J<2u2P2oY&B</u)2PP5oJ4&BB &<J<J2JPuo5jU<Uu42Bo<&P55UJ):4uY):&B)lYolU2J5J:Y)BuU2J&J54JY:uUoY&:U<)UJU4)Y:BYYlM2u<2U2l25&Y5PUU2UoooY&lUuBP<:ul2JPJ&u&Yo:)YJYYu:U54)*)l4uYou&PY&45&u&2:PJo:5VY&ko<ou4P<<ol5<4<4uBP<J2:YBBl)D)u<u4u:oB&EU-)UJUJY:6:&lulJu24l:)B2l&d)&P)UJ)4::PBPlo!)uUY)::B:bT<2)P)BY2&<5lUo)UJ4E22lPoo)5&Uu)PUPYYYJlhl^<P45Y4:4BBr<o:)J54Pl&U52U&))BBu#PoPJPU&Y)ZJoP&ol&J5:)Ql8<52:P<&<&45&)P2:o5&<5PU5:B<u2=P5PBP&54U2)5P5oY&45B)<B)uo2lPJlu<&<&u)2Y):Y5BPl&:YuPuuPUPU&YooU))JJBYo:oB&lJ<)4J:P:Bl<yPo:)2J)4YJ&Boloa4u<YP:YBUl4=B&o))4JYB:lBl/YJUYuYY:lluPUUgUY4a4uY5B4Blel4u:2:&B)lY&uU5J<J:4BBuB&lUlP<4P<Po&o&l5J)UJJou&o5UU4Bl4uYP:5BJl:<wu2o&UooY&lUu)oJU:UYBB5uun5<Ju:Poo2&55)U:)l4&Jl:UB4lB<&uP2UPJ&<oJU2)&J)YoYlB2loqU&YulPuoP&U5JU:J3:2Xu:)B:ll<2uoPYP4&P)lUP)UJJY5:_BPl&tJ<Y22uYoo&U54)UJ<4oY5:J:U30<2u&2JPYol5uUoB)JY4l:<B&l5vJ<:2&3Po&&J5YJ<Ju4&YU:4BBQolBu52JP:5u52U5))JY<#:2B&lU6:<B2<PP55uJ5:)<J245Y)lUBlyuluuU2YPB&25PUU)JJ:lP:PB5l)O:<l2uPooUB25l)uJP4)YJ::lV<o&)uJ2:Pl&P5oUU)4YBU<:PB)lJ.:ug2YP&o)J4UC)PJo44Y4:Bl<hPJluJ2Bo#&25&UY)Y42JY:oBUl4PBu<2oP55Ju:U!))J&4BYYlPlu<5o4uYP&o<5J55UJ):4r&):&BllY<5uu25PU&<ulU<)JJ5lJY:B<l2v&<)2#u)ou&o5UY4)B4uYPl5u&l:<&u224P)&4&lJU:5JUY<YBb<lPKU<J2HP_o5on5)UY)l:uYo:)B4zul4uP25PJ):5rUP)&J)M::#BUlo*4<4uBP<oPuY5J)2JZ4)Y&:BBYcoP(uo2BP4U)5<Uo)5J44::PY:l&S)<YoJPuo&&U54:lJu4JY5::B:9M<2u&<2PY&&5uUo)UJ:4Bl<e<l5<u<:2oP2&:&)UY)YJu4YYUluBBK)<PP5ooP:&U52U4))4<4lBuB4lU<u<B2&PPol&J5:)oJ24YY)B<BlS)<ouUUYPl&55PUU)JJ:Y l2uul)<u<l2UPo5&&4JP:oJP4:YJr:l% P<&uJ2Yo2PY5oUU)4:BY<:oB5lBl5u%22P&)e&YU-)uJo )YYBPl<Z5<5uJ2:o*P)5&Ul)Y4oYu:JBU<4<uu<24P5&p&:)5)24&YXYYBPlu<Y<U2u2B5<5255)<):4&Y2:4B),Y<luu2JPU&Z&BUU)PJ4YPY:B!l2P&<)u:2l&P4U5))<)BYJYP:5BJ<:PYu22YP)&u&l)))oJUWYYlBUlPDU<Ju:PR52Ju5))2)l4)Yol&B4lB:&uP2:PJ&25rUJ)&4)24:,B5lo<l<42PP<oP4U54)2JV4PY&:)BY<lPBuo2BP4&P5<U))54J2Y:<BUl&dB<Y2oPuo4P454UlJ<Y4Y5:4B:iu<2uJu2PYol5u)Y)UJY4B:<2olUe4<:2<P2o&&))YY4Ju4&YU:YBB<l<PP:5YP:&<52ls))J:4l:2BolYlo<B2<PPY<&J5B)*4oz)YJ::BlwY<ouU24&BJ&5PUU)JJBYZB&B&G4<&<l2PPo&J&45B)<JPY:YJ:BlL+o<&u42YPl5P5oU))44iY<:PB5lJuLuv2PP&o4&Y5l)u:oY:Y4:ll<<2<5PP2:o^5:5&UJ)Y4<Yu:oBUF:)Juu2&P5&J&:UK)2Y&4JYYB<lu+5<U2B2B&25B55U:):4UY2:&B)MB<Puu2)PU&2&BU<)P4):<Y:Bol2KB<)uY2lou5Y5UU:)B4&YP:)BJx:u5u225P)55&lUP)oJUTYYlBulP_)<Ju:PN&olu5JUB)lYuYo:UB4<B<5uP2)PJol5p)&)&44:uYlBolo<V<4uBP<&&5J5J)<JN44Y&:)BY<<u)uo2:P4&&5<UP)5JJ4l:7Bol&tB<Y2<Pu&o5454UlJ<YuY5:YB:Rh&Pu52JPY&<5uUo)U:4Y&:<Bol5 B<:24P2o&4J5:)GJu45YU:4BB2<<Yu524P:5<52)<))JY<#:2B&lUN:<B2<PP&)4:5B)uJ2YlY):YBluuUou)2:PB&25P)P)JY:Yu:2BUl).B<l2)Po&U&:5B)uJPYlYJ:llZV2&5uJ2:Pl&P5oUU)44BP{:oBUlJ<2u%22P&o)4:U_)2Jo4JY4:Bl<<P)&u42Boz&l5&U))YJlJ::oBUl47lu<2PP5oJ&:Ux)2J&4YYY:lluQ5<Bu42Bo<Y:Bol:Euuu25:UBBlYQluuJ)J)4::JB&)&JY4JY:Bf&2&5Uu)B4u& &o5UU4)B55YP:5BJl:<-u22&o4&U&lU2)oJ444YBB<lP<J<JulP7o2&&5)UY)lY5Yo:)B4Vm<<u525PB5&5mU2)&424Y:xBu/5o4<Y22P<o&&55JU:YxBlY&:BBYQP<uu&2UP4925<UJ)5JJ4::iB2l&JB<Y2&Puo)&U54UBJ<loY5:lB:S5<2u52)ouPu5uU&)U474B:uBPlUTJu<<JP2o&&)U<UlJ24oYUlUBlq<<Pu)2JP:&f525<))JY4l:2BolU%4<B2<PPo5&JUP)SJ24&Y4BoBlDu<o)lJJYCYYB5l5l4<(uo:ol4l).Y<l5UJBY&YlYPlJ<&uJ2Bu_oU&YUuU:U44oJoB<B)*Bu<Y2BJB5lJ>:52J2J44YB(B0m&TJlB2JofoP&)ol)24<JPYPBUl_g<u2YP:BBUl4mB&P)YJUYYYBB285s4u4YBBYluno<U&B)l4BY)B)B4lKuouoPHPBolU2uPPuPUo4&BYPr)<)uY2uPB&5P)5J))JPYPY&5J)2)B4<YP<lol&J5<)<Jo4uYGU}Uu)oJU44<lBuloF5<Ju:Pko25&lUU:JF4uYU:UB4lB<5ou25PJo:UMU2)5J)4:YlB&:ltU<4uBo<oP&U5J)ll24PY5:)B:ll<uuooUU5oB5uUP)UJJY2:CB2P5_J<BulP2oo&U54JB::4PY):JBl.7<5u&2lA:ol5PUoJ5J44l:<BPl5_B(52DP2o&5U5Y)tJu4o<):Yl{p<<ou52JP:U(JlU&)4JYY<:uB)lUu4:B2<P&o5&Y5:)uJ2YUTY::l2Du<YuU24PB&<<JU5)YJ:YP:2BUl)<Y)B22P&oU5z5B)2JP454o::lv-2<5u)2YPl&u5oUU)4JlY2:PB5lJrluo22P&o)JlBBlB<PuJY:BPl<cP<55BJl4<Y&:4l4J>JlYu:oBUPYpluu2PP5oJ&:U;42Bu4)Y::ll2io<Ju4PB:V&o5UUJ)B4_Y2:&B)B5kluu2oP)o4&BU<)PJ54JY:B<l)R&<)uYP<o5&o5UU4<u<uu&P2Plll<&u22&P)YlB2lPlB<&uu:<B<lP35<Ju:P+P2Jo54)k)l4uYo2J&P5u5&u&2:PJo:5MB&go<5<l2ro&l5^Y<4uBP<45Yl:4ll4:42Y&:)BYYu<uu52UP4oB5<UPJ)B:4B:2B2l)r)<YulPuot&U5lUBJ<4PY5:JllP2<Pu42)Plol5uUo)Y:E4B:PBPmBAJ<B2}&2<&&)U2UlJu4oYY:4BBJ&<P2Q2Jo2&(52U&))ou4l:)Bo#<b4up2<&P<5&JUo)MJP4&Y::Y7l&:<o2u24oP&<55U5)JJUYK:BB&lJjY<l2uPo54&4UU)<JB45:o::<I_<<&222Yo)&u5UUU)4oPY<:YB58Pj:uu22oUJY&:UU)uJ54UY4:B<<P%<5222:o)&25YU))Y,VY2:lBUl4XBu<2PP5&5&:U4)2J:4)YY:lluu<<U252Bo)&P55UJ):4oY2BhB)zUmluu2oPU&:&BUJ)PJ54JYlBvl2<4<)uB2loU&oU<U4JulBYP:JBJ%u<(uP2&o4Jl5>Uo)oJ)44YBB<<PP2<J2iP.o&&&5BUY)lo5Yo:YB4C_<<uP25PJ455<U&)&J:4YYlBulouY<Y2<P<oP&55JU:JE)BY&:)BYy{<uuo2UP4oB5<UP))JY4::QB2lU<u<YulPu)UJBB:BlOB<)R:P&&&Tu<&u&2)PYJJ:5lB)YJ44B:<BPPUb4<B27P2o&&)5YJl:B4oY):4Bl%<<ou5PJYY&<5PU&)4JY4l:uBoB2T4<B2<Poo5&J5:)0J24&Y)::l2ru<ouU2:ou&<5PU5#B/B222BBUl:gY<l2u4Y4):Plu)PJP45YJ::lTZ2B&&U2BoY&u5oUUB3<Yuu2&o2ol5<&<J)J5Y:Y:l<JcJo4UY4:B4P%P<5uJ2:oW&25&U)<P4IYu:oBUl4pBu<P&)Jo4&:U8)PJ&4)YYlluBko<Uu42Bo<&&55)YBO4<YP:&BYlYZluu2ouoo4&BU<)&J544Y:B PP;5<)uYPiou&o5UJ4:J4<YP:5BJl:<Pu22Y55oY&lUuJhJU4YYBBulP64zPu:P9o25<5)U:)l4&Jl:UB4lB<BuP2UPJo:Y<UP)&J)4BYlBulo6UoDulP<oP&U5JUBJd424<:)BYll<2uo2UP4oB5<UP)5JJ4B:HB2l&!4uoulPuoo4uBPdu<o<)2)uoou5)<&u&2)PYolY2U&))J44B:<BPl5<J)Y2<PPo&&J5YUlJu4o42:4BBG<<ou52JP:&A52U&))J:Y<:uBolU-:uo2<PPo5JlB4l<^ouuuBPzl<g4<ouU24J<YJBWBY Uu<H<2Yo2l:WY<l2uPoJ)&Y5l)<JP45YJ::<K2l<&uJ2Yo#&u55UUJ4u:Yu:oB5l4s:u>22P&PP&Y5l)uJ&4UY4:Bl<0P<5uJ2B&Y&25&U))B4UYu:oBU2B5&UuJ&JU4:B<BoCoJU4:YY:lluoY5))P4uo2&P55UJ):4uYJ:&B)lY&<)5J24&YP:YBU)&J44JY:BVP25u5JJoP<o&&o5UU4B2<l2)PPBYco<du22&UJYJ:UBll&<YuJP.B2l4=5<Ju:U2Yu:PB5l<buu&Y5:lB4lB<<5PJ2J4:&:olo8)J4YDYlBulo&l5Y)4J&o&525JU:Jj.Ju5Pu&/PoU<)55442Y5::BU))4(4::!B2Pu5UU4)lJ54)&JU<UBJ<4PXU2:&<&)Uu)P24opol5uUoB&<JuY2&B&ll9J<:2f)2YU:uB47<k4u)P<::lY/<<Pu55:4oY<BoB5lYuZuPPPu&oY&lU2)oP&oJ&J5:)W<<<4P!:BlJ.u<ouUU54:YP:ol2BJ<)u<PYP4&47BuJ2uPooUJYBYlJ<<<U2BP&ol5<olU:2Bo)&u5oUUBu<22ou5PY&YU2U))&J4o45P5l)uJoX<2)o<&o&oUoU:Juou&45&U))Yl525PuP)&)5:UJ)UP)&4&:UQ)2B5u52oPYo25)U<)JJYJ<:&BLl)Zl<)25PlBJl:<<u:2oPUo4JlBolB<Yu:P<22&2&45B)zP<&5&o5UU4BP<J2u242!&&Uu)&JJUYYP:UBBl)l5u<<<P:oo5JU:ulP:o2&&5):UnB<2u)<)o)&55BUoJ442YY:BUo)lJ)4YYlu2&25<UUUl4o4::&BU:2J842Y&:)PUv{<uuo2UP4oB5<UPJ4JJ4B:>BPl&g)<YulPBoo&)54UlJ<4oY5:J%2Ey<Pu&2)PYol5uJ4))J44l:<B4l5K4<:2BP2oJo25YUlJu4YYU:YBBh<llu52JP:&<52U&))JY<O:2B&lUb:<B2<PPo5445B)uJ24&Y):YBlWu:JuU2YPB&u5PU))J:2SP:2B5l)<)<l22Poo4&4Uu54JP45YJBJlj}P<&u:u&Pl&u5o)&)4JlY<:P:ulJj:uE2PP&o)&Y)<BoJ&4JY4BUl<ZP<5PJl:oh&o5&U4)YY2YuB5u4lY<uu<2:P5oJ&:UN2)J&44YYB2lup5<UP4J5o<&&55UY):YuY2l&l4lY<uuu25PUoY&BU5JlJ54:Y:l5l215<)uY2lo&Pl5UU4)BYUYP:UBJh<lJu22&P)5&&lU2)oYUl5YBBPlPD)<J2:Pz52u&5)Ul)l4oYo:JB4lB54uP2JPJol5}Uo)&Y)5YYlB&loy4<42)P<&&JJ54)2J,Y)Y&:)BYll4Uuo2YP4&P5<U&)5YJ5::KBUl&.:<YP)Pu&5J45Y)oJ<44Y5:JB:{p4)u&2BPY&&5uU5)U4<BY:<B)l52<<:2<P2o5&)Un5)Ju4oYU!uBBcu<P2)U:PB&o52)4))JY4lluu<lU<!<B2&PP&U&JUl:2JP4YY)B2Blfu<ouUB(PB&U5PU4)JJ:YR:2UYl)<<<l2)PooJ&4)DBPJo4:YJlul3h2<&P)5UPl&U5oUB)44lY<B&uJl4<PubPlP&o)&Y5llYJo4BY4B>l<x&<52J4Yo<&)5&)Y)Y4IYuloJUl4<ou<2)P55o&:UQ2UJ&YuYYBolumo<Uu4BPo<&455)2):4uY2:&&<l:<&uu2UPUo4&BU<BoJUY<Y:B2l2L&<)2B)uo2&:5U)<)B4<YPl5oJlB<Uu22BP)52&lJu)&JUY2YBB)lP<P<J2:P:o2&:5))4)l4JYo:U2Yll<UuP2JPJo:5d42)BJ)Y2YlBBloui<4uB)uoo&B5J)VJI42Y&l)JYll<)uo2lP4&25<UP5PJJYP:VBol&*J<Yul)2o&&l54)<J<4PY5lJJ:xX<Ju&PaPY5U5uUoB)JYY5:<BUl5#J<:2{UPo&5f5Y)UJu4&YUl4uJk<<4u52BP:&P52J&o)JYY&:uBYlU<2<B25Y5oU525:)0J245Y):BBlsuUUu)24PB&P5PU5)JJ:22:PB&l)<S<l2uPooU<<5B)UJPYiYJ:ll3*2UBuJP2Pl&55oUU)4JBJY:PB5lJ*Bue22P&oJ&Y5l)uJ)4UY4:Bl2,:<5uJ2:)):&Y&lol:uUu4P2Pll:<)u<2PP5)4:<BJAU<)u:<lPlo5&J5Yu:Puo<&P55:Jt)<<2Y:)B)lYZluu2oPUo4&B)C)PJ54J:4,5l2AJ<)ul2lo2&o5UU4Ju)4YP:5BJag<=uP2&P:P&&lUu)o4&44YlB<lPoU<4uBPWo2&&5)UY4lBBYo:)B4ll<<uo25o!U45mUP)&454Y:gBul&^U<l<UP<oP&5UUU:J<42Y&uJB:kN<uuo2UP4oB)<PP)5J44::<B2l)M)<Y*YPuo&&U5:UBJu4PY5u4BB0<<2u&2)PYol)uPo)UJY4B:uBPl)9J<:U<PPo)&)5:UlJu4oYU<YBB,u<PuJ2JPB&{525<))JY4l:2BolUH4<B2<PPo5&45B)&J24&Y):BBlau<ouU2BPB&<5PU5)JJ:4(<uBUh9sY<l2uUYJt)4:<BoB)l4YYB<lEH2<&)&):Y2YJ55UB)4JBY<P&PU&U5<UlJLPUoY&Y5l)u<Uu:u:lol<bP<52YUzo<&P5&UY)YJlYuB5u4lY<Ku<2oP5oJ&:)u:&J54YYYB<luOo<Uu4B2o<&U55UJ):4_Y2BUuYl:<Puu25PUo4&BUo4)J54:Y:lol215<)uYBPou&Y5UU:)B4<YPl5JJl:<Uu225P)&u&l)PBUJ)YoYBBolP{5<JP:5Yo25M5))&)l45YoBJuBll<YuP2)PJo:5xU2)<J)YUYlB2lo7U<4uBB5oP5<5J))J84oY&B42lEL<:uo2YP4oB5<JP:2JJYU:%BBl&_B<YP<Uoo&5P54)LJ<4PY5:JBUbRuau&2JPYol5uUol:JYY):<l<l50J<:2*4Yo55<5YUlJu45YU:4UY6<<&u5P<P:&U52UJB&JYYu:uB4lU Y<B2<&<oU&Y5:)uJ24&Y):Y:J_u<ouU2YPB&<5PU5)JJ:YD:PBUl)aY<l2PPYoU&45B:)_:u4<J2B&u55<Uul2YPl&u4&l<NU<K20PUB4lJ9:uv22)5oJ&:5l)uJo4UY4lBu:*P<UuJ2Bop&o5&))<443Y2:oB)l4#Bu<2P2uoJ&:Up)PJ&4)YY:lluNo<UuYP_o<&P55UYJN4,Y2:&ulP4&ouP2YPUo4&B:5l:<Ju2ulPYoUdJ<)uY2lou4&5)UY)B4<YP:5BJ<:PYu225P)o:&lU2)o4U2JYlBulP!)<Ju:P{o2o<5)UY)l42Yo:UB4lB<<uP25P4&B5(U2)&J4:qYlBuloolUJJ%J:4U44B)B23)<U2:P)o45<U&5oJ54PYYBoU&):JJ4::IPY&&&JUoJ<4oo55u54UBJ<l4uYPB2:&Y5P)l)B4B:u5PUY)UJ44Bu5P)oJ5BUYJu5ooU&J5YUlJuK:YJ:YBB#<<PUC2Yoo&e52U&B)<42u24o)&<5JUY22P:o5&J5:::HP<:25Po&2555)U:2:o5&<5PU5<<<Y2u2Bo)&)&:Uu)5P5&U&45B)<B4<Y2BuJol5UU)UBUU4BYo:&lYXP<:ul:&lxlJz:u(5&JB4J:BB#lo<)<:2:BLlotP<5uJJoYoYJ:4U4)lJlYu:oo&&pUou2PPP5oJ&:YUtU<2<J2JPBo4&)&J)JJ:Yo4P:UlY<<4u:<:&B)lYooU4J2JYJ<:5l2x5<4l:2oP)ol&J<42,2lou&oBoBY<u<)Y&BPBJl:<N&&J444YB:PlGa)B4<Y24P&&&&UP:u:P^o25UYYU:)l4uYB:UB4lB2<&/25PJo:5aU2J5J)4Y24Bul&VU<4uBP<oPU55YU:J<42Y5:)l&ll<uuJ2UPYoB52UP))JJ4:BoB2lUA)<BulPuoo5J)uUBJP4P:5:JB:S322uB2)Plol5oUoJPJ4:F:BBPl4dJ<l29P2o&&))oUlJ54oY):4BB{<2PPT2Jou&L5UU&)YJY4l:oBol:/4uP2<PPo5&J<o)iJ54&Y):Ylo0u<)<u24PB&<J2U5)4J:Y9uPB5nujYu<2uPooU5<lB)<JY45l)::l<a2<lu)PK2)&u5oUUYJJBYu:PC52&F:u)22PBo)555l)U:24U:P:Bb&+P<UuJ2Bos&5&LU))YJl:5:oB)l4<u!42PP5oJ)YUw)PJ&:)nU:ll4>ouqu4P)o<UP25UJJ&4LYY:&lUlYu<&o2&o2o45YU<)PJ54J52BElYf&uPuYP<ou&42)U4J54<l2:5B4l:<Vu22J22oY&lUuYPJU4YYBk<2k65u2u:PUo25<5)JY:44uYB:UlPlB<luPo5OJo:5JU2)&J)4:YlOu2<8Uu5uBPJoP&B5JU:l<42:6:)lUll<:uo2B5)oB5YUP4JJJ4B:jBPl&{:m&ulPuooU454UlJ<4U4<:JB: cPuu&2JPY5<YoU&JPJ4Yu:<BPl5uJ)<20Plo&5o5Y)YJu:o:5:4l4t<<Bu52lP:UgU5U&J5JYY):uB4lUH42o2<oRo55U5:)uJ24&:u:Yl4gu<&uUP5PBU<5oU5J&J:YY:2BBl)<u2&2uo<oU)U5B)uJP4JYJB<:J^2<&u)&)Pl&25oUYUoJBY<:P<&lJ8Buk22B4o)&l5l)BJo4UY4:B)&>P<)uJPoo{&25&Ul5lJlY&:ol&l4alu<2&P5oBo5U9)2J&Y5YYBdluEo2ouYP}o<&&55UJ):4tJB:&B)lY</uu2oPUo4&BU<)PJ54YY:B,l27U<YuY2louJ4Y5B<JL45YP:5BJ2B5))I)U4U:+52Uu)oJU44<lBulo-5<Ju:Pco2U&4oUYJN4uY&:UB:lBu<J22UP4o:5<U2)&J)4Y4JBulo/U<YuBP<oP&55JU:JE4PYJ:)BYll<P2)2UP4oBYUl2S)<&u<uPouPY5uU<J&4uYP:JBl:B<x<:2oPBBlR<<2u&2)J&&<52Uo)UJ4<&:2Bol5xJ<:U)oao&&)5YUll24&Y):4BBt<<Pu5oJU)&!5PU&)JJYY,:uBoP)rYuc2<PPo5&J5:)SgP45YY:YBlVu<ouU24B&&<5oU5)JJ:Yu:2B&PJi:uu2uP&oU&45B4<BR45YB::l<d2<)u)oYU4&u5JUU)YJBYo:PB5JsM:u222P4o)&B5l)uPJ4UYl:Bl2mP<5uJo:UY&254U)):JlYP:oBU)JjBuP2PP)oJ&:US)2)<4)YY:ll2to<Uu42Bo<&P55UJ4<48Y2:&B4q&Eluu2oUBYJB#BPl)B:u22uPYo5(U<luY2lou45:)BlI5u&25:)lul:<vu2U&4UYl:Ul&lB<5u):bBJlPp5<J5JJ<4J:PBu^E<P<&uJ:JsElB<<uP5:42Y4:PY)ll<4ulP2uoo:5<U5)u)-4JJJB&BB<2u&YU:JBYll<u5:2Jo4oB5<UP:BEl2<<:ou&45YU<544<4UY)Bll5<HuuY)B2B:0#<2&)J<J::<:2BULY<T2!:2lul5%J<:5&JYYPY:YulU<PuU2Y<Bo&&JUyU42YoV&c52U&z5<<2&:PBllU14<B5UJ)Y44JB)l<<Y<424Pll<T)<ouU24JPY&:5l4H)<llu:&B&l)AY<l2uPooU&4Uf)PJP45YJu22lo)<Uul2YPl&u:BlUlY<522P5B)HY_:uE22):YU:BB4l&l)u5<BP<&2&)5Y)UU:4lYYBPl:)B4fYu:oBUoP<cu52PP5oJ4oBolP<uu:2PB<lJ}o<Uu4U&Y&:<:UlUbY<)u5:UlxlYhluu5:4<Yl4BBuG&<4lYY:B!l2t&&Ju:P<ou&o5UU4)B:<UP:5BYl:<uu22:P)oY:)Uu)5JU4:YBB2lP<)&:uBP2o25o5)UY)l4u<&:)BllB<uuP25PJ5:2_U2)JJ)Y/YlB:lobUoJulPooP&Y5JU:J_42oB:)Blll<uuo2:P4&uo4UP)5JJl4:DBPl&()&:2!PJoo&J54UBJ<4J2::JlPNIuVu&2JPY&55uU)UuJ44B:<l<l5w4<:2Pu:o&&)5YY:Ju4&YUl4uJn<<Yu5P<P:&U52UYoJJYY5:uu2lUfY<B2<PPo4oP5:)>J2lPY)::Bluuo<uUP2PB&U5PUl)JY:U^:2Bll)<P<l24PooU4Y5l)YJP4JYJ::lKu2ouu)P5Pl&:5o)Y)4JB&5:PlRlJ<UuR2oP&5)uY5l)YJoY}Y4B5l<<&oJu4P)o=5&5&U))YJl&U:olul4<Ju<2&P55Ju:UH)BJ&Y<YYBPlu<5o4uYP4o<&o55UJ):4T&):&lPlY<Yuu25PU&<ulU<):J5lUY:B<l2}&<)2Wu)ou&o5UY))B4uYP::J4l:<Ju25PP)o:&lUu)oJYJoYBB<lPPo<JuBP 52Ju5))U)l4YYoBJB4FY&ouPPPPJ)45qUP)&4o4Y:2YYloXU<4&YP<oo&5UD44JH4BY&<5BYd#<uu&2UPlPU5<UP)5BU4::<B2l&oJ<:24Puo)&U54UBY<5PY5B&B:0Y<22&2)&Y)45u)2)U4P4B:PBPl5o4<:2YP2&P&)U)UlJU5&YUBUBB2l<PuU2JP:&A555a))JY4l<*Bol);42DUPPo&o&JU))mJ24&B)&JBl<X<o2&24oU&<)PUU)J4YY/:lB&ll>Y2lPBPo&U&4UJ)<4o45YJlJl+<<<&2)2Yo<&u5o)))44YY<:&B5*UM:P62YP&&5&YU:)uJ)4UY4lUl<<2<5u:2:o &2)&Yo)Y4BYuBPBUm)wBP<5=P5&)&:Ul)2JU4):uP:lu<2<U&)2Bou&PU&UJJ<)JY2:&B)2J-lu22oPB<Y&BU<)PBu4JYBB^l2C&<:<&2lou&o42U4)l4<YJU#BJF4<coB2&PJoY&lUu)))u44YBB<ul#5<4u:PP2:&&5)UY::4uY&:UB4J2<<2225oUo:5.U2)&PB4Y:_BulB0U<4uBP<l)&55JU:Jl42Y&:)luBu<uuU2UoPoB5uUP))JJY<4JB2l&M)uoulP2oo&U)UUlJu4PY):JB:89<2<<2)PYol52Uo)UJ44B:<BPl5>J<:2bP2o&5p5YUlJu4o<):YBln<<Pu52JP:&A<UU&)4JY4l:uBolUS4l42<Poo5&Y5:)<J24&<J::l}Gu<&uU24PB&<<)U5)YJ:Y*:2B&l)6YlY2uP&oU&:5B)uJP454o::lj12<5u)2YPl&u5oUU)4Jl:u:PB5lJAlu&22P&o)YNB0MP>Y<:2lBFlJCP<5uJ)L4)Yl:4l5<^lNu4PuBJO2jBu<2P):4l:)Bll&8lu:PoB<l)6o<Uu4U24lYo:)l&.u<PYol2B)lY.l5o)B4PY3:Ylo4PBUu22J-mo45oUU)5olY&:5B<lu>o<&2&2YPB<:5&)uJUP4&2&lUu)o<Y<YPMPUo)54oPulPoo2&&5)lY<<<422PYB:=P<<uP25U:J2BuBP=2RB4B:2BuloOU&)UlJB4)&)UZU:Jx42<&2JoB&PU/))2Jo&oB5<UPlJ<uuu22PBo)&JUU)4J5Y5&JUoUBJ<4P<5PYou&P5YU)J:4oYBBjU5JUJ44B:<uY&Y555B)B4u4lY:YBlB<<u)<U2Y&g5o<&uJ2JP:& 44BlM:JBY::uBolUo<U5)lJU)::2BlW2<5l)2<Poo4&&<5u424PB&<BuBY<<JlYU:2B&l)oYUBJoJBYY:PB:lllu45YJ::}uo&<5u42YoJ&u5oUU)4U<Y<:&B5l4.:uu22PY<J&YU<)uJB4UYY:Bl<ZP<4<P2:o{&25lU)):JlYuu&B)l:kBu<2PP5oJ&:uo)2J)4)YY:llu%o<U:n2Boo&P5UUJ):46Y22KBJlBalu&2oPUo4&BJo)oJ)4JY:Bjl2-&<)5:P,oP&o5)U4)B4<YJ)UBJll<a&42&PJoY&lUu)))u44YBB<2YF5<4u:PCJP&554UYJ>4uYo:UK42J<<u&25PYo:5uU2)Y&J4Y:<Bu2:0U<YuBP<oP&4&PU:JA42dB:)B:ll<u5&2)P:oB5uUP)5JJ::sYB2lU/)<BulPPooUU45UBJ24PY):Jl<*L<)oP2)PBolUUUo))J44l:<BUB<iJ<:2do)o&&J5Y)2UY4oYU:42&h<<ou5&*Ul&s5PU&4uJYYI:ul2lUNl/U2<PPo5U25:)<J24J42:YBl+u2<uU2YPBU54UU5)4J::Y:2B5l)i:<l2&uloU&45BJ:JP4UYJB<:J92<&u)UPPl&25oUUBYJlY2:PB)lJd:u62)5Po)&B5l4uJo4)Y4:ll</U8<uJ2:o0U25&UJ)Y42JY:oBUl42}u<2oP5oJ4BU<)oJ&44YY:lluyoB4u4PIo<&o55UY):4&UP:&B4lYo5uu2&PUo4&BUo5BJ54JY:uUl2D5<)2B)uo2&U5U)u)B4<YPB))Jl:<Pu224P)oY&lUuJ:JUYDYBBulPK5<J2lPBo2&Y5))u)l4uYolUaulB<UuP2)PJ&55^J242J)Y2YlB)lo<<<4uBo)oP&J5J)PJw4PY&l)d2ll<ouo2JP4&l5<JPJ5JJY<:NBol&<2<Y2oP4oo&Y544BJ<4oY5:4B: Pl:u&2)PYUl5uU&)UJlJU:<BPl52B<:2<P25&Jo5Y)2Ju45YUBoBBu<:Pu52BP:&P52)o))4B8u:2B4lU<U<B2<PPo5<t5:)PJ24YY):BBlFU:&uU2lPB):5PUU)JJ:Yr:5:+l)vY<l&BPoo)&4)BY:JP4YYJB<l1I&<&u)U:ot&U5oU))4JBY<lPu2lJ<2ut2)P&o4&Y)lYBJo4BY4BPl<<j<5uJl2o(&U5&UB)Y4oYu:o)5l4<<u<25P5ol&:J&:oJ&4JYYu2luO&<U2)2BooPB55UJ):lPY2:5B)6B&uu22JPU&2&BU<)PY5:&YBBol2i4<)2Y2lou5:5U)<)B4PYP:5BJl:<Bu224P)&u&lUu)oJUY5YBB&lPw5<Ju:PTo5&:5)UY)llJYo:)B4uPoouP2UPJJP5vUP)&JJ4Y:2YYlo}U<45oP<oo&55B55J!42Y&u<BY#S<uuoooPY&b5<U&)5JJ4::w2Pl5d4<YulPuoo&U5422J<45Y5:JB:g#<2u&:BPY&25uU&)UJ44B:<2BlUZY<:2PP2o&&)5Y42J245YU:4BB,<<Pu5uoP:&R52U5))JY4l:uBolU!4u1o%PPo5&J5l)UJ24&Y)2uoP5PU))<)BJlY:5&JJ)JJ:YN<5P4&YUoU:)o&oJU:Jl<lJ<Uu_2)P4uJu22BPB&JU<YUJ<JUYS:Yl22J<2<J2uPB&oJYUu&BUD)uJo4UuoB>llIP<5uJU24):<:JYlXou<2oP)u4&255U:)UP)&<&:U+)2G:<BP_P&o552UBu:Puo<&P55_<lB<)25:UlPlY.luuU54<Yu:&loBJVY<:P<Pl&o8U<YuY2lou:2::KuJc4oYP:5BJ5<5<)&J<P4&o&lUu)oB4u2ulo2oo&JUB)u4uoo5u5)UY)ll&uJP4&P&Y5P5PJ&4:JPYoYY)U4<4YYlBuPU5<5l)24U4oBiB:UlJJ42Y&:)2U&BU<)gUB4!Y<Bol2n)J:4::,B2l&7)<YulPuoU&U54UBJ<4PY5l&J:Eu<Pu&2)PY4U5PUY)UJ44B<5o2&)U<5BJuJ5oU&J5YUlJu+:YJB)BBE<<P&4)lY_:)B<B)B)<42u<BP&oJ5IUJ22PUo5&J5:BPWUuB2::lU))4JBY<:PB5<J42U)JYJ:Yv:2o)&<54)&5&JJY4BPBYlPlPu&2:P&&P&YUo)52Boo&u5oUULBuu222:oo&<Vlu&22P&o)JlYomPk&uo21B(a<GP<5uJUoYo:O:5l5K4<Uu&u5o5&JUu5<)o4)YB&lUJ)2J&4)2-PP&o5BU&UBU4YjYU:YUYJ)4,Y2:&P:&<Uu)4J2J4YJ:PB5x5+YuBYlB&l2X&<))uJBYP:u:)llJy4UYP:5BJo25oU&JJ4UYBJuUP):JU44YB2<&25JU2J<J)Yu:P54)o)l4uYouUo5olUJU)J))<:u:)B&)&J)4YB<2ol&DU<422P<oP&55J&iJc42Y&:JBYf<<uPo5PP4oB5<UP)5Y^4::&<<l&p)<Y2oPuo&&U5YUBJo)BY5:JB:0&<2u52)oDP)5uUo)U(U4B:uBPl5o4<B2ZP2o&&)5YUlYul<YU:4BBg<<P2<2Jo2&l5PU5))4)4l:2BolU_4uu<4PPo5&JUJ)rJP4&B))YBl82<ouU24ou&<U&YJ)440YpBYB&l)nY<l:UPoo)&4U<)<J&45YJuBl<3o<&u)2YPl&u)oPU)44rY<:&B5lBa:2u5&P5o:&Y)B)uJo4UY4UPl<_&<5uB2:ou&25YPJ)Y4<YuloBUlYXBu<2PP4PP&:Ug)2Y&4)Y::lluo&<)u:2Bo<&P55UJ4:lkYP:UB)lB%lP<2o&U52&BU2)PJ)4J:<BCMo<u<)2*2lo:&o5UU4)BYPYP:)BJy<<0uo2&Pl5M&lUP)oYU44YlB<lPC5<B<5Pqo2&&))UYJd4uYou)BYha<<uP25PJo:)99^)5J44Y:<Bu<PRU24PUP<o&&55YU:J442B&l2BYn<<uu52UPloBU2)P)5JB4:B2B2l&D)<Y2:Puo5&U5lUBJ24PY:)4B:i<<2U22)P:ol5uUo)Y)o4B:<BPoPyJ<B26P)<5&)5BUlll4oY):4BB_<<U<<2JP:&v:EU&)JJY:<uoB&l4-4u22<PPo5&Jo1)HJ&4&YJ:Yl<su2o&P24o<&<55U54oJ:Y&S<B&lYxYP)2uP&oU&Y5B)oUB45YJ::<JW2<5u)PB)u&25UUUJJJBY<:PB5uB.BuP22PJo)&Y5lJPlU4):>:Bl&eP<5uJ2:u2&254U)):JlYP:oTU259Bu&2PPYoJU5UT4)BU4):<:luJwo<)u42lo<&U&<UJ):4Ql4:&BJlYu<5o2&P:o4U4U<)PJ5:J)BB(lU>&<BuYP5ou555)U4JP4<:u:5BJl:<F2P2&o_oY5uUu)oJUY::uB<lY_5uUu:P=o2&&UUUYJP4uY::UB:lB<<u)25PBo:5oU2)&J)YC:uBulowU&BuBPuoP5)Y:UBJo42Y4:)BYll<ulU2UosoB5uUP))JJ::fYB2l4C)u<uloYooUB4lUBJ&4P{o:JBBeEuPu&2:2&ol5uUo:&J44l:<BUB<9J<:2tUoo&&J5YJl:B4oY::4Bl7<uYu5oJU)&s5UU&)BJYYY:uBoJBh4uu2<P)o5&:5:)PU:4&Y):YPu1u<&uUP:J<&u5)U5)lJ:Yr:2B&YYWYuP2uP&oU&:5B4<Bn45Yl::lo722^u)&u)2&u5JUUB2JBYu:Pl2lJ<<_J22P&o)4P5l)2Jo4Y4o:Bl<sP&2uJ2BobU24uU)J<JlY2:o.Dl4uBo:2PPYoJ5uUX)JJ&4)Uu:ll& o<:u4P<o<&U&<UJ):4d<&:&BJlYu<5o2&P:o4U4U<)PJ5:Jt)BvlUj&<BuYP5ou5544UYJP4<:u:5BJl:<EYU2&o oY5uUu)oJUY:<<BulYO5uUu:PAo2&&<lUYJP4uY::UB:lB<<Y)25PBo:5oU2)&J):Yy4BulJ{U<YuBoloP&52&U:Jo42Y4:)lhlluP2)2Uo<oBUUUP)5JJ:::&B2lY3)uuuloBoo5J5YUBJU4PY):JB:.Q22P<2)oPol55UoJJJ4:BBPBPsR=Juu2,o2o&U))PUlJY4oY::4l<m<<PY:2Jo2&%5:U&)4JYYlo<B&lJh42u2<PJo55Y:q)<J24&:u:YBldu2o&P24PB&<5PU5JcJ::u<&B5lJLY2P2uPooU&4o4)<JP45YY::l<L2<J<22YPl&u5oUU)YJBY<4lB5lJ,:u<22P&o)&Y5l)uJo4UBB:Bl<0P<)PL2:od&24UBJll<Ju)P5o55t5YUoUU4)44:4l2V2D5u42<P:oo5B<4u42Bo<&P55UJ:4lVYo:BB)lYSl5uJP44YPBuBJ,2<o4Y:&B8l2_&&:)<45Y&4<:)B:N2<:Y5:5BJl:<7u22&U:)Y5<)+)oJU44<PPJ&u&4&D)&4uY&:J4YlP=U<Bu):JBllB<<uPU4Jl:oBPUo)JJ)4YYlu5&25:UU2hPPoP&55Jl4iouJY):)BYll<uuo2U4P)B52UB)5JJ4:uPPU&B5:ol)BJBYP:JJB)cJo4PY5:JPq&)U:U424o&ol5uUoBY<a2&Po25oJ&4U))oJ5oU5U5YUlJulY2JPJ&2&l5U5JJBJB:PBUl)BL(<KU:PlolU;4<B52Jo4J:oBPyu<uu425P*2u5<U<)5J:U<&2U_U5)JJ:<52PPl&:ouUBJPUUYy:PBJloJ&YoYJ::l*o&Uo)BJB4uY5YUB)1)u<N2P2o2oB>luo22P&o)Y<Y2l4<uBJY:Bol<1P<5&BJuY2:5BUlU<o4uYu:oBUl4IBu<oUU5oY5PU9)2J&<l2BPBolo5ol&:P}oo&P55UJB2<l2<PJBJl:<<u:2oPUo44<B)l)_Juo2&PBoJ2PP5oJP<oU&o5UU4B<uK2QP&oY2h<uu42&P)oY4Ul(xU<Y<Y2YPPo)nJ<Ju:P o2&&5)UY)l4PY):UB4lBolUoJPJlolU<U2)&J)g2P<o<&J5&5lU<4o4o:4Blc0BY<PuU2BoUA<<Buo2UP44f:&l5lY<B3Y2B2&&&&J)2):P2oo&JUPUBJ<4P<J2:ol&o5U)PUtY<YU5PUB)UJ44Bu<otoUU2UuJuUJY4:u5lUlJu4oYU:4BBl<o2uJ&:Um)2J&4)YY5llB<<BolUZ4<BUYPoo5&J5:)RJ24&B)B)BlNu<ouU24oB&<U&)B)JJlY_lPB&l)iY<lPUPooU&4UO)<J&45BJlulM.P<&u)2Yoo&uU5UY)44<Y<BuB5lJQ:u9P)P&oJ&YUu)uJ54U:<)ll<7o<52&2:o<&25&U)Je))Yu:oBU^56Buu2P&5)&&:U<)2J&4):J:l<uYo<UuY2Bou&PUJUJ):U:Y2:5B)lBglu22ooJJB&lUu)PY<4JY:BI<2Pu<)u:2lo2&oU<U44>lPYo:)BJ<:<Ou22&P)Z<&lUo)oJU44YBB<lPJ:<JuBP#o&&&54UYYl4JYo:)B4<J<<2u255J<u5_UP)&Y54YBBBuI5<U<42iP<&B&55JU:Ym4BY&:4BYH<<uuB2Uo:5u5<U5)5JB4::NB2l&<(<Y22Puo&&U54UBJ<Y2Y5:YB:-P<2uU2)5Y5U5uU5)UY54BBBBPq)o:<B22P2&U&)5YUlYul<YU:BBB}P<P2=2JolJ25PUJ))Y54l:uBo_JPB<l2&PP&<&J5:)K4oo&Y)BuBl<:<ouU24&O&)5PUB)J4uYv:2B&l)<P<l2oPool&4U3)<4PY4YJ:llbrl<&uY2Y&<&25oU4)4YLY<:PB5<Ju2u32&P&oY&YUU)u454)Y4Bul<<l<5uJ2:&uJ&55UB)YY2Yu:oBUN:JBu<2JP55o&:Us)24U:oYYB&lu<)<Uu42Bo<Uv55U:):45Y2:UB)hY<)uu25PUoB&BUP)P4)Y2Y:B2l2<l<)uY2l5u&&5UUB)B4PYPBYBJzluPu22JP)oB&lUu)o4JY<YlB&lP_)<Ju:PT&o&B5))u)l4PYo:UB4lB<ouP2JPJ&25aUo)&4):)YlBPlo<5<42<P<UP5<5JUlJ_4PY&lYBY<<)Bu&24P4555<UP)5YJ:<:wB&l&xY<Y2UPu&55l54)uJ<:&Y5:JB:<uuBu&2BPYU<5uUo)U4::o:<BJl5uY<:2OP2o&U&5Y)uJu44YU::BB<<uJu52YP:&452U)))4B<u:2BUlU<2<B2<PP55:J5B)2J24)Y)luBluuuluU2BPB&P5P)U)J4:Y2:2BUl)uu<l2oPoUU525B)2JPYPYJlPlO22<Bu)2BPl&)5oJj)4JBJY:PB5lJHBue22P&o)&Y5l)uJo4YY4:Bl<d&<JuJ2:od4u:YBl)B4&Yu:oBUPy5YUu)&424l:<Uu)UJ&4)YY2u&&5BUP)RPVo:&P55UJ:luoulPuPB5-&2)P)&J4Y_BKUY)PJ54JY:2<lPg5<)uY2lou&o)UY5)B4uYP:UBJp<<F224oPJo:&lUo)oJU44YB2ulohU<Ju:PXo2&&))YU)l42Yo:)B4ju<<PJ5)PJo:5wU4)&JJ4Y:+Bul)lu<4uBP<oY&554U:J;:YY5:4BYll<uuo2UP4)l5uU&)5J44::DB2k&UU<:2KPuo5&U5:UBJ<)lY5:JB:e<<2u&2)PYol5uUo))J:4B:<BPl)<<<:2>P2)4:5::l<8B<JuY::llN<<Pu5UJJB:uB5BllY<UuP<JPB&YokUP)5J)4J:BU<)IJ24&Y)u:lw;2<ouU24PB&<)PY2)JJBYK:PB&l4sYul4<P&o)&45l)<JP45YJYUlzs2<&uJ2YPl&u5oUU)4JBYu:&B5lJ.:uu2YP&o)&Y:2lJjB<42&PYo&55UJuYP2o_&25&::9B<;uo2JoJll6Bu<2PP5J4&BU<)2J&4)YY:l<uP<<UuY2Bou&P5)UJJ:ulYP:5B)l:xluu2oPUP&&BU<)PJU4JY:B_l2E&<)uYP=&B&o5UU4J;45YP:5BJPeo&)o)54&Y<5gU2)5Jl44YBB<PJ&Y5:J<JlYo))54)j)l4uYo<:o)525Bu&2YPJo:5ZY&Io<ou4P<BPl: U<4uBUJYu:JBBBBHB<&u4:4lPll<uuo5YYK:#:ulU11<)u4:uB4l&0)<Y5YJ2Y)Y:B:l5xuukY)::B:Rg<2)P)BY2&<5JUo)UJ4ll2lP5ol5)Ul)oJ5oU5u5YUlJuiuu)PuoY&JUU)Y)B4u&u5YU&))JY<22JPBo45&UY)&45YJ&YU<)_J24&<5P<oB5-<5u)24PB&<YBU)J&J:Y :22J&4&:U:Jo4o4)::B2ll,52-YYB)lfd2<&&44<44YB:JlYBlumuu25PY&YTlu&22P&o)4YB3/P#Ju&2lBgl4vP<5uJU84<:<4)lUdU<4u42)P:l:<2u<2PP54B:uBYlP<l4YYY:llu,o<Uu42Bo<&555UJ):4>Y2:&B)2Y<<u&2oPUo4Y<BJQB;Y4Y:&B_l2S&);)44<4::UBUBY <<&Y5:5BJl:<!u22&&:)Y5<U&)oJU44PuPu&55u<Y2<Pmo2&&Y)B:<<u&Y&:UBB2<PPo5&J5:)dP2YuYBJ)4YYllPPU>)<:uBP5oP&55JJ::Y42YU:)BBll<4uoPJUBol5PUP4<JJ4::jB2&b*)<BulPPoo&J54UBlu4oYJ:JB:T%<2u&o)UUol5oUo)4J4YB:<rP22qJuD2=P&o&5o5YJll)4oY4:4l<1<uYu5PYJg&<55U&)YJY4l:u;o2P>4uu2<PUo5525:)jPU4&YB:Ylu0u<ouU24ou&<5JU5):J:Y,:2B&<<!Yu&2uPooU&Y5B4<Jo45:<::l5A2u<u)2Y&4&u5)UUJuJBY2:Pl5<oZ:uu22oYo)5Z5lJPJY4UYl:Blu>P<5uJo:ou&25JU)JNJlY4:oBU<<bBu&2PP5oJ&:Uf)24<4):u:ll23o<Uu42B&P&P54UJJ24dYo:&l4Pl<xu52oP)o4&BU<4Plu44:uBwlU*&uuuYo<&B&o5BU44u4<YP:5lY0o<puJ2&o:oY&lUu4oJ444:&B<l&W52 u:&c&:&&U<UYJ54u:2:UB4<U<<uY25ouo:5iU24&4o4Y:5Bul:qU2ruBP<&J&55lU:JU42YU:)BYsJ<uu)2UPloB5&UPJ5Y&4::uB2l5w)uqul5uo:&U5:UBJ44PY):J<:gU<2uU2)oBolU:UoJJlB4l:oBPl4RJ<:2E&2Y&&JU.UlJ&4o:C:4WB3P<Pu42Jo<&DUDU&J)424l:PBo0jw4uu2<PPJU&4U<)^J24&Y):YAl5u<&uY24ou&<UPU54J4)Y0:5B&l:OYuP2uoool&4U0)<J)45YB::uDPJ<&u42YoB&u)<UUJ:4WY<:UB5<<I:u/22o&5P&YU<)u4&4UYl:Bl< &<5uB2:oM&25&U)4Y4JYu:)BUll=B2<2P&5&u&:UP)2JJ4):2:l/Pu/<U2 2B&J&P55UJ4:YuY2:4B)G<6l2o2oPU&U&BU5)PJ44JY:B{l)U)<J222lou&o5)U4J(4<YP2&B4l:<Wu52&P)oY&lB<)&JU44:IB<lPK5<J&BPvoU&&UEUYJh4uYoY2B4lB<<uo25PJo:5<U2)&J)YoYlBuloQJuuuBP<oPJ4:lFF<Puo2oouBl2uPooU&45B)<PPY2))JB4::hB2&:&JUoJ2PP&<&U54UBlou&uUPU&_5I5P)U)B4JYuB4UU)UJ44B:<BPl5-Jo:22P2o&&)5YUlJu:)^U:BBB8<<Pu52JP:oV4uU)22PooU&45B)<4Po:2PPPo5&J5:)xJ24&Y)BBBlxu<o2JY<Pl&<5PU:)JJ:YX:2BYl)q:<l2uPooU&45B):JP4UYJ:BlK_2<&P)oPPl&25oU))442Y<B&lSlJsluf2oP&o)&Y)<)BJo44Y4Bol<!P<52Yo)oS&55&)<)YJlYu:)BYl4<eu<PuP5o4&:U-BPJ54lYYBEluWo<Uo4P&o<&J55UB):4)Y2BU2Yl:<ouu2UPUo4&BU<2)J5Y<Y:B<l2H&<)uY<You&45UU:)B4uYP:425l:<uu22BP)o:&lUuB&J)4:YBBulPN5<JP:i%o2&U5)UB)l42Yo:UYUlB<2uP2)PJoB5SU2U<J)4YYlB2lokU<4uBP<oP&55JUlJu42Y&:)BBg)<uuo2U)o4<YK:u:Y<Uug2lP5o4H4uoulPuoo:lB:l5<o<)u:P2o)&ou0u&2)PYolY2U&)JJ44B:<BPl5uJ::2-Poo&&45Y)hJu4o&::4lu8<<ou52JP:&R<)U&)4JYY2:uB5lU_4&l2uP5o5&45:)8J24&&B:Yl2Mu<5uU24PB&<YoUU)lJ:Yu:2B&l)wYYo2uPUoU5A5B)2JPY)o<::lPk2<Uu)2YPl&uU)UUJvJBY<:PB5lJ/:2:22PYo)&l5l)uJo4UB<:BlogP<:uJ2BoF&2)<U))YJlY2:oBUl4*Bu<2PP5oYUhU9)2J&44:o:lluNo&JUYJB4JYU4:l2Al<oYo:YB)lYdlU4JoJ)YPB_lP)&J:4JY:Be&<54U&UBJPYP&5U:U4)B4<%JPtoU&<o&UYJU4Y:%4uBJlB<P<l<:P5255254JC42oo&:5)UY)l<)uJPYoP&Y55)22JPJo:5,U2)&J)JYEBBPl)EU<4uB)oY2:&B&UlJo42Y&:)o9&P5P)J)lP:&Y5<UP)5<<uuPPP&&o55UJ)PJoY):<BJlY<P4&Yl:JB:/no))4J5Jl:2:4lPL&JBB<<25&L2J44)l55BoU5u5YUlJulY2:P)P<&PU&) JJY<&u5:U&))JY2u25o)&:54)P)u4vYYYl5l)PJ24&Y)ok&U5u5JuJPoPB&<5PBBllu<2oP2oYoJ5U)P)5P5&&&45B)<BJu/2UP<2&&YUU)Y4{)uYJ:BlPll4LYJ:PB5lJPBU2J5JlYlY:l2l5m)4J:P:Bl<_PoJ)u)BYuYP:)l:(<u<YP:)BUl4kBUlJ)45Y:44Uy)2J&4)<:B{lu#o<Uu42Bo<UP42UJ):4pY2:&BJlY<oB22oPUo452U<)oJ54JY:BP::!&<)uYPPou&&5UUlUU4<YP:5l;l:<<u22&2PoY&lUu)&JU44YBB<PotU<Ju:P<o2&&5)JY:44uYo:UB4lBu2uP2:5Uo:5_U2J<J)4:YlB2loAYgouBP<oP5u5JUBJf454_:)BYlluuuo2)P4oBYuUo)5JJ4B:WB2l&u)oUulPuoo&U54J{J<:PU5:JB:Cy<2u&2:PY5<4oU&)JJ4Yo:<BPl5qJY22gP2o&&45Y)<Ju44U):4BBZ<&<u524P:&K52UJU2JY4l:u2ulUmY<Bo<;Po5&45:)gJ2Y&Y)BB2u_2<UuUP5PB&<5PU5PFJ:Y<:2B)l)IB<l2U52oU&Y5BJ)JP4UYJ:Bl1d5%9u)2YPl5J5oU))44uJ4:PB5lJoJu*2PP&&44lU )2Jo4JY4:Bl<<&U&u42los&Y5&U))YYlYU:oB4l4GBu<PoP5oJ5uU;)oJ&4YYY:llu}o<lu42lo<&P55U:):4P:U:&B)lYoJuu2&PU54JJU<)JJ54lY:BJl2!YP5uYPoouU55UUY)B4uYP:4:Pl:<^u2oUP)o:&lU&5lJU44YBuYlPNU<J2l)2oP&:5))P)l4uYolUu5lB<UuP2BPJ&u5TU224J)YPYlBUlo#U<4uBJ4oP&B5JUlJ,4oY&B4ul^g<Juo2BP4oB5<JP:2JJY&:gBJl&<Y<YP<Uoo&5u54)PJ<4PY5:B<ug#<4u&UPPY&s5u)5B4JYYJ:<BYl5wJ<:oMolo&5o5Y)4JuYPYU:4l4Q<u<u5PrP:&852U&)BJYY::ulflU/4<B2<oPo55&5:)BJ2Y2Y)BBllpuu2uUP)PB&<5PU5J:J:Yl:2lul)ZY<l2uPJoU5)5B)2JP4)YJi2l5D2uPu)U&Pl&25oU4)44uJ4:PB5lJo5uj2PP&o)4:U.J*Jo4JY4:Bl<6P:YuJP4oL5<5&)P)Y4oU2:ol&l4P5u<2oP5oJ&:UP5:J&4)YY<Ulub&<UuluUo<&P55Yo):4<Y2:&2Jl:<:uu25PUo4&BU<54J5YUY:B4l2<u<)2B)uo2525U)2)B4<YPl5JBl:<Bu2PPP)&)&lUuJlJUYJYBB5lPf5<Ju:oPo25&5))5)l4uYo:UlmlBuuuP25PJo:5*J2))J)Y:Yll2lo>)<42PoUoP5U5J:<J%4PY&:JBYQ2lYuo2UP4Ju5<Uo)5JBJ5:zB2l&oK<Y2rPu&5J45Y)lJ<4lY5:JB:S&P<u&PJPYJU5uU&)UJY4B:oYBl5WJ<:5)P2o5&)5YBpJ2Y&YU::BB <<Pu5llP:5<52)5))454l:uu&lU<)<BPuPPoU&JU<::J24BY)R&Blz2<ouB<BPB&u5PJo)JJBYF:oB&l:l&<l2uPo5&&45l)<JPJuYJ::lNyP<&u)2YPl&u5oUU)444Y<:PB5lY<&u822P&:X:BBUM&#J<B2PPJo&1&<UuJ2:o^Yu5UU4)YJlYuPPo4l:<<u<2PP5Yo:ul))oJJ4)YY:lo)5UU:U:P+o5&P55UJ<uu2uUPUou&j<<uU2oPUo4:5lPlJ<Ku&2uB2l2t&<)uY2louU:4UU:J24<YP:5<U&5U2)uJPP4&R&lUu)o<YuP24P&l&K:<Ju:P3JU:):BlBBU<&Y5B#B4lB<<)&)YJ4Y<:&BYju*B4B:&Bulo;U5l)2J:4J:=B&lul)42Y&:)BY&2<2u52UP4oB5<UP454<4::uB2lU3)u<uloP&&&U5lUBJJ4PY5:Jll<u<2u42)PBol5uUo)U4&4B:5BPl5vJ<:2aoo&)&)U2UlJ44oYU:4BBd2<PuY2Jou&95JU&))Y24l:PBol:D4u#2<PP5X&JUx) J&4&Y):YBl<Y<ouY24PB&<5PU5JYZMY<:UB&fZhY<l2uP4U&&4U2)<4u45Y4::l<N2<J<22YPl&uU2UU)YJBYo4BB5lJ,:&&22P5o)5B:u)2JJ4U:5:Bl<*P<:oU2:oo&2UUU)):JlY2:oBYBoXBu<2Po)oJ&BUc)5)n4)YY:l2Uqo<)u4otJP&o5YUJ)B4KY2:&Bl4:*lu52oUBo4&lU<)PJ54B45Byl28&oluYPDou55Y4UYJ24<:<:5BJl:<&BP2&PBoY4oUu)&JU44YBBo:BG5<Ju:U&o2&55)UYlL42YJ:UBYlB<<uP25Blo:5&U2)UJ)4YYlBuol;UuwuBP2oP&)5JU:Po42Y):)l<ll<uuo2BTYoB5PUPY2JJ4B:IB2l&K:z&ulPuoo)P54UlJ<:P_2:Jlu+H<&u&2lPYolY2U&)BJ4Yw:<BPl5uJo)2 P)o&&l5Y)JJu442B:4l2x<Pmu524P:&&52UJU2JY4l:u<<lU+Y<BP2)5oU&l5:)2J24&Y)lYu4Fu<JuUP=PB&45PU5&:J:Yo:2B5l)*B<louU<oU5<5B)PJPY<YJ::Y)(2<4u)P<Pl&U5oUBY5JlYu:P<PlJdBuz2UP&o:o&5l)uJoBoY4:ll<.PoUu4P<oc&P5&U))Y42JY:oBUl424u<2oP5oJJBU<)5J&4JYY:lluk4P&u4Puo<)P55U4):4<Y2:J:2lYSluu&oPUoY&BUo5BJ54JY:25l2m5<)uY)#o2&J5UUB)B4<YPB)u:lB<&u22BP)oY&lUullJUYpYBB2lP+)<Ju:m2o2&Y5)UY)l4oYoBU&Jll<5uP24PJ&u5#)oB)JJY2YlBoloLU<4PB5:oP&B5J)PJs4:Y&:)4lll<)uo2)P4&85<)P<&J4Y2:/B:l&<1<YulL)oo&l54)kJ<4PY5lJl)^q<Ju&P#PY&J5u)o4oJ4YP:<BJl5<<<:2-ouo&&Y5Y)oJu4oYU:4i<a<<Ju52BP:&K52U&JuJYY&:uB5lUc4<B2<oUo55u5:)2J24&Y):Y26Vu<4uUP2PB&u5PU5B4JBY&:2B4l)vY<l2uBJoU5u5B)&JP45YJ::)o,2<Bu)2YPl&u5oUU:YJBY5:PBllJ3Bud252ho)&Y5lB)Jo4)Y4:BPuao<YuJPhoF&25&)4:l4DYU:ol}l4-Bu<2P4<oJ5uU8)oJ&44YY:l4oSo<Bu42Bo<&555)J<Y4<Y):&B:lY<PuuP5)4oY5oU<)5J54JY:w8ulc&uZuYP&ou&l5UU45<4<Y4:5B4l:<uu2P&YUo:5oUu)lJUYuYBB<44G5u<u:Puo2&&5)JYJP4uYY:UlulB<YuPP5&uo:5&U2)YJ)Y2YlBul&CU<BuBP5oP&55JU:J)42YY:)l<ll<uuo2UoUoB5UUP)YJJ4::fB2l5D)uPulPuoo&U54UBBu4PY::Jlo^7<Pu&2)&)&D5oUo)JJ44B:<BPBuwJ<:2MPPo&&)5YUlJu4oYU::lvR<<Pu52Yo5&^52U&B)<BuP2&PBo45lU5J34uo)5X5:)hJ2lYuJ2l&25<U5uY24PB&<5P:U)4JBYc:2B&l)jY2l&BPoo)&45l)<Jo45:JoYl<=P<&u42YPl&u5o52)4JBY<:oB5lJ(:uv22P&o)&:US)uJo4UY:Bol<fP<5&BJuY2:5BUlU<o42Yu:oBUl4oluu2PP5oJ&:U )2Y&5)YY:llu=o<UuY2Bo<P<55UJ):4uY2:5B)lYlJuu2oPUoY&BU<)PJ54JY:Bkl2n5<)uY2loP&l5UU4)Bl22A2UoU&U&2U4Jo4:Yl5uUu)oJU44<lBulox5<Ju:PVo25&lUU:JT4uY&:UB4lB<<%l25PJo:5<U2)&J)4YYlBulo+)<BuBP<oP&)U2U:J(42C)P<P:5<52UUJY4,:V52UY)5JJ4:<UoU&2&JUJ)BJ44)&J)+UBJ<4P9:P2o4&Po)UlJ44l:24oB:S<<5uuu}PJ2J5&5BJ24&&o&)5YUlJuQ&Y):4BBy<<Pu52J&:)Y52U&))JY4l:2BolBYY<B2<PP&o&J5B)LJ24&Y:Y&Bl>u<o2&24Pl&<)PP5)JJBY^:2B&lY(Y2<5oP&o4&4UH)<JP45YJU2ljSP<&uY2Yo<&u544&)4JlY<:BB5l4N:u<22PJP2&Y5l)uJl4UYY:BloBB<5uJ2:oB&255U)4Y&lYu:&BUl4bBuP2Po)):&BU2)2JU4)YY:lluol<)uY2BoP&P55UJ)::PYP:5B)lYfluu2oPUP&&BU<)PJU4JY:Bgl2 &<)uY2lU:&o5UU4J14UYP:5BJo<5o)4JJ4BYB:PUo)oJU44YBB<5P&::JulP2o2&&5)BdCBuuYUQ4<B2<PPo5&J<:)Y5uU:)&J)4Y<uP2&2P4UJ)JJ:4:Y4:l)vJx42Y&:)BYllP&&o2JPloB5<UPB5m4ulPPB&l&h)<YulPuooPU4J)mJ&4PY5:JPj5G5P)UJPPB5V5uUo)Ul.u42Jo5&J52UY)BU54l:4B<lu<&<B25P)l<c<<Pu52JP:BN:)Y&)4Yu4l:uBo&J&:)&)u45YJYll<l)K5lFlUe4u<2&PUoB5<5B)PJJ44):J:Yp:2B&l)#YoU5uP5&<&45B)<B)ul2JP)ol5&5l)UJJo<&)5oUU)4.Pu&25o4&)5lo22&P&o)&Y5l)uJo4Q!JB<uP25PJo:57U2P&4oU4JPJlYu:o2J&JUuUuJU47Y):4U2)2J&4)YY:lluloo5uB2Bo<&P55UJ):YPb2:Ul&lY=luu5U45Y5::l2B5nYu4PuPo&<&)5Bul2lou&o5UU4)B:l_P:);9l:<Ou2JUJ4:P:Olo(UZ:ul25PouB2&P)ol52U&)UJY4l:XB5lB:Jl2lB<<uPU242Y2:ol5ll<&u<:uBulo0U<4uBY<JJJ55Y)<Jz42Y&<BoJ5P5lu5PuP4oB5<Y4lY<B<N2ooo&Y5u5l)PPP&P&U54UBl<<o2)PBo&&25lU45B4)YUB&l)l:<:Y<:<BPl5fJ<:2R&5)&&Y5YUlJu4oYU:4BBy<<&uY2JP:&!Y&l&lB<<u2:PB:lUs4<B5J4uYJ:B:BlBc&<4Y4B5Bl7u<o5&4*44Y2:)l)BYpBuB2JP4l4<J<l2uPoJB:OBJ7wh5u82Bo&P252UUUB):42&P5)UU)4JB<P2:&<olxl2&22P&o):BB<6JG&u42BP2&o&:54&P&Y5l)oJJ4YYYBUlJKou<22<Suo2PP5oJ:PB<c I444:):llu1o&P)PJo4):U4Yl5O&u22&2loU&J<<uJ2oPUo4JlBll5Wlu)2lPoo5eU<luY2louJ)::B:<7<J25:)lul:<tu2U&4UYl:Ul&lB<5u):wBPlPM5<J)4JoYJ&U5:UY)l4u3JPooP5u<PuP25PJo:5LU2)&B)4B:&BulogUoY)uJo)::4:llJJu4UY&:)BYPuU<)<J54:&mUuUP)5JJ>:2<oo&J5u5l)4J5)::<Bl:2Q5<JuY2:&<^<<PuUPlPYol5u:2C:<UuW2&o&PJ&lUBJoJUYPYYB<:JN5uB2UPJo5&lUUu)P&P:&052:JI4A:u:Poooo)5:U2)lJ5:*&YU2)XJ24&<)2:&<&5U2)Y2:ou&<5PU5BY-B2P2UBU=5QY<l2u)2Y::UByl&<&+JulPB&o&UUPUYJ<ou&u5oUU)4JBP<PJu5lY<uu722P&JY:)BBl:wJ4J:P:Bl<bPUB))Jl44:&B&BJll<PYP::BUl4,B&lJ24)Y5YBBY:YMJ4JYYB<lJ^o<Uu4)EYX:UYJlJsu<ou55JB)lYyl2PUBPUoB&BJ<)PJ54JB:lJl2d)<)ul2l5Y&oUJ)U)B4oYP:BBJl:<}u2P2P)ol&lUP)oJJ44lBB)lP^J<JoPPRU2&&J))U)l4oYo::B42U<<oP2BPJ&T5O4o)&4Y4YB<&Bl&-Y<42:P<oP&5)JJ<J=45Y&::BYu)<u25ouP4&25<UY)5JJ4:BuB)l&rl<Y25Puoo&UU:)<J<44Y5BuB:{f<2u&P<PY&25uUY)UJ:4BB<l:l5{:<:o2P2oJ&)UYqBJ24UYU#PBBc<<P2)U:PB&P524B))JY4lBu&Pl)RB<B&PPPo4&JUll4JP4JY)lYBl*u<oPUP2PB&o5PU4)J:5YeBo_ul)<<<lPBPooU&45B)YJP44YJ:llFdo<&24ouPl&55o):)4JBY<lPu2lJ<uuS2UP&U2&YUo 4Jo4BY4lJl<xo<5uY2:oPP:5&U))YY4Yu:&BUl4oluu2JP5oJ&:UZ)2Y&loYYBolu#4<UoJ2B5<Jr55)d):4&Y2VPB)lY5)uu2JPUo:&BU2)P45BuY:BPl22P<)2<2lUu&:5UUl)B:5YPBJBJtl<)u224P)5:&lUu)oYUYJYBB&lP;Y<Jo5Pq&oUu5))u)l4&Yo:UB4<v<2uP2BPJ&B5fU2)&J)YUYlB5lonl<42qP<&P5&5J)<J!Y4Y&:BBYuluPuo2YP4)u5<Ju)54Y:u:rBUl&uJ<YulPu5oJP54)2J<4)Y5bPB:<u42u&2lPY5Y5uUo)U4:YP:<B4l5<r<:2 P2o&525Y)PJu4YYU::BB<<<ou52BP:5l52U4))4BY&:uBJlUuY<B2<PP555l5:)oJ244Y)0&Bl<PuUuUP<PB5l5PU5)J4ld2:PB:l)Pu<l2uPooU<<5B)&JP4BYJ:llf<2)ouJPTPl5P5oU:)4Yt<P:oBYlJuBu122P&5)JU5l)5Jo4:Y4RUl<<&oJu4P2oF&o5&U))YY<jo:&Bll4<)u<2PP5oJ<2U})UJ&YzYYB<lu<o)5uYPuo<)l55Ul):YuJu:&BBlYPPuu2oPU5455U<))J54lY:/Jl2M&uYuYPoou&&5UU4)BY2:J:5l<l:P<u22&P)5Y5&Uu)YJUYuYB*4lP<)uPu:PUo2UP5)UY)lYP:J:UlPlBuluP25PJo:5)U2):J)YoYlBPlo<JuYuBP)oP)U5JU:JX:2Y):)lPll<Juo&uP45{4PUoJmJJ:(:GB2l&<4ol2vPYoo5454UBJ<4PuY:4loHe<:u&2)PYolo2Uo)BJ44B:<Bol5;JU52#PUo&&45Y)<JuYoP5:Ylut<P&u52lP:5uY&U5)BJY:):uBolUu4UB2uP)o5&l5:Y)J2:&YJ:YlPOu<JuU2BPB5<UJU5)BJ:YJ:2B4l)2u&22uP&oU4J5B)uJPY(YJB<:JI2<&u)U4Pl&25oUYUoJBY<:PP)lJgBu_&2PBo)5M5l)2JoYPY4l!:NFP<YuJ5uof&25&J)J5JlY5:oB:l42Uu<2PPYoJ52Uz)PJ&4)YYl<Mo_o<lu4&lo<&P55JJ)B4TYJ:&l}lY2)uuP5PBo45&U<4uJ54JY:lulYC&uuuYP5ou&o5UU4Jl4<Y4:5l2l:<uu2PU&<oY55UuY&JU44YBV<WYf5uuu:PUo2)Z5))BBu42YB:UlBlB<<uPP)U:oB5JU24PJ)4YYlBuoJs)u2uBP4oP&55JU:U<42YY:)BYll<2uo2U4ooB5&UP))JJ4l:Xl25obJu!ul&ooo&:544BJ)4PY4:Jilaz<Bu&2:2&ol5uUoulJ44l:<(J2)^J<B2QY-o&&J5YY&Ju4)4u:4BBs<)<u524P:)x54U&):JYYa:ulYlU<:l:2<P)o5)l5:)AJ2:&:u:YlPiu<JuU&oPB&<5:U5J,J:Y<:2B&l)<B222uPYoU)Y5B)<JP:5Bu::l5z2<:u)&&Pl5P5&UUJ2JB:l:PB5lJ<lu)22Plo)5l5l)uJo4UB5:BlUIPuyuJ2loG5o)<U)JPJll2:oBUl4uB2:2PPloJ5oUq4:J&Y4wlBDl4aou4u42Bo<5&4JU4J54iBl:&B)lYHlU52&ozo45UU<)PJ54JJBBCl)V&<)uYP-ou&oBuU4J24<Y&:5BYl:uCUo2&P:oY)uUu)JJUB4::B<lUN52Yu:o)o25U5YUYJP4uB&:UB4lB2<u525Plo:5oU2YfJ)YBBoBul4-UuluBP<oP5)5BU:J542B2:)BYll<u2Y2Uo-oB5UUP))JJY:BQB2lJ^)24ulP5oo&YU<UBJ<4PoB:JBB8m2)&U2)P:olv)Uo))J4YY:<BUB<>J<:2>:Jo&&J5Y4lJJ4oYY:4Blr<2Uu5PYuY&m5UU&YBJY4l:u3ocuO4u22<P)o5)P5:)_YN4&Yl:YlNcu<ouUP:o)&<54U5Y4J:Y.:29&7<pYu&2uPYoU)o5BJ2J:45:u::LB%2<&u)PBol&u5BUUJ4JBY<:PB5l:m:u522Plo)&B5lJP4)4U:2:Buu0P<5uJo:ol&25BU)JPJlBY:olJ2B!luJ2PoJoJ&:U0JoB)4J:&:l<e7o<Uu42B4&&o5lUJJ54HY2:&B)::yluU2oPUo4&lU<)P<<4J:uBFlo7&<4uYPl:<&&5YU4Y<4<Y):5<JEo<+u52&&4oYJoUuJ5l44Y:2B<<o^5<Ju:&iUl&&5BUYJP4uBl:Ul:P<<uuJ25&ho:59U2JUBY4::&Bu%uZU<4uBP<lJ&55lU:J542YU:)lY5B<2u)2U&JoB5&UPJ5u)4B:PB2u)t)<lul&uJP&)U;UBJo4Plu:Jll<&<2u:2)ouol5uUo)U444B:&BPlBiJ<B2doo&o&)U<UlY54oYU:4(B<2<PuY2Jou&6UBU&J4Y&4l:)BouR;4<B2<PP5u&JUu);JJ4&Y4:YTl_5<&u:24o2&<J<U5)JYPYS:JB&lYkY<l2uo55X&4U&)<4o45YJ::la<5<&uB2Yo5&u5&UU)4Y&Y<:PB5l4A:ux22P&o)&Y5l)oJY4UY4:Bl274<5uJ2:45YUBJlXv<<:2U:5l:l4%Bu<5UJYY:B&BBl&lou)2YPB&o&BUY)-U24lYo:)l&Fu<PYoluB)lYjl&&)J44:P:YBPB5WY<:P<P)&u5P5U5sJPYo:BB&BBB:u<2PP&o:&&UPUU2UoUoY&lUuBP<Uu42:oPo:545l5uJB4PYUBol<724P:u:UB4lB5oU:JJJ44l:YBU:J8BulPUo>oUOJuquBP<oPY:B&BB-5u&YUBoBYll<uUJJ&JYYs::B):4nl23P)o<o)u<<YulPuoolU54UlJ<4PY5:JB:<Hu&u&2JPY&25uUo)U4::u:<Bol5D4<:2eP2o&555Y)yJu4&YU::BB<<uNu524P:&u52U&))4u:u:uBolU<o<B2uPPo5&JU<5JJ24&Y)B&BlO2<o2JUBPl&u5PUB)JJ:Yt:2<4lJ8:<l22Poo)&4Uu54JP45YJB)l7WP<&24Ulo;&25oU:)4JBY<:P<Yl4_Bu%2PP&oJ&Y5lB2J&4)Y4:ll<WP<52e&4o_&P5&)))Y4yYu:&BUlllUu<2PP5&J&:U<)2JJJ2YY:llu<Y<UuY2Bo<4o5UU4):4<Y2:&B)<YP4uu2&PUoY&BU5)PJ:54Y:B<l2<:<)u:2lou&o5Y5o)B4<YPBBBJlB<mu2U5PJo:&lU2)oJU44BB<:lPnU<JuBP-o)&&U)s4Jv42Yo:4B4lB<<uPuuPJo:5.UP)&J)4YYlBulo=U<YP<P<oP&55Y)4JO42Y&u2oo52U&UJJJ&4Ju:&l5<;<Uunl3BoE2v)<YulUY4B:YBll2<2l)2o24Pl&Y5UUJ24o5ol5uUoB5<4uBP-o5&s5BUu54JUYl&4)UUlJu4o/YPA&<5JUuUJU:4uY2B5Bl^U<J<B<&PJ&4UPUY)P)2Y5:JBY32kYuJuB:BlB}u<ouUJBYuYuB&l4BP<&2PP5P4&4oUUBJ<4ooJ5u5B)<JP,uulo&225u5JUB2B&P&u5oUU:l<22PP:ooo:oY)_J24oYY:ol2l5BJu&uYPSo:&)54uYPPo+&25&YBOJ<+uPP<P:ol<E242PP5oJ4<BoW&<lu5ul2uo5&UUY)PJ:4lY2Y<l2<<uPuUPUu:&<Uu)4J2J4o:5JU<)PJ5<l24P<oo5u5B5fJPYo:BB&BBJSY/YP:5BJPYUC)2Jo4YYoB2B5:J<&<Y2#P:o)&4<Y2:PQo2&&4:l<<uu42224}4P:U<)PJ&4:Y&BPBU4&J4Y2YlBulo&lUKJuJU4):olMUlJo42Y&:)ou&452UYJ4P:&25<UP)5<Jul2)o<&Jy4uPulPuooJYBPZ<du<&222lo<ZuuMu&2)PYY2:4lUl)w:uJ2&uUoY5:)&)BJ&oU5u5YUlJull2<Pl&u&&U&5u)lY&&uU&U&))JYw)24o)&Y5S)C5oJ)YJB2B4l2BUuPuJ2Bo4&55)U524PB&<5JPU)JJBYG:&B&lJXY<l2uP)Pu&45B)<J545Y4::l3BB<&u)2Yot&u5oUU44BJY<:&B5lJV:u&22P&JJ&:Uu)uJo4UY4:B<<P9<5u:2:o2&25)U)JuulYu:5BUAPdBuu2PPJoJ5<&J)2J&4):o:ll2Eo<Y<o2Bo<&PJJUJ)B4KY2u5BJlBjluu2oPUo4&B:u)oJJ4JY:BOl2-&2)&U2loo&o54U4J)4<YP&<B4yv<8u&2&P)oY5lN<)&JJ44:)B<l5+5uYUkP<oo&&U&UY)l4uYoJ4B4%W<<uo25PYo:5m:P)5JY4YYlBulomU24&JP<o5&55:U:J442:&:JB:g<<uuY2UPBoBU2)u)5JY4::lB2l&{)uB2)PuoU&UU5UBJ<4PY5:YB:GP<2u&2)PYol)u)l)UJl4B:oBPvu#Ju225P2oJ&))&UlJ24oY):4luB4<Pu52J&5&h5PU&):)&4l:uBo<oj4<l2<o&)J&4U<)_J44&Y):Ylo2T<ouY24&Y&<5oU5)4J:YP4:B&l)tY2:2uP&oU5:Y<)uJU45:J::l=i2<&Y52You&u5UUU)lJBY<4<B5lY/:uu22P5o)&Y:n)2J54UY4:Bl<wP25&&2:ou&25UU)J5JlYU>2BUl:NBP&2PPUoJ&BU3)5)A4)YY:l<5;o<)u4Pu24&P55UJYo4zYP:&l4Pl<suP2oouo4&BU<)P:Y44YlBilPa&<JuYP22Y&o5UU4YU4<Yo:5lYoR<<uo2&oJoY&lUu)o::4Y:#B<loG5<4u:P1JP&554UYJx4uYo:U{42J<<u&25PYo:5BU2)Y&J4Y:<BuuU(U<YuBP<oP&4&PU:Jk42l):)B:ll<u5&2)P:oB5uUP)5JJ::tYB2lUh)<Bulo+oo&UYYUlJP4PY5:JB:hq22&u2)Plol5oUoJ2J4YBoMBol)NJu<26P&o&U)4UUlJP4oYU:4lPj<<P5U24o(&_52U&))JY:lcBBol414u<2<o&o55;l2)GJo4&u5:YlXFu<UuU2l2U&<5PU5lUJ:Y<:2B&PJ_:u<2uPooU&45B)<lo4UY:::lO!2<&u)oYU4&u5UUU)BJBY2:PB5UP(Bu222P)o)&Y5lJuuP4)Y::Bl2WP<JuJPlJ2&P5UU)J)JlYu:oBUYB8Bu22PPUoJ&lU,)2l54JYl:lluNo<Uu4oBU:&P5JUJJg4}Yo:&l)54<0uP2oo4o45<U<J&lJ44YlBXkuv&<)uYo<)o&&54U4)l4<YP:5BJPB<<u52&P)oY&lUu4oBP44:uB<lUF5<Yu:P&<P&&5:UYBJ4uY&:UB4lB<ozB25PJo:44U2)5J)YB<uB2l)DUu2uBP<oP&:JUU:JP42<u:)B:ll<2uo2Y2ooB5<UPB2JJ4B:3lo2)KJuAulouoo&U54UB2l4PYJ:Jl-( <5u&2)u)ol5PUo)JJ44l:<BPPUz4<l2FP2o&&)5YJl:B4oYJ:4l!O<<&u5PH54&(5oU&BYJYYs:uB&lUIlzU2<PPo54:5:)<J24J42:YBl{u&JuU2YPB52Y5UU)YJ:Yo:2B&l)QYoP22P5oU&Y5B)uJP45<4:BluT2<5u)2YPlUu4<UU):JBY2:PlolJ<2B<22PUo)YJ5l)2Jo4UY4Bu:4vP<5uJ)4o8&P5&U)B:4nYP:oB)l4MBu<oPU2oJ&lUy)oJ&Y5YY:lP2/&<4u42Bo<&P55JJ:)4LY&:&BYlY<<uuPoY5oY5_U<):J54:Y:B(:BV&<)uYPvou&o5UU4)B4<YP:)BBl:<1u22UoQoY&lUulYe:ul2oP&&u5:<Y25P3o2&&::l<<uu422242U&:5oU)2)&Po:5nU2:J>BulPUo1oUuUUJ)PJ5Y5YYBBJ:3:uuuJ2BMY5u55))oU4lY:J4U&)YJJ4::1o2&U5uUJJ2PJoo&U54JLUo4PYU:JBBmk<2u&2)olol52Uo))J4YV:<lP<KbJ<B2}Poo&&)5YJ<J24oY):4lu.<<Pu5PYo)&b5oU&)YJY4l:uBo<2C4u<2<PPo5&J5:)!454&YJ:Ylu+u<&uU24oY&<5PU5)4J:Y}:2B&l)kY<l22oPoU&45B)2J445YJ::2o5<55U4JU4PY&55)2)4JBY<P<o&&lUhUo&P4&Y4:<lupoJ5YaY4:Bl<PYUY)5)B4B:u:lB:)B4YYu:oBU&U5:)&J5JYU4:lBollc4<J2lPPlP(4<Uu42BJoYoB)l<zuuPYoB<B)lY;l&BJPJ44Y:J:<tApU222uoulo<_<)uY2lJ&:5B<lu8o<&2&2)o)5<<uu:2&P)oY4&B5Q)l4u%P{o5o:&J5lulPUo2&&5):2HPu&<uP5&s5<5&u&24PJo:5*BJl5<&u<:<BUloNU<45BJuY&YYBUR<Ju4UY&:)BYP255)<))YP&_5oUP)5JJ2P2<PY&JX4u2ulPuoo4UB5Bl<J<)2)P:BlyB<2u&2))uYUB1B):B<P2SPPoU2J5uU&)YJ5U&&)5YUlJum&Y):4BBZ<<Pu52J&:)Y52U&))JY4l:)Bo<UP5<B2<PPo5&J5B)}J)BPY):YBlQU<ou)24Pl&<5U5<)JJ:Y1:)B&lJSYu2<YPooU&4U5)<Jo45YJuBl<j2<&uJ2YPl&u544&)4JBY<:BB5l4K:u<22PJP2&Y5l)uJl4UYY:Bl<Bl<5uJ2:o<&25&U)JB#uY2:oBU+opBu<2P&5ou&:US)2J&4):P:lXPpl<Uu:2Bol&P55UJ):YuY2:&B)lBvluP2o&U&o&BU<)PJ54J:2B6<2c4<)uY2lou&oU<U4)B45YP:5BJll<+uo2&&)&)&lU2)oJU44:2B<lJ0)<JuBP,&U&&5JUYJR4uY)YuB4lB<<2)25P4o:5P&:)&J)4YlBBul&,U24&JP<o&&554U:J442YY)JBY9<<uoP2UPYoB5<UP)4)P4::6B2uo=)<:ul&u)<&U5:UBJu4P:u:Jc:Y*<2uU2)PBolU<UoJJBB4l:oBPlJ8J<:2mP2lY&)5BUlJ&4oYJ:4lPYu<Pu)2J5Y&c5PU&))JYY24YBolUF4P:2<Poo55Y:1)<Jo4&Y4:YBldu<4o&24o!&<)&U5)4J:Y<:2BJB2nY<l2u&5oU&Y5B)oUB45YJ::<lC2<5u)PBJu&255UU)lJBY<:PB:uU8:uu22&Yo)&:5l)2Jo4Y4o:Bl<_P2:uJ2BoS&5&FU))YJll<:oB)l4uI5P2oP)oJ&lUO)2J&4):&BIlP0o<)u42lo<5&U4UJ)l4N:>:&B)lYZl2:2oP4o4&BU<)PJ5:J:PBCl&a&<YuYP&ouUo5JU4J<4<Y5:5l&l:<m2<2&P4oY5<Uu)&JUY::)B<l&T5<Bu:P*o2&&JBU:J<4uY&:UBYlB<<tl25PJo:5<U2)&J)4YYlBulo7Uu)uBP<oP&)U5U:Jr42W4P5P:&<5BUJ)YUY:P:ulUlU<Y4l:YB2l&K)&4JP4&Y<:<B)l2BPu222P)ol=u<5u&2)PYJ::5lPF&J:YP:<BPl552U:)<JYYU:Y5B)5Ju4oYUuUPl5o5)))J2JBYY5o)P))JY4l<)PJ&YPlU2JPJ54Y:UB<l<<<uJ2Y:BllXu<ouUUB42Y::)BJ!B<uuPutP5&:5<)<)4J&YP&:Uu)<JP45elP4&o5K<U222YPl&u44l5i:<<u&<Joyol5)UP2oP4o)&Y5l:o<PuP2Jozl2#5<5uJ2:)):&45U4JPJlYu:ouJoYU<U&UPJUYYB<Uu)YJ&4)YYuuoJ&&UJUYJ<YoY)B)UYJ&4%Y2:&ul&o54UB5U45Y5::l2:)J54JY:BNPP,5<JuY2lou&o5U)4<:4uYo:5lPl:<Au22&)Jo:5tUu)&JU44YBm<2E.5<4u:P<o2525))u&E4uY&:U<olB<uuP25PJ&<oJU2)&J)B&YlB2lo9U&YulP2oP&55JU:Jx:2}u:)BBll<Puo2)P4&P2uUP))JJB5:NBPl&i)<Y22uYoo&U544UJ<4oY5:J2B!<<ou&2)PYol5uJo:PJ4Y :<B&l5<<<:o&Uoo&&45YJ&Ju4&YU:BBB*olBu52JP:5552U5))JY<N:2B5lU_:<B2<PPo:)U5:)uJ2YUY)::Blj2<ouYuoPB&<5P)))JJBYD:5:.l)eY<loYPoo)&45BBuJo4)YJ:llje2<&2)44o.&P5o)&)4JBY<:P2Ul4=lux2oP&o)&YUl<<J&4JY4Bbl<.P<5uBu5o(&25&42)Y4OYuB524lY<Du<2UP5oJ&:J_o2J&4YYYB*luS4<Uu45:ou&555UB):4WY2:&U<lY<<uu2oPUol&BUo5BJ54JY:_Ul2M5<)PYllou&Y5U)<)B4YYPB)u:lB<)u2PuP)oY&lUu24JUYuYBBJlP_)<J22D<o2&:5)4P)l42Yo:UB4iul4uP25PJUo5 UP)&Y)lUYlB)loWB<422P<&&4J54)oJT44Y&:)BY<lPBuoPVP4&&5<U))5YJl):.B4l&<<<Y2UPuo4:B54)oJ<:YY5:4B:KU<2uJu2PYol5uJ:)UJY4BB<&2lU<n<:2JP2o&&)Uu5uJu45YUl5BBru<Pu)2Jo<PJ52U&))YU4l:2BoCJoB<l22PPo4&J5:)RJ2a5YJ:lBl9o<ouU24PB)&5PUJ)JJBYa:2B&l)JP<l2PPooU&4Uu)<JUJ<YJ::l_Po<&uJ2Y&<4o5&Ul)44uY<:PB5<JY:uH24P&ol&YUo)uJol5YYB&l<M:<5uJ2:oTl45&)p)YJlYu:BBUlllUu<2PP5)J&:U<)2Y&5)YYB4lu<F<U2&2B&2J55U)U):4YY2:&B)lY4ouuP<PU&)&BU2)PJ:54Y:BYl2P&<)u:2lou&o5Y5o)B4<YP<5BJlB<wP25uP)&U&lU:)oJ:44BH2Plo<P<J2oPIo2&&))YU)l4lYoBoB4f2<<PP52PJ&J5=)d)&4u4Y:ooUlo<P<4&BP<oo&5U5U:JP):Y&:)BY2l<uu&2Uo4::5uUl)54P4::,B2lYBY<Y2&PuU)&U5YUBJ24PY4YPB:aw<2oJ2)P:ol5U&U)UJ:4BL1BPlU J<l2qP5PA&)5YUl:<4oY):4BBBY<Pu52JPB&n52U&))JY4l:uB&.PC4<B2<P&&P&J5:)!W5<42Yooo:&ooJ)&)Y4 Y::)B4)Y4uYf:2B&ol5UU>))4UoJ5u5B)<JPjuulo&225u5JUB2B&J&u5oUU:l<22PP:ooo:u:)PJuJ:Yf:UBPl&YouB2P2l<<&l5YJ2)l4):<:JY2)B4oYu:oBU2BoP)2)o4P4l&l)2)2J&4)2zPP&o5BU&UB)uYiY4:Bl&Iul<ulPuoU525PU&25Plo4&BU<l4mYuB2PPo&<5Y<42<2lou&oBUl:15<l2U:)l:l:<7u25JJBYlBUlMlUlY2c2YPJ&u&B5)5uJB4PYUBol<J<B)Yo:UB4Pu5&)54O4UYr)Rl5So<Tu224P5<o52UtJ5&<YP:):lZn<2<UuJ;ojY&<U5))oU4lY::UB4d2Dl::PZPU&U5&UoJu4o4B:5B)JBRJu5B5u)22P&<o2&2)PYol4JlJpoEYuYP{P:o4oYUY)l45J&YJBB}2JP4BYU:4BBPP5YUUJYJBY2B5B4*4Bl4l:uBolB2)<B2uPP))&J5B);JP4&Y:Y&Bl6u<o&J24Pl&<)PY2)JJlYp:2B&lYsY<lU2P&o4&45B)<JP45:yo2lzjo<&&42Yo>&u5UUU)l)UY<:PB52YA:u<22oUJY&:U<)uJY4UY4:Bl<:5<5uY2:o<&25UU)4YB4Yu:5BUl:%Bu52PP:UU&:Uu)24u4)Y::ll2Ko<Y<o2Bo<&PU2UJ)B4dY5Y7B)lY/l&<2oP)o4UZ:P)oJ)4J:PBRl2.&<)ll2loP&o5)U4Jr4<:&uJB4%E<IuJ2&P)oY&loo)oJ444YlB<l&952J&)P3o&&&5YUYJ04uYo&uBY6<<<u525PJo:UASu)5J44Y:SBulU-Uu:U<Puo&&5UuU:J 42:U<YB:6u<uu)2UP4oBU2:5)UJB4::5B2l&O)<YeuPuo)&U5YUBJ24PB5<&B:yP<2uJ2)P:ol5uY&)UJ:4B:oBPlU!JulU2PPoU&)U2UlJu4oYUJBBBa2<PuU2JPl&s)2Yu))JB4l:PBol)_4uPluPPo)&J)Y)sJP4&Y):Yl2BY<ouU24&:&<5oU5)B)5Yd:2B&u&hYuj2uPoJ)&YU1)<Jo45YJ::<S2l<&u42Yo<&uU<UUJ<&lY<:&B5u5Q:u<22P&o)5.&))uJo4UlU:BlujP<5542Bou&25UU))YJlYU/2BUl: BPU2PPUoJ&BU0)5)h4)YY:l<)ao<)u4Pu24&P55UJYJ4qYP:&B)P:<QuP2oP)o4&BU<4PB24JYlBclo*&uouYolUB&o5JU4J04<Yl:5BJPB<<u&2&P4oY&lUuJou54Y:iB<l)g5<:u:PP2:&&5)UYYB4uY&:UB42u<uu&25PYo:5KU2)&u<4::<Bul5NU<4uBP<Jo&U5YU:J242Y&:)luu:<uu52U5BoB5uUP)UJJY<4JB2l&S)PlulP2oo&Y&oUBJ<4P8):JBBZ!<2552JPBol5oUo)UJ4:B1:BPl)tJ<l2*Poo&&lJJUlJP4o6z:4Bly<<ou52B25&q52U&:<JYY_:uB)BuI4<B2<U&o5&45:)plP45Y4:Ylufu<ouUo4UJ&<5&U5)YJ:Yu:2lUPY8:uu2uPYoU&45B)<5545Y:::l<m2<Uu)oYU4&u5UUU)BJBYu:Pl55)GBuu22Plo)&l5l)&Ul4UY4:B22qP<UuJPlJ2&P5UU)JPJlYu:olJ2BnluP2Po<oJ&:U()2U24)YB:llPSo<)u42B2Y&P55UJ)B4_Y2:&B)lY_luu25PJo4&BU<)&424JY:BM2o54Uo)UJPY&4)BJBYn<<&2&:)l2l:<Vu2UJ4<Yo:uB:/2*:uBP<BolPa5<Ju:)<oP&55)UY)l4uYolUu5lB<uuP2UPJoB5q)2<oJJ4:YlBPloFU<4uBuYoP&55JUBJ!42Y&:)BYll<uu&2JP4oB5<U&JuJJ4::FuJ&u5U)2)U4A4YJ)lrv*nu4&YB:JB:+xoU)P)JJBY4:5B))YJ44B:<BPPU!4<B2XP2o&&)5YJl:B4oY):4Bl=<<ou5PJYY&<5PU&)4JY4l:uBoB2r4<B2<Poo5&J5:)EJ24&Y)::P5Du<ouU2:o5&<5PU5B5jBu5P<Pl&:U<U2)5P5&o&45B)<B5uY2YPloo5<UJ&Y):4YY5B5B))BJBY<:PB5lJ9:oB52PUoY&Y5l)uB4/5u<BGloSP<5uJJJ4<:5:BUYtu<ouU24PB&<lP&e2oP5oY5<U*)2J&ll2BPBol U<Uu42Bo<&Po5l)::4uY):&B)lYou)<J<45Y:J<U2)JJ54JY:u22)5U5J))JPoP&)5UU4)Bl)u)2UPBll<5u22&P)YuB<l<julJ{u<1B2SE75<Ju:)&4YY4lylY1BuP2)u4oP5U5&u&P5PJo:57YPOP<uu)29o&oB55U)52Jl4oY)B&lu{P4oYY:)BYll54)o))4P:HBPU&JeJJ4::Vu4o4&JUUJ2JJ)5Y)B:)KJo4PY5:Jo4&oU4)J24otol5uUoBP<a26P<B&lB8J<:2,UP4J:UBBl:15<JYJ::BBG<<P54J)Pl&252U&))BBuBPJB5h<%4<B2<U:Yo:BBulB<&<l2:ool<E)<ouU24JPY&:5l4M)<ll2:oB:l)8Y<lUUJBY4:PB_l:R)4)YY::lQS2U&)u2lPl&u5oUU)4JBl)<PBJlJN:uZ22P&o)oY4B)P424UY4:B2P5&U&):4{4UYP:ll4BYuPuBPUP:l:<4u<2PP5)4:4B)E_%5u:2oPB&ao))<)4J2o2&)55UJ):<&ulPooU&B<uuu2oPUo4&BU<)PJ54:Y:Bfl2G&<)uY52)u&554U4)B4<u&P&&uZ^<Au22&P)oY&l)u:oJ444YBB<lPv5<JV:5loo&Y5)UY)llJuJ2)o55u5)u&2BPJo:5XBJl4<:u22Po.&4q4PB&<5PU5)JJ:&1:l4oYJ:)BYll&&UJ))4U&EUoUP)5JJ<P2loo&u&:5=)B)U4BY:lulB<9u&24uJoY&)U<)J24oPol5uUo:Y<P2<PoPo&o&:Uu2uP)o&&)5YB<%2<)2<o3&<k2<Yu52JP:4zBul)^uu(uUP<o2lJ0B<B2<PPYJ:2B4)uJl4&Y):YP25P5&)&JB4BYuB&BYxU<q2):ol&l)fY<l5UJBYP:5:uG28ouo2:P:o<5o54)5)lYU&P5JUU)4JBuPPRPU&55:u<2PP)o)&Y5l)uJo2UpY<Bl2#U<5uJ2:)&YP:JBB)lJlYu:oBUl4PB4k5PPJoJ&:Uj)2J&4)YY<llPV)<Uu42BJoY)BllB)l4PY2:&B)PU5U)c)JPJ&<&BU<)PY5u:P<ooo55)<42P2lou&oY ^Ia4<u2uP&o2&<<uu52&P)oYB2B4lU<24::5B<lPh5&B)oJ)4&:<B5l<<uuoY5B&B4lB<<&JJ.4UY<4&BY*U<Y2q<uPJoB5P5l2/PUoP&55JB2^o<&2JPUoB2<<ouo2UP4oB5<UPJlBJ4lBoB2l&,)&u)U4N4)JBBP1F<PuULJPuo&&Y555o)lUlY4:2lU{4J:Y5:<BPl5U<UYJuJBY):)::luD545Yl:4BBV<o))o)4JlYY:UBJ)4454l:uBo2l55U:JUJ:Yo:<4Beo<o<5YY:YBl9u<ouU24&uJ<5&U:)JJ:Y,<ooo&B5JUu)5P5&U&45B)<BYuY252BoB5u5lU:UB4B:<B):UlYus2o:&BUlJ>:uRU4PUoB&Y5l)uBUu525P:&2c&<JuJ2:oi:<:4K{)B4UYu:oBUPU&l))5YJY44:)lPl4JU4BYY:lluoUUU)TJ24o&&U_UJ):4_*&2BPJ&B5zUoJ)J:Y:59UP)PJ54J2_Pl&&aU<:uY2lou4UB<doM242Y::5BJl:&PUU)54&)l:5B5lU<24::YB<lP,5o:)lJlY&:)B<B:vUuP<<P<o)&2UPu&P}PJo:5MY)ll<ouU<uo<&<55U:2pPuoP&55JB&J242Y&:)BYll<uu:5UP:&u5<UP)5lU<B2:PUlUGl<YulPuJ):J:Yl<e&u&Y)BPB:GH<2&:)BYTJl:BB&<<<.2dPPB&lBaJ<:2OU5YUYJl2lU<q<YYJB4BBD<<P&B)lY<J:Bul4bY<<V4P<PUo)5lU5J=4uo)535:).J27&uJPBoP5bU)J52:PB&<5P:U)4J:Y,:2B&l)DY<lU2P&o)&45l)<JP45BJP&l73P<&uJ2Yo2&u)o)))4JlY<:oB5<29:u&PoP&oJ&YU5)uJ&4UY4:BloBB<5uJ2:oU&255U))Yv>Y2:&BUlY!Bu<2P&5)&&:U<)2J54)p::lSuUP<)u42B&J&P5UUJ):}<YP:&B)lY_luu2oPUJY&lUu)PJ)4JY:B!<2Y&<)u:2lo2&oYlU4)B<4YP:UBJll<puo2&o):45hUu)o:P44YlB<lPoU<4u:Pqo2&&5)UY)lx2Y&:)B4ll<<uP25&JY:5<UP)&JJ4Y:2Bu<o<5<4ulP<oo&5JoU:4z4UY&:)BYuJ<uu&2UP4Jl5uUP)5JJ4::%B2l&oJ<:2APuo&&U54UBY<uPYU:4B:7<<2uJ2)&Y545uU&)UJY4B<UBP,5<5<:2pP2):&)5:UlJum&Y):4BBp<<Pu52JP:4<5PU5))J:4l:uBo<U54<l2uPPoU&JU<)^Y2Y5Y)::BlM2<o&224oB&B5PU5)JBUYV:PB&l)o:ur2uPooU&45B)<JPRUY4:Blg^P<&u)2Y&l:u5&U))4JlY<:UB5<J{lu;2PP&oJ&YJ:)u4o4YY4:Bl<2u<5u42:o#4P55U))Y4wYu:oBU<4PJu<2PP5oJ&:Y<)2JYB5YY:lluuY<UuY2Bou&P545P):4rY2l:B)l:Llu&<lPUo4&BY5)PJU4JY:2<lP3&<)ul2lou&o5B4))B4<YPiuBJlB<SuP2&P:P&&lUu)o:244YlB<lUl<<Ju:P_)&&&5JUY4lBBYo:)B4lB<<5Y25o_<B5CUP)&BY4Y:mBulo%U<l<UP<oP&54:U:J<42Y&uJB:xn<uu)2UP4oB)<B:)5J44::<B22Ur)2YP)Puo&&U5YUBBu4PY:luB:F<<2&)2)P:ol5uUo)Y)o4B:<BP2JRJ<B2VP2J5&J5:UlJ54oYU:4tBlJ<Pu)2JP:&QY4U&J)Yu4l:2BozY04un2<PP&Y&J5B)AJU4&Y):YBl=5<ouJ24ou&<5PU54J4JYa:oB&l4ZY&<2u&oo4&4Uj)<J&45<<::FMxo<&uJ2Y)l&u55UU)4llYu:oB5llw:u(22P&JJ&:U<)uJ)4UY4:B<<5P<UuY2:ou&24UU)4Y4BYu:5BUl:+B2U2Po5&Y&:U<)2:o4)YB:lluo&<)uY2Bo&&P55UJY:4UY2:5B)2:dlo22oPYPo&BU<)PBl4JYBBel2o5<Ju:2lo5&o5UU4YB4)YP:UBJ2B<,uJ2&P:P&&lUu)ol/44YlB<lPoU<4u:PsoU&&5)UYYl4JYo:UB42l<<u425oY4F5<U2)&4)4YYlBuloo)<YulP<oJ&55JU:Y052Y&:JBYaj<u5J2UP4):5uUo)5JY4::OB2l&J<<YulPuoo&U5:UBJo)BY5:JB:Y <Pu52)PY4m52UJ)U4u4B:<BPl:UJ<:2PP2<&&J5:UlJ54oYYYoBBm<<PB524PB&a52:5)J4<4l:JBolUL4<Bl&PPoY&JUu)HJ54&Yl):Bl05<oBU2YPl&<5PU5)B)5YH:2B&4)F:uR2u&o)P&4U2)<JU45<o::l&<u<5ul2YJJ&u5&UUJAJBYo4BB5lJ{:5422P5o)UY2l)uJ44U:N:Bu:IPu)&:2BoU&244U))YJlYu54BUN<NBu)2PP)oJ52Ul)PJ:4)uY:ll2Lo<:u4Pu24&P55UJl:4bYP:&r)4Y0lu)2oP:o4JJU<J&BJ44:&Balld&<)uY2llU&o5lU4J54<Y&:5l,GY<<u42&JBoY5qUu)JJU4l4UB<lP155lu:P<o2U&2)UYJ54uYJ:UuJlBu2&52UoPo:J)U2)&J)4Y5oBul:SUuouBP2oP&5Y4UBJ)42Yl:)BYll<UB&2Uo<oBu<Uo)UJJ4::XB5BvG)<Yulluo&&)54)PYl4PYB:JoUQ1<Pu&2JPY&2oYUo)UJ4u):<Bol5+B*52AP2o&<)5:)mJu44l&:4l&{<Uuu524P:&<52UJU2JY4l:uo2lUzY<B2ouBo5&J5:PVJP45Y)Bu<:1u<BuUJYPB&u5PUU)J4<JJ:2B&l)5:<l22PooYoo5B)<JP&5Y4:BlMu2:&u)P&Pl&45o4<)4YBl::Pl2lJ<2u%olP&o)4:5l)YJoYPY4B)l<uP:5uJP)oO&Y5&4u)YYllB:ol&l4<ou<&xP5&YYeU<JuJ&:<YY:lluuo<4uYP:o<5255:u):YuY&:&l)lYuluu2oPU&:U4U<JoJ5:BY:Bvl2<Uu2uYo<ouUo5UU4)B4<Y4:5l)l:uuu22UP)oY<BUuJ2JUY)YBlmlPW5&4u:PYo25P5))))lYP<U:)l)lB<&uP25PJ5:JYU2JPJ)YJYl<ulouUo5uBoqoP5D5J)UJ7:2Su:)l4llu<uo&PP45BJ:UPJ5JJY2:ykll&p)loulo<oo5554)BJ<:PV2:JlYW_uuu&2JPY&l:pUoJ5J4lu:<l2l5<Y&O2<o2o&U:5YUlJuY5>4:Yllx<P)u52JP:&i<)U&J5JY:1:uB5lU34&l2uo2o5&B5:)SJ2:&2u:YlBwuuPuUUBPBU<5YU5J)J:Yl:2u5l)<uuJ2uoPoU2:5B)uJP45YJB<:J=2<&u)-BPl&25oUBY)JBYB:P5UlJdBu%2PP&o:o&5l)uJoP)Y4:ll<pUV<uJ2:ow2o5&UJ)YJl<2:&l5l4<&u<2PP5oJ)uU<JuJ&YUYYB2luuo2Pu4P:o<5255::):Bd:U:&lUlYuUuu&&PUo45LU<J2J5YuY:B+l2D&<BuYPBou5P5UUl)B:<2P:Ul)l:<lu2U)P)5YU)UuJoJU4lYB2PlP<5ulu:Plo2)Y5))Y)lYPQU:)lJlB2<uP25PJo:Y<UPJ&J)YMYlBulouUo5uBo<oP555JBFJy:2Hu:)lYlluuuoP5P4&P)lUPJ5JJoB:+BPl&IJ<Y22uYoo&U54ulJ<4oY5:B:5/_<2u&lUPY&H5uUoB)JYYB:<BUl5XJ<:o.5lo&5)5Y)lJu,UYUl4uJ6<uPu5PJP:5B52JY:4JYYl:u)2lUwY<B5oPPo4oP5:)yJ2&PY)::Bl<P&Uu)P4PB&&5PU5)JY:lY:2l&l)<Y<lolPo&J4B5lJuJPl<YJ::l9c2B)u)P:Pl&25oUJ)4YBo4:PlUlJ<BuF&UP&o):&5lJuJo4JY4BIl<uP4<uJPYos525&YY)Y42JY:oBUl4Y:u<2oP5oJ4BU<J2J&4:YY:lluuooPu4PBo<5P55::)::Ill:&l)lY<luuo2PUU<4gU<JPJ55)Y:B<l22)<)2Fu)ou&o5UPJ)B4uYP:524lBuFu22BP)oY&lUul<JUY4YBl<lP/4<JP:oYo25&5))Y)l/oYoBJlllBuuuP2YPJo:5_J2J<J)Y:Yll2lo2o<4P#P)oP5)5JY5J642Y&:)l)lluPuo2)P4&>5<JPJCJJYl:#lol&2B<Yulo4oo5)54)_J<4&Y5lJlPnTuPu&PJPYU25u)oJ<J4Yl:<>Ul5<4<:P^Yuo55)5Y4:JuY&YU:42l%uuPu5PuP:&m52U&oBJYYl:ulolUIl<Bo<Ujo55J5:J+J2H)Y)BBPut2u&uU5UPB&<5PJ5:&J::<:2l5l)oP<louU<oU5:5B):JPl:YJl:uY#2u)u)PUPl425oJUz&JB:P:PlJlJuBu!22loo)5l5lJoJoY5Y4:B)58PuUuJoOo3&o5&))<44#:u:o<Pl4<lu<2P)Uo45:U>)4J&4)YY:l45gouUu4PBo<&U55JJ:)4d:2:&l)lY&uuu2o))oY5lU<)UJ54JY:>E&205uJuYoGou4U5UJ4J)4<:o:5l4l:o5u2P&&PoY5lUu:YJUYYYBBo:B!5<Ju:<Jo2&55)UYl,42:P:Ul2lB<<uP25&loB5lU2JoJ)YXYl}u%lSUuJuBo oP4J5J4:4)42:o:)1oll<)uo2U&uoBUwUP)lJJ4::ZB2<Ah)u4ulo<oo&Y54JB::4P:&:JlYaG&&u&&)oPolU<UoY&J4:J:<BPPUy4uY2 P5o&&)5YJl:B4o:5:4l:8<&Uu5oJU)&_UuU&JUJYVm:uB4u&C4u:2<uPo5&45:)<J24J42:YBlRulouU2YPB&ooBU5)JJ:Y::PB5l)<uP:2uo7oUPB5B)uJP4UYJB<:J+2<&u)<lPl&25oUYUoJBY<:PlPl4nBu122)5oJ545l)JJo4UY4:B<&1ou&uJPYo!&55&J)JBJl:<:ol5l4&uu<&Po2oJ5YUZJYJ&BJYY:ll)Kou5u4P&o<&P55UJ4u4R:u:&lUlY<2uuooUPo45:U<J2J51BY:luP&#5u)uY5You&o5UJ4:J4<:P:5lJl:oUu2o&UooYUiUu)BJUY)YB3<2W_5u4u:o<o2JY5)JYl&4u:&:UlYlBP&uPo5&zo:UuU2)lJ)YJYl u.&yUu:uBo2oP4U5JU:4P42:&:)lBll<PuoPUo5oBU}UP)lJJY::pB29JW)u4ulPJoo&U54UB2u4o:&:JlYfN<5u&o)P:olU<UoJ5J4<u:<l&<<zJu:2!Ufo&&)5YJlJo4o:U:4lBp<oYu5oJ&)&pUPU&J2JY^o:uGo{Uf42}2<PBo5445:J*4B4&:Y:YluRuu2uU24l:&<U&U5JYJ::2:2B&)l^Yul2uo5oU&:5BJ<u24U:)::Doh2u&u)2YJc&2UPUUJ2JBY<:PB54lH:ul22ooo)5y5l4uB<4U:J:BDaeP&4uJ2:J<&PU&U)JLJlYu:oMU&4el2<2Po5oJY<U_424P4):Y:l!u!oolu4PB&j&PU&UJBP4+:2:&B)P:<g2<2oo,o4&BU<)P&Y4J:YBzeus&<:uYolUB&oU5U4J:4<<U:5BJPB<<222&P:oY&lUu4o<U4Y:BB<CP 5&Bu:&v&P&&U)UYJl4uzf:Ul4gu<<2225Uoo:UxU2)J)24YYlBuf&^)<YuBP<Jo&UU)U:JU42Y&:)BYYP<u2P2UoJoB5oUP45B&4::lB2Ko;)5-ul5uo:&UUJUB4J4PYB:JB:o<<P2o2)okol5uUo4U<P4BBxBP>&LJuB2A&2o4&)U4Ul4<4o#):4lP<=<P2&2J4)&<5PU&))JYY24YBolU.4UJ2uPoo55GJ4)%J44&Bu::l3ru<&uU2l2U&<5PU542JBY<:2BJB2EY<l2u4<o)&Y5B)<lo4U:)::lJE2<&u)2Y<P&uUPUUJJJBYo:PB:uU0:ul22&PoJ&:5l)2Jo4Y4o:Bl<zP2ou42Boe&5&0U))YJluB:&B)l4>B5u2oo&oJ55UK)2J&4))<:lz<Wou5u4Puo<UPB#UJJY4h:u:& 4lYul2J2oo5o45:U<J:J5YjB<B{xu,&Uou:P_ou&o5UUlUU4<YP:5o&lB<<u2PU)Yo:5BUu)JJU44YB+<&ttUu)u:Plo2)&5)JYJJ4u:o:Ul2lB2&uPP)o2o:U<U24&J)4YYl*uO&nUu:uBP)oP4s5JU:Ju42:o:)lBll<PuooUPYoBU<UP)lJJj&:SB2<26)uYulo<oo5U54UB444P:U:Jl5Ty<2u&2)oBolU2UoJ)J4Yu:<_P}<,JuB2joPo&U45YJl:B4o:):4ll-<P/u5oJU)&hUPU&JJJY0o:uro&2^4ul2<ooo5JU5:)SlP45:4:Yl)mu<ouU24<2&<U&U5JYJ:YP:2L&2o^Y2<2uo5oUU:5B4<Bm45:Y::CuK2Puu)oYU4&uU5UUJ:JB<u:PB5P4nB2222o1o)&Y5l)u&J4U:B:BTP;P<4uJo:UY&2U)U)JlJlBP:o_U251B2P2PoJoJ4JU-42Bu4):l:l oFo&)u4o>JP&oU4UJ:J4FY2:&3)2U}l2&2ooYo44&U<)PPY4JBuBv}P6&<)uY2lr<&oUBU44M4<:5:5BJJ2<1252&oloY5<UuJ5l44YB2B<2<d5<Ju:&^Ul&&UBUY4P4uc::UB4J2<<2J25o4o:59U2J&:)4:B&Bu<<9Uu4uBP<,J&5)<U:4242:::)BY::<u2Y2Uo:oBUUUP)54l4:BoB2V:1)<BulPu&Y&U)<UBJ)4PY5:JB:<P<22Y2)&uol5&Uo4UYU4BB5BPK:_JuB2x525!&))uUl444ol):4BB<J<P2:2Joo&;52U&))YP4lBUBoSBV4uu2<&P&4&J)2)k4)4&:J:Yll<P<o2B24o&&<UUU5)JlBY<B)B&1<0Y<l2uPo<:&4)P)<4J45YB::<i2l<&2l2Y&o&uU&UUJ4u:YuBJB5 l*:2o22P&JJ&:)o)uJ:4UY4:Bl<Y)<5P92:&&&25JU)4YB4YuB4BU<<jB2u2Po)J:&B)5)24f4)YY:l<u*U<)Pu2B&U&PUPUJJl45Y2BBB)<YZluu2ooJ&&&B)J)P4,4JY:Bgvo<_<)P&2l5u&o5UU4)B4UYPBBBJ<5<vuo2&&)<Y&l)))o4l44B<B<v&oJ<4P&P6o:&&5)UY4l4oY&l<B4<5<<2<25oY&&5n):)&4u4YYlBuv5u%<4P)P<5P&55JU:4uYJY&loBY<l<uuo2UP4&45<):)5Y&4::uB26&2)<:P)Pu5<&UU4UBJ<oJY5l<B:<J<2uU2)oY:B52)4)Ulu4BBUBPl5o4<BP&P2oB&)5YUlJu5JYUl<BB<5<Pu42J&:)Y52)Y))Yu4lB2BouU<2<BP5PP)u&JJ>)bJ5J1Y):YBl5u<&u)24PB4u5o)&)J4oY3:2B&l):<<lP<Po&5&4Uu)<YPl2YJBYl0<u<&2J2Y5l&J5o)5)4Y5Y<:4B5lJoBu<PuP&o:&Y5l)uYou<Y4B:l<<2<5oP2:5a&55&)U)Y4BYu<&BUh<<&u<P2P5ho&BU<)2J&4):iY)luDo<U:&2lou&P5:P4):44Y2U<BJl:mluu2oPYPo&BU<)Pou44YBBpl2o5<J242lo)&o5UU44BB:YPB&BJtY<-&B2&Pl<:&l)<)oo24YYlB<lP35<B<5P.o2&&uPU:JM4uYou)BYr:<<u425PJo:)p)u)&4U4Y:BBuPO9U24PJP<&2&5U)U::Y42:U:4BY<p<u&J2UP4oB5<U:)54)4:B<B2lUQ)uuPUPu&P&UlBUlJu4PYU:Jl<BJ<2u&2)Yl&052Uo)Y)o4B:<BPJuQ4<B2AP2J5&JU4UlJJ4oYU:4BBY&<P2&2JoY&/55U&4)BU4lB<Box5,4PU2<5Pol&JUY)N4Y4&lJ:YGl2B<o2524oP&<JjU5)JlBY<B2B&{y8Y<l2u&o)P&4UB)<4P45<o::<S2l<&2)2Yol&u4JUU44BJY<BPB5yJ,:PY22P&2u&YUB)u4P4U:4:B<<P-<52)2:ol&255U))Y+ Y2BoBU32VBu<2PP5<l&:)3)24&4):L:l<uP<<U242B&<&PJ<UJJl62YPB5B)p<*luu2o&U)5&B)u)P4U4JBYBzl2J4<)2B2l&<&o5UU4)B<4YPBUBJll<Quo2&o4)l5a)P)oBh44YBB<lPJo<J2BPy&P&&U4UYJl2<Y&BUB42P<<2o25PJJB5<)2)&4<4YYlBulo))<Y2BP<&P&55BU:YgYJY&B)BY.l<uPl2Uo:&&5<)o)5B54::MB2<&<o<YP.Pu&&&UY2UBY<44Y5BYB:0J<2&Y2)&Y5Y5u)U)U4o4BuuBPF5uc<:PPP2UU&)UJUlJu&PYUBBBB<P<P242JP:I&52)5))4l4l:PBo}UUJ<lP<PPU2&JUB)fJ2R5YJBYBl3J<ouU24PBu&5P)5)J4:Yy:5B&<)PU<lPuPo&U&4JU)<JPsUY4BBl +5<&u)2Y&l:u5&)))44lY<lBB5<JuuumPPP&&J&YY&)u4oY5Y4BBl<P4<5242:oPP:5&U))Y&lY2:&BUl4oluuP2P5&u&:U^)2J&5BYYBBlu<P<Uul2B5<J^55))):4lY2fmB)uY<5uuPPPU5P&BUU)PJ4JPY:BLl2Y&<Ju:2lou4&5))o)B4)YP:5BJl:5&u2P7P)&&&lU&)oYUYYYBB4lP<<<JUOPnU25o5))&)lY4Yo:lB4lB<YuPP<PJ&o5EU2)&J):&YlBYlo<u<42uP<5P545J)5Jv4:Y&u:BYul<4uoPuP4555<U4)5JJY&:QB:l&<<<YulPuoo5:54)UJ<4BY5:BB:u>u)u&P2PY&)5u)&)U:4Y&:<BBl5u2<:25P2o&4J5:))Ju4:YU:4BB1<:)u5PPP:&J52UJ))YYl4:uBllU<o<Bo4PPU55u5:)JJ2YlY)B2BlLUlUuU24PBJl5PUU)JJlYv:5:zl)7Y<lUAPoo)&45BBuJo45YJB<lkc2<&P)5UPl&u5oUU)4Y4Y<lPu2lJC:uy22P&)J&YUoYcJo4UY4J&luIo<5u42:oPP:5&U))Y55Y2:&BUlllUu<2PP5J5&lU<)2J&gJY::llu9&<Uu42B5<J!55UJ):4pY2<5B)0u:cuu2oPUJU5!Uu)PJ54J:<YJl2k&<)5)P<o2&o5U:Y)l4<YP:JBJl:<9u)l5P)oY&lYl)5J)44YBB<lUl<<Ju:P#JX&U5JUY4<KoY&:UB4uP<<uP25PJ2,5!U2)&JJ4Y:<Bu<oPP<4uBP<oP&5Y)U:J&B<Y&:)BYBB<2u&2UPYoB5o&B)5JJ4:4lBPl5_)uBUuP2oo&UJ<UBJ<4PY5uuBB}p<2u52)PBol5uU&)UJY4B:<BPl5KJu:2UP2o&&)Y4UlJ24o:JBKBBp<<PP22JP:&>UoUl))J:4lloBolUG42*24PPo)&J)))!J24&Y:l)Blqu<o<52YPl&<U&:J)44<YVu)B&l)qY2l&BPooY&4Uu)<BY45:YuXl<+U<&&m2YPl&u5olu)44uY<:&B5lY!:oF24P&o:&Y4J)ul54U::&Jlun)<52P2:o+&2)&)5)Y4PYu:JBUrUWB22PBP5&a&:U))2J&4):BluluaY<U2P2Bo<&PU)))):4UY2l&B)lYbluuPYPU&9&BU))PJ)4J::B&l2AJ<)522lo5&oJU2l)B4oYPpoBJ<)<=o2P2P)&q&l)4)o:)44B-l&lP(Y<Jo2Pco2&&5))U)l45Yo:)B4s}<<PPoaPJ&u5rUU)&lU4YYll5low:<42<P<oU&55B:JJA42Y&4oB:rG<u25U4PYoB5<4B)5JJ4::V4&l&p)<Y2 Puo5&U54:lJu4oY5:BB:qs<2P&5oPY&h5uU&)UYU4Bl<u8l5Q4<:2<P2JX&)5YPoJu4oYU:4BBtu<P2)U:PB&<52U4))JY4lluu<lU8Y<B2uPPUP&J5:2oJ24UY):YBleu<ouUJoPB&u5PU))JJlYil2UFl)d:<l22Po)&&4UBY5Jo4UYJlUlG}P<&u)U:ot&P5oU4)4JBY<lPu2lJWluG2oP&Uo&Y)<BoJ&44Y4l&l<MP<5PJP_o<&&5&UY)Yl5YuB5+2l4<uu<oPP5oJ&:)uJBJ&4BYY}2lufo<U2:P:o<&J55JJ):4zY2:&BJlY<uuu24PUo:&BU<P2J54YY:Bul2/)<)2B)uo2&U5UY4)B4<YPl5u&l:<2u22)P)oB&lJuooJU4lYBBPlP2+<Ju:Boo2&Y5)UB)l4uYo:U2YlB<ouP2:PJ&u5WU)YPJ)Y<YlBBl5g)<4ulP<oUo<5JU:JS4lYU:JBY,2lYuo2UP4Jg52Uo)54YpE:<B)l&uo<YulPu&5J45Y)oJ<:5Y5:JB:<uo&u5P<PY545uUo)UJlB2:<BJl5P4<l2<P25&j25Y))Ju4oYU<aBB<2&5uUPoP:&o52U&))YYl4:ulklU<&<BP4PP55Y<5:)4J2Y<Y)<<BluuU8uUP5PB&J5PJ2)JJ:5&:2l<l)<5<l2BPooU<J5B)4JPY<YJBUl_<o&)uJP5Pl)l5oUU)4YBl::PlulJ<UuK54P&&44lU+)BJo4:Y4:Bl<uPo2uJP)oy&l5&:o)YJl&5:olol4<Uu<2PP5oJ:5U>)lJ&44YYB<lu<5&4uYP4o<&)55UJ)::%ll:&l&lY<Yuu&uPUo4<2U<JuJ5YPY:BCl2t&oUu:PYou525UU4)B4<2::Ulol:<Nu22UP)&BYuU2J<JUlUYBB<lPu5o&u:PYo25u5):P)l:uF<:UlUlB<ouP5:PJ5:JYU2JPJ)Y!Yl22logUY<uBP:oP5o5JUlJ,:22<:)l)ll<2uo5&P4oBu5UPJPJJYU:ylHl&_)Y4ulPBoo5P54)4J<Y&<J:4lJ.Qo9u&2)PY5lJBUoJoJ4Y4:<uYl5uJo)2(o<o&&:5Y:oJu:o;P:4l:W<<Uu5U4P:&s<)U&J&JYYB:uB5lUu4<Y2<ouo5&45:YBJ24&5l:Yl: uubuUP)PB&<u2U5J5J:Y::2lPl)<B5u22o2oU)<5B)<JP45):::lBK2<5u)2BPlUu4<UUJ)JBYl:P2&lJq:Bo22oPo)5J5l)4JoYUPJ:lll*P<luJP)o 52loUJJJJl:5:olol4ue5P2oo&oJ5uU7)2J&:)hU:lC<8ou5u4&4o<&P<YUJJ:4FY2:&B)lY3lUY2oo5o45.U<)&J5:J&5BH=u9&uUuY&&ou5oJBUYJ:4<YJ:5l)l:uFJu25o5oY):UuJPJUB4:&B<tu9522u:5<o2&JY&UYJo4u:o:JBYlB<oyB25PJo:YYUo)5J)YB<uB2l4NU25uBP<oP5)4:UBJ542B):)BYlluP&U2)o2oBU:UP)5JJY<loB2lY0)&U2<P2oo5JYBUlJ44PB::JB:X+<2l)2)o&ol52Uo)JJ4:BN:BPx<OJu52%)uo&&)P<UlJY4o:u:4l5k<PPul2Jo5&bUYU&JqJYY2<lBolBn4&P22Poo5&B&5)hJ24&uo:Bl++uu5542YPB&<)JU5)JJ:YbJ&B&l)CYu/2uP5oUU44J)<JP45YJ::2ly2<YBJ2YPl&u:<UJ)YJBY<:PB4BPG:uL22Juo4&:5lJPBU4)Y4:BT:FP<5uJPl)2&P55U)4lJlYu:olJ2B}lu22P&2oJ&:UG)5Y44)YY:lPBL5<)u4o}JP&o54UJY24vY2:&B)YlFlu&2oP)o450U<4PB24J:<Bkl5/&&UuY2l<5&o5YU4Ju4<Y5:5<Jxo<wu52&&uoY5&Uu))lo44YBB<PJf)<4u:ouJ&&55)UY4<4uYo:UB4Pl<uuo25oPo:5bU2)&::4::<Bul5}U<4uBPo2B&55JU:<Y4oY5:)BYoa<2uJ2UPloB5<UP45B&4::oB2l4t)2uul&u)<&UUAUBJ&4P<o:Jl2uB<2u42)4u&<52Uo))J4Yu44BPl5DJU22uPPo&&:&&UlJu4o2&::Blg<2P&22Jou&15&U&Y<JY4lu2B&lBf4uo2<PPo5UJ4));J)4&Yl:Y<5iu<4)B24o2&<B+U))4J:Y&:2BJB2tY<l2u4<oJ&Y5B)oUB45YJ::o:+o<5u)2Y5U&25JUU)4JBY<:PB524WBuo22P5o)&Y5l)U&&4U:m:B&u+&<UuJ2:o &5&OU))YJl22:5B)l4<uZ42PP5oJB)Uu)PJ&4llJ:ll&poUYu:2lo<&o55UBU54nY2:&o:lB<^uu2)2uo4&BU<<iJ)44Y:ByPPW5<luYP&ou&o5U)<<P4<Y5:5&ull<<u22YP)&eo)Uu)oJU22:iBulPk4tPu:Pso2Bu54U:)l4u<&:)l<lB<YuP25PJo:<oU2):J)4lYlBulo6UYwuBP)oP&45JU:JT42b5:)lull<Juo2)P4&PoPUP)5JJ<::uBPl&T4<Y22uYoo&U54BBJ24oY5:J:UxA<2u&2JPYol5uUo)UJ44B:<lYl5LJ<:22P2o&&)5YUlJuB<;U::log<<Pu5)R4&:2:YBUao<<Y<:)BolU#4UPJ242YP4YYP:uJP45Y4BbBl!u<o5PJP4YY&5&)_)JJ:YDu5PB&u&lUJJeJJY4:BUF)oJP45YJu4o<5Q54u4P/Pl&u5o:4=PuUu&:&BYlJE:u85&4oYo:4l<)PJ44UY4:B2P&)Uo)BJuYu&o5YU))YJl;oPPoP&JUwoP2&PBoJ&:Ue:5<U<JP2PU& &Y<)u4P<o<&P55UJ):)i2u<&BYlYEluu2oPUo4&BU<)&Jl4JY:B725&lUYJ%JqYXYU::UB)B4<YP:5BJl:ur&22UPYoY&lUuX2X:2u:bBUlP,5<J5Y4oY5:uBulJ7P4oYo:UB4lB<<uP&5UJol5)U2)&J)rP2PP2&<5YU25EJuY&&)5BU:JK42<J2B&P52<Pu42UP4oBYol&lUb:uuPuB&l&_)<YulPuoo&U449_J<4PY5:J2B/<<Pu&2)PYol5uUo2:J4Ym:<BPl5MJ<:2Lu7o&&J5Y)<Ju4&YU:42lAu<ou524P:&M52U&oYJYY<:uBolUT4<B2<u4o5&45:)kJ24UY):YY&Zu<&uU2YPB&<5PU5J:J:Y<:2B5l)mY<lPPP)oU&:5B):JP45YJl:n2v2<Uu)2BPl5P5o)J4UJBYP:Pl:lJk:uZ22P:o)&B5l)PJo4JY4BBxUIP<UuJPPoi&o5&U)4uJlY2:oB)l4CBu<2PoloJ&BUp)PJ&4)YYlll5ho<)u42lo<&4554JJo4jYP:&B4lY<Yuu2o))oY&lU<)oJ54JY:B9o)7&<JuYPpou&o5UJ4454<Yo:5B4l:<5u2&&PBoY5yUu):JUYlYBB<<Od5<4u:P<o2&&5)UY4o4uY&:UBYlB<<uPo5&zo:5<U2)5J)Y2Yl<ufJ8U<YuBP4oP&45JU:4242Y5:)B:ll<uuo2U&<oB5uUP)UJJ4::z}2gPa)<:ulP2oo&l544BJ)4PYU:JHE#0<5u&2)):&t52Uo))J44B:<BP4YbJ<B2yPPo&&)5YJl:B4oY):4Bl#<<4u52J))&<5oU&)4JY4l:u0o<<h4u 2<P&o55<5:4G4U4&Y4:Yl<=u<BuUP4Pl&<5oU5J2J:Yu:2B&llIYuw2uP&oU&45B)<J)45Y4::l<32<&u)PB&&&u55UUJ5JBY<:Pi5l7}:uu22PUo)5B5lJP4<4UYB:Bl&DP<5uJ2:oB&25UU))BJlYP:olUHYzBuu2PoBoJ&lUZ)2Yu4)Y::ll2zo<Uu42B&<&P5UUJ)B4*Y2:&q)Qr>lu22oP)o4UoU<YP4l4JYBBGlo8&u&uY2lo)&o5)U4)l4<YP:5BJOU<wuP2&PJoY&lUu4oBP44YlB<lo}52<u:58o4&&5JUYJo4u:::UB4Pl<uuo25P4o:5*U2)&&B4Y:GBul&yU<4uB&<)O&554U:J<42:::)BYP4<2u52UP:oB5<UP45Y24::uB2lU()22ul&u&l&U5:UBJ24P:7:Jl:<:<2u52)oool5PUo)UYu4B:uBPlUsJ<:29P2ol&)5:UlJ24oYU:4(k<&<Pu)2Jo)&D52U&4)Ju4l:PBolJV42%2<o&&:&JUk)hJU4&Y):YBl<Y<ouJ24o*&<5&U5JJ4<Yf:PB& BZYu<2uPoo:&45l)<Jo45YJ::l!<k<&uJ2Yo/&u5oUU444:Y<:oB5l4F:2o225&o4&YUe)uJ54U:U:Bl<6J<5u42:o<&25&U))Y4,Yu:&BUlY1Bu<2P&5)&&:U<)2J54)B<:luu :<UuY2Bo5&PUUUJ):m<YP:5B)l:tluu2oPUuE&BUu)PJU4JY:BE<2Pu<)u:2lo2&oU:U44>2:Yo:)BJmU<hu22&&)&U&lUP)oJJ44:<B<E&<5<J21PK&u&&5)UY4<4PYo:YB48Y<<uP25oY5P5LUU)&4U4YYlBulo<l<42hP<o)&55YU:4hY<Y&:JBY=U<uu52UP42o5<Uo)5J44::qB2l&u<<Y2fPuo&&U54UB42:mY5:YB:AY<2u&2)&Y5>5uU5)UJ:4BB2BPV)<Y<:22P2&Y&)5YUlJuYVYU::BB/2<Pu)2Jo:5O52U5))4Y4l:PBolU<U<B2uPPoU&J5:)EJ245Y)::Blr2<ouU24&B&Y5PUU)JJBY_B2B&u)<P<l22PooJ&4U4)<JP7UY4:Bl 6P<&u)2YPlYU5oU))4JlY<:PB5<J<Eu_2PP&oJ&YUl)u:oY&Y4:ll<6Y<5u42:oa5<5&UJ)Y4XYu:oBUl4u)u<2oP5o4&:UZ)2Y&4BYYB!lue&<U242BU<&)55U4):4JY2:JB)lY<luu2&PUoY&BU<)PJ5YlY:B<l2!5<)uY2l5u5u5UUY)B4uYPB5BJu:5Uu225P)&l&lU&)oJU:5YBBulPvU<Ju:P,o25o5)U:)l42Yo:UB4<B<BuP2UPJoB5+)2)&J)YlYlBPlo-J<4uBP<5P:554UlJM4oY&B)BY<lu5uo2JP4&#5<U:)54J:5:wBPl&<u<Y2<Puooo254UBJ<4oY5:JB:T;<2u&2)P:ol5uUo)UJl4B:<BPl5Uu<B2;P2o&&)5YUlJuR&Y):YBB_u<Pu52JP:)o5PU5))J:4l:2BolUl&<B2<PPoU&J5:)SJ24&Y):Yla9P<ouU24os&Y5PU5)Jl_x&PoP5&&5<5uJuJJ4:YlU.)&JP45YJ20&%&U54U:PGPl&u5oUUBYJlYu:PB5lJi:uRo2Uuo)&:5l)2Jo4)Y4BB5,8o<UuJ2lok&25&U)U5JlYu:oB)l4TBu<2PP5oJ&:U<)JJ&4)YYB<lB>o<Uu4)u4J:<:Y:JFYu2uYPJou&45:uo&U54UBJ<4PY5&Jl)YlB&l2y&<)5UJPYcYYBYl2Je4oYP:5BJ5<5<)&J<P4&o&lUu)ol<uB<BP:ooUCU2)4J5oo&J5)UY)lu)u&P<olg<J44::,B2l&{)2Y:oYB4YYlBuloo)<YuBP<oP&55JU:J&B<Y&:)BY=2<uu&2UPYoB5o&B)5JJ4::PB2l58)uD<)Puoo&U)JUBJu4PY5u4BBxZ<2u52)PYol5U42)UJ44B:)BPlU*J<B28P5PI&)5YUlJJ4oY):4luB4<Pu52J&Y&p5PU&))l:Y_:uBol)L4<B2<&P)2&J5:).J24&YB:Ylo21<ouU24o4&<5oU5)4J:YP4:B&l)#YuY2uP&oU&l&U)<JP45B)::l<s2uU&Y2:Pl&u5YUU)4JBY<uoBUl4/:u<22P&o)UY44)uJ&4UYY:BlueP<5:)2:o<&255U))YJlYuu&B)l:.Buu2PP5oJU:4Y)2JU4)YB:llo%o<Bo52lo2&PUlUJ)B4+YP:&B:B&sluu2o&}o4&lU<)PlU44YlBZlPV&<)uYolUB&o5JU4JS4<Y5:5BJ:&<HuP2&PJoY5<Uu)ol)4Y:vB<lo%5<Ju:ow:u&554UYJN4uY&:Ul:o<<uu&25PBo:5>U24&Bo4Y:<Bul57Uu<uBo2)5&U5:U:Ju42Y&:)BY:Y<uu52UP:oB5uUP)4)P4::wB2l&b)<:uloPJU&)54UBJo4PY5:J}:2Y<2u&2)PYol5UUoJJBB4l:uBPlBfJ<:2zP222&)5YUlJP4oY):4luB4<Pu52JP:&X5PU&)))54l:uBol)r4<B2<PPo5&J5:)VJB4&Y):Yl<<5<ouU24)PYJBuB4Bq<&2uP&oJ2Y5PUU)BJ)J5:<Y<l:,ouJ2::ll4^2<&u)5l)o:P:&lokVL<2<2)PYoB#luo22P&o)4lBll5XJ<YYB:Bl<*P<5uJ2:oK&25U)<)YJlYu<:o:&U&lUlJ2404B&lU))2J&4)<)P_o)52U<)l424oY)5))U):4EY2<You&J52&U)B4JYBBuYPlY<yu&2<BulYF&<)uYUu4JY&BJBY><uou)P)BYQ2<{u22&UYJuB<B2Mu8:4::BB<lPT5&uJuJ:4P:PBUlod2bP2PP5olPB5u)&J4PY&P5TU2)&BBuJ2#PP&<&:5lo)P<oP&55J:BJ<42Y&:)BYll<uPo5PP4oB5<UP)5JY4:lE<ll&=)<YulPu&S&UU<4YJ<4PY5B1B:1<<2u52)oEP)5uUo)U4<4B:uBPl4lP<:2RP2U/&)5:UlJuq&Y):4BBCu<Pu52Jo2UB52U&))4&4l:2Bol)z4uu<4PPo5&JU5)wJP4&Y:Y&Blmu<oou24Pl&<5P:U)4J:Y0:oB&l)8Yuo&APooU&4JU)<Jo45Y4::lPB:<&u)2Y5)&u5&UU)4llYu:PB5l:N:u#22&&)o&Y5l)uJo4U:2:Bl5Yo<5uJ2:5J&255U))YJlY&4lBUl4HBP42PPUoJU:PN)2J54)YY:ll)pouJ&B2loP&PU<UJ):4FY25YB)l:.luo2oPJo45PJl)PJU4JBPB%lP,&<JuYP22Y&o5UU44o4<Yo:5BBB5<=u22&52oY5QUu4o&U44YlB<lP>5<4u:ou)&&55YUYJP4uYo:UB4JP<<uo25P:o:5uU2)Y&J4Y:7Bu<liU<YuBP<oP&4&PU:J(42lG:)B:ll<u5&2)PYoB5oUP)5JJ4:J2B2l5f)<:ulPPooUU45UBJ24PYU:Jl2sku<5J2)oNol)YUo))J4Ys:<BUB<AJ<:2_&:o&&J5YJl:B4oYJ:4BB9<<Bu5oJU:&O5&U&))JYY):u#oc4T4u<2<P5o5525:)gJ54&Y::YBl/u<ouUo4&<&<5UU5)BJ:Yu:21&<P}Yu22uP)oU&B5B)<4:45YB::l<A2<Ju)2Yoo&u5UUU)BJBYo:Pl5QY%:uu22Plo)&l5l)u)c4UY4:Blu(P<5uJ2:o+&25&U)J5JlYu:oBJN)-Bu<2PU:Y2:4BP:)}lu42lo22o&:U<)5Juo25<55UJ):<PuUP)&u&J5u&5J2J)4::JB&lUJ)Y2Y:B(l2P)U<U:4<42YUBYl7<y4<Y&:lBJl:<3&4J44&4:::l<lBLY4::BB<lP_5&uJuJ:4P:PBUlo{2-P2PP5olPB5u)&J4PY&25!U2)&BY_uP<P2&u&:<:2oP<oP&5B<lu<P<Ju4P5&uq<<Uuo2UP4J&:&Bo%2<Buo:2B2l&v)<YulPuoo&U5:))J<4PY52:oo&o5&)<)YJ:Y4:BBJzJB74B:<BP7)o:<B2uP2&<&)5YUlJuUUYU::BBRu<Pu)2Jo2UB52UU)):44l:2Bol)y4uu<4PPo5&JJY)fJP4&Bl<BBlj2<oo524Pl&<54U5)B)5YW:2B&uULYur2uo5J4&YU()<JY45YJ::lL:&<&u42Yos&u55UU44BJY<:&B5lYS:uu22PY<J&YU<)u:P4UYY:Bl<nP<4<P2:oW&2JoU)):JlYuu&B)l:^Bu<2PP5oJU:4Y)2JU4)YB:lloTo<BBY2Bo2&PJ&UJ)B4DY2:&B:B&xluu2o55o4&lU<)PlU44YlB(l2T&<)uYol&<&o5JU4JG4<Y5:5XJ7U< uo2&P4oY5iUuJ54l44:uB<lJW5<Ju:PAoo&&54UYJ24uY5:Ul<I4<<u&25&<o:5<U2)5J)Y,4)Bulo{U2uuBPuoP&4&PU:Jq42lo:)B:ll<u5&2)P:oB5<UP)5JJ::<hBPlUq)<BulPoooUU)&UBJ24PY):JBBMsuou)2)ozol55Uo)UJ44BB)BPl)DJu<2QPoo&&lU&UlJP4ol5:4BlA<<Pu52B25&Q52U&YUJYYf:uBoP)#Yuc2<PPo5&J5:4T:l4&Y4:Yl<ju<UuUo4UJ&<5&U5)YJ:Yo:2q&2oTYu<2uP5oU5P5B)llU45:P::<lm2<5u)2BPl&&olUU)4JBl :PBUlJc:5<2PPUo)&Y5l)uJo:UI5:Bl2QP<)uJPHo_U24uU))BJlYP:oBBl4<PJ<2PP5oJ)5UT)PJ&44YYB2:Ybo<Uu4&Uo<&o55UBU54mY2:&<UlY<iuu2o))oY58U<)oJ54JY:+&25/&<4uY&Bou&&5UUl)B4oJB:5BJl:2lu225P)oYY3U2)5JU4YYBB<lPi525uBPuo2&U5)UY)l4u<&:)B:lB<2uP25PJo:<oU2))J)4YYlBulo#UYmuBPooP&U5JU:J642uO:JBBll<&uo2UP4oB)oUo))JJ4::VB2l&e)m5ulPuoo&)54UBJ<4PY5:JB:}u<&u&2)PY&<5)Uo)UJ4t)2&o:o)52U4)PPoo:&)5YUlB:<JP<<Bo:&o5)u)P<P:&M52Y4v5p:u<2BPJoY<J<B2<PPo:)U5:)<J2YPY)::BlX2<ouYuoPB&<5P)o)JJBYsl2uul)HB<l2uPooJ&45BBuJo4JYJ::l!82<&P)5UPl&o5oU4)4JlY<:Jo:lJ,lupP<P&oJ&YUu)uJ)JuY4:Bl<<u<5u42:oI4P55U4)YJlYu:oBU<4PJu<2&P5oY&:U2)2JYB5YYB<lu<<<UuY2Bou&P545P):4DY2BuB)l:nlu&<lPUo4&BUl)PJU4JY:2<lPCU<)u:2lou&o5UYV)l42YP:UBJlB<hu2u<P)oY&lU2)oJU44YBB<lPk5<YuBP{o2&&54)2)l4uYou2o#5552U:JoJB&n5xU2)&J)_::SB2lohU<4uBP<&PB&54UBJM4PY&:)BYlll:uo2UP4ol5<UP)5JJ4::WB2l57J<YulPuo5&l54UBJ<l)2o24Pl&Y5UUJ2YPYol5uUoB)JY4l:<BPl5iJ<:PGYuo5&J5Y)/Ju4oYU:4:)f<<Pu524P:&G52U&))JY4l:2BBlUE4<B22PUo5&J5:BP<uuo2o:Bl5zu<ouU5:JlYP:ll5l4<Nu4:oBll)yY<l5oJ:4):::llP<U<Y2Y:ll&Z2<&u)Jo4::o:JlJ=l49Y5:PB5lJ5&)_)PJlY4:lU<)oJo4UY4u5&PPo<)2l2:oQ&24Ylu J<2(U2BoJ&BUu&P)Y4FY&:<Yll)B)uou:ou&oO5u2u42Bo<J4:YlBBF<UuYPuP:&B5P)O25P:o4&BU<!UxU<Y2)Pou2f&<)uY2lY:&o5UU4)B4<YP:5BJRU<kuP2&P)oY&lUu4o4U44YlB<loI5u<u:ouo)&&5YUYJ<4uYo:UB4<R<<uo25P:o:5uU2)&Yo4Y:<Bulo(U<4uB&<&&&55YU:Ju42Y):)luY*<uu&2U&ooB5uUP)5JJY<4JB2l&!)2&ulP2oo5JYBUlJP4PYY:JB:,>22B&2)o-ol52UoJIJ44B<HBol4IJuu2tP2o&&)<PUlJo4oYU:4l2><<U<<2JP:&>U4U&)JJY:l)uBoe7,4uo2<PJo55YYO)<J:4&YJ:YBlDu<oYB24o&&<5BU5)YJ:Y&)PB&v<(Y252uP&oU&45B)oUB45YJ::7U,2<5u)PBJu&25:UUJPJBY<:Px52&1:uU22PBo)515l)uPJ4U:P:Bl<MP<5uJ2:lo&2UeU)J2JlYu:oBU2Y>Bu)2Po<oJ&BUa))U)4)Yl:l=sao<)u4P6o<&U&<UJ):47:<:&BJlY<oB22oPJo4)YU<)oJ54JY:BP::;&<)uY&:ou&&5U):l<4uY5:5Bll:<Ou2o&=)oY52Uu)5JUY2YBB<22mU<Bu:Poo2&&5)UY254uYU:UB4lB<&uP242Po:5CU2YuJ)4:Yl{u4okUu2uBPUoP&:5J)lB24P:x:)B:ll<uuo2Ul<oB5)UPJ<JJ4l:*B)uPT)uPul&)oo&)54UlJ<4U4<:JB:XX2Ju&2JPY&2oYUo)UJ4BJ:<Bol5<Y5F2<P4o&5u5YUlJu:oEP:4l&W<<Yu52BP:&+<UU&JuJY4l:uBolU=4Y22<PBo55<5:)CJ24&9J:Yl5bu<luU2YPB&5o5U5):J:B<:2B5l)QB<l2&uloU&45B4uJP4UYJ::O:EP<&u)2BPl&u5oUUU&JBY<:PBUlJ_:uM22P&o)&Y5l)PJo4UY4BjlY%P<5uJU>)&:o:5l&i<_u2u2JP:ol<iuP2PP5oJ4UBo=YJJ4)YY:lluo&<)uY2Bo<&P55UJ4:BYY2:5B)l:*lu22ooU:J&lUu)PJ)4JY:B-l2l<<)uY2lo2&o5UU4)B4<YP:5B4l:<ru22&P4oY&lUu)ouL4YYBB<lPe5<Ju:P92B&&5)UYJ#4uYo:UB4lB<<uP2UPYo:5RU2)UJ:4YYlBuP2&)UU)2P2o4&55JU:Bou<u524oU&P5&u)2UP4oB5<:o)UJ44::DB2l&N)2Y&4Puo&&U5YUBJu4P:5o)BB9<<2uU2)PYol5u5_)UJ44B:uBPl5cJ<:2cP2o&&J5:UlJu4oYJBoBBe<<P&4J2YCY2BulPR5<<uuP&l<lUL4<B2<UooU&J5:)0J24&Y):Y&5A2<ouU24PB&<5PU5B4JBYj:2B5l)ZY<l2U52oU&45B)5JP4UYJ:BlAE57 u)2YPl&U5oU))44uJ4:PB5lJ<UuV2PP&o)4:UQ)uJo4)Y4:Bl<uP:5uJ2:oq&25&UJ)YJl)l:oBUl4<du<2oP5oJJ<U<)2J&4)YY:lluto)ruY2Bo<&o55UJ):4sJB:&B)lY<(uu2oPUo4&BU<)PJ544Y:B+l2MU<BuY2lou4UBUls#2<oY5:5BJl:<Z5P25PJoY&lUu)oJUY4P:Bulo_5<4u:P!o2&&&PUY)l4uY&:UB4lB<<uP25PJoB5:U2)&J)4B:&BuloSU&B)&4%Y4J:Y)B2Ju4)Y&:)BYo<52U)J<YM:<52U4)5JJ4:u&PUo)5:U4J<5Po5&)54UBJ<mYY)B2B:DR<25)Ju4UYPBcl):)<Pu4:2B5l5qJ<:)BJUY:&4UPUlJu4o<UPJ&<&JUU)wJ)44&u5PU&))JY<U:PlolUE4<B5UJ)Y445BYZo<&<4<oP4ou&2U))<JJ4Y&255U5)JJ:_&uu2Yl4<2<l2uPoJB:Pl<lJH&u2ul:ll5D2<&u)U<4:Y2:5lPkj<uYP:PB5lJC:uR22UU))U55l)uJo4U)4:Bl<rP<5uJ2:onU25BU))YJlYu:ol<l4RB2c2PP5oJ&lUs)oJ&4)B5:ll2Ko<)u42Bo<5&5BUJ)l4.Y&:&B)lYulu22oPJo45KU<)JJ5:JYBBKl&G&<)uYP2ouUo4PU4Ju4<YP:5lul:2nB:2&P:oY52UuJuJU44:uB<l&c5<Bu:Puo25&5JUYJH4uYY:UB:lB<<uo25P4o:5<U2)&J)4YB<Bul5}U<:uBP<oPU5)<U:Ju42YU:)l<ll2uPg2UP:oB52UPJ<JJY:PlBPl5*)<BulPPoo&UYYUlJu4PYU:JB:D-<2552JPBol5PUo)UJ4:B2JBPl){J<l23PUo&U)U2UlJP4oYJ:4lJW<<J2u2JPl&IUYU&)JJY4l:uB)Buz4<B2<o:o5&45:)zlP45Y4:Yl< u<ouUo4UJ&<5&U5)YJ:Yo:2=&2oOYu<2uP5oU&Y5BJ<u24UY4::l4n2<Uu)2Y2J&u5oUU)YJBY<:PB5lJ_:uk22PUo)&Y5l)P4H4UY4:BPP5uU&J<Uu4:YYBJl:T<u<YP:YBUl4AB&&JuJU4Y:)Bol5JJ4)YY:lluo&<)uY2Bo<&P55UJ4:BYY2:5B)l:Qlu22ooU:J&lUu)PJ)4JY:BIl2l<<)uY2lo2&o5UU4)B4<YP:5B4z<<fu22&P4&U&lUu)ogYuRP<oJ&u&JU))2J&Y&Y4B:UB4J4uYo:Uul&2UP):JoJ:5::lB)lY<Yu<P2yu&4&)U5J2J&5P:J:lR<Y6u52o<2BB>&<uuo2U4uY2BoB4lY<U22:uBUl&%)<Y)l4P4B:&Bl)&J<4PY5BY:<N^<Pu&2YPYol5uUo4<J44l:<Bol5}Y<:P^o&o&&J5Y)EJu4oYUB:BlC<<ou52BP:&052)U)lJYY<:uB5lUc4<B2<oYo5&:5:)aJ24&Y):YlUAu<&uU2BPB&u5PU5J)J:Y1:2B5l)AY<l2uPooU&45l)4JP45YJ:llo82<&u)5l4BYBBPlJ):4PY<:PB52:5YUYJu4UUY&BU&)uJo4U<4PJou55U4)2Jrou&55&U))YlP2vPJool:<<u<2PP5YU:ul5)oJB4)YY:l2P&&U4)RUB4u:&B4UYJ243Y2:&ou&Y5LU4J544oB&BU<)PJ54JY::(2uaUu<uY2lou4u:)ll12u2u:2Uo&ll<2u22&P)JoBuY24oJU44YBl2P5#U<Yu:P5o2&&5)UYPP4uYU:UB4lB<<uP25YBoB5uU2)UJ)Y_YlB&:lwU<4uBoBoP&U5JJ:&b42Y::)lull<YuoPJUBol5JUP):JJ4::>B2)YD)u2ulP4oo&J54)PYl4PYB:Jl5zv<Pu&2JPY&2oYUo)UJ4YU:<Bol5_BH52bP2o&U&5Y)GJu4oU::4loL<<ou5PSP:&&2PU&JkJY:<:uB&lU>4<B2ouBo5&J5:JuJ245Y)lYu4!u<:uUPuPB&J5P)5<)JBY&:2Bll)<P<louU<oU525B)UJP4UYJB:&l.P<Yu)2:Pl&J5oUYUoJBY<:P6PlJkBuiPo))oJ5P5l)&Jo4UY4lB&<to<luJPoo &Y5&J)J:JlYJ:olml4<<u<PPP)oJ52U-)YJ&Y<YYl<5Bg&ueu4P}o<&P55JJ4U40Y4:&l<lY<PuuP5oUo455U<)YJ54JY:lul5e&u2uYP5ou&o5U):4<4<Yl:5lul:<.u22&oUoY55UuJjJU4:YBl<D4+5u%u:P<o2&B5))uUu4uY5:UBllB<uuP2)PJ&<oJU2)&J)Y1YlB2lo+Uc&uBP<oP&U5JU:JL42Y&:)BY8<<Puo2UP4&X5YUP)5JJlB2PP:&45Y) Uu4u4JY::l)FJJ4PY5:J2&52&2)u)JYoYUB8BYJoJ44B:<BP&lA4<:27P2o&&)5YUll24&Y):4BlL<<Pu5POrB&K5PU&JoJYYf:uBolUGl^U2<PPo55&5:)<J24&<J::lq(u<&uU24PBU<4^U5)4J:Y<:2BUl)<uB!2uP&oU555B)uJP45YJB<:JN2<&u)PUPl&25oUUBYJlYu:PBUlJO:uXo2E&o)&:5l)2Jo4)Y4:BPuWo<JuJ2:oc&25&U)::JlY2:oB4l4Flu<2P2uoJ&:UD)PJ&4)YY:lluto<UuYP,o<&P55UYJU4^Y2:&uYPuU<U2JuJ:JB:BB&l)=44Y:PBpl2r&oB)JJb4P:<::BlJu4<YP:5BJPB<<uP2&P)oY&lUu4oBP44YlB<lom5<4u:o;:u&55JUYJ<4uYo:UB4B)<<uP25P4o:5HU2)&J)4YYlB2l5pU<4uBP2oU&55JU:lPuY2&2BBBH5<uuo2U)2Y5Bo:5{&<lu42PB5l&%)<Yul)2o&&)54UBJ<4PY5lJu)/_<Pu&2JPY&<5u)o<5JY4l:<Bol5DJ<:2_uBo&&)5Y)EJu4oYU:4BB-<<PuU24P:&c52UUJPJY4l:u2P&U54U:JPJ:Y4YlYUlo<Y4)Y):YBlRu&&u)2YPB&<5PU5)J4:2l:PB5l)I:<l2uPooUo&5B)<JP4UYJ::l.12<&u)2Yof&P5oUU)448Y&:PB5lJ&_)-)UJ44:&BU:)uJo4UDBop&S55UJ)u)B4):oY&lB0Uuuu5:)BUl4RBu<UoPUo4&:UE)2J&4)BY<4lu9&<UuY2Bo2&PU5^))B4<Y2:5B)lYVluuu>PUo4&BUu)PJ54JY:Bbl2}&<JPt2lou&o5J)P)B4<YP2Jo)&l5l)UJJ4uYJ:PUP)4JU44YBu)o)&UU&J<JUoo555)UY)l+uu&PJol&55P)K)Y)uY&BPYUlYSlu<2uo&lUiU<4uBP<oP&55JU:Ju44Y&:)BYP554))U44J:2:lBU))4u4::_B2P&5UUl)U4&4B:5B))#Jl4PY5:J22&)U<UJ5l4o:<Bol):4<2u52:PUl)<&<:2MP2)U:BBUl4>5u)<YP:Pl&P5)))2YoP&-52U&:B<JuM2Po<o:&lu{2&PPo5&JYMlljluo24:BCoEu<ouUUu42:oYPl2l4u&uoPouY&454UY5oJ:4):::llP<U<Y2Y:llP/2<&u)4/4UYoB>UJ)BJBY<:Pu:P)&2uu25P&o)&Yl&8PL&uUY:B5l<KP<5J<JYYuYBB)l)l:<uu5:5BBl4cBu<UPJUYY:uBBc5JUY<YY:lluP:U:)U)l4l:2BGBB)l4PY2:&B)oHUU)u)JPJ&U&BU<)PBJul2louoU5PU:&lJm4lYJBJBYJa45YP:5BJPNo&)o)54&Y<lBUu)oJU44<lBulP,5<Ju:P#o2U&4oUY)l4uYo:Ul%lB2<&725PJo:5;U2)lJ)Yul:BulopUuYuBPuoP&U5J)<UJ42Y&:)l:ll<2uo2U)Yol5<UP)5JJ4::V.2olz)<YulPuoo&454JB4B4PY5:JB:(Q<Yu&2l&uol5uUoJ2J44l:<BPl5tBe52#P2o&5P5Y)!Ju4)4u:4BBR<uou524P:&NYPU5))JYYf:uBolUu4oJ2<PPo5&J5:)UJ2:&jo:YBl%u<ouUPPPB&5JuU5)JJ::<:2B5l)A:<l2&uloU&45BJuJP4UYJB<:J,2<&u)o&Pl&25oUUBYJlY<:PB)lJ*:u0o2Uuo)&Y5l)uJoY<Y4BP<laP<5uJo2ox&P5&UJ)Y42JY:oBUl4uPu<2oP5oBo5US)2J&:2YYBmluio&)uY2Bo<&555UJ):4&UP:&B)lYu)uu2&PUo4&BUo5BJ54JY:lJl235<)2Au)ou&o5UJ&)B4uYP:5:ol:<mu225P)oY&lUuB&J)44YBBPlPF5<JP:5Yo2&&5)UY)lYuYo:BJYlB<<uPo4PJoB50U2)&J:J&YlBulouY<4ulP<oP4U54U:J;4&Y&:)BY<lPBuo2UP4oB5<)P)5YJ5::.B2l&#)<Y2&Pu&5J45Y)_J<YoY5:JB:!34)u&2)PY&<5uU5)U4<5l:<BPl52<<:2<P2o&&)U 5)Ju4oYUIuBBRu<Pu4uPP:&;52JB))J:4l:u:TlU{4<B2uPPo5&J5:B<JP45Y)BnBlSu<oPUl4PB&u5PUU)J4UYD:225lJ*l<l2oPooU&4)BY:JP4JYJB*lf<2<&u)BuPl&25oU4)44iY<:J<olJLBu7&2P&oJ&YU0)uJ)JuY4:Bl<2P<5u42:oPP:5&U))YBuYu:&BUl4oluu2&P5ol&:U3)2JYulYYB+lu2)<UuY2Bo2&P545P):4!Y2SJB)l:GluuugPUo4&BUu)PJ54JY:2<lP^U<)2u2lou&o5Uos)B42YP:)BJlB<iP25uP)ol&lUu)oJJ44:PJulP0)<J4)PHoP&&5)UYJ2)YYo:UB4UJ<<uo25owU)5<U&)&2o4Y:.Bul5/U<l<UP<oP&5H&U:J<42:P-OBYi2<u&22UPYoB5PUP)4)P4::%B22Pe)<:ulP&2l&U54UBu:4PYU:Jllo2<PuJ2)oUol5uUo)UlJ4B:oBPlURJ<l2{P2&U&)U<UlJ)4oYU:4BB<I<Pu42Jo<&n5UU&))Yu4l:5Bo. /4<B2<PJ&5&JUu)aB)4&YJ:Yl2tu<)<u24PB&<4JU5)4J:YP4:B&l)xYJ42uP&oU&4Yl)uJU45YJ::lj722&&o2Yo2&u5)UUJ.JBB<<;B5lB#:uP22Plo)5uJ:)uJ)4U<5:BlueP<UuJP<2J&25&U)BUJlY2:oBYBoqBu<2P)ooJ&BUw)2l54J:W:ll4Mo<Uu42BU&&o54UJ)B4_YP:&B)P:<yu&2oP4o4&BU<4PB24J:<B%l5T&<luY2lJ2&&5:U4JU4<YP:5BJ:x<duU2&PJoY5<Uu)4454Y:PB<P4C5<4u:Poo2&J&2UY)l4u<Y:UBYlB<<5o2Uo/o:54U2)&J)4Y5PBulYsUu0uBP<oP&5BPU:J&42YU:)BBll<Uo22Uo<oBY4UP)UJJ4B:^B5B _)<Yul)Yoo&)54)uU44PY5:Jo<#O<Pu&2)):&e5)Uo))J44B:<gP22zJuP2CPJo&5<5YJl:B4oYl:4loF<<:u5PE54&W5JU&l)JYYe:uB&lU=l+U2<PPo5YJ5:)<J24J42:YBlTu5)uU2YPB&<YoUUJ<J:YY:2B&l)tYYP2uP:oU5<5B)<JP45&l::l);2<Ju)2YPl&u4&UUJuJBYJ:PBUlJ}:5<2PP:o)5)5l)uJo4UBm:ll)^P<JuJ2:obU2U&U)JPJlYJ:olUl4_Buo2Po8oJ5<Ub)2J&4):l:llYso<Ju42Bo<UPUBUJJ54qY::&l&lYulul2oouo45UU<)BJ54J:&B1lJ7&u2uYPZou&oY)UYJo4<YP:5BJl:2aUY2&o oY5&Uu)UJU:4:BB<l405u<u:P)o2&YU&UYJ&4u2l:UBYlB<<uP242Po:5rU2<FJ)4:YlBuP&j)uuuBPloP&55JU:Yz4PYB:)l1ll<uuo2U&&oB5JUP)5JJ4::E+2<u-)uoulP4oo&454JB4J4P:^:Jl&W-uou&2)ouol5YUo)UJ44B:<hPf<3Ju52,P:o&&Y5YJlJY4o:u:4lUN<<Bu52JUB&_5JU&J2JYYw:ul5P4NYuo2<o2o5&J5:4#:l4&:}:Yl&huuUuUP<5Y&<54U5<)J:Y<:2B5l)<ch)2uPooUBJ5B)uJP444P::lZO2)Bu)2:PlUu4<UUJ2JBYU:Pl4lJ<l522PPlo)&:5l)uJo:Up5:BlJ1PujuJP4of&)l)UJJ&JlYu:oB)l4<3u<2PJ&o4&:Ug)JJ&4)YY:lo<E&<Uu4P&o<&P55UJW54;YY:&B4lY<<uu2o5:oY55U<)oJ544Y:Bj2BK&u<uY2lou&o5U):l<4uYY:5l&l:<ru22&<YoY55Uu)&JU4:YBB<&YrUuuu:P5o2&&5)UYBJ4uY):UB4lB<<uP25)4oB5PU2)YJ)4YYlBu:YOU<luBPuoP&J5JU:U442Y&:)B:ll<uuo2)P4oB5<Ul)5JJ4::2B2l&q)<YulPuoo&U5:)<J<4PY5PYPB&P<&u&2)PYol5uUoUUBJY<:<BPl5KJ<:2 22<o&Yl5J2o.lYJ)ooUuP*<&u:2JP:&(4PlPwf<UuPPoB5lBr4<B2<4&4U:UB<ll<a4UY::YBlpuUYU)JPYu&25UU5)JJ:u:2PoJ&<Ol<l2uPooU&45BJoBP4):S::l7w2o)&lJB4{Yl:JJY)4JBY<B&uJl4j:u 2&P&o)&Y)<:oJ&4)Y4BUl<VP<52YUTo<&o5&UY)YJlYu:)h:l4^Bu<oPP5o4&:USBPJ54:YY:lluTo<Uu4:oo<&)55U4):4mY2BUF&lY<ouuP%PUo4&BJ<JlJ5Y=Y:B&l26Y<)2Bo&ou&Y5U)P)B4<YPl5Mul:<5u22:P)oB&l)PJBJUY2YBBJlPr5<JP:Poo2&B5))P)l4)YoBJN&lB<JuP24PJo:5;)oPiJ)Y&YlBolo(U<4uBP4oP&l5J)5Jz42Y&:)l&ll<)uo2UP4&g5<)&JPJJYo:nBYl&v)<YPlo<oo5(54)&J<4&Y5BYn&>*<Yu&PuPYol5uJoJJJ4Y5:<B:l5<<<:PuU&o5525Y)2Ju4oYUB::Y#<<lu52:P:&852U&)JJYYU:ulIlUZ4<B2<Plo55u5:)bJ24UY)BBl)zu<BuU2YPB&<5PU54PJ:Y&:2Bll)8B<l2uPloU5 5B)&JP4:YJB:HUE2<Ju)P5Pl&55o)JBBJlYo:PBllJZ:ugPoU)oJ5<5l)5Jo4UY4:BYBzP<4uJ2lo>&P5&U:B)JlYu:oBYl4Ilu<2P)Uo4&:UL)2J&4)YY:lP2f&<)u42lo<&P55)J<Y4<Y2:&lPlY<3uu2o22o4&BU<)oJ54JY:Bfl2k&<)uY2lo2&o5UU4Jm42YP:5BJuB5Uu52&P)oY&l:2)&JU44YBB<lPt5uY5TP<oP&&5JUY)l4uYo4oB4lB<<u&25P4o:5K&B)&J)4Y:QBulohU<4uBP<oP&5UJU:J+42YU::BYll<u5)4<44Y252UY)5JJ4:<)o<&)5:5:):Jo4J&J5lUBJ<4P<5P&PB5)<o2u2)PYolYolPA:<)uuuPP)&)U=U&)2JUoU&B5YUlJuSU25o-oY&o<&u:2JP:&8Y2B5s4<<u:P&BUlU}4<B2<PPo5&J5:)uJ)4&Y):YPo5<U<):JU42&25BU5)JJ:N52UoJPY5<)<JUJB44:nU{))JP45YJuoo)55&))U4<4:Y&55Ul)4JBY<u5o&&l54UP5YJJo45<5l)uJolJ2:P2ou&l<)2&2:o.&2YJlub)<P<uPPo4&PUuUJJ24ooY5IU;)2J&u52<o&lPM)<Uu42B4UYoBPBlJF4jY2:&B)lYal<u5P&Jo4&BU<)PlU44Y:B#l2R&<)uYPo<2&o5UU4Ju4<Yo:5BJl:<Pn:2&P)oY52Uu)&JU4l4UB<lP!5u)u:P<o25UYYU:)l4uY5:UB4lB2<2&25PJo:5*U2JPJ)YB:lBul&9Uu%uBP<oP&5)<U:Je42YU:)BBll<u2J2UP4oB5<UP)5JJ4:BJB2l&M)<YulPuoo5JU<UBJu4P:&:JB:W!22242)P:ol52UoJ<J4:G:YBPlJ.Ju<2kP2o&&))uUlJ24oY4:4lrK<uPuJ2JP:&Q5)U&)JJY4lu2B&lUt4<l2<PPo5&JlP)<JP4&Y4:YBl.u2o2:24Pl&<5oU5JPJ:BF:JB&lJGYu.2uP&oU&4)))<JP45YJ::l<W2<Y222YPl&uU:UU)YJBYu:PB4BPk:u922oBo)&:5l)ul&4)Y4:BluSP<5uJo:UY&25&U))YJlYB:oBUPYzluu2PP5oJ&:UAJ2uo4JY::ll:+o<Uu42BJu&o5UUJ):4jY2:&<)NPGlu22ooho45BU<)PlU44YBBkl2I&<)uY&loJ&o5)U4J44<Y4:5BJPB<<uP2&P)oY&lUu4o&U44YlB<lo^5<:u:Pv2*&&5JUYJ<4uY&:UB4B)<<uP25P4o:5.U2)&J)4YYlBu<:OU<4uBP2oB&55JU:B&<Pu)2Bul&85lUJJJJY&.5oUP)5JJF:2<oo&JQ4u)ulPuoo4YB,=&<ou)2)2l2)&oU<U:J:4P&,5uUU)UJ44B:<BPl5uuo:2uP:o&&)5Y:o<<u5u4PM2P&J5))2)BPl&U52U&))B:u:2oP:&55:U2)oP5o5&J5:)hJ24&Y):Yl<,5<ouU24)<:LBKl&ZYJlYP:2B&l)olUUJYJJoJ&B5B)<JPuouloPluZl<&u)2Y)<:5B<lP!,uu<oP&PUo:5u)u2oP:o)&Y5lB&1J2y2lo2&2&)<)2U2:oX&2Yuluh2<52&<Bo&&<5J)&))4o4::uUu)4J&4)YYuYo25)5:):J54u:!5))l):4rY2<)oU&U5B)PUUJ:YYB2B&cuRJ<l<UPo&Y5&UU)oJ:Y&&55BU4)B4<<4P!PB5<5UoP2Uo<oY&lUu:B<&uBPuPu&u&J5lulP5o2&&5)ButP<o2)P5o:2<<22<25PJo:42luau<UuBuuP5&&5:U_)YJP4)&)5BU:JN42v4P5&<&Y<PuB2UP4oB:Pl2t)<)2uPPPY&P&B<B24Puoo&UYlKpmuuu2JPJPB5u5U)P)YYo&<5UUo)UJ4<o2JPU&45uP:2uP5o&&)5Y:<I5<&2o::l)A<<Pu554Y<:P:PB)c<<)uPP1o)uUh:uP2<PPo5:YBug2<Uu2uB:BlYXu<ouUU545YU:Yl4:l<Ju)P&o)&u54U:2PPYoU&45B:&<u<UuYP)oo&5<U2l2YPl&uB5BJ<2Dl2PP5PY&B5&UP&:5oUUJb42YU:&B)lY</uU2o<)2u2:oV&2Y&lUrl<U2&2Bo5&)<#u42PP5oJ4DB<E<B)uU2UP4o4&)5:u:PYo<&P55:U<u<:uo24o4Pl5P)2JJJ:Y):<B&)&4<4JY:BK2P5JU:U:Ju4J:u::l)<u42YY:5BJl:o:UPJ)4YYU:Plo_UJ444YBB<lPi5<J<:5loo5<5)UY)ll22)PYPY&<5))<)Y4U:<J<Uo)YJ)4YYlPo&5&:5YJuJ&o&525JU:JkN5u4o<&+5PUPUJU444Y2:&BU)UJ4u4:#B2l&G)&:2qPPoo&U54UBJ<:P2V:JBl%I<ou&PoPY5lUBUo)JJ4Yk:<1<l5<-ul2%Poo&&l5Y);Ju4oYU:l:Uz<<Pu5PjP:&<52UJU2JY4l:uBYlUeY<B2<ulo5&J5:)<J24&Y)BBPuw2<5uUPlPB&<5PJ54YJ:Yu:2BUl)<5<l2uo5oU&B5B)uJP45YJBlF:02<Ju)PYPl&u5oJU42JBYo:PB4lJ<Uu>Poo5o)5<5l)JJo4UY4:Bb2FP<:uJ2:oe&25&J)4uJlYU:oBBl4<Ju<oPouoJ52U^))J&YuYY:ll:Ko<Yu4PPo<&&55)YJ&4+YU:&l)lYDluuooUPo452U<))J5YoY:lu2&h5<luY&2ou&o5UU4Bl4uY4:5BJl:<Mu2o&UooY5&Uu)YJUY5YBg<2tZ5u<u:P5o2&l5)UY,P42YJ:UlulB<<uP25u4o:52U2)&J)4:YlBuolzU<:uBP2oP&)5J)ll24PY):)lBll<uuooUU5oB5PUP)JJJYU:Ilo2)ZJuGulPPoo&U54UBlu4oYY:JBB6g<2u&2)luol5oUo):J4Yz:<l&U2E4u<2!o&o&&)5YJl4Y4oYY:4luQ<<lu5PYoP&F5UU&J<JY4l:ul5O&14uP2<PYo5&J5:JuJ)4&:M:Yl5/u<ouU24&V&<5UU5J<J:Yu:2l&lYEYuu2uPloU&l5BY<JY45Y:::<2x22Bu)&Y5.&25UUU4uJBBo:P<5<uM:u222&&o)5g5lJu4U4UYB:B<(qP<5uJ&:o4&25)U)J2JlBJ:olJlYABuo2Po)oJ&:Ut42Bu4):3:ll&aou2u4o8)P&o5YUJ4l4KY2:&B)J<%luU2oP4o4&BU<)PP:4J:<B,l)-&<4uYo<Jo&&5:U44k4<YP:5=J2)<ZuU2&PBoY5JUuJ5B44Y:PB<l&=5<Ju:PFJP&5UKUYJ84uYo:UB4JP<<u)25o<o:5uU2JU2o4::oBuaUCU<4uB&<o5&5UEU:J&42:<:)lBA)<uuY2Uo2oB5<UPJ)4:4::UB2lBr)<YuloP&<&UUPUBJ)4PY5:JB:KY<2uY2)oool5PUoJU4j4B:&BPL<7Ju22%5255&JU<Ul4)4oBY:4<B<5<PuY2J&:&K55U&J)4&4l:5Bo<5h4<l2<5P&4&JUu){JJ4&l<:Yp<<Y<ouB24&2&<5PU54J<:Y<:)B&ll#YuB2u&ooY&4UP)<JJ45:V::Ib<2<&uB2YoB&u54UUY4&UY<:)B5<:0:PU22oU&4&YUo)u454UY4:B<<<U<52m2:o&&2U<U)JB4UYu:YBU<:0Bu<2PP5&U&:UU)2J44)YY:llu.l<U2<2Bo)&P5)UJJlJJY2::B)hB{luu2o&U&2&BUU)PJB4J:UB,Eo<U<)2P2l&4&o5UU4)BY&YPB_BJsi<7u22&P)5&&lU))o4<44:;B<uP<U<J2PPqoP&&J<UYJlY)Yo:lB4#5<<u&25oJ:Y5<UJ)&Y24Y:2BufoU5<Y2oP<5)&5UAU::644Y&B%BY<4<uuJ2U54&&5<U4)54U4:lPB2u&<<<Y2&Pu&:&U)lUB:<4YY5B<B:<<<2PJ2)5Y&55uUY)U4U4BBlBPu5<u<:25P25:&)JyUl:u4:YUBuBB,P<PP42Jol425PUB))Y:4l:uBo<UP5<B2)PPol&JUU)94ol)YJBoBl#J<ouU24PBY45PUl)JJlYI:oB&h)U4uf2)Po&l&4U&)<4&lJY4Bol L4<&u)2Y&<4o5&)<)4YPY<:PB5<JP)u62YP&&u&YJo)uJ424YYBUl<ZP<5u42:oo&25&BU):JlYu::BUl4dBu<J5PUoJ&:Uu)2J&4)YY2Bl2eo<U2u2Bo<&P55B))B4eY2:)B)lYQluu)PP)o4&BU&)PJ54JY:BulPGl<)uB2loP&oUJ)))B44YPB:BJl:<eP2PoP)&&&lUY)oY244YBB&lP<u<J2&P7o2&&5)J))l4YYo:JB4ll<<uPPYPJo:5vUP)&J)4Y:QBuloHUuPuBP<oP&J<Pu&2)PYol5uJo2B<P2<2UP4oBYol&lU<U2CPCPP&U&BUJ)u44o5&l54UBJ<lUuYP:&<5uUu)l24Plol5uUo/&<>2o:PBPl5xJ<:20P22&JU5B)UJu4oYUu2o2&uU&)4)Y4uY<B5U)))JY4l:uBolU(4<B22ouo5&J5::B<Uu2u4P<&<oo5J))4Q42Yl:5BY)Y4<Yz:2B&oA&:UUJ&&:oU&45B)<lo4UYJ::lG*2<&u)&uo5&25oUUJ&JBYu:PBYlJ<<}J22P&o)555l)2Jo4U<Y:ll<aP<5uJ2:oQ&2Y5UJ):JlY2:oBUl4uBo:2PPUoJ&BU#))J&:)UY:ll2To<)u4P5o<&PB<UJ)B4IYo:&B4lYNl:<2oPUo4&BU<)oJ54JPoB<l2,&<)uY2lou&)&uU4)B4<YP:5B4l:uu&&25P)oY5&Uu)oJU44P&BulP{5<Ju:Pmo2&&YJU:)l4uYo:UB4lB25P52UPJo:U<U2)5J)4:YlB&:lmU<4uBouoP&U5J)<UJ42Y&:)8:ll<2uo2U)Yol5<UP)5JJ4::1B2U)6J<:ulP2oo&U54JB4U4PYU:JBB#L<)u&o)o:ol52Uo))J4Y5:<BPl4LJ<B2+Poo&&45YUlJB4oYU:4BBp<<ou52Jo<&h52U&))JY4l:uBo<2D4<B2<PPo5&J5:4j4I4&Y):YBlfu<&uU24oP&<5oU5)YJ:Yf:2lU :tYu<2uP:oU&45B4<Bh45YY::luE2<Ju)2YlP&u5UUU)4JBY<:PB5&PH:uu22PUo)&B5lJuuP4)YY:Bl2pP<)uJP<2J&25&U)J)JlY2:oBUPYnlu<2PPJoJ&:U842&&4)YY:lluno<4u42BuB&P55UJ)l4jYP:&B)P:<(uu2oPYo4&BU<4P&54JY:B l2X&<YuY2lul&o5UU4JA4<Yo:5BJBU<Ku22&PJoY&lUu)oJU44YBB<l&C:<Ju:PRoo&J5)UY)luZuJoholgM<&uP25PJ:<:<Bo{udB4B:2Bulo8UU4UlJP4l&)5BU:Jd42222J&{&5<PuJ2UP4oBB2l2KY<Uu<:uB)l&Q)<YJP4aYoY):Bl)4P4PY5:JB:<U<2u52)PYol5uUoJJYf4B:2BPlUXJ<:2(oooY&)5lUlJP4oYU:4tB<P<PuJ2JoA&T5&U&))4:4l:&BolUx4<B2<PP5u&JUW)IJ24&Y::Yl2<Y<ouU24oJ&<5oU5JYxpY<:JB&l:0Y<l2u&o)P&4Uo)<J445Yl::l0JU<&2<2Yoo&u5oUU)4<UY<:4B5lYD:uu22P&P/&YUq)uJJ4U:u:Bl5B5<5uY2:o5&255U))BJlY&4lBUl4KBuU2PPUoJ5l:2)PJU4):u:llu-o<U:r2BoP&P5UUJ):4XY22GBJlBeluo2oPUo4&BJo)oJ)4JY:BFl2h&<)<52lou&o5)U4)B4<YP:5BJl:<02U2&P)oY5uUu)oJU44YBu<U2P5<:u:PKo2&&5)UY42luY5:)B4lB<<5Y2)ouo:58U2B&<Uul2Uo&oB55U)2<P<oP&55JU:J-42y&:4loll<uuo54424lB2BolJ<BuuPuBol)y)<YulJPYPBZ5:)uJ<4PY5u:o&5J5UuUP5PYol5uYYl:<lX4P;PUoY5&&^5&4o45:&B<)<JB4oYU:42u&&5JUUJl4):P4&loeo<42<:PBUlUG4<B5242Yl&YU&)0J24&<:P<o(&loU)5J54::25&)<)JJ:Y32ooo5<54)PJ&4<Y<:)B2)2J)45YJ::225uUu)UJBou&u5oUU)4JBY<YPu&l:r:ui22P&o)&YUl:uJ54lY4:Bl<P)UoU4)l4YYU:JU4J5JlYu:ouB&P52U:)U)&YkY2B)lU<:44Y::llu;o5<uY2Bo2&455UJ):d&uYP)ouoB54U5)4PUo4&BU5J2JU4YY:B2l235<)uY2lo&Pl5UU4)B4PYP:UBJ<:PYu22UP)oY&lUU)oJB5YYBB2lP&U<JuBPgo2&&5:5&)l4uYo2)B4ll<<PPl5PJ&M5sUo)&4u4YYlPYloR4<42,P<o&&55J:BJ<45Y&:)BYll<uPo5PP4&25<U5)5JB4::_&5l56:<Y2<Puo4&U)4YJJ<44Y5:4B:n5<2uYPUP:&55u)o)UJY4B:&BPl4lP<:2+P2&&&)5:UlJu_&Y)B2BBru<Pu52J&:)Y52UB))4P4l::Bo<UP5<B2)PPol&JUB)8422oYJB2Bl<5<o2H24&B):5PUB)JJBYtB8B&ll<4un2JPo&l&45l)<J)45YBY5lRf2<&Pz2YoN&u5o:))Y4&Y<:oB5lJK:P1&lP&&<&YU5)u4j4UB4<Jl<EY<52u2:&<&2U&jU):4&YuBJBUq2MBu5&uP5o:&:)4)2J54)Y::ll&Bl<Uu42B&Y&P5UUJJ<)JY2:&B)&<=lu22oPB<Y&BU&)P Y4JYBBEl2c&<:<&2lou&o::U4)l4<YPuUB4rP<duP2&P)oYUlB4)oJl44:oB<llk52J2!P(oJ&&U+UY4b4uY4BuB4po<<U)25P4o:5QU2)J)24YYlBuoJDU<YuBP<Jo&UU<U:Ju42Y&:)BYg4<uu:2UPBoB5<UP)5Y&4::)B2lJp)<Yul&uo&&UUPUBJJ4P:):J1:<U<2ul2)oool55Uo)U4P4B:)BP IQJ<:2XP2oB&)U2UlJu4oYJ:4BB<P<PuB2Jo2&.5JU&4)4)4l:)Boll_4u22<oP&:&JUP)M4u4&:>:YZlFJ<oul24oo&<5oU5)JlBY<:4B&lBTY<l2uooPU&4U5)<4P45:<::jRl2<&222Yo<&u5YUU)4llY<:YB5_Ph:u)22P&JJ&:U))uJJ4UY4:B<<P-<52o2:oP&25)U)4Y1PYuB<BUllpB2P2PP5&B&:UJ)24u4):5:l<u<n<U252Bou&P5BUJ):4PY2B2B)auvluu2oPU&U&BUl)PJl4JY:B l2+J<)242lo4&o5UU4)B4&YPBPBJzY<muo2&o):45hUB)o4A44:4B<<PP2<J2)P9oP&&U8UY)l}2Y&BoB4qP<<uP25PJJB5<)<)&JB4YYlBu<ool<42:P<oY&55lU:JdUYY&BUBY()<u2P2U&44o5<)P)5424::oB2l&Bu<Y2lPu&k&UU4UBJ<<)YUBUB:<R<2u&2)PY:U52)u)UJ44B:2BPM5U)<B2YP2oJ&)U)UlYul<YUB5BBXu<PuB2JP:4<5P)2))J:4l:uBo<UP5<B2BPP&P&JUU)7Y2luY)B)Bl}l<o2P24oPUl5P)P)Jl)Yg:PB&lJ!Yu2<YPooU&4YJ)<Jo45YBY5lQI2<&5:2YoV&u)oYP)444Y<:PB5_&I:u&&<P&&&&YYl)uJ&4UYY:BloBB<5uJ2:Jz&255U)J>))Yu:oBUPlrBuu2P&5)&&:U:)2J&4):U:l<uP<<U2U2BoB&PUoUJJ2:BY2B2B)o2xlu22oP)o45u&4)PJ54JuPBmlPb&<)5:P_ol&o5)U4)B4<BP<2BJ}J<Z202&oPoYUl4B)o4o44:4B<lBM5uJJYP<ol&&U5UYJY4uBo<PB49J<<uo25o5o:)jl2)54&4Y:VBulY9U2422P<&<&5U5U:JU42:&luBYS4<uu:2UoUoB)<Y-)54&4::<B2!2T)2Y)lP2&u&U5YUBJU4PB5BUB:i:<2222)onolUuJu)U454B:oBPgPvJu<<JP2o&&)B<UlJ24oBU<5BBOP<PuU2JoP&iJ2UB))Jl4lB5Bo.Ya42B&:PPoJ&J5B)e4H4&l)BPBl>o<o2:24&u&<5P5u)JJ:YR:PB&l)9Y<l2uPooU&:UD)<JP45YYBUl{{2<&5YJJ4B:)4JloNPuu2o2)o)lY<&u.22P&JY:YBMR)<2NJuYouo&QU<5uJ2:o>4P55UJ)YJlYu:oBU<4PJu<2oP5o4&:U<)24&2UY:BGluE5<Uu42Bo<Pl55UJ):4<Y2:&B)lY0luu2oP)&Y&BU<)PJJ4JY:BHl2=&<)uY2loP&)5UU4)Buou:PPPlll<Pu22&P)YPBPB)lJJJ:5YBB<lPo4U2)JJo52:u:Blu<2BYBol:<42i5oUYo5&lU:JuB5t2Y)B<ll<Po)54<:PuP<oP&5YBl&w:<UB&Poo<&oU&oloU)4Y2B2l<lU<Uuu2Bo5lUGB<YulPu44:PBJl:<24&Y4:JB:^p&5U44<YL&u5uUo)UJ44Bl<)q258Y<l2HP2o&)Jl2)uJu4oYU:4BB5&2&&U2YoS&r52U&E&8:25:PB)lUM4<B)BJoY4:u5l)&J24&Y)Pl&25P5B)&Juoa&25PU5)J:BuU:oBYl)NY<l)U4PYJ:U:lOoJ&4)YJ::lA5uU)uY2YPl&u5oUU)4lYT<<)B5lJa:u%UPP5o)&Y5l)uJo4Ul<ubl<XP<52e2:o<&2UPU)Jg))Yu:oBU+<^Buu2PP5J4&BUR)2J54)YY:llU22<Uu42B&V&P5UUJ)B4{Y5YIB)lYSl2<2oP)o4&B:u)oJ54JY:Bwl2e&2l5;2lou&oUuU4)l4<Y::5BBB5<Wu22&o2oY5cUu)))u44YBB<Mu*5<4u:P8JP&55)UYJ<4uYo:Ul<4l<<uP25oUo:5<U2)&J)Y/4)Bulo=Uu)uBPuoP&4&PU:Jr42:o:)B:ll<u5&2)P4oB5PUP)5JJ4:u<BPl5a)<YulPuooUB4lUBJu4P:J:JBBG0u<u&2:2&ol5uUoJ4J44l:<BUB<AJ<:2MoJo&&J5YJ<Bo4&Y):4l&D<<Pu5P-.B&c5PU&48JYYI:uBolUnl+U2<PPo5U<5:)<J24J42:YBlEu2PuU2YPB&<YoUU)4J:YW:2B&l)2u&<2uP&oUUU5B)uJPYTYJB<:Jm2<&u)o)Pl&25o)J:BJlYu:Pl<lJ+:uS2)5Po)&:5l4<Jo4)Y4:ll<bUZ<uJ2:owUu5&UJ)YY<<o:&B)l4<Ju<2PP55JJ)UL)PJ&4JYYBulu<5&4uYPxo<5P55UJ)::>ll:&B4lY<<uu25PUo4P<U<)&J544Y:Bul2u&oouYPuou&o5UU:)B4<)::5BYl:<uu22)P)&BYuU2)UJUY5YBB<lPu5o&u:P2o2&)5))5)lYP!U:)BllB<uuP25PJo:P)U2)4J)4:YlBPlo*UY<uBPPoP&Y5JUlJxYo<):Jl%ll<Buo2UP45BJ:UP)4JJY<:!B&l&ml)YulP2oo)&54UlJ<4UY5:B:5O,<2u&&5PY&j5uU)UuJ44B:<<ol5z4<:2K)Po5&:5Y)2Ju4oYUg4l&r<<Uu5P<P:&o52UJU2JY4l:uu)lU6Y<BP2)5oU&B5:)YJ24&Y)lYu4-u<)uU2lPB&55PJ5l<J:Yo:2B)l)<P<l2uJloU&l5B)2JP4)YJBlP2(P<4u)PUPl&u5oJU:5JBY&:PBYlJ<2u,o2&oo)5u5l)oJoYeY4lBPUKP<:uJP2oS5P5&U)M&JlY5:oBJl4<iu<oP&&oJ52U;)&J&YJYY:lP2#&<lu4Puo<&P55)Ylj4<Y4:&l&lYEluuooUPo45&U<)YJ5Y)Y:lu2&d5uuuYP2ou&o5UU4P24<YB:5BBl:<iu22&BBoY5JUu)JJU44YBB<))Q5u&u:P&o2&&5)UYPo4uY::Ul5lB<2uPP5Y)oB55U2):J)YPYlBuBTpU<4uBPuoP&55JU:J342Y&:)B:ll<uuo2JoJoB5<UPBJ<Juu22o5o55:U<5JJ5YBYJBPlYXo45Y5:JB:V,&Pu52JPYol5uUo)U442::uBol5_4<:2OP2o&oP5YUlJu4&YU:4BBr<<Pu52JPB&252U&))JBY2:uBolUoB)uJS4Po)525:)XJ2ll2YuYo4&2UB)<J)4o&25BU5)JJ: P2Yo)oY54U:JWJJ44:l)2)<JP45YJuBl<L2<&u)2YPl&u544&)4JBY<:UB5l4w:u<22PJP2&Y5l)uJ)4UYY:BloBB<5uJ2:o4&255U))Y}jY2:oBUl4fBu<2P&5)&&:U_)2J&4)YB:llUY&<Uu42BoY&P5UUJ):4!Y5YHB)lYVlu:2oP)o4&B:u)oJ54JY:B;l2;&2)BY2lou&o5UU4)l4<YP4PBJl:<_uo2&PJoY&l:2)&JU44YlB<lPk5uKo4P}o2&&UUUYJm4uY&:UBlBU<<uP25o)o:5<U2)J)24YYlBuH)dU<YuBP<Jo&U5JU:J<42Y&:)wY4l<uuo2UP4oB5PUP)5U54::aB2lUO)<:ulPuU)&)54UBJ<4PY5:JB:5U<Pu&2)P:ol5uUo)U)&4B:<BPlU_J<:2eP2o&&)5YUlYo4oYU:4lIF)<Pu52J)&YBB&lJlJ<Juu25B5l4W4<B2<U:YJJ45l)5J24&Y)u8oP5oU))JJJY5&25lU5)JJ:e52UoJ2Y5PUU)BJ)YJ:sBY)2J:45YJ::2<&&5)UBJlYu:<B5/<):42Y<:PB5P:5oU)Jo4Jo4U55l)uJoll2Oou2P&Y5U)Y)B42:5:4l4::<l2u2JP)&:&lUl)5JY)4B*l)S<f)44:Z:llu-ooBUYJ<4&&&5YUJ):430524PYo:54uP2YPUo4&B:2l:yBHBP&oQoU-U<YuY2lou:2::/uJj4:YP:5BJo<UuUPJP4YYY:7lPlJ<&<BP5B2l)>5<Ju:)R4P:PB:llJ<4&Yo:UB4PY5u)<)YPY&45mU2)&Bluo2:P&245<U:J<4o)5YlB2l)=P4oY):)BYll&Po&&:P:&o5<UP)5lJu)2<oYo454Ul2<o5oo&U54:P9Juuu4uFo&5uU&)J5Y4PYU:BB)B5<<a<2:Po&J5:<l2oP2o&&)BYlLX4u524::lu#<<Pu55l44:oB%UUJuJY4l:uuU&;&Y)v)uJ5Y4YlBl)uJ54&Y):Yoo&25UU:2:o2&<5PU5BA<lulP<oJl4<P<l2uPoJ=BXB4lu<uu&22P<lu<l<&u)2YY<YPB:B)SBu<u&PUu<u)2Y)P)U4BY:B<l<l5<UB52<2loP&)Po)JJ445&&5&U))YJlYu:oBUl4<gu:2PP5oJJBBPl5B5<YulPP&o5UU5):45o2&U55UJ):lUuU25P:lB<ouu2oPUJ4Yll2l)<ouBYlB:l2}&<)&lJ542:5:)BB<u<&2&uPPl5W5UuoPoP)oY&lYJ9J<o<Y2Yoqo:&4&Y)&J5J5:lB)l<J<4&Yo:UB4&o5u)<)YPJol5JU2)&J)lB2BP&&BP4UJ)J4>Y&:J5Y)PJ}42Y&u:o<55U&)JJJ43lb5<UP)54Y<K:<Bol&u)<YulPu5oJP54)qJ<4&Y5B4B:uK:2u&24PY&<5uUY)UJ4&2:<BUl5}J<:2ZP2o&>l5Y)<Ju4)YU::BB<2&5uU2:P:U{52U&))YYl4:uBUlUWB<BPuPP55uJ5:)2J24)Y)B4BlZu:PuUP,PB&u5PU5)JJ:Y&:2B)l)<<<l2PPo&J5<5B)oJPYJYJ::lZu2u)u)P<Pl&o5o):)4YBY2:PBYlJ<uud25P&o)5<5l)5Jo4BY4:Bl<pP<:uJP<ok&25&Ul)Y42JY:oBUl42Yu<2oP55Ju:Ui)YJ&Y<YYB<lu<5o4uYP)o<&)55UJ):4x&):&lulY<Juu25PU&<ulU<):J5:,Y:B<l2x&<)2-u)ou&o5UJ<)B4uYP:4:Pl:<*u2&uP)o:&lJuooJUYPYBB)lPZ)<J2lU2oP5<5))u)l4uYo:U)<lB<JuPPuPJol5cU)YPJ)YoYlxBlo{)<4ulP<oUo<5JU:J/:lY&:JBY<l:uuoP<P4&&5<U&)54YD#:<BBl&<&<YulPuoo+B54)5J<4lY5:YB:,&P<u&PuPYU45uU&)UJY4B:oYBl5=J<:oYP2o5&))YPlJu4BYUB2BBK2<P2)5:PB&452JP))JY4l:uU4lU<P<B2YPPo)&JU2o<J24lY)OuBl/2<ouU24ouP45PU5)J:2YV:PB&l:l&<l2uPoUP&45l)<YP55YJB&l3k4<&u42Y&<Jo5&)2)4: Y<:PB5lJ42u^2YP&&P&YU<)uJ4B&Y4B5l<2f<5u42:o<&25J52)YJlYu_<BUlY8Buo<BP5oJ&:JB)2J54)BY)llu#B<U222BoP&P55&5):4)Y2:UB)l:;luU<UPUol&B)<)PJU4JYlB-l5l0<)uY2l&u&o5)U44BB:YP:4BJa7<X2U2&&)&4&lU&)oJY44BJB<<P<u<J2<Pgo5&&UUUY4<YuYo:BB4<P<<uP25PJ&)5!U5)&Jl4Y:<Bul4<2<42uP<UY&554U:J<42YJY2BYll<uo:2UPYoB5o&B)5JJ4:e:B2l5G)2Y&4Puo)&U5BUB4&4PB5<&B:3P<2uJ2)&Uol)uY<)UJl4B:oBPr:_J2:lyP2oJ&)U^UlJo4oYU4UBBZo<Pu)2JPB&8Uo:))J464lBoBolU142Bl<PPoY&J5l)eJ54&Y)<4lT(5<ouB24PB&<5P<l)J4<Ym:2B&lleYu2<YPooU&4l<)<Jo45BJ):lTIY<&2<2Yo<&uU5Y4)Y4)Y<:JB5lJy:u;:)P&&u&YUJ)uJ54U:<xYl<i:<55:2:o<&255U)J8))Yu:oBUPB0Buu2P&5<J&:U))2JB4)YB:l%PPU<)2&2BoB&P55UJ):o&Y2:lB)_5bluP2oPB<Y&BUJ)PlP4JYBBTl2{&<:<&2lou&oYoU4)l4<YUY<BJl:<T5&2&PJoYUlPu)o4<44:&B<l&K5uY5hP<oB&&)4UY)l4uYo5BB4O5<<ul25PYo:5&4<)&4u4YuuBul&pU<YuBPo2B&55JU:l242Y5:)lVB)<uuo2UJ<oB5uUP45B&4::)B2l),)2<ulou:P&)U2UB4B4P:R:Jl<BJ<2u&2)4lol52Uo4U&44B:JBPllZJ<l2,oo))&JU5UlJ54oYU:4BBJ5<P2-2JoU&W5oU&)l&:4l:4Boo)z4<l2<PPo5&B&5)VJ24&uJ:Ylj=u2o&P24o5&<55U5JlJ:B.mlB&tuQYuU2uo:oUU42B)<J:45:2::*4=2<&YB2YoJ&u5:UU)4JBY<<oB5K2T:u422P5o)5f&))uJo4U2B:BlunP25&&2:o)&25BU)JJJlBU<)BU>PIBU&2PPUoJ5:U3)5)x4)YY:lo50o<)u4Pu24&P55UJ<%4gYP:&!)2UFlu42oP4o4U2U<4PP)4J:&BTlY+&2<uYolo4&oU<U4J54<YB:5lYDU<du:2&o:oY&lUu4o4u44:UB<lBw52)u:&Eoo&&U2UYJ)4u:o:Ul<Z2<<u:254Uo:5<U2J=J)YK4)BuloaUU)uBPuoP&4&PU:JO422):)B:ll2uBo2UoPoB5)UPJ)JJYl<2BP0<I)2JulPuoo&Uu<UBJJ4P:u:JBl_t22&u2)o&ol5oUoJ:J4YBo_Bosk7J2J21P:o&&lolUlJ&4oZJ:4Bl <<&u52B25&^52U&:4JYYj:u/o4U^4uu2<P&o55)5:JuB&45Yl:YEoWu<ouU24lP&<5UU5JdJ:Yu:2BYu5.Yu22uY7oU&Y5B)uJP444P::liF2)<u)2:Pl&&olUU)4JBP<:PBUlJu:oY22PJo)&B5lJUJo:U24:ll&9P<JuJouo_U2UPU)J<JlY5:o7Pl4<B2J2PP4oJUJUz)UJ&4:4&:llueoJ2u42lo<5&YJU4J<43YP:&B)lYuloB2oPYo45uU<)lJ5YY<,B<lUk&uuuY2lou&oBuU4Ju4<Y&:5BYl:P0u42&P:oY55UuJYJUB4:&B<lU05uUu:o&o2)&U<UYJ24uBU:UtPlBP<)o2UPBo:5YU24!J):Y:4BulJbU<BuBo&oPU55:U:Jo42Y4:)QUlluuuU2UPloBUBUP)YJJ::XYB2lJ-)<lulo5ooUU4&UBJo4PY4:JIJNH22u)2)o<ol5oUoJ:J4BBB<BPlYpJ2J2M&Po&U)))UlJ54oY4:4.2I<uPu42Jou&1)cU&):JY4lBlBolUR4<l2<PPo5&J5:)cJ24UY4:YBl0u<5uY24PB&<YUpLDJ<uYuBPB&l)hY&l)245YY:PB<l:z)ll22o<2o&)5YUB)lY2&&5oUU)4JB<u:oBUlJm:un22P&5)JU5l)2Jo4)Y4Bql<<P)&u42Boq&P5&U))YJlJ::oBUl4Ilu<2PP5oJ&:Ut)2J54:YY:llui5<Yu42Bo<:u:Y9u<<4uY):&B)lYU<U2JYJlY/BuU<)&J:4JY:BAPo&4U&)44o45555UU4)BY2<5:UB4l:<uu22&P)oYY U2)5JU44YBB<lPF54lu:P2o2&&5)UY)l4u&4:UBYlB<PuP2)PJ&22<U2)5J)Y:YlB2loTU<42uu4oP&55J)BJm4PY&B42la%<2uo2)P4oB5<UPBUJ44l:GB2l&%)<Yulh5oo&J54)IJ<4PY5:Ju<;<<&u&2YPYol5uU)UuJ44B:<l<l5*4<:orj2o&&l5Y)PJu4)YU:4Y46<<Ju52YP:&<52UY5YJYY;:ulZlUCY<B22PPo4oP5:),J2Y<Y)::Bl1u&&u)2YPB&<5PU5)JY:<4:2B5l)RY<l2oPooUo&5B)<JP4UYJ::ln{2<&u)2Yom&P5oUU)44,YJ:PB5lJ&<Uo)P42)Y:PBPlo<14JYB:Bl<KPo)))4ooP&25&U))Y^0Y2:&BUl4LBu<2P&5)&&:U<)2J54)YB:lvuUP<)uY2Bou&P55UJ):)4Y2:&B)l:qluu2oPUo4&BU<)oJB4JY:B#lo<&<)uY2l)J:JBoBYsYuIu:242Y&Y5l)5U&JJYBB2UP)BJU44YBuPoY&UUYUBJ2Y5Y4B4UBJ)4uYo:UuBol5BU)J)J44<B)l2l4J4YJYlBuloPBUP)YJo)J:mBY*7<Pl&uBPuoU&2<Pu42UP4oB4PYJ3)p4uJ2oBolYA)<YulUoYJ:4Bll:!B4&Y4:JB:x!oU)PJB4)5U5uUo)UJ4xl:uBPl5LJ<:2gP25&Jo5YUlJu4oYU::BB*5Puu52JP:&o52U5))J:4l:&YllU74<B2&PPoU&JU<5JJ24&Y)B4BlL2<oPUl4PB&u5PU5)J4<YIBou)lJIl<l22PooU&45B25JP4UYJBel+to<&ul&JPl&25o)2)4JlY<:oB5lBl5uF22P&&P&YUC)uJ)JuY4:Bl<<2<5u42:o74P55UJ)Y4WYu:oBUs<Ylu<2oP5&)&:U<)2J&4):hY)lu/o<U2J2Bou&P545P):4+Y2B&B)l:NluuuePUo4&BUu)PJ54JY:2<lP*5<)uB2lou&oUJ:B)l42YP:BBJl:<.P2J&PJoB&lUP)oJ444BBlulP=)<JulPMo)&&U))J)l42Yo:4B4S9<<PP52PJoB5FU2)&JJ4YYl22l&ZJ<4ulP<oP&5UJ^YJ<4PY&:BBYb<<uuou2P4oB5<Uo)5JJ4::_B2l&6)<Y2<Puoo&U5:))J<4PY5u<o)&lUJUlJ542JtB5l5l)J:Y2:<BPl5P:UY)Y4uYU&:5YUlJu4o<):YBl8<<Pu52JP:UmJlU&)JJYY!:uB&lU<4):2uPoo5&Y5:)CJ24&4P:YBlVu<&uU24PB&<5PU5)JJBYu:2B&l)RBuP2uPooUJlB2l:1o2-YYB5l;e2<&5:JB4UY):YB:r:<#2_PUB4lJ/:uS22)5oJ&:5l)uJo4UY4lBu:_P<UuJ2Bo,&o5&))<44(Y2:oB)l4,Bu<2P2uoJ&:UZ)PJ&4)YY:lluSo<UuYP)o<&P55UYJ:4RY2:&2<5<5YU2J245YP:u:2F2<&uB<:P<&o5J<42u2lou&oYJlQt4uW2J2YBJll<Pu22&P)JJ:QBllJJJY#YBB<lP&)U)JoJoY&&UU-UY)l4uc)2:oB5uU2)24bPY&45QU2)&Bluo2:P&245<U:J<4o)5YlB2l)LP4oYB:)BYll5&)5))YuY5:lB4OJJYY&: B2l&PYUP)14P4&Y4Bll2<24&Y::JB:KG&2U5J44<Y:B&U5):J44B:<oPoU52UlJ2U<o&&)5YJ<lo4&YU:4l)w<<Pu52J)B&<5PU&))JY4l:uBo5YsY<B2<P&o5&Y5:)PU:4&Y):YuJVu<&uUP<o:&u5)U5JBJ:Y<:2B)l)<g})2uPooU5l5B)uJP45<4:Blo(2<5u)2YPlUu2oUUJVJBY&:PBBlJu:oY22P:o)&l5l)&Jo4U5<:Bl&%P<BuJ2lo*&)25U)J<Jl:&:oB)l4fBu<2U2<oJ&:U;J5J&4JYYlluB#o<:u4P<o<&:55)%Y44GYU:&l)lY<^uu2&PUoloUU<)PJ5YJY:B<l2nJK2uY2lou5)5UUY)B:<F=:5Bll:<2u22lP)5YulUu)JJUYaYBBUlP<)o:uBP5o2&55)UY)l4u&4:UlIlB<UuP2)PJ&2)BU2)4J)l5YlB2loh)<42uu4oP&55JYUJ34PY&l)uUll<Uuo2YP4&25<UJoUJJY2:q04l&DJ<YulPuo)ou54UBJ<:YY5:4B:<u&&u52lPY&J5uUo)UY4lJ:<B4l5!B<:2oP2o&B:5:)oJu45YUB2BBNolBu52JP:U&52U5))4uB::uBllUu4<B2uPPoU&JU<5JJ24&Y)lYBlv2<ouYuoPB&<5PJ:)JJBYkl2uul)<5<l2YPo&u&4UP4lJPYuYJ(<lFyP<&uJ2Yo2PY5oUU)4:uY<:oB5lBl5ub22P&5l&YUV)uYo5UY4B)l<ZB<52,2:oxPF5&)P)Y4<Yu:&BU^<l<u<2JP555&:U<)2JU4):_Y)luvo<UPU2Bou&P)5Y&):4&Y2:JB)HPrluUl&PU&<&B4J)PJU4JY:B>l5l.<)uY2lU4&o5)U44H(PYo::BJXU<eu22&&))U&lU))oJY44:&B<lPU4<422P,oo&&U<UYJ2)YYo:UB42o<<uo25ob<B5yU:)&Bk4Y:7Bulo-U<l<UP<oP&54<U:J<42B&<oBYfJ<uul2UP:oB554u)54o4:GoB2l5h)<:ulP&2l&U54UB:&4PYU:Jl<BJ<2u&2)U2ol52Uo4U&44B:YBPf<7J<l2;P222&)U5UlJP4oY):4lPBP<Pu:2J5Y&n5PU&)4JYY24YBolUX4P:2<Poo5&JYB)<J)4&Y):YBlEu2oU224oP&<55U5):J:Y&4&B&l)bYu22uP&oU&:5B)oUB45YJ::lP_2<5u)2Y2J&u5oUU)YJBY<:PB5lJn:u*22P:o)&Y5l)PJ44UY4:B2PPJU)U4JJ4o&oUwU))YJl<o2UoJ&P5B)o)oJ)Y&:uUu)5J&4)YYuP&W5JUou:P5o<&P55Y:io<<2o25PY505P)P25oUo4&BU<:Y<Yu5uBPB&u&l5:5BJBY<:)YUBY<8uoY&BoBJl:<G&))l45Ye4oB4V5<4ul<<P)o:525BulPJo2&&5)Yl*t<luJPJPYouUJ)P)Yolo:57U2)&lJ4:YlBulo3U<4uB&<)>&55JU:J642YJ:)luYh<uuo2UoPoB5uUP)5JJY<4JB2l&h)uoulP2ooUU24UBJu4PY5:Jl2mnuo&)2JPlol55Uo)UJ44B55BPlU.Jua2(Poo&&lJJUlJ24o:u:4Blv<<ou52B25&v52U&J2JYY9:uBoB2s4<B2<Poo5&J5:)VlP45YJ:Yl^,u<ouU24U2&u5oU5)4J:Y<:2B&PJ}:uV2uP5oU&45BJ2l54UYY::l2K2<&u)oY4l&255UU):JBYU:Pp5tl>:uu22PUo)&B5lJu4o4UYY:BlUKP<)uJ2:J<&P55U))BJlYu:oBUPYVlu22PPJoJ&:U+J2uo4JY::ll2bo<Ju42B2Y&P55UJ)B4qY2:&B)lYAluu2oo5o4&BU<)&4<4JY:B>o5&4UYJoJ:4o4uB5Bly242Y4:5BJl:o&)uJUYb4:B<B&)54&44YBB<2J5mUU)<U&4Y:UBYijBu<JuBPPPle><:uP25PJY<:ol&tl<5<l2BPUo454UnJuP2&P&55JU:BUuU222JoJ&B54U)UJ4JY:Bo:PlU<Y2<:uBYl&6)<Y5uJJ4&:J:Yl<<o<)2):Yl<;+<2u&)9J:YUB&U5)BJ44B:<u52:5Y5B):JUoU5<5YUlJu6U2<2lo25U5oJ_J:Pl&552U&))<2uPP&PYo:5))P2PPPo5&J5:)7J2:uU):lBl9u<ouU24PB&<5PU)JuJ:YV:22YoB5B)2)4JU4):5Uv)BJP45YJP<oo5&Ul)5)l)P:(:&BJt5<2uo:&lPlJ%:uiUoJ4Y5:DBP_PlUuY2*PB&<&)545J2:o &25&:J):JlYu:oBUl4TBP<5KP5oJ&:UR)2JY4):uJ3ludo<U5J2Bou&P55UJJ<)JY2:&B)P4alu22oPUJY&lU<)PJ54JY:Bb<2P&<JuY2lou&o5BU44BY2YP:5BJl:<Zu&2&o45<&lUP)oJ:44YBB<lP<4<Ju:P oo&&54UYJoYYYo:UB4P:<<uo25PJo:5P&:)&J)4Y<BBul&.Uu:U<Puoo&5UPU:J{42Y&JYBY8H<uu&2UP:oB)<Y()5J44::<B2lJ/)uuo:Puo&&UUYUBJu4PYU:Jl<BJ<2u&2)o:ol52UoJJBB4l:uBPTuZJ<:2GP2UJ&J5BUlJP4oYU:4Q7oP<ouJ2Jo5&}52U&))5l4l:oBol)(4uS2<&P)2&JUC)VJ&4&YJ:Y<oPP<ou424&:&<5oU5J5J:YP4:B&l)_Y2B2uP&oUU44J)<J545YJ::lU(2<&5J2:o2&u5&UU)4JB:2<5BUll^:uY22P&o)&YuP)uJ44UYY:Bl<bPu)&:2Bo5&2UuU))YJlYu54BUllpBuU2PP)oJ&:2&)2JU4)Yl:ll&(o<Y<o2Bo<&P4UUJ)B4z:ou)BJllxluY2oPUo4&BoP)PJJ4JYBBrloW&2)&U2loo&o54U4)l4<BJ<)BJS><0Pl2&PJoY5<Uu)))u44YBB<uCE5<4u:&NUl&&5YUY)l4uY::UB42U<<uU25P4o:5nU2JU4B4Y:PBu!<wU<4uBo2&u&5UiU:JY42Y&:)BY<u<uuY2UPYoB5<UP)5Yo4::PB2l:S)<BulPu&)&U5:UBJP4PY4:Jl<<J<2u&2)U:ol52UoJJlB4l:PBP/< J<:2cP2u)&)5lUlJ24oYJ:4sB2:<PuJ2JoL&15PU&4llm4l:oBouJ(4<l2<P:o5&B&5)qJ24&l4:YlC#u<)<u24PB&<JBU5)4J:B%zlB&lYHY<l2uP:oU&444)uJU45Y4::lTS2<&P22YoP&u5&UU)4JB:2B&B5h+e:uY22P&o)5B)o)uJY4U:5:Bl<HP<5ul2:oP&25:U))BJlYuB4BUl:MBuP2PP4oJ5<)Y)2J&4)m::ll2vo2U&52BoP&P55UJJo4yY2u5BJKA}lu22oPUo4U,YP)oJY4J:)Bcl2R&<):<2loU&o5)U4)B4<:&<JB47P<Iul2&P)oY&luU)oJY44:oB<l&T5<JB2P7oo&&5YUYJ24u:5u4BY#<<<uB25PJo:5(o&)&JY4Y:nBul58U24&JP<o5&55:U:JB42YY)JBYXu<u5P2UPYoB5<UP)4)P4::%B2Po#)<:ul&u)<&U5BUBJ<4PYl:JB:5U<Pu)2)PBol5uUoJUuJ4l:<BPllLJ<l23P2J5&J5lUlJo4oYU:4^B2:<PuJ2JoV&eUuU&4)&Y4l:oBol4C4uo2<PP2P&JUw),Jo4&YJ:YBlo2<&u424o8&<5PU5JJuYY<:2B&r<,Yuu2uPoP2&45B)<Jo45YJ::l;S2<&u)2Yo<&u5oUU):4uY<:PB5&B&B)2)BPUoB&Y5l)u<UuUuYoool<P<5uJ2:o}4P55U))YJlYu:oBUb<2Yu<2PP5oB&:U<)2J54):SY)luyo<Uul2Bou&P545P):4!Y2:4B)l:{luuuwPUo4&BUu)PJ54JY:u<lPE&<)u:2lou&o5UW2)l4<YP:5BJl:<S2oU)PJoY&lU2)oJU44BB<:lPD5<Ju:Pnoo&&5lslJg42Yo:UB4ll<<uU25PJ:A5<U2)&JJ4YYlBulo54<YuBP<o&&55JU:JCu&Y5:)BYku<uuo2UP4:<5uUP)5JJ4::yB2l&B&<YulPuo5&U5YUBJ<)lY5:JB:q<<2u&2)P:ol5uUoJuJ44B:<B&l4zJ<:2Z4545:YB5)u2YPB&<5PU5)JY:&&2Yoi&v52U&D5<<2&:PBBlUT4<B5PJY4U:Y:Bl2<5<424:lU))4JBY<:PB5mJ42U)JJJ:Y,:2uB&B5)U+J04PY<Yl:fz9<2u4<J2B&u55<U2&2YPl&u4ll<Lluuu&P&uY&U&BUu)lJ44:&BUo)uJo4U-BuP&2&oUPUl2loP&25&U)<2<yu4P)BJL)iBu<2PU:Y2:4BP:)klu42lo22o&:U<)5Ju5:&P55UJ):a<YP:&B)lY^luu2o&U)5&BU<)PJ54J:PBXl)2P<)uY2lo5&o5)U4)l4<YUY<BJl:<EuU2&PJoY52&Y)oJU44l5B<lo85<J5BP<o2&&5JUY)l4uBo<PB4lB<<uP25PBo:5&4<)&J)4Y:)Bul&mU<YuBPo2B&55JU:JJ42Y5:)ltB)<uuo2U&loB5uUP45&J4::<B2l&f)u&uloP)U&)5BUBJ54PY5:JB:J&<2u52)Plol5PUo)B:)4B:uBP=5nJ<B2TPPo&&:&&UlJu4o:U:4Blf<<U<<2JP:&-)5U&)JJY:l;BBol)-4<B2<PJo5UJ)o)<Jo4&YJ:Yl5Auu52B24o<&<5YU5)JJ:B;:5B&lYVYuu2uPUoU&4Uu)<JU45YY::l002<&2J2You&u55UU):JBY<:)B5lYV:uu22P)o)5YU:)uJ&4U:2:Bl2zPu)P22:ou&255U))YJlBu:4BUl:>Bu22PoxoJ5lUY)2J)4):<:lluEo<UyU2Bo2&P5)UJ)B4dB2<uB)lBIlu22oo*o4UQ:P)oJJ4J:oB9l29&2)&U2loo&o54U4J<4<YPuUB4R<<0uo2&P)oY&llY)&JY44:uB<lP_5<J)5Pzo&&&54UYJ<4uYoUBB4Ci<<u&25P:o:Uw,u)5JJ4Y:5Bul5WUu:U<Puoo&554U:Jp42B&<oBYGK<uu&2UoPoBU2Y5)UJY4::uB2l&d)<YMYPuo&&U5:UBJu4PY4YPB:mc<2u&2)P:ol5uY&))J44B:<BPl5jJ<:JUPPo&&)5lUlJu4oYUY&BB}<<PuU2JP:&}52U&))JY4l:uB5lUR4<B22P:o5&J5:B2OYuuuBPJ&2P25B)o2:oo&<5PU5Bu<&2Pu2P5&4Uyu22uPooU&4Yl)uJo45YJ::lL 22&&o2Yo(&u5&UU)YJB:<o2BUl4a:uu22P&o)&Y&J)uJo4UYY:Bl< P<5uJ2:o{&P5UU))YJlYPB<BUl4wB&2J)42Y&:ulPB5<U<JulPP&PZ5<:u42Bo<J5B&l&nYuuY5:&B)lYbl522&P)o4&BU<)PJ5:Js)BblP/&<JuYP-ou5ol5UY)l4<Y&:5BJl:<eOB2&P)oY5,Uu)oJU44YBB<lP+U<Yu:PGo2&UU)UY)l4u6&P&oP&45u)UJH4)Y44ol<l5R4uU2PP&l5!Y<4uBP<JuYUB5luJP42Y&:)BYob<2u&2UP4oB5<UP45B&4::<B2l57)<Bulou:P&)5YUBJu4PY5:JB:B4<2u&2)P:ol5uUo)UJ44B:<Bol)_J<:2!PooB&)5YUlB&<B24PlPl&l55UY2YoP&>52U&:B<Juf2Po<o:&luu2<PPo5&JYB)<JP4&Y):YBl u2o&P24Pl&<5oU5)4J::LouB5lJDYu<2uPooU&4&))<JP45Y4::lGd2<&u)2YPl&255UU)4JBY2:4B5lJE:&oJ<J544:UBPl&J5Y-Y4:Bl<PYUI)B)x4l:UBPB:JiJlYu:oBUPYpluu2PP5oJ&:U=42Bu4)Y::ll2%o<Ju4PB:/&o5UUJ)B4iY2:&B)B5jluu2oP)o4&BU<)PJ54JY:B<lo}&<)uYP<oB&o5UU4l2uPu)u<ol&JU#52JoYHY<B<U2)oJl44YBB<lPoU<4u:Pko2&&5)UY)lUoYo:UB4ll<<u&25oNU45>U2)&JB4Y:wBul&}U<l<UP<oP&55lU:J<42YJY2BYll<uu42UPYoBJ<UY)5JJ4::<B2lUR)<Y<JPuoo&U5YUBJ<4PY5:JB:S6<2oJ2)PYol5PU))UJ44B<lPo&P&l<l2BP2o&&)YulU<j<)QBPP&g5PUU&JJu4&YY:5UU)BJY4l:uuU&555U:J2P&o:&J5:)gl&<l2&PYo4&5<52o24PB&<45lYrY<luoP<oJ2Y&:UY)5454)&:Uo)<JP45<uPuo<&lUJ)<5&o<&U5oUU)4l<i5P&PU&55uuuP2P&o)&YB&l5<)v422P:&n5U&5))4_4):5:llUNJ4<:):oBUl4oY)(oPJl4lYBBYI5bB:)2BPPo&5J54)lJ5Yf:u)5l0DYuuYoBuB)lYFl&PJJ4PY5:2loBU<)<42cPo&opUuouY2lou4oBPBY<5l)u:P42:&YUo)<)JP4UU&lUu)ol&uJBBoo&25&U&P:JlYoU&BulJ<o<22<P<Pl<BUPUYJ&4):<)+l2Co<YuoP2P4&P5&24)P4HY&U5BBllr<<&u4P4BB<l<uuo2U))Y:)<lJlU<&u&2Pt2P)5uUU)P4(Y)UU4Yl5iB:P2424ol&55U)Jo)4uYBB5l2lYJ::o:<BPl5P:Ul)oJPYJYBYYlN<Pu)2<2BoJ&&oY)HJB)uY&:)B4lYu7Y<B5BolUm4olJ<4PY2B2B&lBMJ:&uY2:oY&5U5U)o4Y<Y):olullJlY&:2B&l)oYU9JPJJY&:lUC)JJP45YJ2mo)&l54)54S)7Y4BuUJJ2JBY<:Pul&l5JU<J<4oYu:9U<))Jo4UY4u2ol&o5))&Ju4P&o5BU))YJl<uPPo4&PUuUJJ24ooY5&U>)2J&2724o<o:5UUUUYJ<4&&&5YUJ):4A22PUou&JU2uPPnPUo4&BYUbz<&2<2&PBoJP5UB)BJLoPUB5UU4)Bl)u:P48J&n5l)uJuJ:Y4B&ly4o.)<BPuPJ&J&YP&P:4P4Y:2:BJY<u<42224oV<B5:UoJJ4B5::UBYaJB24B:<BuloLUPU&YP25P&55JU:BBuuB&2YP:&Y55)5))&4YPBLl)go=B::2&ou&Uu)Ul)5J2YvY:)4l2X5<JuY2:&<du<Yu&2)PYJY:2l:B9<Q<l2:oUol,Y2J2TP2o&JYBBlP(2u)2<P)oou<&5)xJ54:YY:UJ&l4u<u42BPJ&Yu4)uJ2Jo4JYlBl)u4l4&Y):Y2u5P5JU)Jl45Yl:4J5mJ B2uP5PloY5UUPouJ:Y<:l)Bl&MJ<:ulP(&P;o2<u)2YPl4ZBPJU>4uIu&PJoZ&)Uu)2o2JB4BY:B4s&H::Uul2l&o&o25)vJYYu&oUoU))YJlu)2JoYPf5l)&):45YJ:uBPB5<ouU2UBulujo<Uu42Bo<&P55UYJ<4DY2:&u4&<58Ul25o&o4&BU<:)m:u02uP2&55)oB)JJ!4P:<::BlJ-4oYP:5BJo<U))2)4P45Y&lUu)ol<u)PPPu&_5}5BP:4y4lY5lul<<<:u2PPJ(45u5u)&)BJl:<:)l<l:Y)ul2PPBo4_JuYuBP<oP45B&BB<)<Y2PP3,Y&554))oU4BY:B&lul4JYY<:+B2l&5:Uo)uJ:o5U254UBJ<l52)2lPB5P5Y)PJ &YJ<:5B&IoY4u9P&or&2&l)<oG45YUYJ:llP<P45Y::4BB6<&5)4424)Yo5o)Y))JY4l<)PJ&Yo4UJ)u4:4Y:YY2{u<uu2KYPPox5P5&U4Jl42:25&)))JJ:YF2&oUoB&:)2)5U5Y::5BJl&<Ui42Y2Bo2&UUUu45uPl&u5o:4sP<Ju&Puo4<JPBU)J^&&YU:B)l:5/4<B2*P<&o5525UBJ&Y2YP:Ulok<<2BBloo4&&55)<JP4VYU:PJEl49lu:BYP2o55)5:UB4u4J:2BoUYJ&4QY2:&PY&4U<)<JJ4YYP:YB&)&4Y4JY:BV2&5U5BU:424542::lJ1Ylu2J2UoBoBUu&&Ju4UYJ:PUPJlJU44YBuP&&&Y54J<J)Y<Y:))lJ0Pu<22lUPY5P5u)U)U4Y5::2Bl.o<5u<:<l2lo!U<45BJuY&:4B2l,DY<ULBPu&/PP5UU4):JB:u52UJ)5JJ4:<UPUo55o)})5PPo)&U54UB<Uu&uUPJBl;Y<2u&2)Ul:<:5B&>Y<V<uP2PooJ&lUl2uouo&&)5Y:5t4u)BU2lo25o5)UJJB4uYP)2loI5JBB&:uBolUol5lJ2J44Y:B):lUrPu)B)PJoBuuU4U)J545Yo)PYlpl<Ju<P<oo&u5m2lJ<455U:Pl<4<%U<Yu4P<Y:j2<&u)2YJa&25oUU)4JBY<:P65&2M:u(22P&o)5:5l4u4)4UY4:Bl<(PuJuJP2&<&25&U)J&JlY2:oBUl4<uQ42PP5oJ55Uq)PJ&4)<:B#lu1o<Uu42Bo<UP42UJ):4,Y2:&lJlYuloB2oPUo4&BU<4&J5Yel4Bbl2.&u5uYPOou&&5UUlUU4<YP:5lUl:<<u2PU)Yo:&lUuJ4JU44YBl2259U<4u:&4o2&&5)UY5Y4uYo:UB:lB<uuP252oo:5;U2)5J)4YYlBuP&T)<4uBPuoP&55JU:5242Y&:)B:ll<Puo2BrYoB5<UPJJJJ4B:nB2l&S:Q&ulPuoo5454UlJ<4U4<:JB:v!uJu&2JPY5<YoU&))J4:P:<BPl5<Y&E2<Poo&5&5YUlJu4oJo:4BlD<<&u524P:&goBU&))JYYS:uBolUu4oJ2<Poo5&J5:JFJ24YUJ:Yld_u22uU2YPB&<5PU4UPJ:Y1:2gPl)X:<louU<oU&Y5B)<JPY5YJl:4_w2<5u)2:Pl&P5o)J:BJlYP:Pl)lJA:ud22BYo)&:5l)oJo4JY4BP4uiP<UuJ&eos&P5&U))Y42JY:oBUl42<u<2oP55JJ)U_)oJ&4JYYClluu4UJu4PIo<U455U4)::_Y2:J:2lY^luuoYPUoY&B)2B5JU4YY:l&l2F&<)2BUuo2&U5U4l)B4<YP:5Y5l:<uu22UP)o:&lUuU;JU44YBBulPt5<Ju:)<oP&U5)UB)l4uYolUJ4lB<2uP2)PJU&58J2:uJ)YLYlBulo<U<4uBB5oP&)5J)<JZ4oY&:l<Jll<Puo&&P4ol5<Uo)5JBJ5:7B2l&25<Y21Puo)ou54UBJ<BoY5:4B:t/&Pu52YPY&u5uUo)U4<2P:<B&l52l<:2<P2o)&)U>5)Ju4oYU<sBBgu<P2)U:PB&252)Y))JY4lBPuUl)pl<BooPPo5&J5:&:J24)Y):BBlK2<ouUu&PB&<5PUU)JJ:Y(:225lJIl<l2&PooU&45BBuJo44YJB<lSf2<&u)><Pl&&5oUY)44-Y<:JJUlJ<<uM&BP&oJ&Y5l)uJ)JuY4:Bl<2l<5u42:oPP:5&U))YB4Yu:&BU<4PJu<2UP5o4&:)4)2J&J9YYBulun5<Uul2Bo<4o5UU:):4PY2:&B)lY:Puu2UPUoB&BU2)PY5l&Y:BPl2W5<)oY2loUu&5UUB)B&JYP:UBJl:<Cu5usP)oY&l24)oJ)44:P0:lo94<JB&P^oP&&5YUYJ2)YYo:UB445<<uo25oU4<5!J2)&&u4Y:*Bul){U<l<UP<oP&522U:J<42:UuYB:VP<uP42UP4oB5<44)5Jl4::<B2lU1)<YPYPuo4&UUfUBJ<4PY5l&B:Wo<2u42)ouol5u)4)U4<4B:5BPl5OJu2PuP2oY&)YJUlJ24oY::4luB4<Pu52J)4&^5PU&):)&4l:uBo4<84<l2<o&JJ&4Uu).4)4&Y):Yh<ul<&uB24U<&<5PU54J4lYT:JB&l46Yui2uo5oB&4U&)<JJ45YJ::lz<5<&2u2You&u5oUUJ:Y)Y<:BB5<23:u;22P&&4&YUJ)uJ)4UY4:Bl<u<<5ul2:o4&255U)4YB4Yu:JBUl4FB2o2Po)J:&BU&)2Yo4)YY:llu:U<U2<2Bou&P5)UJJ24lYP::B)oJRlu22oPBo45u&4)PJ54Ju4BxlP6&u45lPjo)&oU{U4)B4<YP5YBJ{o<-u)2&P)oY&lBY)oJl44:*B<l&^5uAo4P-oJ&&:JUYJx4uY&:UBlBU<<uP25J4o:5<U2)J)24YYlBu556U<YuBP<Jo&UUuU:J542Y&:)#Y24<uu:2Uo2oB54UP45B&4::UB2lBb)ululPUU2&UU2UB7U4PYU:JBB7b<5<H2)PYol:)Uo))J4Yu44BPl5iJ)l2gPPo&&)Y:)cJJ4oYl:4BB <2P&22Joo&-54U&J2JY:liBBo;Dk4u&2<&Yo5)64l)pJ44&2::YlqZu<)uU2l2U&<5PU5zBJ:Y<:2lUPYm:u52uo4oU&45BJ2u:45:2::SYm2<&u)2Yo:&u5:UU):JBYu:Pl)<VA:uU225 o)&Y5l)uY<4U:P:BlU%P<5uJ2:&5&2UtU)J<JlYu:oBUlBnBu)2Po<oJ&BUV)5454)YY:l55}o<)u42BJu&o5lUJJP4{Y2:&_)2U{luJ2ooao45UU<4PB24J:oB9l4;&P<uY&o)&&oUwU4<U4<Yo:5>4l:<PE:2&P)oYB)Uu)&JU4l4UB<lP%5)lu:P<o25UYYU:J54u:4:UB4lBu2J:25o2o:)5U2)&J)4Y:<Bul:aU<:uBPuoP5)UPU:JU42lU:)BYll<uuJ2UoPoB5UUP)5JJ4:::B2wci)u<ulPuoo&U)UUBJ)4P:<:JBB3#<5uY2)PYoll5Uo))J4:duPBollAJ222(P2o&544l)KJ44o:P:4BBO<<PpP2Joo&15oU&)JJY:<uoB&As;42P2<PPo55YYc)<JY4&BB:YBlmu<obo24o&&<5&U5)4J::uu&B5+<3YuJ2uPooU&442)uJY45Y4::l<-2uU5Y2:o5&uU4UU)4JB:2<5BUC2q:2:22P&o)&YoY)uJ:4UY::Blu,Pu)5:2BoU&2UPU))YJlYuloB)EP8Bu&2PP5oJ&:)f)24w4):P:llu7o2UPu2Bo4&PU<UJYY48B2:4B)t&yluY2o&4o4&B)Y)P4u4J:oBKl29&2)P<2lo:&oU2U4Y:4<BP:4BJTU<7uB2&PYoY&lY2)o4I44:)B<loD5uYU8P<o4&&UlUY)l4u:5<4BYT5<<ou25PJo:5O&G)&4<4Y:<Bul&eUu:U<PuoY&5J5U:Jc42B&<oBYVU<uuo2Uo4oB5<u))54P4::oB2l&M)<YUgP2&1&UU2UBJ<4PB5<&B:w4<22<2)&2ol)uY<)U4&4B:YBPlJSJ<:5<P2oB&)U5UlJ24o:JuBBlN)<P2Y2JP:&K)2Yu))4P4l:JBol:V4uPluPPol&JuB)^JP4&Y):Yl2BY<ouU24ll&<5oU5JYEQY<:YB&glkY<l2uo5)4&YUU)<4245YJ::lHB=<&2u2Yo<&u5&UU44BJY<::B50uO:u522oUJY&:U))u:<4UY4:B<<P!<52P2:oJ&2J5U)Ju2uY2BEBUl4xBuu2PP)oJ&::l)PJ&4):P:llu3o<UUJ2lo<&PURUJ):4LY2P/B)#&-luP2oPJo4&B4&)o4<4JYBB/lPa&<)552lo4&o5UU4)B4<YUY<BJl:<f:52&PJoYU<:o)&4<44BPB<lPI5uY5dP<o:&&)2UY)l4uYo4oB4L5<<u&25P4o:Uu:&)54u4YloBulo_U<4f<P<o:&554U:Ju42Y&o<B:_U<uuJ2UP4oB5<Yl)5Jl4::(B2l&g)u0<)Puoo&UooUBJu4PY:)4B:W2<2Bu2)P:ol5uUo)Y)o4B:<BP42vJ<B2SP5PR&)5YUl&24oY):4%AoP<ouY2J&2&752U&J4BlY%:UBo<&f4<B2<&P)2&JUP)6Jo4&YJ:YBlP2<ou:24oo&<5oU5)B)5Yj:2B&:2TYu02uP4&Y&YU<)<&U45Y4::lP(2<J<22YPl&u2)UU)YJBYo4BB5lJX:B422P5o)5B:u)2JJ4UB<:Bl<1Pu)5Y2:o&&25lU))YJlBu:5BUZuhBu22PPUoJ5l):)2JB4):u:lluMo<U2l2BoJ&P54UJ):4pY2B5B)i<!lu42oP)o45u)&)PJ54JJ5B{lPk&u45lPmo5&o)BU4)B4<YPu&BJhu<tuP2&P4oY&lUP)oJB44:2B<lP{5<J2oPLoU&&5BUYJo4uYo:JB4.P<<uJ25PJo:5&)Y)&JB4YJuBul&(Uu<uBPo2B&55JU:5242Y5:)l1B)<uuo2UuooB5uUPJ)l:4B:oB2_YI)<YuloP&Y&)U<UB4)4PY5:Jlls2<2u:2)5uol5uUo)U4)4B:UBPlU9J<l2MP2o:&)UPUlJ54oYU:4BB<&<PuB2JoP&K54U&))4&4l:5BollC4<l2<PPJU&4Uu){J54&Y):YBlB)<ou:24o!&<5UU5)J)UYw:2B&lJGY<l2uP&oU&45B)YJP45YJ:ll2^2<&u)JB48Y&55UY)4JBY<P<PU&B5ou2JBoJ%542&IRY2)l5YB:Bl<-P<5uJ2:&PJ25)U))YJlYu:oBUB4P:u22JP5oJ&:Y2:)<U<J2)PPlPN)<Uu42BYUYoBSlBJT49Y2:&B)lY6luu2oPJ&<&BU<)P<)<424PP&u52<YuY2lou&o5UU4UB5/Y&::BJl:<N&PJP4EYU:Plo4)JU44YBl225bU<Ju:Poo2&&5))BBu42Y&:UBllB<<uPP)U:oB5uU2)4J)4YYlB&<J7U<4uB&<oP&U5JU:l<4PYJ:)BYll<uuo2UBuoB5&UP)UJJ4::Llo<<E)uuulPUoo&U54JBJ:4PY::Jl2tg<Bu&P4o&ol5)Uo)JJ44B:<zPlBkJuP2pPJo&&J5YJ<4!4o:T:4lOG<<Pu5oJ&)&d54U&J<JYYU:ul5<2q4u52<PBo5&J5:JuP:4&:2:YlPHu<ouU24o(&<5YU5JPJ:YE:2B&<8tYu&2uPooU&:5BJ24r45:u::lur2<&u)oY&&&u5:UUJ2JBYu:Pl)<uA:u)22PUo)&Y5l4uJ54U:P:BlJ_PuVuJPl)2&PU3U)J&JlYu:olJB)(BuY2PPYoJ&:Ua)2Y24):o:ll:zo<Uu42B&>&P5lUJ):4VYo:&l4<UVlu42ooFo4&BU<)PJ)4J:2BSlYz&<4uY2l&R&o5:U4J24<YJ:5lJrJ<Qu52&PloY5PUuJ5l44Y:uB<l4F5<Ju:ou)&&55BUYJu4uYo:UB4:4<<uU25PYo:5<U2)Jl&4YYlBul)_U<YuBP<Jo&U5JU:Jh42Y&:)BYoK<2u&2UPYoB5<UPJ5u)4B:-B2lY3)<:ulPuP1&U54UBJu4PY5:JB:.d<2u&2)PY&<5uUo)UJ:YU:<BPl5oBUl))JJ4:YBBBl<<<u)YJBuBBm<<P5u)lY&Yu:YlPl:4O4l:uBolUoY<l2uPPo5&J5:)#Y2luY)::Blf2<ou)24oBBF5oUU)JJlY_:2B&l)l5<l2uPoo)&45B)<JP45YJ::l<LP<&u)2Yo<&45oUU)4ahuuPPoQoBo2U)JoJ4oY&Y5l)uJo/)YY:ll<^P<5uJ2:&wBu55UJ)Y4WYu:oBUl4l)u<2PP5o4&:U0)2J&4)YY:ll2<5<Uu42Bo2&455UJ):lo2<25P4&U5PU&25Plo4&BU<BJ*Y<:P<Pl&o2)<42&2lou&o4BlP<f<&<52YoY525o)o2UPloY&lUuBo7)u:22Pl&U%)uuu:P#o24)B<l4.Bu&,YP:o)Sm<ouP25PJ4<:lluvuJ4:<YlBuloPBUP)YJo)J:*BYk{<Pl&uBPuoU&2&<U454454lBPl5)JJJ4::FB2l&f)<YulPPol&U54UBB5u22)2:ouP&5YU4Jo4F&<5:Uo)UJ4No2&oU2J5uU&)YJ5YUYBBJ)<Jo4oYU:4oY&&U4u)PuP:&_52YUlJ_luJPuP&o45&un2)PPo5&JY:ll<&<l2:PooB5/<5uB24PB&<B)lonJXBu22BBUlYqY<l2uUBY4JYU,)5JP45YJP&&6&P5l)4Jlou&u5oUU)4JBY<YPu&lY<5us22P&)4:UB83z<XE422P:&o55oUuJ2:on&2Y5UJ)YJlYu:oBUl4uBo:2PP5oJ&:Uh)PJ&4llJ:lluXo<:u42lo<&o55UBU54FY2:&BBlY<;uu2)2uo4&BU<)BJ544Y:BkPP35<)uY2lou&o5UJ4:J4<YP:5BJl:uuu22YxJoY&lUu)lJU4YYBB<lPW4}Pu:PIo25}5)U:)l4&Jl:UB4lB<YuP2UPJo:o4U2)&J)4:YlBuloNUoYulP<oP&55JU:JOYo<):JB:lluuuo2UP4oBYuUo))JJ4B:SB2l&u)oUulPPoo&J54)JJ<:PU5:JBl_;<ou&P2PYol4<U&)JJ4Y<:<BPl5_J4o29PPo&&)5Y)uJu4)4u:4BB1<uBu524P:Uv22U&)lJYYP:ulPlU<:&<2uPYo5565:)iJ24&&l:YloEu<:uU2:PB&52oU5JSJ::J:2B5l),Y<l2&uloU&45BJ4JP4UYJ::2<=P<&u)2:Pl&u5oUYUoJBY<:P-2lJZBu*2)u)o)&:5lJoJo4)Y4BFl<8UN<uJ2:on5&5&UJ)Y4ol(:oBUl4u:u<2oP5o4&:UP5:J&4)YYlBluX&<Uu4u)o<&P55U4):4#Y2:&2Jl:<Cuu25PUo4&BU5J2JU4YY:S2l2T5<)u:2lo&Pl5UU4)B:PYP:UBJ<:PYu22UP)o:&lU&)oJBB)YBB2lPu:<JuBPNoP&&5:5&)l4uYolBB4ll<<uUu<PJo:5bY2)&JJ4YBlJulo.4<42#P<o4&5UY:{J<4UY&BuBYll<uuo:BP4&<5<U))5JY4::&<<l&^Y<Y&lPuo&&U5YUBJo)BY5:JB:Pb<2u52)PY4W52UU)UJB4B:<BPl:2U<:22P2Uo&)5:UlJ24oYYYoBBQ<<Po&2JPB&G555q))JY4l<uBol)i4<BlPPPoJ&JUj)ZJ24&:4<ll8x&<ou:24PB&<)PY2)J4uY6:PB&i&;Y<l:5PooB&45l)<JP45:Y20l<bJ<&u42YPl&u)oYP)44oY<:4B5toV:2u5&P5&<&YU5)uJo4U::u<luG:<5242:os&2UUYY):4)Yu::BUl4mBu<))PU&<&:UJ)2J&4)YYYylusU<Uu42Bou&P55:4)B4PY2:)B)lYVlPuloPUol&BUo)PJJ4J:l22lP,Y<)2J2lou&o5U2/)B4UYP:JBJl:<du25oPJ&u&lU))oJU44YBB:loj4<Ju:PDoP&&5)55)l4uYo:)B4lB<<uP25PJo:5aUP)&J)4Y:<B)lo U<45&JJYU45:4ll<P4&Y&:)BYll&2u&2)P4oB5<UP)54J2Y:<BPl&9J<YulPuooo254UBJ<4oY5:JB:fH<2u&2)P:&25uUo)UJ:YY:<BPl5o<UuJPU544:Y:llP<_<)u)P)&u5P<&2G2JP:&b4&BBlJ<BuQ2oo)o:5:u82BPPo5&JYulB^P<U2oP<o2P2U4U)JlJl:25&UB)JJ:Yn<5P4&YU_)<J<4B5&&45B)<JP7UY4:BlzE2<&u)2YolB<5&U))44<Y<:PB5lJoBu<2PP&oJ&Y5l)uYolPY4:ll<So<5uY2:o&uP5&UJ)Y4&Yu:&BUl4MBuo<BP5oJ&:U5)2J54):NY)luDo<U222Bou&P555o):49Y2:5B)lYLluUl&PUo4&BUB)PJU4JY:BNl5lc<)uY2lol&o5)U4)BDuYo:)BJll<Ru22&P))<5FUP)oJ)44YlB<lUl<<Ju:P95!&&5JUY)lE2Y&:JB4^<<<uP25o(U45.Uo)&4J4Y:ABul&aU<l<UP<oP&5U4U:J<42YJY2BYll<u242UPYoB5<:o)UJY4::2B2l&9)2YBlPuo5&U5:UBJo4PY545B:hu<2uU2)P:ol5u4)))J:4B:2BPl5^J<:JUPPoU&)5lUlJu4oYUuYBlA2<Pu42JP:&w)2P&))Jl4l:2Bol)Q4<B)4PPoJ&J5l) Jo4&Y)u:l_S&<ou:24PB&<5PYU)JJlY(:5B&lJ{Y<lloPooJ&45B)<JP45YJool<Go<&uB2YPl&u5o52)4JBY<:oB5lJq:u;22P&o)&:U))uJo4UY:BYl<jP<55:Ju4YYU:)l:z<<2<&2&oJ&u52)o2&PloJ&:U8:4<4u&u:P:&<&B5Yu:P5o<&P55Y:Go<<2o25PY5S5P)P25Plo4&BU<:lIY22<+Plo5&4<42)2lou&o44BYf4<&2&2U2:5u5uU:)4JY:_5<)<)oJU44u<o<o)&JUBUB4P4U4<:BXo9<<4222YB:h4<<uP25U::uBulol4<52R<uP2&u&:U:UlP2&J&55JU:l2u2u42Y&A&,U&UJ5B4J:s:PB):l<22<uPPP&U5>U<J2PPoB&U54UB<Uu22)Po&W5p5PU))BPB5P5uUo)Ul<u52lPU2:52UlJ245)):<Bol4_&jPuB<BoJ&uU5)J&:P:&p52UYoJJYY_:uBUlU9Y<B2<PPo4oP5:)FJ24)Y)::Bltuq/uU24PB&u5PU5)JY:lY:2BUl)8Y<l2&PooU4Y5l)PJP45YJ::lKu2ouu)2lPl&o5oUB)44PP<:PB)lJ<&uN2PP&oY&YU25YJo4UY4B5l<{o<5uBu5oR&25&44)Y4wYu:o2)lY<Ou<2PP5oJ&:UeBPJ54YYY:lluVo<UP45Jo<&555U:):4UY2:&52l:<uuu2UPUo4&B)<<2JU4YY:BUl2h)<)uY)zo2&55UU4)B4<YPl5u&l:<uu22UP)&P&lUUo&JU4:YBw&lPKU<Ju:P/o5oO5)UY)l:5Yo:)B4<9&Puo2)PJoB5KU2)&Jl5:YlBPlou:<4ulP<oP&55B55J-42Y&lBBY.c<u25U4PY&+5<Uo)5JJ4:la<ll&*4<Y2<PuoU&UU<4YJ<4&Y5lPB:E<<2u52)ocP)5uUo)UYo4B:uBPl4lP<:2vP25o&)5:Ul4P_UY)::BB1u<Pu52J&:)Y52UU))JB4l:oBo<UY4<B22PPo)&JU5)T4ol)YJB;Bl P<ouU24PBE55PU))J4<Yn:oB&llY:<l2PPoUJ&45l)<JP45YBY5l;p2<&o42Yoy&uU5:4)Y4<Y<::B5lJ,:Pi&lP&oY&YUu)uJY4U:4o:lu+5<5ul2:ou&25J52)YJlYuc5BUlYwB22U5PUoY&:U))2J&4)BY<4lu=5<Uu:2BoU&P55:4)B42Y2:5B)lYDlPu5<PUoB&BUP)PJJ4J:2VBl2q)<)oU2lo2&o5)U4Ju)4YP:5BJu)<8uP2&P:P&&lUu)o:)44YlB<lPoU<42iPmoP&&5)UY4lBBYo:4B4V<<<u525&J<:5!U&)&JY4Y:)BuK5P4<Y22P<o&&55JU:JMo)Y&:YBYpP<uu52Uo4::5uU&)5Jl4::2B2l&lP<YulPuo&&U54UBJ<4PY5:JBl!u<2u&2)PB&U5uUo)UlBu52:P)&o5BoB))43oU555YUlJulJuBP<o2&PUU)J5l44Y<:olulB<^Y2:uBolUC4&l2uPoo5&J5:)hJ2:&Lo:Ylqvu<&uU2YPB5<l2UU)4J:Yu:2B&l)IYAJ2uPooU&Y5B)<JP45YJ::lMgP<Uu)2YPl&P5UUU)4JB*2P2ollY<PuM22P&)B:JBGlP<<<:ulBul<DP<5uJUBo<&P5&U))YJlYulouPl4zlu<2oP5o4&:)e<uJ54JYYB<luxo<Uu4u)o<&P55U4):49Y2:&B)lYGlu225PUo4&BU2)4J54JY:P5oU5JUj)<J:YU&5UoU4)B4<uU2Yo:5&5BU&54454::<BBlJ>YY2YBB<lP<)&:uBPNo2&55)UY)l4u)U:UB4lB<uuP2)PJ5:JYU2)&J)4YYlBPloyB:YuBP<oP&B5JUBJx42Y&:::&ll<uuo2lP4ol5<UPBUJ44::fB2l&i)<Yul55o&&U54UlJ<4oY5:J:Uaz<2u&2JPYol5uUo)UJ44B:<B&l5_J<:2uP4o&&)5Y:2<5u5u)Plo55mUuu)P&P:&g52YUhB<Uu425o)PY5:5l)PJ)Y)&B5:)XJ24&<J::l>Qu<ouU24PBU<4IU5)4J:Y<:2BUl)<Y)B22P&oU&Y5B)<JP454o::lMZ2<5u)2YPl&u5oUU)4JlY2:PB5lJXluo22P&o)JlBBlB<PuJY:Bll< P<55J)BYu:5:lBYSU<PiJ2BoYP}5PU5))JJYB5<UQ)2J&4)<:Bjl2co<Uu42Bo<UP42UJ)B4DYP:&B4lY<lJ<2&P)o4&lU<)PJ54J4UB(l2x&<JuY2lou&o5UU4)B4u:u:5BJl:<uuJ2&P)oYYoB4SU<<<:2JP&l&<<<Ju:Pi4o:ol<l4<Pu&2<P<o)&2<2u525PJo::uluSBJ4YuYlBulo&u&P)YJo4):l5:U:JS42Y&:)BYI5ouu52BP4oB5<YJ96<&u)2oP5l5T)<lulPuoo&U54UB)<l2Y)B&B:{h<2&J)B4uY#B5l<7YBBu:2:o2&)t:<:2{P2o&&)5YUlBu45YB:4BBd<&5)UJlJB:u:UUUJuJY4l:u2)& 5PU<)Y4u4Y::lS)uJU4&Y):Y2u5<U<)5J:o7&P5PU5)JBlulP4A4l)tY<l2u<(oU&Y5B)<JP45YJ::lBn2<Uu)2YPl&u5o)JJ5JBYP:PlulJN:um22P)o)&B5l)PJo4JY4BBl4FP<UuJPSo!&o5&J)J4JlYP:oB)l4<<u<&PP:oJ&lU()lJ&Y<YYlluB!o<Ju42lo<&5554Jlo4<Yo:&BllY<&uuooP4o45qU<)oJ54:Y:B#GI;&<YuYPqou&o5UJ4454<Y5:5B:l:<Bu2o&P4oY5uUu)UJUYPYBl<lJk5<Yu:P:o2&)5)JY4J4uY5:UBYlB<PuP&5ouo:5uU2)5J)Y2YlAu2<SU<:uBPuoP&J5J4:JU42YU:)ltll<Yuo2U)Yol52UP)5JJ4::_lo2)vJ<lulP:oo&U54UB144PY):JBl(n<ou&P)Y4&!52Uo)JJ4Y>:<WP22dJ<l2FPPo&&45Y4lJJ4oYJ:4lJW<<)u5oJU)&D5oU&)JJYY<:u<os;Z4uO2<PJo55<5:4p:l4&Y4:YlTpu<5uU24)l&u55U5)YJ:Y3:2B&YY*Yuu2uP&oU&:5BJ<u24UYY::l:x2<)u)oYU4&u55UU)YJBY2:P<5ju!:uu22P5o)525l4uB<4UY::Blu%P<)uJ&:oU&25UU)JzJlYJ:oBUPYzlu22PPJoJ&:UK)2U:4)YB:lluio<)u42B2Y&P55UJ)B4%Y2:&B)lY7luu2&PUo4&BU<)JJ54JY:B&u<x&<)uYPuou&&5UUY)B4oJB:5BJl:<2u225P)&0o)Uu)oJUY{YBBulP+5&4uBP<o2&&5)UY)l4ulJ:)BYlB<uuP2UPJo:o4U2)&J)4:YlBulo%U<4uBP<oo&45JU:J/4oY::)BYllo:UJ4<J:Y5:lBU))Y)4::FB22Y5UUB)uJ55o4JBdC<Z&uUB5Poou5)5oUlJ54y5l:oB:l)<)uo2&PU<55BUY&JPooJ&)5YUllE<&2oPklsT&<Pu52J4::u:YlPS:424l:uBolUo:<l2uPPo5&J5:)D42:uY)::Bl_2<ouU24&E&B5PUU)J4<Y}:2B&_4<5<l2PPooJ&45B)<YPY4YJBQlGf2<&uY2YPl&25oU))44<Y<:oB5lJ<luI22P&oJ&Y5l)uJo4UY4:Blur)<5uJ2:ou&Y5&U))YluuJ2&oJoY5<)o))4)oY5fU1)2J&8u2lunlPv)<Uu42BJo:2B&l&)l4oY2:&B)&Y5hU4J544o:5)U<)PJ5T<2uoP2&&BUu)UJ2YPYJB&Ju)B4<YP:524lB<Ou22&P)oY&lJu:<JU44YBB<lP9U<J22&Bo2&&5))u)l42Yo:)B4Dul4uP25PJ&25nUP)&J)li:-B2loM)<4uBP<oPUP54UBJD4oY&:)BY<<&ou&2)P4&u5<UP)5YJ5::iBol&L)<Y2PPuooJ55Y)vJ<45Y5:JB:N}J4u&2JPYol5uUU)UJlJU:<BPl5<Y<:2<P25&u)5Y)oJu4JYU::BB<2o5uUPuP:&252U&))JY&o:uB4lU<2<B22PPo:)U5:)&J2Y5Y)::Bl02<ouYuoPB&<5P)U)JJBYQ:5:sl)NY<lPPPoo)&45BJBJo4YYJ:ll_V2<&ul<lPl&25o)2)4JlY<:&B5lBl5u_22P&&P&YU{)uJoBYYY:ll<zo<5uJ2:o#UQ55UJ)Y4<Yu:oBUl4l)u<2PP5o4&:US)2J&4)YY:llufo");local o=0;b.bruayOnp(function()b.BHWVHrnI()o=o+1 end)local function l(l,u)if u then return o end;o=l+o;end local u,o,r=f(0,f,l,a,b.SmCyYpxQ);local function d()local o,u=b.SmCyYpxQ(a,l(1,3),l(5,6)+2);l(2);return(u*256)+o;end;local k=true;local k=0 local function g()local e=o();local l=o();local n=1;local e=(u(l,1,20)*(2^32))+e;local o=u(l,21,31);local l=((-1)^u(l,32));if(o==0)then if(e==k)then return l*0;else o=1;n=0;end;elseif(o==2047)then return(e==0)and(l*(1/0))or(l*(0/0));end;return b.qqDQsfPn(l,o-1023)*(n+(e/(2^52)));end;local _=o;local function p(o)local u;if(not o)then o=_();if(o==0)then return'';end;end;u=b.ynZLGFqG(a,l(1,3),l(5,6)+o-1);l(o)local l=""for o=(1+k),#u do l=l..b.ynZLGFqG(u,o,o)end return l;end;local _=#b.gdCeeTIZ(s('\49.\48'))~=1 local l=o;local function el(...)return{...},b.jnOtTISq('#',...)end local function ul()local a={};local l={};local k={};local s={k,a,nil,l};local l=o()local f={}for e=1,l do local u=r();local l;if(u==1)then l=(r()~=#{});elseif(u==3)then local o=g();if _ and b.TOwghdBi(b.gdCeeTIZ(o),'.(\48+)$')then o=b.FrPHfRLI(o);end l=o;elseif(u==2)then l=p();end;f[e]=l;end;for s=1,o()do local l=r();if(u(l,1,1)==0)then local h=u(l,2,3);local r=u(l,4,6);local l={d(),d(),nil,nil};if(h==0)then l[n]=d();l[t]=d();elseif(h==#{1})then l[n]=o();elseif(h==c[2])then l[n]=o()-(2^16)elseif(h==c[3])then l[n]=o()-(2^16)l[t]=d();end;if(u(r,1,1)==1)then l[e]=f[l[e]]end if(u(r,2,2)==1)then l[n]=f[l[n]]end if(u(r,3,3)==1)then l[t]=f[l[t]]end k[s]=l;end end;for l=1,o()do a[l-(#{1})]=ul();end;s[3]=r();return s;end;local function ol(u,l,o)local e=l;local e=o;return s(b.TOwghdBi(b.TOwghdBi(({b.bruayOnp(u)})[2],l),o))end local function _(j,s,r)local function ul(...)local d,p,y,ol,k,o,a,g,ll,z,c,u;local l=0;while-1<l do if l<3 then if 1<=l then if l>=-1 then repeat if 2>l then y=f(6,59,3,79,j);k=el ol=0;break;end;o=-41;a=-1;until true;else o=-41;a=-1;end else d=f(6,4,1,37,j);p=f(6,95,2,56,j);end else if l<5 then if 0<l then repeat if l~=3 then z=b.jnOtTISq('#',...)-1;c={};break;end;g={};ll={...};until true;else z=b.jnOtTISq('#',...)-1;c={};end else if l~=3 then for o=39,67 do if 6>l then u=f(7);break;end;l=-2;break;end;else u=f(7);end end end l=l+1;end;for l=0,z do if(l>=y)then g[l-y]=ll[l+1];else u[l]=ll[l+1];end;end;local y=z-y+1 local l;local f;local function z(...)while true do end end while true do if o<-40 then o=o+42 end l=d[o];f=l[m];if f<202 then if f>100 then if 150<f then if 175>=f then if 163>f then if f>156 then if 159<f then if 160>=f then local s;for f=0,6 do if 2<f then if f>4 then if f>1 then repeat if 6~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);until true;else u(l[e],l[n]);end else if f~=0 then repeat if f~=3 then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end else if f<=0 then u(l[e],l[n]);o=o+1;l=d[o];else if-1~=f then for t=26,91 do if f<2 then u(l[e],l[n]);o=o+1;l=d[o];break;end;s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end end end end else if 160<f then repeat if 161<f then for f=0,5 do if 2<f then if f>3 then if 3<f then repeat if f<5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;if(u[l[e]]~=u[l[t]])then o=o+1;else o=l[n];end;until true;else if(u[l[e]]~=u[l[t]])then o=o+1;else o=l[n];end;end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>=1 then if f>=-1 then repeat if 2>f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end break;end;if(u[l[e]]<=l[t])then o=o+1;else o=l[n];end;until true;else for f=0,5 do if 2<f then if f>3 then if 3<f then repeat if f<5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;if(u[l[e]]~=u[l[t]])then o=o+1;else o=l[n];end;until true;else if(u[l[e]]~=u[l[t]])then o=o+1;else o=l[n];end;end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>=1 then if f>=-1 then repeat if 2>f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end end else if 158<=f then if f>155 then for o=14,92 do if f~=158 then local o=l[e];do return h(u,o,o+l[n])end;break;end;local n=l[n];local o=u[n]for l=n+1,l[t]do o=o..u[l];end;u[l[e]]=o;break;end;else local o=l[e];do return h(u,o,o+l[n])end;end else local r,s;for f=0,6 do if f>2 then if 4>=f then if 2<f then repeat if f>3 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];until true;else u[l[e]]={};o=o+1;l=d[o];end else if f>=2 then for h=11,60 do if f>5 then u(l[e],l[n]);break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;else u(l[e],l[n]);end end else if 0>=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else if f~=1 then r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];o=o+1;l=d[o];else r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end end end end end end else if 153<f then if 154>=f then u[l[e]]=u[l[n]]*l[t];else if 156~=f then local l=l[e]u[l]=u[l]()else for f=0,6 do if f>=3 then if f>4 then if f<6 then u(l[e],l[n]);o=o+1;l=d[o];else u(l[e],l[n]);end else if f==3 then u[l[e]]=r[l[n]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end else if f<=0 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if-1<f then repeat if 1<f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end end end end end else if f>151 then if 149~=f then for o=22,56 do if f~=152 then u[l[e]]=l[n]*u[l[t]];break;end;local e=l[e]local n={u[e](h(u,e+1,a))};local o=0;for l=e,l[t]do o=o+1;u[l]=n[o];end break;end;else u[l[e]]=l[n]*u[l[t]];end else for f=0,7 do if 3<f then if 6>f then if f~=5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if f>=5 then repeat if f>6 then u(l[e],l[n]);break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u(l[e],l[n]);end end else if f>1 then if 1<f then for h=14,73 do if f>2 then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>=-4 then repeat if f<1 then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end end end end end end else if 168>=f then if 165>=f then if f>=164 then if f==164 then local a;for f=0,6 do if 2<f then if f>=5 then if 3~=f then repeat if f>5 then u[l[e]]=u[l[n]][l[t]];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];end else if 1<f then for h=10,94 do if 4>f then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end else if f>0 then if f~=0 then for r=16,95 do if 1~=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;a=l[e]u[a]=u[a](h(u,a+1,l[n]))o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end end end else local d,t,s,h,r,f;local o=0;while o>-1 do if o<4 then if 1<o then if 3>o then s=n;else h=u;end else if-2~=o then for u=38,75 do if o~=1 then d=l;break;end;t=e;break;end;else t=e;end end else if 5<o then if 3<=o then for l=11,92 do if 6~=o then o=-2;break;end;u[f]=r;break;end;else o=-2;end else if o==4 then r=h[d[s]];else f=d[t];end end end o=o+1 end end else if not u[l[e]]then o=o+1;else o=l[n];end;end else if 167>f then local o=l[e]u[o]=u[o](h(u,o+1,l[n]))else if f~=163 then for h=32,96 do if f~=168 then local h;for f=0,4 do if 1<f then if f<3 then u[l[e]]=s[l[n]];o=o+1;l=d[o];else if 0<f then for h=15,98 do if 4~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;if u[l[e]]then o=o+1;else o=l[n];end;break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end else if f~=-2 then repeat if 1>f then h=l[e]u[h]=u[h]()o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];until true;else h=l[e]u[h]=u[h]()o=o+1;l=d[o];end end end break;end;local h,b,s,a,k,f;for f=0,6 do if 2>=f then if 0<f then if-2~=f then for h=40,64 do if f~=2 then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if 4>=f then if f>-1 then repeat if 4>f then u(l[e],l[n]);o=o+1;l=d[o];break;end;f=0;while f>-1 do if f>=3 then if 4>=f then if 3<f then k=h[b];else a=h[s];end else if 4<=f then repeat if f<6 then u(k,a);break;end;f=-2;until true;else f=-2;end end else if 1>f then h=l;else if-3<f then repeat if f~=1 then s=n;break;end;b=e;until true;else s=n;end end end f=f+1 end o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else if f==6 then u(l[e],l[n]);else u(l[e],l[n]);o=o+1;l=d[o];end end end end break;end;else local s,k,h,a,b,f;for f=0,6 do if 2>=f then if 0<f then if-2~=f then for h=40,64 do if f~=2 then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if 4>=f then if f>-1 then repeat if 4>f then u(l[e],l[n]);o=o+1;l=d[o];break;end;f=0;while f>-1 do if f>=3 then if 4>=f then if 3<f then b=s[k];else a=s[h];end else if 4<=f then repeat if f<6 then u(b,a);break;end;f=-2;until true;else f=-2;end end else if 1>f then s=l;else if-3<f then repeat if f~=1 then h=n;break;end;k=e;until true;else h=n;end end end f=f+1 end o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else if f==6 then u(l[e],l[n]);else u(l[e],l[n]);o=o+1;l=d[o];end end end end end end end else if 171<f then if 174<=f then if f>=173 then for h=38,53 do if 174<f then u[l[e]]=u[l[n]]+u[l[t]];break;end;for f=0,7 do if 3<f then if 5>=f then if f~=5 then s[l[n]]=u[l[e]];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if 2~=f then repeat if 7~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];until true;else u[l[e]]=r[l[n]];end end else if f>=2 then if 2~=f then u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];end else if f~=-4 then repeat if 1~=f then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end break;end;else for f=0,7 do if 3<f then if 5>=f then if f~=5 then s[l[n]]=u[l[e]];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if 2~=f then repeat if 7~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];until true;else u[l[e]]=r[l[n]];end end else if f>=2 then if 2~=f then u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];end else if f~=-4 then repeat if 1~=f then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end end else if 169<=f then for r=13,59 do if f<173 then local t;for f=0,9 do if f<=4 then if f>=2 then if 3>f then u(l[e],l[n]);o=o+1;l=d[o];else if f>3 then t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end end else if f~=-2 then repeat if 1>f then t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];until true;else t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];end end else if f>6 then if f<=7 then u(l[e],l[n]);o=o+1;l=d[o];else if f>4 then for r=27,80 do if f~=9 then t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];break;end;else t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];end end else if f~=3 then for t=44,71 do if 5~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end end end break;end;local e=l[e]local n={u[e](u[e+1])};local o=0;for l=e,l[t]do o=o+1;u[l]=n[o];end break;end;else local t;for f=0,9 do if f<=4 then if f>=2 then if 3>f then u(l[e],l[n]);o=o+1;l=d[o];else if f>3 then t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end end else if f~=-2 then repeat if 1>f then t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];until true;else t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];end end else if f>6 then if f<=7 then u(l[e],l[n]);o=o+1;l=d[o];else if f>4 then for r=27,80 do if f~=9 then t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];break;end;else t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];end end else if f~=3 then for t=44,71 do if 5~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end end end end end else if 169<f then if 166~=f then repeat if f>170 then for f=0,2 do if 1<=f then if 0<=f then for h=26,89 do if f~=1 then u[l[e]][l[n]]=u[l[t]];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end break;end;local f,c,_,b;for s=0,6 do if s>2 then if 4<s then if s~=4 then repeat if 6>s then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];until true;else u[l[e]]=u[l[n]][l[t]];end else if 2<s then repeat if 4~=s then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end else if 1<=s then if-1<s then repeat if 2~=s then f=l[e]c,_=k(u[f](h(u,f+1,l[n])))a=_+f-1 b=0;for l=f,a do b=b+1;u[l]=c[b];end;o=o+1;l=d[o];break;end;f=l[e]u[f]=u[f](h(u,f+1,a))o=o+1;l=d[o];until true;else f=l[e]c,_=k(u[f](h(u,f+1,l[n])))a=_+f-1 b=0;for l=f,a do b=b+1;u[l]=c[b];end;o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end end end until true;else local f,_,c,b;for s=0,6 do if s>2 then if 4<s then if s~=4 then repeat if 6>s then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];until true;else u[l[e]]=u[l[n]][l[t]];end else if 2<s then repeat if 4~=s then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end else if 1<=s then if-1<s then repeat if 2~=s then f=l[e]_,c=k(u[f](h(u,f+1,l[n])))a=c+f-1 b=0;for l=f,a do b=b+1;u[l]=_[b];end;o=o+1;l=d[o];break;end;f=l[e]u[f]=u[f](h(u,f+1,a))o=o+1;l=d[o];until true;else f=l[e]_,c=k(u[f](h(u,f+1,l[n])))a=c+f-1 b=0;for l=f,a do b=b+1;u[l]=_[b];end;o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end end end end else if(u[l[e]]<u[l[t]])then o=l[n];else o=o+1;end;end end end end else if f>=189 then if f<195 then if f<=191 then if 189<f then if f~=190 then local f,c,p,_,s,b;u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];c=u[l[n]];u[f+1]=c;u[f]=c[l[t]];o=o+1;l=d[o];f=l[e]b,_=k(u[f](u[f+1]))a=_+f-1 s=0;for l=f,a do s=s+1;u[l]=b[s];end;o=o+1;l=d[o];f=l[e]b={u[f](h(u,f+1,a))};s=0;for l=f,l[t]do s=s+1;u[l]=b[s];end else local f,s;for r=0,3 do if 2>r then if-4~=r then repeat if r>0 then f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if r~=-1 then for h=22,53 do if 2~=r then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end else local a;for f=0,9 do if 5<=f then if 6>=f then if 3<=f then repeat if 6~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];end else if f<=7 then a=l[e]u[a]=u[a](h(u,a+1,l[n]))o=o+1;l=d[o];else if 4<=f then repeat if f~=8 then u[l[e]]=u[l[n]][l[t]];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];end end end else if f>1 then if f>=3 then if f>1 then repeat if 4~=f then a=l[e]u[a]=u[a](u[a+1])o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end else if-1<f then for h=39,91 do if f>0 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end end else if f<=192 then local e=l[e];local o=u[l[n]];u[e+1]=o;u[e]=o[l[t]];else if f>189 then repeat if 194~=f then if u[l[e]]then o=o+1;else o=l[n];end;break;end;for f=0,6 do if f>=3 then if 5<=f then if 6~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u(l[e],l[n]);end else if 3<f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end else if f<=0 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if f>-1 then repeat if f~=2 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end until true;else if u[l[e]]then o=o+1;else o=l[n];end;end end end else if f<=197 then if 195<f then if 194~=f then repeat if 196<f then u[l[e]]=u[l[n]][u[l[t]]];break;end;for f=0,5 do if f>2 then if f>=4 then if f>0 then for h=24,67 do if 5>f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;if not u[l[e]]then o=o+1;else o=l[n];end;break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end else if 0<f then if f>=-3 then for t=13,95 do if 2~=f then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end until true;else u[l[e]]=u[l[n]][u[l[t]]];end else u[l[e]]={};end else if f>=200 then if 200<f then local f,s;for r=0,6 do if r>2 then if r<=4 then if-1<=r then for h=24,60 do if 4~=r then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else if 3<r then for t=47,86 do if r>5 then if u[l[e]]then o=o+1;else o=l[n];end;break;end;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;else if u[l[e]]then o=o+1;else o=l[n];end;end end else if 0>=r then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];else if r<2 then u[l[e]]=u[l[n]];o=o+1;l=d[o];else f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];end end end end else local s;for f=0,7 do if f>=4 then if 5<f then if f>=2 then for t=48,82 do if f~=7 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u(l[e],l[n]);break;end;else u(l[e],l[n]);end else if f~=4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end else if 2<=f then if 3~=f then u(l[e],l[n]);o=o+1;l=d[o];else s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];end else if f>=-2 then repeat if f<1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end end end end end else if 195<=f then for h=46,91 do if f>198 then for f=0,6 do if 2<f then if 5>f then if f>2 then repeat if f~=4 then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end else if f>2 then for t=22,66 do if f>5 then u[l[e]]=u[l[n]];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end else if f<=0 then u[l[e]]=s[l[n]];o=o+1;l=d[o];else if-2~=f then for h=12,92 do if 1~=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end end end break;end;local a,b,h;for f=0,4 do if 1<f then if f<3 then u[l[e]]=s[l[n]];o=o+1;l=d[o];else if f>=-1 then repeat if 3~=f then o=l[n];break;end;a=l[e]b={u[a](u[a+1])};h=0;for l=a,l[t]do h=h+1;u[l]=b[h];end o=o+1;l=d[o];until true;else o=l[n];end end else if-2<=f then repeat if f<1 then u[l[e]]={};o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end end break;end;else for f=0,6 do if 2<f then if 5>f then if f>2 then repeat if f~=4 then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end else if f>2 then for t=22,66 do if f>5 then u[l[e]]=u[l[n]];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end else if f<=0 then u[l[e]]=s[l[n]];o=o+1;l=d[o];else if-2~=f then for h=12,92 do if 1~=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end end end end end end end else if 182<=f then if f>=185 then if f<=186 then if f>=184 then for s=32,77 do if 186>f then u(l[e],l[n]);break;end;local s;for f=0,5 do if 2<f then if 3>=f then u(l[e],l[n]);o=o+1;l=d[o];else if 3<=f then for t=47,89 do if 5>f then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;s=l[e]u[s]=u[s](h(u,s+1,l[n]))break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end else if f<=0 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else if-3<=f then for h=28,83 do if 1<f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end break;end;else local s;for f=0,5 do if 2<f then if 3>=f then u(l[e],l[n]);o=o+1;l=d[o];else if 3<=f then for t=47,89 do if 5>f then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;s=l[e]u[s]=u[s](h(u,s+1,l[n]))break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end else if f<=0 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else if-3<=f then for h=28,83 do if 1<f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end end else if 184<f then repeat if 187~=f then local h,s,k,b,a,f;u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=0;while f>-1 do if f<3 then if 0<f then if 0<f then for l=10,82 do if 1<f then k=n;break;end;s=e;break;end;else s=e;end else h=l;end else if f<5 then if f~=0 then repeat if 4~=f then b=h[k];break;end;a=h[s];until true;else a=h[s];end else if 4~=f then repeat if 6~=f then u(a,b);break;end;f=-2;until true;else f=-2;end end end f=f+1 end o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];break;end;local f,h,r;f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e];r=u[f];for l=f+1,l[n]do b.xRTXRRrQ(r,u[l])end;until true;else local s,h,b,k,a,f;u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=0;while f>-1 do if f<3 then if 0<f then if 0<f then for l=10,82 do if 1<f then b=n;break;end;h=e;break;end;else h=e;end else s=l;end else if f<5 then if f~=0 then repeat if 4~=f then k=s[b];break;end;a=s[h];until true;else a=s[h];end else if 4~=f then repeat if 6~=f then u(a,k);break;end;f=-2;until true;else f=-2;end end end f=f+1 end o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end end else if 183>f then u[l[e]]=u[l[n]]*u[l[t]];else if 184~=f then local r;for f=0,7 do if 3>=f then if f<=1 then if f>0 then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 2<f then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end else if 5<f then if 2<=f then repeat if f~=7 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;if(l[e]<u[l[t]])then o=l[n];else o=o+1;end;until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 3<=f then repeat if 4<f then u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];break;end;r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];until true;else r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end end end end else local o=l[e]u[o]=u[o](h(u,o+1,l[n]))end end end else if f<179 then if 176<f then if f~=174 then repeat if f<178 then for f=0,3 do if 1>=f then if f>0 then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if f~=1 then for h=35,64 do if 3~=f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];break;end;else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end end break;end;u[l[e]]=#u[l[n]];until true;else for f=0,3 do if 1>=f then if f>0 then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if f~=1 then for h=35,64 do if 3~=f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];break;end;else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end end end else local r;for f=0,8 do if f<4 then if f>=2 then if 0~=f then for h=33,52 do if f<3 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else if f>-3 then repeat if f~=1 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end end else if 6<=f then if 6>=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if 7~=f then if not u[l[e]]then o=o+1;else o=l[n];end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end else if f~=5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end end end end end else if 179<f then if f>180 then local s;for f=0,6 do if 3>f then if f>=1 then if f>-1 then for h=24,62 do if 2>f then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else if f<5 then if f>-1 then repeat if 4>f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end else if f>=3 then for r=38,75 do if 6~=f then s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];break;end;else s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];end end end end else local h;for f=0,5 do if 3<=f then if f<4 then h=l[e]u[h]=u[h]()o=o+1;l=d[o];else if 2<=f then for h=27,63 do if f~=5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]][u[l[n]]]=u[l[t]];break;end;else u[l[e]][u[l[n]]]=u[l[t]];end end else if 1<=f then if f>1 then u[l[e]]=r[l[n]];o=o+1;l=d[o];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end end else for f=0,6 do if f>=3 then if 5<=f then if 1<f then repeat if 5~=f then u(l[e],l[n]);break;end;u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];end else if 4~=f then u(l[e],l[n]);o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end end else if 1<=f then if 0<=f then for h=40,55 do if 1<f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end end end end end end end end else if 125>=f then if 112>=f then if 106<f then if f<=109 then if f>=108 then if 109~=f then local f,h,c,_,b;u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];for l=l[e],l[n]do u[l]=nil;end;o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];o=o+1;l=d[o];f=l[e]c,_=k(u[f](u[f+1]))a=_+f-1 b=0;for l=f,a do b=b+1;u[l]=c[b];end;else local f,s;for r=0,8 do if 3>=r then if r<=1 then if-2~=r then for h=19,93 do if r>0 then u[l[e]]={};o=o+1;l=d[o];break;end;f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;else f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];end else if r<3 then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end else if 6<=r then if r<7 then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];else if 6<=r then for t=11,58 do if 7~=r then u(l[e],l[n]);break;end;u[l[e]]={};o=o+1;l=d[o];break;end;else u[l[e]]={};o=o+1;l=d[o];end end else if 1~=r then repeat if 4~=r then f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end end end else u[l[e]]=u[l[n]]-l[t];end else if f>=111 then if 107<=f then for r=49,96 do if 111~=f then local f,a;for r=0,4 do if 1<r then if 2>=r then u[l[e]]=u[l[n]];o=o+1;l=d[o];else if r~=4 then f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];else if not u[l[e]]then o=o+1;else o=l[n];end;end end else if-3<=r then repeat if 1>r then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;f=l[e];a=u[l[n]];u[f+1]=a;u[f]=a[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end break;end;local l=l[e];do return u[l](h(u,l+1,a))end;break;end;else local f,a;for r=0,4 do if 1<r then if 2>=r then u[l[e]]=u[l[n]];o=o+1;l=d[o];else if r~=4 then f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];else if not u[l[e]]then o=o+1;else o=l[n];end;end end else if-3<=r then repeat if 1>r then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;f=l[e];a=u[l[n]];u[f+1]=a;u[f]=a[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end else if(u[l[e]]<=u[l[t]])then o=o+1;else o=l[n];end;end end else if 103>=f then if f>=102 then if f>102 then local f,r;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]={};else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end else u[l[e]]=_(p[l[n]],nil,r);end else if 104<f then if 101<=f then repeat if 105~=f then local l=l[e]u[l]=u[l](u[l+1])break;end;for f=0,2 do if 1>f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if f>-2 then repeat if 1~=f then if u[l[e]]then o=o+1;else o=l[n];end;break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else if u[l[e]]then o=o+1;else o=l[n];end;end end end until true;else for f=0,2 do if 1>f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if f>-2 then repeat if 1~=f then if u[l[e]]then o=o+1;else o=l[n];end;break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else if u[l[e]]then o=o+1;else o=l[n];end;end end end end else for f=0,4 do if f>1 then if 2>=f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];else if f>2 then for h=14,68 do if 4~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end else if-4<=f then for h=34,79 do if 0~=f then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end end end end else if f<=118 then if 116>f then if 114<=f then if f~=115 then if(u[l[e]]<=l[t])then o=o+1;else o=l[n];end;else local h,s,b,a,r,f;u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];f=0;while f>-1 do if f<=2 then if 0>=f then h=l;else if 1~=f then b=n;else s=e;end end else if f>=5 then if f~=3 then repeat if f~=6 then u(r,a);break;end;f=-2;until true;else u(r,a);end else if 1<=f then for l=28,67 do if 3~=f then r=h[s];break;end;a=h[b];break;end;else r=h[s];end end end f=f+1 end o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);end else local f,s;for r=0,9 do if r<5 then if r>1 then if 3<=r then if 0<=r then for a=11,68 do if r>3 then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;else f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];end else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else if 1~=r then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];else u[l[e]]={};o=o+1;l=d[o];end end else if r>=7 then if r>=8 then if 9>r then u[l[e]]={};o=o+1;l=d[o];else u(l[e],l[n]);end else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else if 4<=r then repeat if r~=5 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];until true;else u[l[e]]={};o=o+1;l=d[o];end end end end end else if f<117 then local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]]-u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];if(u[l[e]]<u[l[t]])then o=l[n];else o=o+1;end;else if 116<f then repeat if f~=117 then if(u[l[e]]==u[l[t]])then o=o+1;else o=l[n];end;break;end;local h;for f=0,6 do if f<3 then if 1>f then h=l[e]u[h](u[h+1])o=o+1;l=d[o];else if-2<f then repeat if f<2 then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end else if f>4 then if 4~=f then for h=45,66 do if 6>f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;u(l[e],l[n]);break;end;else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end else if f==3 then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end end end end until true;else if(u[l[e]]==u[l[t]])then o=o+1;else o=l[n];end;end end end else if 122>f then if f<=119 then if(u[l[e]]<u[l[t]])then o=o+1;else o=l[n];end;else if f>=117 then for h=24,88 do if 120<f then local d=u[l[t]];if not d then o=o+1;else u[l[e]]=d;o=l[n];end;break;end;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];break;end;else local d=u[l[t]];if not d then o=o+1;else u[l[e]]=d;o=l[n];end;end end else if f>123 then if 123<f then for r=34,61 do if 125~=f then for f=0,2 do if 1<=f then if 2==f then if not u[l[e]]then o=o+1;else o=l[n];end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]]();o=o+1;l=d[o];end end break;end;local r;for f=0,6 do if 2>=f then if 0>=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if f==2 then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end else if f>4 then if 1<f then repeat if 6~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;r=l[e]u[r]=u[r](h(u,r+1,l[n]))until true;else r=l[e]u[r]=u[r](h(u,r+1,l[n]))end else if f~=2 then for h=39,69 do if f<4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end break;end;else for f=0,2 do if 1<=f then if 2==f then if not u[l[e]]then o=o+1;else o=l[n];end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]]();o=o+1;l=d[o];end end end else if f>=119 then for a=35,63 do if f>122 then local f,r;u[l[e]]={};o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];break;end;local f,s;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];break;end;else local f,r;u[l[e]]={};o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end end end end end else if 137>=f then if f>=132 then if f<=134 then if 132<f then if f==134 then local a=p[l[n]];local h;local f={};h=b.kXoWyikK({},{__index=function(o,l)local l=f[l];return l[1][l[2]];end,__newindex=function(u,l,o)local l=f[l]l[1][l[2]]=o;end;});for e=1,l[t]do o=o+1;local l=d[o];if l[m]==351 then f[e-1]={u,l[n]};else f[e-1]={s,l[n]};end;c[#c+1]=f;end;u[l[e]]=_(a,h,r);else local f;u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);end else local f,s;for r=0,6 do if 2>=r then if 1<=r then if 0<r then for a=40,52 do if 2~=r then f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;else f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if r<5 then if 4==r then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]]={};o=o+1;l=d[o];end else if 5~=r then f=l[e]u[f]=u[f](h(u,f+1,l[n]))else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end end end end else if f>=136 then if f~=132 then for s=45,72 do if f~=136 then local t;u(l[e],l[n]);o=o+1;l=d[o];t=l[e]u[t](u[t+1])o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];o=l[n];break;end;local r;for f=0,9 do if 4>=f then if 2<=f then if 2<f then if f>=0 then for h=29,59 do if 3~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end else if f>=-2 then for t=21,52 do if 1>f then r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];break;end;else u[l[e]]={};o=o+1;l=d[o];end end else if f>=7 then if f>7 then if 5~=f then repeat if f>8 then u[l[e]][u[l[n]]]=u[l[t]];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]][u[l[n]]]=u[l[t]];end else u(l[e],l[n]);o=o+1;l=d[o];end else if 1<f then repeat if 6>f then u[l[e]]=(l[n]~=0);o=o+1;l=d[o];break;end;u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end end end end break;end;else local r;for f=0,9 do if 4>=f then if 2<=f then if 2<f then if f>=0 then for h=29,59 do if 3~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end else if f>=-2 then for t=21,52 do if 1>f then r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];break;end;else u[l[e]]={};o=o+1;l=d[o];end end else if f>=7 then if f>7 then if 5~=f then repeat if f>8 then u[l[e]][u[l[n]]]=u[l[t]];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]][u[l[n]]]=u[l[t]];end else u(l[e],l[n]);o=o+1;l=d[o];end else if 1<f then repeat if 6>f then u[l[e]]=(l[n]~=0);o=o+1;l=d[o];break;end;u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end end end end end else local t;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];do return end;end end else if f>128 then if f<130 then for t=0,2 do if t>0 then if t>-2 then repeat if t~=1 then u[l[e]]=(l[n]~=0);break;end;u[l[e]]=(l[n]~=0);o=o+1;l=d[o];until true;else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end end else if f~=130 then local f,p,_,b,c;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e]c,_=k(u[f]())a=_+f-1 b=0;for l=f,a do b=b+1;u[l]=c[b];end;o=o+1;l=d[o];f=l[e]c={u[f](h(u,f+1,a))};b=0;for l=f,l[t]do b=b+1;u[l]=c[b];end o=o+1;l=d[o];o=l[n];else local f,r;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);end end else if 126>=f then local b,_,k,c,h,f,r,a;s[l[n]]=u[l[e]];o=o+1;l=d[o];f=0;while f>-1 do if 3>f then if f<=0 then b=l;else if-1<=f then for l=31,95 do if 2~=f then _=e;break;end;k=n;break;end;else k=n;end end else if f>4 then if f>=2 then repeat if 5~=f then f=-2;break;end;u(h,c);until true;else u(h,c);end else if 4>f then c=b[k];else h=b[_];end end end f=f+1 end o=o+1;l=d[o];s[l[n]]=u[l[e]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];r=l[e];a=u[l[n]];u[r+1]=a;u[r]=a[l[t]];else if 124<=f then for d=32,79 do if f~=128 then local e=l[e];local o=u[l[n]];u[e+1]=o;u[e]=o[l[t]];break;end;local h,f,_,r,s,b,k,a,c;local d=0;while d>-1 do if 3>d then if d>=1 then if d~=-1 then for u=34,59 do if d~=2 then f=l;_=o;break;end;r=f[e];s=f[t];b=n;break;end;else r=f[e];s=f[t];b=n;end else h=u;end else if 5>d then if 2<=d then repeat if d<4 then k=h[r];a=h[s];break;end;c=k==a and f[b]or 1+_;until true;else k=h[r];a=h[s];end else if d==5 then o=c;else d=-2;end end end d=d+1 end break;end;else local e=l[e];local o=u[l[n]];u[e+1]=o;u[e]=o[l[t]];end end end end else if 143>=f then if f>140 then if 141<f then if 143>f then local r;for f=0,6 do if f>2 then if 5<=f then if f>3 then for h=14,57 do if f~=5 then u[l[e]]=s[l[n]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=s[l[n]];end else if f>=0 then for s=25,83 do if f<4 then r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]]-u[l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]]-u[l[t]];o=o+1;l=d[o];end end else if f>=1 then if-3<f then repeat if f~=2 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end else for f=0,4 do if f<2 then if f>=-4 then for h=47,84 do if f<1 then u[l[e]]=u[l[n]]-l[t];o=o+1;l=d[o];break;end;s[l[n]]=u[l[e]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]]-l[t];o=o+1;l=d[o];end else if f>2 then if f<4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if u[l[e]]then o=o+1;else o=l[n];end;end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end else local f,h;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];end else if f<139 then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);else if 135<=f then for s=27,57 do if 140>f then local r,s,b,a,_,k,c,p,f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];o=o+1;l=d[o];f=0;while f>-1 do if 3>=f then if f<2 then if f>-2 then repeat if 0<f then a=e;break;end;b=l;until true;else a=e;end else if f>-1 then repeat if 2<f then k=u;break;end;_=n;until true;else k=u;end end else if 5<f then if f~=6 then f=-2;else u[p]=c;end else if 4<f then p=b[a];else c=k[b[_]];end end end f=f+1 end o=o+1;l=d[o];r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;break;end;local s;for f=0,5 do if 2>=f then if 1<=f then if 1<f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];end else if 3>=f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if f~=0 then repeat if f<5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end break;end;else local r,k,b,a,c,s,_,p,f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];r=l[e];k=u[l[n]];u[r+1]=k;u[r]=k[l[t]];o=o+1;l=d[o];f=0;while f>-1 do if 3>=f then if f<2 then if f>-2 then repeat if 0<f then a=e;break;end;b=l;until true;else a=e;end else if f>-1 then repeat if 2<f then s=u;break;end;c=n;until true;else s=u;end end else if 5<f then if f~=6 then f=-2;else u[p]=_;end else if 4<f then p=b[a];else _=s[b[c]];end end end f=f+1 end o=o+1;l=d[o];r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;end end end else if f<=146 then if 144>=f then local h;for f=0,5 do if f>=3 then if f<4 then h=l[e]u[h]=u[h]()o=o+1;l=d[o];else if f>2 then repeat if f~=4 then if u[l[e]]then o=o+1;else o=l[n];end;break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end else if f>0 then if 2==f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end else if 143<=f then for r=35,78 do if 146~=f then u[l[e]][l[n]]=u[l[t]];break;end;local f,r;for s=0,9 do if 5>s then if 2<=s then if 3>s then u[l[e]]={};o=o+1;l=d[o];else if-1~=s then for r=14,83 do if 4>s then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end else if-3<=s then for a=46,58 do if s~=1 then f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];break;end;else f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];end end else if s>6 then if s>=8 then if s~=4 then repeat if 8~=s then f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];break;end;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];until true;else f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];end else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else if 2<=s then repeat if s<6 then f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];until true;else f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];end end end end break;end;else u[l[e]][l[n]]=u[l[t]];end end else if 149>f then if 145~=f then for s=28,84 do if 147~=f then local f,r;u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);break;end;local f,s;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=(l[n]~=0);break;end;else local f,s;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=(l[n]~=0);end else if 150~=f then local o=l[e]local n={u[o](h(u,o+1,a))};local e=0;for l=o,l[t]do e=e+1;u[l]=n[e];end else for f=0,4 do if 2>f then if f==1 then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end else if f<=2 then u(l[e],l[n]);o=o+1;l=d[o];else if 3<f then u[l[e]][u[l[n]]]=u[l[t]];else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end end end end end end end end end end end else if 50<=f then if 74>=f then if 61>=f then if 55>=f then if f>52 then if f>=54 then if f>53 then repeat if 55>f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);break;end;local h;for f=0,4 do if 1<f then if 2<f then if 0<f then repeat if 4>f then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;if(u[l[e]]<=u[l[t]])then o=l[n];else o=o+1;end;until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end else u[l[e]]=u[l[n]]-u[l[t]];o=o+1;l=d[o];end else if 1==f then u[l[e]]=s[l[n]];o=o+1;l=d[o];else h=l[e]u[h]=u[h]()o=o+1;l=d[o];end end end until true;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);end else local o=l[e]local e,l=k(u[o]())a=l+o-1 local l=0;for o=o,a do l=l+1;u[o]=e[l];end;end else if f<51 then local s;for f=0,6 do if 2>=f then if f<=0 then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if 2>f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end end else if f<=4 then if f~=1 then repeat if f~=4 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else if 6>f then s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];else u[l[e]][l[n]]=u[l[t]];end end end end else if f>47 then for d=10,58 do if f~=52 then if(u[l[e]]<u[l[t]])then o=l[n];else o=o+1;end;break;end;if(l[e]<u[l[t]])then o=l[n];else o=o+1;end;break;end;else if(l[e]<u[l[t]])then o=l[n];else o=o+1;end;end end end else if f>=59 then if 59<f then if 58<=f then repeat if f>60 then local r,a,b,s,k,f,c;for f=0,6 do if 2<f then if f>=5 then if 5~=f then u[l[e]][l[n]]=l[t];else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if f~=-1 then for t=36,86 do if f~=4 then f=0;while f>-1 do if f>2 then if 4>=f then if f~=1 then for l=20,91 do if f<4 then s=r[b];break;end;k=r[a];break;end;else s=r[b];end else if 2<=f then repeat if 6~=f then u(k,s);break;end;f=-2;until true;else f=-2;end end else if 0>=f then r=l;else if-3~=f then repeat if f>1 then b=n;break;end;a=e;until true;else a=e;end end end f=f+1 end o=o+1;l=d[o];break;end;c=l[e]u[c]=u[c](h(u,c+1,l[n]))o=o+1;l=d[o];break;end;else f=0;while f>-1 do if f>2 then if 4>=f then if f~=1 then for l=20,91 do if f<4 then s=r[b];break;end;k=r[a];break;end;else s=r[b];end else if 2<=f then repeat if 6~=f then u(k,s);break;end;f=-2;until true;else f=-2;end end else if 0>=f then r=l;else if-3~=f then repeat if f>1 then b=n;break;end;a=e;until true;else a=e;end end end f=f+1 end o=o+1;l=d[o];end end else if 0<f then if f>0 then for t=43,88 do if 1<f then f=0;while f>-1 do if 2>=f then if f>0 then if-3<f then for l=47,58 do if f~=1 then b=n;break;end;a=e;break;end;else a=e;end else r=l;end else if 4>=f then if 2<=f then repeat if f>3 then k=r[a];break;end;s=r[b];until true;else s=r[b];end else if 2<=f then repeat if f>5 then f=-2;break;end;u(k,s);until true;else u(k,s);end end end f=f+1 end o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else f=0;while f>-1 do if 2>=f then if f>0 then if-3<f then for l=47,58 do if f~=1 then b=n;break;end;a=e;break;end;else a=e;end else r=l;end else if 4>=f then if 2<=f then repeat if f>3 then k=r[a];break;end;s=r[b];until true;else s=r[b];end else if 2<=f then repeat if f>5 then f=-2;break;end;u(k,s);until true;else u(k,s);end end end f=f+1 end o=o+1;l=d[o];end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end break;end;u[l[e]]=u[l[n]][l[t]];until true;else u[l[e]]=u[l[n]][l[t]];end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];do return end;end else if 57<=f then if 55<=f then repeat if f~=57 then local f;u[l[e]]=s[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];o=l[n];break;end;u[l[e]]=l[n]/u[l[t]];until true;else u[l[e]]=l[n]/u[l[t]];end else local f,s;u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];end end end else if 68<=f then if f<71 then if 68>=f then if(u[l[e]]~=l[t])then o=o+1;else o=l[n];end;else if 69<f then for f=0,4 do if 1<f then if f<3 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if f~=4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]][l[n]]=l[t];end end else if-4<f then for h=36,60 do if f<1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];s[l[n]]=u[l[e]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=s[l[n]];end end else if 72>=f then if f>67 then for a=18,97 do if f<72 then for f=0,8 do if 3>=f then if f<=1 then if f==0 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if 1<f then for h=35,65 do if 3>f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end else if f<6 then if f>0 then repeat if f>4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 7>f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if f<8 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]];end end end end end break;end;local f,s;for r=0,6 do if r<3 then if r<=0 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else if-3<r then repeat if 1~=r then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];until true;else f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];end end else if r<5 then if 0<=r then repeat if 4>r then u[l[e]]={};o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];until true;else u[l[e]]={};o=o+1;l=d[o];end else if 3~=r then for f=16,74 do if 6~=r then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];break;end;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end end break;end;else for f=0,8 do if 3>=f then if f<=1 then if f==0 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if 1<f then for h=35,65 do if 3>f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end else if f<6 then if f>0 then repeat if f>4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 7>f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if f<8 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]];end end end end end end else if f~=71 then for s=18,93 do if f~=74 then for f=0,6 do if 2>=f then if f>=1 then if-1<f then for h=41,52 do if 2>f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if f<5 then if 3<f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 5~=f then u(l[e],l[n]);else u(l[e],l[n]);o=o+1;l=d[o];end end end end break;end;local f;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];break;end;else for f=0,6 do if 2>=f then if f>=1 then if-1<f then for h=41,52 do if 2>f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if f<5 then if 3<f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 5~=f then u(l[e],l[n]);else u(l[e],l[n]);o=o+1;l=d[o];end end end end end end end else if 64>=f then if 63<=f then if f>=61 then repeat if f~=63 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];break;end;for f=0,6 do if f<=2 then if f>0 then if f~=-3 then repeat if 2~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end else if f<=4 then if-1<=f then for t=23,80 do if f>3 then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end else if 3<f then repeat if f<6 then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];until true;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end end end until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];end else for f=0,4 do if f<=1 then if f>=-2 then for h=33,75 do if 0<f then s[l[n]]=u[l[e]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>2 then if f~=-1 then repeat if 4~=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;s[l[n]]=u[l[e]];until true;else s[l[n]]=u[l[e]];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end else if f<66 then local o=l[e]u[o](h(u,o+1,l[n]))else if f>63 then for d=21,72 do if 66<f then if(l[e]<=u[l[t]])then o=o+1;else o=l[n];end;break;end;if(u[l[e]]==l[t])then o=o+1;else o=l[n];end;break;end;else if(u[l[e]]==l[t])then o=o+1;else o=l[n];end;end end end end end else if f>=88 then if 93<f then if 96>=f then if 94<f then if 95~=f then for f=0,9 do if f>=5 then if f<=6 then if 3~=f then repeat if f>5 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 7>=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if 8~=f then u[l[e]]=u[l[n]][l[t]];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end else if f<2 then if f==1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f<3 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if 4==f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end end else local o=l[e];local e=u[l[n]];u[o+1]=e;u[o]=e[u[l[t]]];end else u[l[e]]=l[n]/u[l[t]];end else if f>=99 then if 100==f then s[l[n]]=u[l[e]];else local f,s;f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];if u[l[e]]then o=o+1;else o=l[n];end;end else if f>97 then local s;for f=0,8 do if 4<=f then if 5>=f then if f>3 then repeat if 5~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else if 6<f then if 4~=f then repeat if 8>f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;o=l[n];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];end end else if f<2 then if-2<f then repeat if 0~=f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else if f~=-2 then for h=49,55 do if f<3 then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end else local f,s;for r=0,6 do if 2<r then if r>=5 then if 5<r then u(l[e],l[n]);else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if r>2 then for t=42,52 do if r>3 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];break;end;else u[l[e]]={};o=o+1;l=d[o];end end else if r>0 then if-2<=r then repeat if 1~=r then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];until true;else f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end end end end end else if 90<f then if 92<=f then if f~=89 then repeat if 92~=f then u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;break;end;local f;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f]()o=o+1;l=d[o];u[l[e]]=u[l[n]]*l[t];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=u[l[n]]*l[t];o=o+1;l=d[o];u[l[e]]=l[n]+u[l[t]];until true;else local f;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f]()o=o+1;l=d[o];u[l[e]]=u[l[n]]*l[t];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=u[l[n]]*l[t];o=o+1;l=d[o];u[l[e]]=l[n]+u[l[t]];end else u[l[e]][u[l[n]]]=l[t];end else if f<89 then u[l[e]]=(l[n]~=0);else if f>87 then repeat if 90>f then local h;for f=0,6 do if 2<f then if 4<f then if f>=1 then repeat if 6~=f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];until true;else u[l[e]][l[n]]=l[t];end else if 4~=f then h=l[e]u[h]=u[h](u[h+1])o=o+1;l=d[o];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end else if f<=0 then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if f>=-3 then for h=31,97 do if 1~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end break;end;local r,a,s,b,k,c,_,f;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];r=l[e];a=u[l[n]];u[r+1]=a;u[r]=a[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];f=0;while f>-1 do if f<3 then if f>=1 then if f>-2 then for l=43,80 do if f~=2 then b=e;break;end;k=n;break;end;else b=e;end else s=l;end else if f>4 then if f~=6 then u(_,c);else f=-2;end else if 1<=f then for l=41,76 do if 3<f then _=s[b];break;end;c=s[k];break;end;else c=s[k];end end end f=f+1 end o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];r=l[e]u[r]=u[r](h(u,r+1,l[n]))until true;else local h;for f=0,6 do if 2<f then if 4<f then if f>=1 then repeat if 6~=f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];until true;else u[l[e]][l[n]]=l[t];end else if 4~=f then h=l[e]u[h]=u[h](u[h+1])o=o+1;l=d[o];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end else if f<=0 then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if f>=-3 then for h=31,97 do if 1~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end end end end end else if f<81 then if 78<=f then if f>=79 then if f==80 then for f=0,4 do if f<2 then if f~=-2 then repeat if f<1 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if f>2 then if f>-1 then repeat if 3~=f then u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];end else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end end else local h;for f=0,4 do if 2<=f then if f<3 then u[l[e]]=u[l[n]]-u[l[t]];o=o+1;l=d[o];else if 4>f then u[l[e]]=s[l[n]];o=o+1;l=d[o];else if(u[l[e]]<u[l[t]])then o=l[n];else o=o+1;end;end end else if f~=1 then h=l[e]u[h]=u[h]()o=o+1;l=d[o];else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end else for f=0,9 do if 4<f then if 6<f then if f>=8 then if f~=6 then repeat if 8~=f then u(l[e],l[n]);break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end else if f==5 then u(l[e],l[n]);o=o+1;l=d[o];else u[l[e]]={};o=o+1;l=d[o];end end else if f>1 then if f>=3 then if 2<f then repeat if f~=4 then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end else if f>-1 then for h=47,67 do if f<1 then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end end end end end else if 76<=f then if f>74 then for h=27,93 do if 77>f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];break;end;local e=l[e];local t=u[e+2];local d=u[e]+t;u[e]=d;if(t>0)then if(d<=u[e+1])then o=l[n];u[e+3]=d;end elseif(d>=u[e+1])then o=l[n];u[e+3]=d;end break;end;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];end else local d=l[e];local n={};for l=1,#c do local l=c[l];for o=0,#l do local o=l[o];local e=o[1];local l=o[2];if e==u and l>=d then n[l]=e[l];o[1]=n;end;end;end;end end else if f<=83 then if 81<f then if f>=81 then repeat if f>82 then local f,s;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];break;end;local f;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];o=l[n];until true;else local f;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];o=l[n];end else local e=l[e]local n={u[e](h(u,e+1,l[n]))};local o=0;for l=e,l[t]do o=o+1;u[l]=n[o];end end else if f>85 then if f>86 then u[l[e]]=u[l[n]]/l[t];else local h;for f=0,9 do if f<=4 then if 1<f then if 2>=f then u[l[e]]=s[l[n]];o=o+1;l=d[o];else if 0<f then for h=18,54 do if f~=3 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end else if-2<f then repeat if 1~=f then h=l[e]u[h]=u[h](u[h+1])o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else h=l[e]u[h]=u[h](u[h+1])o=o+1;l=d[o];end end else if 6<f then if 8<=f then if 4<f then for h=27,64 do if f<9 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end else if 6==f then u[l[e]]=s[l[n]];o=o+1;l=d[o];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end end end else if f>=81 then repeat if f~=85 then if(l[e]<u[l[t]])then o=o+1;else o=l[n];end;break;end;local r,m,p,a,_,b,c,k,g,f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];r=l[e]m={u[r](h(u,r+1,l[n]))};p=0;for l=r,l[t]do p=p+1;u[l]=m[p];end o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=0;while f>-1 do if f>=4 then if 5>=f then if f==4 then k=c[a[b]];else g=a[_];end else if f~=2 then for l=31,91 do if f<7 then u[g]=k;break;end;f=-2;break;end;else f=-2;end end else if 1>=f then if-1<=f then repeat if f<1 then a=l;break;end;_=e;until true;else _=e;end else if f~=3 then b=n;else c=u;end end end f=f+1 end o=o+1;l=d[o];f=0;while f>-1 do if f<=3 then if 2>f then if f<1 then a=l;else _=e;end else if-1~=f then repeat if 2<f then c=u;break;end;b=n;until true;else b=n;end end else if f>=6 then if 4<f then repeat if 7~=f then u[g]=k;break;end;f=-2;until true;else f=-2;end else if 3<f then repeat if f~=5 then k=c[a[b]];break;end;g=a[_];until true;else k=c[a[b]];end end end f=f+1 end o=o+1;l=d[o];r=l[e]u[r]=u[r](h(u,r+1,l[n]))until true;else local r,m,p,a,k,b,_,c,g,f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];r=l[e]m={u[r](h(u,r+1,l[n]))};p=0;for l=r,l[t]do p=p+1;u[l]=m[p];end o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=0;while f>-1 do if f>=4 then if 5>=f then if f==4 then c=_[a[b]];else g=a[k];end else if f~=2 then for l=31,91 do if f<7 then u[g]=c;break;end;f=-2;break;end;else f=-2;end end else if 1>=f then if-1<=f then repeat if f<1 then a=l;break;end;k=e;until true;else k=e;end else if f~=3 then b=n;else _=u;end end end f=f+1 end o=o+1;l=d[o];f=0;while f>-1 do if f<=3 then if 2>f then if f<1 then a=l;else k=e;end else if-1~=f then repeat if 2<f then _=u;break;end;b=n;until true;else b=n;end end else if f>=6 then if 4<f then repeat if 7~=f then u[g]=c;break;end;f=-2;until true;else f=-2;end else if 3<f then repeat if f~=5 then c=_[a[b]];break;end;g=a[k];until true;else c=_[a[b]];end end end f=f+1 end o=o+1;l=d[o];r=l[e]u[r]=u[r](h(u,r+1,l[n]))end end end end end end else if f>=25 then if 36<f then if 43>f then if f>39 then if f<41 then local s;for f=0,9 do if f<5 then if f<2 then if-4<=f then repeat if f>0 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if 2>=f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if 2~=f then for h=42,55 do if f~=3 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end else if f>=7 then if 8<=f then if f~=4 then repeat if f>8 then u[l[e]]=r[l[n]];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if f>4 then repeat if f~=5 then s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];end end end end else if 38<f then for s=32,85 do if 42~=f then local f;u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);break;end;local o=l[e]local e,l=k(u[o](h(u,o+1,l[n])))a=l+o-1 local l=0;for o=o,a do l=l+1;u[o]=e[l];end;break;end;else local f;u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);end end else if 37>=f then local e=l[e];local d=u[e]local t=u[e+2];if(t>0)then if(d>u[e+1])then o=l[n];else u[e+3]=d;end elseif(d<u[e+1])then o=l[n];else u[e+3]=d;end else if f>36 then repeat if f~=38 then if(l[e]<u[l[t]])then o=l[n];else o=o+1;end;break;end;for f=0,9 do if 5>f then if f<=1 then if f~=-2 then repeat if 1>f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];until true;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];end else if f>=3 then if 2~=f then repeat if 3<f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end end else if 6>=f then if f>5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if 8<=f then if 9~=f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];else u[l[e]][u[l[n]]]=u[l[t]];end else u(l[e],l[n]);o=o+1;l=d[o];end end end end until true;else for f=0,9 do if 5>f then if f<=1 then if f~=-2 then repeat if 1>f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];until true;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];end else if f>=3 then if 2~=f then repeat if 3<f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end end else if 6>=f then if f>5 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if 8<=f then if 9~=f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];else u[l[e]][u[l[n]]]=u[l[t]];end else u(l[e],l[n]);o=o+1;l=d[o];end end end end end end end else if f<46 then if f>43 then if f>40 then for h=11,96 do if f>44 then do return end;break;end;for f=0,6 do if f>2 then if f>=5 then if 4~=f then for h=21,98 do if f<6 then u[l[e]]=(l[n]~=0);o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];break;end;else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end else if 0<f then repeat if 3~=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end else if 1>f then u[l[e]]={};o=o+1;l=d[o];else if f>0 then repeat if 1<f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end end end end break;end;else for f=0,6 do if f>2 then if f>=5 then if 4~=f then for h=21,98 do if f<6 then u[l[e]]=(l[n]~=0);o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];break;end;else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end else if 0<f then repeat if 3~=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end else if 1>f then u[l[e]]={};o=o+1;l=d[o];else if f>0 then repeat if 1<f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end end end end end else local r,s,a,_,b,k,c,f;r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];f=0;while f>-1 do if f<=2 then if 0>=f then a=l;else if-3<f then repeat if 1~=f then b=n;break;end;_=e;until true;else b=n;end end else if f<5 then if f>-1 then repeat if 4>f then k=a[b];break;end;c=a[_];until true;else k=a[b];end else if f~=4 then for l=24,92 do if f>5 then f=-2;break;end;u(c,k);break;end;else f=-2;end end end f=f+1 end o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];end else if 48<=f then if 48<f then local c,r,a,b,k,s,f;for f=0,6 do if 3>f then if f>=1 then if f>0 then for h=35,65 do if f<2 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;f=0;while f>-1 do if f>=3 then if f>=5 then if 2<=f then for l=34,57 do if 6>f then u(s,k);break;end;f=-2;break;end;else u(s,k);end else if 4~=f then k=r[b];else s=r[a];end end else if 0>=f then r=l;else if f~=0 then for l=30,55 do if f~=2 then a=e;break;end;b=n;break;end;else a=e;end end end f=f+1 end o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else c=l[e]u[c]=u[c](h(u,c+1,l[n]))o=o+1;l=d[o];end else if f<5 then if 0<f then for h=34,76 do if f<4 then u[l[e]]=(l[n]~=0);o=o+1;l=d[o];break;end;u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;else u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];end else if f==6 then u(l[e],l[n]);else f=0;while f>-1 do if 3>f then if 0<f then if-3<f then repeat if f<2 then a=e;break;end;b=n;until true;else b=n;end else r=l;end else if 5<=f then if 4~=f then for l=49,88 do if 6~=f then u(s,k);break;end;f=-2;break;end;else f=-2;end else if 2<=f then for l=48,76 do if f>3 then s=r[a];break;end;k=r[b];break;end;else s=r[a];end end end f=f+1 end o=o+1;l=d[o];end end end end else local d=u[l[t]];if not d then o=o+1;else u[l[e]]=d;o=l[n];end;end else if f>=44 then repeat if 46~=f then for f=0,9 do if f>4 then if f>6 then if f<=7 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else if 9==f then u[l[e]][l[n]]=u[l[t]];else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end else if f>3 then repeat if f~=5 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];until true;else u[l[e]]={};o=o+1;l=d[o];end end else if f<2 then if f>-1 then for t=18,55 do if f~=0 then u[l[e]]={};o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]={};o=o+1;l=d[o];end else if 2<f then if f~=-1 then for h=15,78 do if 3<f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end break;end;if not u[l[e]]then o=o+1;else o=l[n];end;until true;else for f=0,9 do if f>4 then if f>6 then if f<=7 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else if 9==f then u[l[e]][l[n]]=u[l[t]];else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end else if f>3 then repeat if f~=5 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]]={};o=o+1;l=d[o];until true;else u[l[e]]={};o=o+1;l=d[o];end end else if f<2 then if f>-1 then for t=18,55 do if f~=0 then u[l[e]]={};o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]={};o=o+1;l=d[o];end else if 2<f then if f~=-1 then for h=15,78 do if 3<f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end end end end end end end else if f<=30 then if 27<f then if 28>=f then local f,a,s;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]a={u[f](h(u,f+1,l[n]))};s=0;for l=f,l[t]do s=s+1;u[l]=a[s];end o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];if(u[l[e]]==l[t])then o=o+1;else o=l[n];end;else if 25~=f then for r=30,92 do if 30~=f then local f,r;for s=0,3 do if s>=2 then if-1~=s then repeat if s~=3 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];until true;else f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];end else if s>-2 then repeat if s~=0 then u[l[e]]={};o=o+1;l=d[o];break;end;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];until true;else f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];end end end break;end;u[l[e]]=u[l[n]]+l[t];break;end;else local f,r;for s=0,3 do if s>=2 then if-1~=s then repeat if s~=3 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];until true;else f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];end else if s>-2 then repeat if s~=0 then u[l[e]]={};o=o+1;l=d[o];break;end;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];until true;else f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];end end end end end else if f>=26 then if f~=22 then repeat if 26~=f then local f,r;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]={};break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]={};until true;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]={};end else u[l[e]]();end end else if f>=34 then if 34>=f then local a,k,b,c,_,f,p;for f=0,9 do if f>4 then if f>=7 then if 7<f then if f~=8 then u[l[e]]=r[l[n]];else p=l[e]u[p]=u[p](h(u,p+1,l[n]))o=o+1;l=d[o];end else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f~=2 then repeat if f~=6 then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end else if 2>f then if 1==f then u[l[e]]={};o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>2 then if 0~=f then for h=35,82 do if f~=3 then f=0;while f>-1 do if f>2 then if 4<f then if 4<=f then for l=42,78 do if f~=5 then f=-2;break;end;u(_,c);break;end;else f=-2;end else if 4>f then c=a[b];else _=a[k];end end else if f<=0 then a=l;else if 0~=f then for l=49,89 do if 1<f then b=n;break;end;k=e;break;end;else b=n;end end end f=f+1 end o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else f=0;while f>-1 do if f>2 then if 4<f then if 4<=f then for l=42,78 do if f~=5 then f=-2;break;end;u(_,c);break;end;else f=-2;end else if 4>f then c=a[b];else _=a[k];end end else if f<=0 then a=l;else if 0~=f then for l=49,89 do if 1<f then b=n;break;end;k=e;break;end;else b=n;end end end f=f+1 end o=o+1;l=d[o];end else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end end end else if 36~=f then u[l[e]]=u[l[n]]%u[l[t]];else local l=l[e];do return h(u,l,a)end;end end else if f<=31 then u[l[e]]=u[l[n]]%l[t];else if 33~=f then u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];else local o=l[e];local e=u[o];for l=o+1,l[n]do b.xRTXRRrQ(e,u[l])end;end end end end end else if 11<f then if 17<f then if 20>=f then if 19>f then local f,a;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];s[l[n]]=u[l[e]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];a=u[l[n]];u[f+1]=a;u[f]=a[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];else if 15<f then for h=37,75 do if 20>f then r[l[n]]=u[l[e]];break;end;local f;for h=0,2 do if h<1 then f=l[e]u[f]=u[f]()o=o+1;l=d[o];else if 2~=h then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else u[l[e]][l[n]]=u[l[t]];end end end break;end;else r[l[n]]=u[l[e]];end end else if 22>=f then if 22>f then u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];else local r;for f=0,4 do if 2>f then if 0==f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>=3 then if f>1 then for h=19,69 do if f~=4 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=s[l[n]];break;end;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end end end end else if f>23 then local s,c,k,b;for f=0,6 do if 2>=f then if f>=1 then if f>=0 then repeat if 2~=f then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else u[l[e]]={};o=o+1;l=d[o];end else if 4>=f then if 0<f then for h=31,68 do if f~=4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;s=l[e];a=s+y-1;for l=s,a do c=g[l-s];u[l]=c;end;o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>=3 then for r=23,85 do if 6>f then s=l[e]k={u[s](h(u,s+1,a))};b=0;for l=s,l[t]do b=b+1;u[l]=k[b];end o=o+1;l=d[o];break;end;o=l[n];break;end;else o=l[n];end end end end else if u[l[e]]then o=o+1;else o=l[n];end;end end end else if f<15 then if f<13 then local f,c,b,r;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]/l[t];o=o+1;l=d[o];f=l[e]c,b=k(u[f](u[f+1]))a=b+f-1 r=0;for l=f,a do r=r+1;u[l]=c[r];end;o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,a))o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*l[t];o=o+1;l=d[o];u[l[e]]=l[n]/u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*l[t];else if f~=9 then for s=20,83 do if 14~=f then local f,c,b,s;for r=0,4 do if r<=1 then if-4<r then for t=38,58 do if 0<r then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]];o=o+1;l=d[o];end else if r>2 then if 0<r then repeat if 3~=r then u[l[e]][u[l[n]]]=u[l[t]];break;end;f=l[e]u[f]=u[f](h(u,f+1,a))o=o+1;l=d[o];until true;else u[l[e]][u[l[n]]]=u[l[t]];end else f=l[e]c,b=k(u[f](h(u,f+1,l[n])))a=b+f-1 s=0;for l=f,a do s=s+1;u[l]=c[s];end;o=o+1;l=d[o];end end end break;end;local f,s;u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];for l=l[e],l[n]do u[l]=nil;end;o=o+1;l=d[o];u(l[e],l[n]);break;end;else local f,s;u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];for l=l[e],l[n]do u[l]=nil;end;o=o+1;l=d[o];u(l[e],l[n]);end end else if 16>f then local r,b,s,a,k,_,c,f;for f=0,4 do if 1>=f then if f~=0 then r=l[e];b=u[l[n]];u[r+1]=b;u[r]=b[l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 3>f then f=0;while f>-1 do if 3<=f then if 4<f then if f>=2 then repeat if 5<f then f=-2;break;end;u(c,_);until true;else f=-2;end else if 4>f then _=s[k];else c=s[a];end end else if f<=0 then s=l;else if-3<=f then repeat if 1<f then k=n;break;end;a=e;until true;else a=e;end end end f=f+1 end o=o+1;l=d[o];else if-1~=f then repeat if 3<f then if not u[l[e]]then o=o+1;else o=l[n];end;break;end;r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];until true;else if not u[l[e]]then o=o+1;else o=l[n];end;end end end end else if f~=14 then repeat if 16~=f then local e=l[e];local t=l[t];local d=e+2 local e={u[e](u[e+1],u[d])};for l=1,t do u[d+l]=e[l];end;local e=e[1]if e then u[d]=e o=l[n];else o=o+1;end;break;end;u[l[e]]=u[l[n]]*l[t];until true;else local e=l[e];local t=l[t];local d=e+2 local e={u[e](u[e+1],u[d])};for l=1,t do u[d+l]=e[l];end;local e=e[1]if e then u[d]=e o=l[n];else o=o+1;end;end end end end else if f<=5 then if 3>f then if 0<f then if f>-2 then for r=24,87 do if 2~=f then local h,f;h=l[e];f=u[l[n]];u[h+1]=f;u[h]=f[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);break;end;local o=l[e]u[o](h(u,o+1,l[n]))break;end;else local f,h;f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);end else local a,b,h;for f=0,4 do if f>1 then if 2>=f then u[l[e]]=s[l[n]];o=o+1;l=d[o];else if 0~=f then for r=26,65 do if f~=4 then a=l[e]b={u[a](u[a+1])};h=0;for l=a,l[t]do h=h+1;u[l]=b[h];end o=o+1;l=d[o];break;end;o=l[n];break;end;else o=l[n];end end else if-3~=f then repeat if f~=1 then u[l[e]]={};o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end end end else if 4>f then local o=l[e];do return h(u,o,o+l[n])end;else if 5~=f then local s,k,p,_,c,b,f,a;f=0;while f>-1 do if f<=3 then if f<=1 then if-3<f then for o=15,81 do if f~=1 then s=l;break;end;k=e;break;end;else s=l;end else if f~=2 then _=u;else p=n;end end else if f<6 then if f~=4 then b=s[k];else c=_[s[p]];end else if 2<=f then repeat if 6<f then f=-2;break;end;u[b]=c;until true;else f=-2;end end end f=f+1 end o=o+1;l=d[o];u[l[e]]=u[l[n]]-u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];a=l[e]u[a]=u[a](h(u,a+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=0;while f>-1 do if 3>=f then if 2>f then if f>=-3 then repeat if f~=0 then k=e;break;end;s=l;until true;else s=l;end else if 2~=f then _=u;else p=n;end end else if 5>=f then if f>=0 then for l=13,72 do if f~=5 then c=_[s[p]];break;end;b=s[k];break;end;else b=s[k];end else if f>3 then for l=37,86 do if 6~=f then f=-2;break;end;u[b]=c;break;end;else f=-2;end end end f=f+1 end o=o+1;l=d[o];a=l[e]u[a]=u[a](h(u,a+1,l[n]))else local l=l[e]local e,o=k(u[l](u[l+1]))a=o+l-1 local o=0;for l=l,a do o=o+1;u[l]=e[o];end;end end end else if 8<f then if f<10 then local h,s,b,k,a,f;for f=0,6 do if f>2 then if 4<f then if f>=1 then repeat if 6~=f then f=0;while f>-1 do if f>=3 then if f<=4 then if 3==f then k=h[b];else a=h[s];end else if 5~=f then f=-2;else u(a,k);end end else if 0>=f then h=l;else if 0<=f then for l=49,72 do if 1<f then b=n;break;end;s=e;break;end;else b=n;end end end f=f+1 end o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];until true;else u[l[e]]=r[l[n]];end else if f>1 then repeat if 3~=f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end else if f<1 then u(l[e],l[n]);o=o+1;l=d[o];else if 0<f then repeat if f~=1 then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;f=0;while f>-1 do if f>2 then if f<=4 then if-1<f then for l=12,80 do if f~=3 then a=h[s];break;end;k=h[b];break;end;else a=h[s];end else if f==6 then f=-2;else u(a,k);end end else if f>0 then if-3<=f then for l=49,72 do if 2~=f then s=e;break;end;b=n;break;end;else s=e;end else h=l;end end f=f+1 end o=o+1;l=d[o];until true;else f=0;while f>-1 do if f>2 then if f<=4 then if-1<f then for l=12,80 do if f~=3 then a=h[s];break;end;k=h[b];break;end;else a=h[s];end else if f==6 then f=-2;else u(a,k);end end else if f>0 then if-3<=f then for l=49,72 do if 2~=f then s=e;break;end;b=n;break;end;else s=e;end else h=l;end end f=f+1 end o=o+1;l=d[o];end end end end else if f==11 then for f=0,6 do if 3>f then if f>=1 then if f>-1 then repeat if 1~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end else if 5<=f then if 1<f then for t=40,73 do if f~=5 then u(l[e],l[n]);break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else if f>1 then for h=11,64 do if 3<f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end end end end else local f,r;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);end end else if f<=6 then if(l[e]<u[l[t]])then o=o+1;else o=l[n];end;else if 6<f then repeat if 7<f then u[l[e]][l[n]]=l[t];break;end;local f;for r=0,1 do if r>-3 then for s=25,55 do if r>0 then f=l[e]u[f](h(u,f+1,l[n]))break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;else f=l[e]u[f](h(u,f+1,l[n]))end end until true;else local f;for r=0,1 do if r>-3 then for s=25,55 do if r>0 then f=l[e]u[f](h(u,f+1,l[n]))break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;else f=l[e]u[f](h(u,f+1,l[n]))end end end end end end end end end end else if 302<f then if 352<f then if f>=378 then if 391>f then if f<=383 then if 381>f then if 378>=f then u[l[e]]=-u[l[n]];else if f>378 then repeat if 380>f then u[l[e]]=u[l[n]]/u[l[t]];break;end;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];until true;else u[l[e]]=u[l[n]]/u[l[t]];end end else if f>=382 then if 379~=f then for d=41,92 do if f>382 then u[l[e]][l[n]]=u[l[t]];break;end;if(u[l[e]]==l[t])then o=o+1;else o=l[n];end;break;end;else u[l[e]][l[n]]=u[l[t]];end else local s,_,r,b,a,c,k,f;for f=0,4 do if f>=2 then if 3<=f then if f~=1 then for t=41,96 do if 4~=f then f=0;while f>-1 do if 3>f then if 0<f then if f~=-1 then for l=13,88 do if f~=1 then a=n;break;end;b=e;break;end;else a=n;end else r=l;end else if 4<f then if 6>f then u(k,c);else f=-2;end else if 1<f then repeat if f~=4 then c=r[a];break;end;k=r[b];until true;else k=r[b];end end end f=f+1 end o=o+1;l=d[o];break;end;s=l[e]u[s]=u[s](h(u,s+1,l[n]))break;end;else f=0;while f>-1 do if 3>f then if 0<f then if f~=-1 then for l=13,88 do if f~=1 then a=n;break;end;b=e;break;end;else a=n;end else r=l;end else if 4<f then if 6>f then u(k,c);else f=-2;end else if 1<f then repeat if f~=4 then c=r[a];break;end;k=r[b];until true;else k=r[b];end end end f=f+1 end o=o+1;l=d[o];end else s=l[e];_=u[l[n]];u[s+1]=_;u[s]=_[l[t]];o=o+1;l=d[o];end else if-4<f then repeat if 1>f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end end else if 386>=f then if 384>=f then local f,r;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];else if f>=382 then for h=30,91 do if f<386 then local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);break;end;local f,s;for h=0,9 do if 5<=h then if 7<=h then if h>=8 then if 5<h then for r=33,89 do if 9~=h then f=l[e]u[f]=u[f]()o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];break;end;else f=l[e]u[f]=u[f]()o=o+1;l=d[o];end else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if h>=3 then repeat if 6>h then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end else if 2>h then if-3~=h then repeat if h>0 then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;f=l[e]u[f](u[f+1])o=o+1;l=d[o];until true;else f=l[e]u[f](u[f+1])o=o+1;l=d[o];end else if h>=3 then if h<4 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end else u[l[e]]={};o=o+1;l=d[o];end end end end break;end;else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);end end else if 388<f then if f~=386 then repeat if 389~=f then local h,b,r,k,_,f,a,c,p;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]]/u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]/l[t];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=0;while f>-1 do if f<3 then if 0<f then if-1~=f then repeat if 2~=f then b=e;break;end;r=n;until true;else r=n;end else h=l;end else if 5>f then if 0~=f then repeat if f>3 then _=h[b];break;end;k=h[r];until true;else k=h[r];end else if 1<f then for l=25,95 do if 6~=f then u(_,k);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end o=o+1;l=d[o];f=0;while f>-1 do if 2>=f then if 1>f then h=l;else if-2<f then for l=43,70 do if f~=2 then b=e;break;end;r=n;break;end;else r=n;end end else if 5>f then if 0<f then repeat if 4~=f then k=h[r];break;end;_=h[b];until true;else _=h[b];end else if 6==f then f=-2;else u(_,k);end end end f=f+1 end o=o+1;l=d[o];a=l[e];c=u[a]p=u[a+2];if(p>0)then if(c>u[a+1])then o=l[n];else u[a+3]=c;end elseif(c<u[a+1])then o=l[n];else u[a+3]=c;end break;end;local s;for f=0,3 do if 1>=f then if-1<=f then repeat if f<1 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;s=l[e]u[s](h(u,s+1,l[n]))o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if-2<=f then repeat if f>2 then u[l[e]]=u[l[n]][l[t]];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];end end end until true;else local s;for f=0,3 do if 1>=f then if-1<=f then repeat if f<1 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;s=l[e]u[s](h(u,s+1,l[n]))o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if-2<=f then repeat if f>2 then u[l[e]]=u[l[n]][l[t]];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];end end end end else if 383<f then repeat if f>387 then local e=l[e]local n={u[e](u[e+1])};local o=0;for l=e,l[t]do o=o+1;u[l]=n[o];end break;end;local a=p[l[n]];local h;local f={};h=b.kXoWyikK({},{__index=function(o,l)local l=f[l];return l[1][l[2]];end,__newindex=function(u,l,o)local l=f[l]l[1][l[2]]=o;end;});for e=1,l[t]do o=o+1;local l=d[o];if l[m]==351 then f[e-1]={u,l[n]};else f[e-1]={s,l[n]};end;c[#c+1]=f;end;u[l[e]]=_(a,h,r);until true;else local a=p[l[n]];local h;local f={};h=b.kXoWyikK({},{__index=function(o,l)local l=f[l];return l[1][l[2]];end,__newindex=function(u,l,o)local l=f[l]l[1][l[2]]=o;end;});for e=1,l[t]do o=o+1;local l=d[o];if l[m]==351 then f[e-1]={u,l[n]};else f[e-1]={s,l[n]};end;c[#c+1]=f;end;u[l[e]]=_(a,h,r);end end end end else if f>396 then if f<400 then if 398>f then for f=0,6 do if f>=3 then if 4>=f then if 2<=f then repeat if f~=4 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>5 then u(l[e],l[n]);else u(l[e],l[n]);o=o+1;l=d[o];end end else if 0>=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else if f~=0 then repeat if f>1 then u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end end end end else if f>398 then u[l[e]][u[l[n]]]=u[l[t]];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];end end else if 401<f then if 403>f then u[l[e]]=u[l[n]]%l[t];else local f,h;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];s[l[n]]=u[l[e]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]]/l[t];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=r[l[n]];end else if f>=397 then for s=27,77 do if f>400 then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=l[n]*u[l[t]];break;end;local l=l[e]u[l]=u[l](h(u,l+1,a))break;end;else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=l[n]*u[l[t]];end end end else if 394<=f then if f>=395 then if f~=392 then for s=20,82 do if f~=396 then u[l[e]]=l[n]-u[l[t]];break;end;local s;for f=0,6 do if f<3 then if 1>f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if 0<=f then repeat if f>1 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end end else if f<5 then if f<4 then u(l[e],l[n]);o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end else if f==5 then s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];else u[l[e]][l[n]]=u[l[t]];end end end end break;end;else local s;for f=0,6 do if f<3 then if 1>f then u[l[e]]=r[l[n]];o=o+1;l=d[o];else if 0<=f then repeat if f>1 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end end else if f<5 then if f<4 then u(l[e],l[n]);o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end else if f==5 then s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];else u[l[e]][l[n]]=u[l[t]];end end end end end else u[l[e]]=(not u[l[n]]);end else if f>=392 then if 392==f then if(u[l[e]]~=l[t])then o=o+1;else o=l[n];end;else if(l[e]<=u[l[t]])then o=o+1;else o=l[n];end;end else local l=l[e];do return u[l](h(u,l+1,a))end;end end end end else if 364>=f then if 358<f then if f>=362 then if 363<=f then if f~=364 then local f;for h=0,4 do if h<=1 then if 1~=h then u[l[e]]=r[l[n]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if h>=3 then if h==4 then u[l[e]]=r[l[n]];else f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end end end else local r;for f=0,9 do if f>4 then if 7>f then if 5==f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=u[l[n]]/u[l[t]];o=o+1;l=d[o];end else if 8<=f then if 9~=f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];end else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end else if 1>=f then if f>=-3 then for h=35,78 do if f<1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if f>=3 then if f==3 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end end end end end else local f,c,p,_,s,b;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];c=u[l[n]];u[f+1]=c;u[f]=c[l[t]];o=o+1;l=d[o];f=l[e]b,_=k(u[f](u[f+1]))a=_+f-1 s=0;for l=f,a do s=s+1;u[l]=b[s];end;o=o+1;l=d[o];f=l[e]b={u[f](h(u,f+1,a))};s=0;for l=f,l[t]do s=s+1;u[l]=b[s];end o=o+1;l=d[o];o=l[n];end else if 359>=f then local f;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);else if 359~=f then repeat if 361~=f then if(u[l[e]]<l[t])then o=o+1;else o=l[n];end;break;end;for f=0,2 do if 1>f then r[l[n]]=u[l[e]];o=o+1;l=d[o];else if 0<=f then for h=26,78 do if f>1 then u[l[e]]=u[l[n]][l[t]];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end end until true;else for f=0,2 do if 1>f then r[l[n]]=u[l[e]];o=o+1;l=d[o];else if 0<=f then for h=26,78 do if f>1 then u[l[e]]=u[l[n]][l[t]];break;end;u[l[e]]=r[l[n]];o=o+1;l=d[o];break;end;else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end end end end end else if 355<f then if f>=357 then if f~=356 then for r=14,79 do if f<358 then local o=l[e]local e,l=k(u[o](h(u,o+1,l[n])))a=l+o-1 local l=0;for o=o,a do l=l+1;u[o]=e[l];end;break;end;for f=0,4 do if f<2 then if f>-2 then for h=16,75 do if f<1 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u(l[e],l[n]);o=o+1;l=d[o];end else if 3>f then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];else if f~=2 then for h=39,93 do if f~=3 then u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=u[l[t]];end end end end break;end;else local o=l[e]local e,l=k(u[o](h(u,o+1,l[n])))a=l+o-1 local l=0;for o=o,a do l=l+1;u[o]=e[l];end;end else local f,r,a;u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];r=l[n];a=u[r]for l=r+1,l[t]do a=a..u[l];end;u[l[e]]=a;o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];for l=l[e],l[n]do u[l]=nil;end;o=o+1;l=d[o];u[l[e]]=(l[n]~=0);end else if f<354 then local l=l[e];a=l+y-1;for o=l,a do local l=g[o-l];u[o]=l;end;else if 352~=f then for r=18,85 do if 355~=f then local f;u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);break;end;local r,s,b,_,k,c,a,f;for f=0,4 do if f<2 then if-4~=f then for h=25,86 do if f<1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];o=o+1;l=d[o];break;end;else r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];o=o+1;l=d[o];end else if f<3 then f=0;while f>-1 do if f<3 then if f>0 then if-3<f then repeat if f>1 then k=n;break;end;_=e;until true;else k=n;end else b=l;end else if f>=5 then if f>=4 then for l=19,60 do if 5<f then f=-2;break;end;u(a,c);break;end;else u(a,c);end else if 3<f then a=b[_];else c=b[k];end end end f=f+1 end o=o+1;l=d[o];else if 2~=f then repeat if 4>f then r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];break;end;if not u[l[e]]then o=o+1;else o=l[n];end;until true;else r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end end end end break;end;else local r,s,k,_,c,a,b,f;for f=0,4 do if f<2 then if-4~=f then for h=25,86 do if f<1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];o=o+1;l=d[o];break;end;else r=l[e];s=u[l[n]];u[r+1]=s;u[r]=s[l[t]];o=o+1;l=d[o];end else if f<3 then f=0;while f>-1 do if f<3 then if f>0 then if-3<f then repeat if f>1 then c=n;break;end;_=e;until true;else c=n;end else k=l;end else if f>=5 then if f>=4 then for l=19,60 do if 5<f then f=-2;break;end;u(b,a);break;end;else u(b,a);end else if 3<f then b=k[_];else a=k[c];end end end f=f+1 end o=o+1;l=d[o];else if 2~=f then repeat if 4>f then r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];break;end;if not u[l[e]]then o=o+1;else o=l[n];end;until true;else r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end end end end end end end end else if f>=371 then if f>373 then if 375>=f then if f>372 then for h=35,79 do if 374<f then for f=0,4 do if 2>f then if f>-4 then for h=45,77 do if 1~=f then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 2>=f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if f>=1 then repeat if f<4 then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;if not u[l[e]]then o=o+1;else o=l[n];end;until true;else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end end end break;end;local r,b,a,d,s,h,f;local o=0;while o>-1 do if o>=3 then if 5<=o then if 2<o then repeat if o<6 then u[h]=f;break;end;o=-2;until true;else u[h]=f;end else if 0~=o then repeat if o<4 then h=d[r];break;end;f=u[s];for l=1+s,d[a]do f=f..u[l];end;until true;else h=d[r];end end else if o<1 then r=e;b=n;a=t;else if 2==o then s=d[b];else d=l;end end end o=o+1 end break;end;else local s,b,a,d,r,h,f;local o=0;while o>-1 do if o>=3 then if 5<=o then if 2<o then repeat if o<6 then u[h]=f;break;end;o=-2;until true;else u[h]=f;end else if 0~=o then repeat if o<4 then h=d[s];break;end;f=u[r];for l=1+r,d[a]do f=f..u[l];end;until true;else h=d[s];end end else if o<1 then s=e;b=n;a=t;else if 2==o then r=d[b];else d=l;end end end o=o+1 end end else if f<377 then s[l[n]]=u[l[e]];else local l=l[e]u[l]=u[l](h(u,l+1,a))end end else if 372>f then u[l[e]]=s[l[n]];else if f~=368 then repeat if 372~=f then local h;for f=0,9 do if f<5 then if f<=1 then if-4<=f then repeat if 0~=f then h=l[e]u[h]=u[h](u[h+1])o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else if 2>=f then u(l[e],l[n]);o=o+1;l=d[o];else if-1<f then for h=47,67 do if f>3 then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=(l[n]~=0);o=o+1;l=d[o];break;end;else u[l[e]]=(l[n]~=0);o=o+1;l=d[o];end end end else if f<=6 then if 3<f then repeat if 5~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else if f>7 then if 4<f then repeat if 8~=f then u[l[e]]=u[l[n]][u[l[t]]];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][u[l[t]]];end else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end end end break;end;local o=l[e];do return u[o](h(u,o+1,l[n]))end;until true;else local o=l[e];do return u[o](h(u,o+1,l[n]))end;end end end else if f<=367 then if f<=365 then local f;u[l[e]]={};o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);else if f>365 then repeat if f>366 then local f,c,_,s,b;for c=0,4 do if 2<=c then if c>2 then if 1~=c then for r=47,79 do if 3<c then o=l[n];break;end;f=l[e]b={u[f](h(u,f+1,a))};s=0;for l=f,l[t]do s=s+1;u[l]=b[s];end o=o+1;l=d[o];break;end;else f=l[e]b={u[f](h(u,f+1,a))};s=0;for l=f,l[t]do s=s+1;u[l]=b[s];end o=o+1;l=d[o];end else f=l[e]b,_=k(u[f](u[f+1]))a=_+f-1 s=0;for l=f,a do s=s+1;u[l]=b[s];end;o=o+1;l=d[o];end else if c==1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u[l[e]]=r[l[n]];o=o+1;l=d[o];end end end break;end;local f;u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);until true;else local f;u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);end end else if 369<=f then if f~=367 then for h=36,75 do if 370~=f then for f=0,3 do if 2>f then if f==0 then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 1<f then for h=33,91 do if 2~=f then u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=u[l[t]];end end end break;end;u[l[e]]=-u[l[n]];break;end;else u[l[e]]=-u[l[n]];end else for f=0,2 do if f<=0 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else if-3~=f then for h=15,69 do if 1~=f then u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end end end end end end else if f<=327 then if f<=314 then if 308>=f then if f<306 then if f<=303 then local h,r;for f=0,5 do if f<=2 then if 0<f then if f>0 then for h=17,57 do if f~=2 then u[l[e]]={};o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;else u[l[e]]={};o=o+1;l=d[o];end else h=l[e];r=u[l[n]];u[h+1]=r;u[h]=r[l[t]];o=o+1;l=d[o];end else if f>3 then if f>=0 then repeat if 4~=f then u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end else if f<305 then u[l[e]]=l[n]-u[l[t]];else u[l[e]]=u[l[n]]%u[l[t]];end end else if f<307 then local f;f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];else if f~=304 then for o=28,64 do if f>307 then for l=l[e],l[n]do u[l]=nil;end;break;end;u[l[e]]={};break;end;else u[l[e]]={};end end end else if f>=312 then if 312>=f then local h,f;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];h=l[e];f=u[l[n]];u[h+1]=f;u[h]=f[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];else if 314==f then local f;for r=0,4 do if r<=1 then if 0~=r then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end else if 3<=r then if r>=-1 then repeat if r~=4 then u[l[e]]=u[l[n]];o=o+1;l=d[o];break;end;f=l[e]u[f](h(u,f+1,l[n]))until true;else f=l[e]u[f](h(u,f+1,l[n]))end else u[l[e]]=u[l[n]];o=o+1;l=d[o];end end end else local e=l[e];local o=u[l[n]];u[e+1]=o;u[e]=o[u[l[t]]];end end else if f>=310 then if f~=308 then repeat if 311~=f then u[l[e]]=l[n]+u[l[t]];break;end;for f=0,2 do if 0>=f then u(l[e],l[n]);o=o+1;l=d[o];else if 2==f then u[l[e]][l[n]]=u[l[t]];else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end end until true;else for f=0,2 do if 0>=f then u(l[e],l[n]);o=o+1;l=d[o];else if 2==f then u[l[e]][l[n]]=u[l[t]];else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];end end end end else u[l[e]]();end end end else if 321>f then if 318>f then if f<=315 then local f;for s=0,6 do if s<=2 then if s>=1 then if 2>s then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];else u(l[e],l[n]);o=o+1;l=d[o];end else u[l[e]]=r[l[n]];o=o+1;l=d[o];end else if 4>=s then if s>=1 then repeat if 3<s then f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];until true;else f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];end else if 2<=s then for f=46,75 do if 6~=s then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];break;end;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end end else if 313<f then repeat if 316<f then local f;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];o=l[n];break;end;o=l[n];until true;else o=l[n];end end else if 319>f then local f,r;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];else if 318<f then for r=16,96 do if 320~=f then local l=l[e]local e,o=k(u[l](u[l+1]))a=o+l-1 local o=0;for l=l,a do o=o+1;u[l]=e[o];end;break;end;local f,r;for s=0,4 do if 2<=s then if s<3 then u(l[e],l[n]);o=o+1;l=d[o];else if 4==s then if u[l[e]]then o=o+1;else o=l[n];end;else f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];end end else if s>=-1 then repeat if s~=1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];until true;else f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];end end end break;end;else local l=l[e]local e,o=k(u[l](u[l+1]))a=o+l-1 local o=0;for l=l,a do o=o+1;u[l]=e[o];end;end end end else if 323<f then if 325<f then if 324<f then for r=18,87 do if f~=326 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]+u[l[t]];break;end;local o=l[e]local n={u[o](h(u,o+1,l[n]))};local e=0;for l=o,l[t]do e=e+1;u[l]=n[e];end break;end;else local o=l[e]local n={u[o](h(u,o+1,l[n]))};local e=0;for l=o,l[t]do e=e+1;u[l]=n[e];end end else if 324==f then do return u[l[e]]end else local f;u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end end else if 321>=f then u[l[e]]=(l[n]~=0);else if 319<=f then for t=46,60 do if f>322 then local d,t,r,h,f;local o=0;while o>-1 do if o>2 then if o<5 then if-1<o then repeat if o>3 then f=d[t];break;end;h=d[r];until true;else f=d[t];end else if o>4 then for l=17,97 do if o<6 then u(f,h);break;end;o=-2;break;end;else o=-2;end end else if 1>o then d=l;else if 2>o then t=e;else r=n;end end end o=o+1 end break;end;local f;for t=0,3 do if t<=1 then if t~=1 then f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];else u[l[e]]={};o=o+1;l=d[o];end else if-2<=t then for f=18,77 do if 3>t then u(l[e],l[n]);o=o+1;l=d[o];break;end;u(l[e],l[n]);break;end;else u(l[e],l[n]);end end end break;end;else local f;for t=0,3 do if t<=1 then if t~=1 then f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];else u[l[e]]={};o=o+1;l=d[o];end else if-2<=t then for f=18,77 do if 3>t then u(l[e],l[n]);o=o+1;l=d[o];break;end;u(l[e],l[n]);break;end;else u(l[e],l[n]);end end end end end end end end else if 339>=f then if 334<=f then if 336>=f then if f>=335 then if 331~=f then for s=16,79 do if 336~=f then local f,s;f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))break;end;for l=l[e],l[n]do u[l]=nil;end;break;end;else for l=l[e],l[n]do u[l]=nil;end;end else local f;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])end else if f>=338 then if 339~=f then local f;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];do return end;else u[l[e]]=r[l[n]];end else u[l[e]]=s[l[n]];end end else if f>=331 then if f>331 then if 331<f then for a=13,97 do if f>332 then local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=r[l[n]];break;end;else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=-u[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]]/l[t];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];end else if f<329 then local h,r,k,b,s,a,f,c,_;h=l[e]u[h]=u[h]()o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=0;while f>-1 do if 3<=f then if 4>=f then if f>2 then repeat if 4~=f then s=r[b];break;end;a=r[k];until true;else a=r[k];end else if f~=3 then for l=10,81 do if f>5 then f=-2;break;end;u(a,s);break;end;else u(a,s);end end else if 1<=f then if f>=0 then for l=23,82 do if f>1 then b=n;break;end;k=e;break;end;else b=n;end else r=l;end end f=f+1 end o=o+1;l=d[o];f=0;while f>-1 do if 3>f then if 1>f then r=l;else if f~=2 then k=e;else b=n;end end else if f<=4 then if 1~=f then for l=37,59 do if 3<f then a=r[k];break;end;s=r[b];break;end;else s=r[b];end else if f>=2 then repeat if 6>f then u(a,s);break;end;f=-2;until true;else u(a,s);end end end f=f+1 end o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];h=l[e];c=u[h]_=u[h+2];if(_>0)then if(c>u[h+1])then o=l[n];else u[h+3]=c;end elseif(c<u[h+1])then o=l[n];else u[h+3]=c;end else if 325<=f then repeat if f>329 then u[l[e]][u[l[n]]]=l[t];break;end;u[l[e]]=u[l[n]]+u[l[t]];until true;else u[l[e]]=u[l[n]]+u[l[t]];end end end end else if 346>f then if f>=343 then if f>343 then if 344~=f then u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end else local d=u[l[t]];if d then o=o+1;else u[l[e]]=d;o=l[n];end;end else if f<=340 then local f,r;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];f=l[e]u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];else if 342==f then local f;u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f]()o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];do return end;else local f;u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];end end end else if 348>=f then if 346>=f then local o=l[e];do return u[o](h(u,o+1,l[n]))end;else if 347~=f then for f=0,4 do if 1>=f then if f>=-2 then repeat if f>0 then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;s[l[n]]=u[l[e]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end else if 2<f then if f>2 then repeat if f<4 then u[l[e]]=s[l[n]];o=o+1;l=d[o];break;end;if(u[l[e]]==l[t])then o=o+1;else o=l[n];end;until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end else u[l[e]]();o=o+1;l=d[o];end end end else local f,r;u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))end end else if f<351 then if 347~=f then repeat if f<350 then local r,k,c,b,_,f,a;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=0;while f>-1 do if 3>f then if 1>f then r=l;else if f>-2 then for l=37,84 do if 1~=f then c=n;break;end;k=e;break;end;else k=e;end end else if 4<f then if f~=5 then f=-2;else u(_,b);end else if f>0 then for l=17,92 do if f>3 then _=r[k];break;end;b=r[c];break;end;else b=r[c];end end end f=f+1 end o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=-u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];a=l[e]u[a]=u[a](h(u,a+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];until true;else u[l[e]]=u[l[n]][l[t]];end else if 351~=f then local f;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])else u[l[e]]=u[l[n]];end end end end end end end else if 251>=f then if f>226 then if f>=239 then if f<=244 then if 242>f then if f>=240 then if f>=237 then for r=21,69 do if f~=241 then u[l[e]]=l[n]*u[l[t]];break;end;local r;for f=0,4 do if f<2 then if f==0 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];end else if f>2 then if f>2 then repeat if 4>f then for l=l[e],l[n]do u[l]=nil;end;o=o+1;l=d[o];break;end;u[l[e]]=(l[n]~=0);until true;else for l=l[e],l[n]do u[l]=nil;end;o=o+1;l=d[o];end else u(l[e],l[n]);o=o+1;l=d[o];end end end break;end;else u[l[e]]=l[n]*u[l[t]];end else local o=l[e]local e,l=k(u[o]())a=l+o-1 local l=0;for o=o,a do l=l+1;u[o]=e[l];end;end else if f>=243 then if 240<=f then repeat if f~=244 then local t;u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];t=l[e]u[t](u[t+1])o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];t=l[e]u[t](u[t+1])o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];t=l[e]u[t](u[t+1])o=o+1;l=d[o];u[l[e]]=u[l[n]];break;end;local l=l[e];a=l+y-1;for o=l,a do local l=g[o-l];u[o]=l;end;until true;else local l=l[e];a=l+y-1;for o=l,a do local l=g[o-l];u[o]=l;end;end else u[l[e]]=u[l[n]]-u[l[t]];end end else if f>=248 then if f<250 then if 244~=f then for r=36,53 do if 248<f then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];break;end;local f,r;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;break;end;else local f,r;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;end else if 247<f then for s=44,89 do if f~=251 then local f;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=#u[l[n]];break;end;else local f;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];end end else if 246<=f then if 242<=f then for r=47,92 do if f<247 then local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];break;end;local r,a,s,c,k,b,_,f;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];r=l[e];a=u[l[n]];u[r+1]=a;u[r]=a[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];f=0;while f>-1 do if f<=2 then if f>0 then if f~=-3 then for l=41,88 do if 2~=f then c=e;break;end;k=n;break;end;else c=e;end else s=l;end else if 5<=f then if f>=1 then for l=44,58 do if 6>f then u(_,b);break;end;f=-2;break;end;else f=-2;end else if 1<=f then for l=31,56 do if 3~=f then _=s[c];break;end;b=s[k];break;end;else b=s[k];end end end f=f+1 end o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);break;end;else local r,c,s,a,b,k,_,f;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];r=l[e]u[r](h(u,r+1,l[n]))o=o+1;l=d[o];r=l[e];c=u[l[n]];u[r+1]=c;u[r]=c[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];f=0;while f>-1 do if f<=2 then if f>0 then if f~=-3 then for l=41,88 do if 2~=f then a=e;break;end;b=n;break;end;else a=e;end else s=l;end else if 5<=f then if f>=1 then for l=44,58 do if 6>f then u(_,k);break;end;f=-2;break;end;else f=-2;end else if 1<=f then for l=31,56 do if 3~=f then _=s[a];break;end;k=s[b];break;end;else k=s[b];end end end f=f+1 end o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);end else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];do return u[l[e]]end o=o+1;l=d[o];do return end;end end end else if 233>f then if 229<f then if f>=231 then if 228~=f then repeat if f~=231 then local f,r;for s=0,4 do if s<2 then if-3<=s then for h=24,83 do if 0~=s then f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];end else if s<3 then u(l[e],l[n]);o=o+1;l=d[o];else if 0<s then repeat if s>3 then if not u[l[e]]then o=o+1;else o=l[n];end;break;end;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];until true;else if not u[l[e]]then o=o+1;else o=l[n];end;end end end end break;end;u[l[e]][u[l[n]]]=u[l[t]];until true;else local f,s;for r=0,4 do if r<2 then if-3<=r then for h=24,83 do if 0~=r then f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;else f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];end else if r<3 then u(l[e],l[n]);o=o+1;l=d[o];else if 0<r then repeat if r>3 then if not u[l[e]]then o=o+1;else o=l[n];end;break;end;f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];until true;else if not u[l[e]]then o=o+1;else o=l[n];end;end end end end end else u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];o=l[n];end else if 228>f then local e=l[e];local t=l[t];local d=e+2 local e={u[e](u[e+1],u[d])};for l=1,t do u[d+l]=e[l];end;local e=e[1]if e then u[d]=e o=l[n];else o=o+1;end;else if 227<=f then repeat if f~=229 then local f;u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f]()o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];do return end;break;end;for f=0,2 do if f<=0 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else if f>-1 then for h=20,55 do if 1~=f then u[l[e]][l[n]]=u[l[t]];break;end;u(l[e],l[n]);o=o+1;l=d[o];break;end;else u[l[e]][l[n]]=u[l[t]];end end end until true;else local f;u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f]()o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];do return end;end end end else if f>235 then if 237>f then local l=l[e]u[l](h(u,l+1,a))else if 236<=f then for r=49,67 do if 237~=f then local f,b,s,r;u(l[e],l[n]);o=o+1;l=d[o];f=l[e]b,s=k(u[f](h(u,f+1,l[n])))a=s+f-1 r=0;for l=f,a do r=r+1;u[l]=b[r];end;o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,a))o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]]-l[t];break;end;else u[l[e]]=u[l[n]]-l[t];end end else if 234>f then u[l[e]]=r[l[n]];else if 231<f then repeat if 235~=f then o=l[n];break;end;do return end;until true;else do return end;end end end end end else if 214<=f then if f>219 then if 222>=f then if f>220 then if f<222 then local l=l[e]u[l](u[l+1])else local f;u[l[e]]=u[l[n]]+u[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];end else local f,c,p,_,s,b;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];c=u[l[n]];u[f+1]=c;u[f]=c[l[t]];o=o+1;l=d[o];f=l[e]b,_=k(u[f](u[f+1]))a=_+f-1 s=0;for l=f,a do s=s+1;u[l]=b[s];end;o=o+1;l=d[o];f=l[e]b={u[f](h(u,f+1,a))};s=0;for l=f,l[t]do s=s+1;u[l]=b[s];end o=o+1;l=d[o];o=l[n];end else if f<225 then if f==224 then local t;u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];t=l[e]u[t]=u[t](h(u,t+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];t=l[e]u[t]=u[t](h(u,t+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]];else local f;u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end else if 223<f then repeat if f~=226 then local l=l[e];local o=u[l];for l=l+1,a do b.xRTXRRrQ(o,u[l])end;break;end;u[l[e]]=(not u[l[n]]);until true;else u[l[e]]=(not u[l[n]]);end end end else if f>=217 then if f>=218 then if f>215 then repeat if f~=218 then u[l[e]]=(l[n]~=0);o=o+1;break;end;u[l[e]]={};o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];until true;else u[l[e]]=(l[n]~=0);o=o+1;end else u[l[e]]=u[l[n]]-u[l[t]];end else if f>214 then if 214<f then for h=40,54 do if f<216 then local f;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];break;end;local f,h;for r=0,1 do if r>=-1 then repeat if 1~=r then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];until true;else f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];end end break;end;else local h,f;for r=0,1 do if r>=-1 then repeat if 1~=r then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;h=l[e];f=u[l[n]];u[h+1]=f;u[h]=f[l[t]];until true;else h=l[e];f=u[l[n]];u[h+1]=f;u[h]=f[l[t]];end end end else local f,s;f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e];s=u[l[n]];u[f+1]=s;u[f]=s[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))end end end else if f<=207 then if 205>f then if 202>=f then local f;u[l[e]]=u[l[n]]+l[t];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];else if 200<f then for h=27,85 do if 204>f then local f;u[l[e]]={};o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];break;end;local l=l[e]u[l](u[l+1])break;end;else local l=l[e]u[l](u[l+1])end end else if f<206 then local h,f;h=l[e];f=u[l[n]];u[h+1]=f;u[h]=f[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]][l[n]]=l[t];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];else if 207~=f then local f,h;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];for l=l[e],l[n]do u[l]=nil;end;o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];else local r,b,s,c,a,k,_,f;for f=0,4 do if f<2 then if-2<=f then repeat if f<1 then u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];break;end;r=l[e];b=u[l[n]];u[r+1]=b;u[r]=b[l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 3<=f then if f==3 then r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];else if u[l[e]]then o=o+1;else o=l[n];end;end else f=0;while f>-1 do if 2>=f then if 1<=f then if f~=-3 then for l=19,93 do if f>1 then a=n;break;end;c=e;break;end;else a=n;end else s=l;end else if f>4 then if 1<f then for l=17,84 do if 5~=f then f=-2;break;end;u(_,k);break;end;else f=-2;end else if 2<f then for l=30,66 do if f~=4 then k=s[a];break;end;_=s[c];break;end;else k=s[a];end end end f=f+1 end o=o+1;l=d[o];end end end end end end else if 210>=f then if 208<f then if 207~=f then repeat if 209<f then local h,r,b,a,s,f;f=0;while f>-1 do if f<3 then if f>=1 then if f==1 then r=e;else b=n;end else h=l;end else if 5<=f then if 4<=f then repeat if 6~=f then u(s,a);break;end;f=-2;until true;else u(s,a);end else if f~=0 then repeat if 4>f then a=h[b];break;end;s=h[r];until true;else s=h[r];end end end f=f+1 end o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=0;while f>-1 do if 2>=f then if 1<=f then if f>=-1 then repeat if 2>f then r=e;break;end;b=n;until true;else r=e;end else h=l;end else if 4<f then if f~=6 then u(s,a);else f=-2;end else if 3==f then a=h[b];else s=h[r];end end end f=f+1 end o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=0;while f>-1 do if 3>f then if 1>f then h=l;else if f>=-3 then for l=25,57 do if f<2 then r=e;break;end;b=n;break;end;else r=e;end end else if 5<=f then if f==5 then u(s,a);else f=-2;end else if f>2 then for l=11,95 do if f<4 then a=h[b];break;end;s=h[r];break;end;else s=h[r];end end end f=f+1 end o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];break;end;local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];o=l[n];until true;else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];o=l[n];end else local f,h;u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end else if f>211 then if f==213 then u[l[e]]=u[l[n]]/l[t];else local t;s[l[n]]=u[l[e]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];t=l[e]u[t](h(u,t+1,l[n]))o=o+1;l=d[o];do return end;end else local l=l[e]u[l]=u[l]()end end end end end else if f<=276 then if 264>f then if f<=257 then if 255<=f then if 255<f then if f>255 then repeat if 256<f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;break;end;local e=l[e];local d=u[e]local t=u[e+2];if(t>0)then if(d>u[e+1])then o=l[n];else u[e+3]=d;end elseif(d<u[e+1])then o=l[n];else u[e+3]=d;end until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;end else u[l[e]]=u[l[n]][u[l[t]]];end else if f<253 then if(u[l[e]]<l[t])then o=l[n];else o=o+1;end;else if f~=249 then for r=40,60 do if f~=254 then local z,b,k,c,z,f,s,r,_,g,m,y,a,p;f=0;while f>-1 do if 2<f then if f<5 then if 1<f then for l=40,72 do if f~=3 then a=r[b];break;end;c=r[k];break;end;else a=r[b];end else if f~=1 then repeat if 6>f then u(a,c);break;end;f=-2;until true;else u(a,c);end end else if f<1 then r=l;else if f~=0 then repeat if 1~=f then k=n;break;end;b=e;until true;else b=e;end end end f=f+1 end o=o+1;l=d[o];s=l[e]u[s](h(u,s+1,l[n]))o=o+1;l=d[o];f=0;while f>-1 do if f>=4 then if 5>=f then if f>=1 then repeat if f<5 then y=m[r[g]];break;end;a=r[_];until true;else a=r[_];end else if f>6 then f=-2;else u[a]=y;end end else if f<2 then if f~=-2 then repeat if f<1 then r=l;break;end;_=e;until true;else r=l;end else if 2<f then m=u;else g=n;end end end f=f+1 end o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=0;while f>-1 do if f<3 then if 1>f then r=l;else if-1<f then for l=36,75 do if 1~=f then k=n;break;end;b=e;break;end;else k=n;end end else if 4>=f then if f~=-1 then repeat if 3<f then a=r[b];break;end;c=r[k];until true;else a=r[b];end else if f>1 then repeat if 5<f then f=-2;break;end;u(a,c);until true;else f=-2;end end end f=f+1 end o=o+1;l=d[o];s=l[e]u[s](h(u,s+1,l[n]))o=o+1;l=d[o];s=l[e];p=u[l[n]];u[s+1]=p;u[s]=p[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];if u[l[e]]then o=o+1;else o=l[n];end;break;end;u[l[e]]=u[l[n]]+l[t];break;end;else local z,b,c,k,z,f,s,r,_,g,m,y,a,p;f=0;while f>-1 do if 2<f then if f<5 then if 1<f then for l=40,72 do if f~=3 then a=r[b];break;end;k=r[c];break;end;else a=r[b];end else if f~=1 then repeat if 6>f then u(a,k);break;end;f=-2;until true;else u(a,k);end end else if f<1 then r=l;else if f~=0 then repeat if 1~=f then c=n;break;end;b=e;until true;else b=e;end end end f=f+1 end o=o+1;l=d[o];s=l[e]u[s](h(u,s+1,l[n]))o=o+1;l=d[o];f=0;while f>-1 do if f>=4 then if 5>=f then if f>=1 then repeat if f<5 then y=m[r[g]];break;end;a=r[_];until true;else a=r[_];end else if f>6 then f=-2;else u[a]=y;end end else if f<2 then if f~=-2 then repeat if f<1 then r=l;break;end;_=e;until true;else r=l;end else if 2<f then m=u;else g=n;end end end f=f+1 end o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=0;while f>-1 do if f<3 then if 1>f then r=l;else if-1<f then for l=36,75 do if 1~=f then c=n;break;end;b=e;break;end;else c=n;end end else if 4>=f then if f~=-1 then repeat if 3<f then a=r[b];break;end;k=r[c];until true;else a=r[b];end else if f>1 then repeat if 5<f then f=-2;break;end;u(a,k);until true;else f=-2;end end end f=f+1 end o=o+1;l=d[o];s=l[e]u[s](h(u,s+1,l[n]))o=o+1;l=d[o];s=l[e];p=u[l[n]];u[s+1]=p;u[s]=p[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];s=l[e]u[s]=u[s](h(u,s+1,l[n]))o=o+1;l=d[o];if u[l[e]]then o=o+1;else o=l[n];end;end end end else if f<261 then if 258<f then if 260==f then local h,r,f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];h=l[e]u[h]=u[h](u[h+1])o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];r=l[n];f=u[r]for l=r+1,l[t]do f=f..u[l];end;u[l[e]]=f;o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];else local r;for f=0,4 do if f<2 then if-3<=f then repeat if 0<f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else if 3<=f then if 4~=f then u(l[e],l[n]);o=o+1;l=d[o];else r=l[e]u[r]=u[r](h(u,r+1,l[n]))end else u(l[e],l[n]);o=o+1;l=d[o];end end end end else local f;f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e]u[f](u[f+1])o=o+1;l=d[o];do return end;end else if 262>f then local f,r;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];do return end;else if 259<=f then repeat if f~=263 then local r;for f=0,4 do if 1>=f then if-2<f then repeat if f<1 then u(l[e],l[n]);o=o+1;l=d[o];break;end;u(l[e],l[n]);o=o+1;l=d[o];until true;else u(l[e],l[n]);o=o+1;l=d[o];end else if f<=2 then r=l[e]u[r]=u[r](h(u,r+1,l[n]))o=o+1;l=d[o];else if f~=-1 then repeat if 4~=f then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end end end break;end;local l=l[e];local o=u[l];for l=l+1,a do b.xRTXRRrQ(o,u[l])end;until true;else local l=l[e];local o=u[l];for l=l+1,a do b.xRTXRRrQ(o,u[l])end;end end end end else if 269<f then if 272>=f then if f>270 then if f>267 then for d=29,93 do if f>271 then local e=l[e];local t=u[e+2];local d=u[e]+t;u[e]=d;if(t>0)then if(d<=u[e+1])then o=l[n];u[e+3]=d;end elseif(d>=u[e+1])then o=l[n];u[e+3]=d;end break;end;local d=u[l[t]];if d then o=o+1;else u[l[e]]=d;o=l[n];end;break;end;else local e=l[e];local t=u[e+2];local d=u[e]+t;u[e]=d;if(t>0)then if(d<=u[e+1])then o=l[n];u[e+3]=d;end elseif(d>=u[e+1])then o=l[n];u[e+3]=d;end end else r[l[n]]=u[l[e]];end else if 275<=f then if 274<=f then for h=37,54 do if 275~=f then if(u[l[e]]<=u[l[t]])then o=l[n];else o=o+1;end;break;end;for f=0,4 do if f>1 then if 3<=f then if f>=0 then repeat if 3~=f then u[l[e]][l[n]]=u[l[t]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end else if f>=-1 then repeat if 0~=f then u(l[e],l[n]);o=o+1;l=d[o];break;end;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];end end end break;end;else if(u[l[e]]<=u[l[t]])then o=l[n];else o=o+1;end;end else if 272<=f then for r=34,93 do if f<274 then local o=l[e];local e=u[o];for l=o+1,l[n]do b.xRTXRRrQ(e,u[l])end;break;end;local f,r;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];break;end;else local f,r;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];end end end else if f>266 then if 267>=f then u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];for l=l[e],l[n]do u[l]=nil;end;else if 268~=f then u[l[e]]=u[l[n]]/u[l[t]];else local l=l[e]u[l](h(u,l+1,a))end end else if f>=265 then if 262~=f then for h=39,61 do if 265~=f then local f;u[l[e]]();o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=r[l[n]];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);break;end;else local f;u[l[e]]();o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=r[l[n]];end else if(u[l[e]]<l[t])then o=o+1;else o=l[n];end;end end end end else if f>=290 then if 295<f then if 298>=f then if 296<f then if f>294 then for h=11,85 do if 298~=f then u[l[e]]=(l[n]~=0);o=o+1;break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];break;end;else u[l[e]]=(l[n]~=0);o=o+1;end else u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];end else if f<301 then if f~=295 then repeat if 299<f then if(u[l[e]]<u[l[t]])then o=o+1;else o=l[n];end;break;end;local f,r;u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);until true;else if(u[l[e]]<u[l[t]])then o=o+1;else o=l[n];end;end else if 302>f then local r,a,b,k,s,f,c;f=0;while f>-1 do if f>=3 then if 5>f then if f~=1 then repeat if 4>f then k=r[b];break;end;s=r[a];until true;else s=r[a];end else if 4<=f then for l=41,77 do if f>5 then f=-2;break;end;u(s,k);break;end;else f=-2;end end else if 1>f then r=l;else if 1==f then a=e;else b=n;end end end f=f+1 end o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=0;while f>-1 do if f<3 then if f<1 then r=l;else if f>-3 then for l=44,71 do if 1<f then b=n;break;end;a=e;break;end;else b=n;end end else if f>4 then if f~=6 then u(s,k);else f=-2;end else if 2<f then for l=48,82 do if f<4 then k=r[b];break;end;s=r[a];break;end;else s=r[a];end end end f=f+1 end o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];c=l[e]u[c](h(u,c+1,l[n]))else local f,h;u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e];h=u[l[n]];u[f+1]=h;u[f]=h[u[l[t]]];o=o+1;l=d[o];u(l[e],l[n]);end end end else if f>=293 then if 294>f then for f=0,4 do if f>=2 then if 2>=f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];else if 2<=f then repeat if 3~=f then u[l[e]]=u[l[n]][u[l[t]]];break;end;u[l[e]]=s[l[n]];o=o+1;l=d[o];until true;else u[l[e]]=s[l[n]];o=o+1;l=d[o];end end else if-1~=f then repeat if f~=1 then u[l[e]]=u[l[n]][u[l[t]]];o=o+1;l=d[o];break;end;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];until true;else u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];end end end else if f>=293 then repeat if f<295 then u[l[e]]=_(p[l[n]],nil,r);break;end;local f;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=(l[n]~=0);until true;else local f;f=l[e]u[f](h(u,f+1,l[n]))o=o+1;l=d[o];u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=(l[n]~=0);o=o+1;l=d[o];u[l[e]][u[l[n]]]=u[l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=(l[n]~=0);end end else if 291>f then local f,r;f=l[e];r=u[l[n]];u[f+1]=r;u[f]=r[l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f]=u[f](h(u,f+1,l[n]))o=o+1;l=d[o];if not u[l[e]]then o=o+1;else o=l[n];end;else if f>=287 then for d=15,89 do if 291~=f then local l=l[e];do return h(u,l,a)end;break;end;if(u[l[e]]<l[t])then o=l[n];else o=o+1;end;break;end;else if(u[l[e]]<l[t])then o=l[n];else o=o+1;end;end end end end else if f<=282 then if f<280 then if f>277 then if 278==f then u[l[e]]=l[n]+u[l[t]];else local f;u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f]()o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]]-u[l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))end else local f;u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];f=l[e]u[f](h(u,f+1,l[n]))end else if 280<f then if f>281 then local f;u[l[e]]={};o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])else local d=l[e];local n={};for l=1,#c do local l=c[l];for o=0,#l do local l=l[o];local e=l[1];local o=l[2];if e==u and o>=d then n[o]=e[o];l[1]=n;end;end;end;end else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];f=l[e]u[f]=u[f](u[f+1])o=o+1;l=d[o];u[l[e]]=u[l[n]]*u[l[t]];o=o+1;l=d[o];u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];u[l[e]]=r[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u(l[e],l[n]);end end else if 286<=f then if 287>=f then if 287~=f then local f,h,k,a,b,c,s,r,_;local d=0;while d>-1 do if 2>=d then if d>=1 then if 2>d then h=l;k=o;else a=h[e];b=h[t];c=n;end else f=u;end else if d<5 then if-1<=d then repeat if d<4 then s=f[a];r=f[b];break;end;_=s==r and h[c]or 1+k;until true;else s=f[a];r=f[b];end else if d~=6 then o=_;else d=-2;end end end d=d+1 end else local l=l[e]u[l]=u[l](u[l+1])end else if 287<f then repeat if f>288 then for f=0,4 do if f>=2 then if f<=2 then u[l[e]][l[n]]=u[l[t]];o=o+1;l=d[o];else if 0~=f then for h=27,88 do if 4~=f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]]=r[l[n]];break;end;else u[l[e]]=r[l[n]];end end else if-2<f then repeat if 0<f then u[l[e]][l[n]]=l[t];o=o+1;l=d[o];break;end;u[l[e]][l[n]]=l[t];o=o+1;l=d[o];until true;else u[l[e]][l[n]]=l[t];o=o+1;l=d[o];end end end break;end;u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];until true;else u[l[e]]=u[l[n]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=s[l[n]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]][l[t]];end end else if 283<f then if f~=284 then do return u[l[e]]end else local f;u[l[e]]=u[l[n]][l[t]];o=o+1;l=d[o];u[l[e]]=u[l[n]];o=o+1;l=d[o];f=l[e];do return u[f](h(u,f+1,l[n]))end;o=o+1;l=d[o];f=l[e];do return h(u,f,a)end;o=o+1;l=d[o];o=l[n];end else u[l[e]][l[n]]=l[t];end end end end end end end end o=1+o;end;end;return ul end;local n=0xff;local r={};local t=(1);local e='';(function(o)local u=o local d=0x00 local l=0x00 u={(function(e)if d>0x20 then return e end d=d+1 l=(l+0x61f-e)%0x37 return(l%0x03==0x2 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x40);end return true end)'CFTIv'and u[0x1](0x39f+e))or(l%0x03==0x1 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x3e);end return true end)'_rMle'and u[0x3](e+0x35c))or(l%0x03==0x0 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x72);end return true end)'ZZate'and u[0x2](e+0xae))or e end),(function(f)if d>0x24 then return f end d=d+1 l=(l+0xa82-f)%0x43 return(l%0x03==0x1 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x1b);end return true end)'yYBFE'and u[0x2](0x271+f))or(l%0x03==0x2 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x3d);n[2]=(n[2]*(ol(function()r()end,h(e))-ol(n[1],h(e))))+1;r[t]={};n=n[2];t=t+n;end return true end)'v_KxL'and u[0x3](f+0x1b7))or(l%0x03==0x0 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x1d);end return true end)'HOLvw'and u[0x1](f+0xea))or f end),(function(f)if d>0x2e then return f end d=d+1 l=(l+0x420-f)%0x4c return(l%0x03==0x0 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x84);e='\37';n={function()n()end};e=e..'\100\43';end return true end)'zIhrC'and u[0x3](0xa9+f))or(l%0x03==0x2 and(function(u)if not o[u]then l=l+0x01 o[u]=(0xb);r[t]=nl();t=t+n;end return true end)'deBAk'and u[0x1](f+0x1e1))or(l%0x03==0x1 and(function(u)if not o[u]then l=l+0x01 o[u]=(0x79);e={e..'\58 a',e};r[t]=ul();t=t+((not b.yLsCkIsI)and 1 or 0);e[1]='\58'..e[1];n[2]=0xff;end return true end)'UgLwB'and u[0x2](f+0x386))or f end)}u[0x3](0x774)end){};local l=_(h(r));return l(...);end return el((function()local o={}local l=0x01;local u;if b.yLsCkIsI then u=b.yLsCkIsI(el)else u=''end if b.TOwghdBi(u,b.tpsLIxdk)then l=l+0;else l=l+1;end o[l]=0x02;o[o[l]+0x01]=0x03;return o;end)(),...)end)((function(u,l,o,n,e,d)local d;if u<=3 then if 1>=u then if-2<u then repeat if 1~=u then do return l(1),l(4,e,n,o,l),l(5,e,n,o)end;break;end;do return function(o,l,u)if u then local l=(o/2^(l-1))%2^((u-1)-(l-1)+1);return l-l%1;else local l=2^(l-1);return(o%(l+l)>=l)and 1 or 0;end;end;end;until true;else do return l(1),l(4,e,n,o,l),l(5,e,n,o)end;end else if u~=0 then repeat if 3~=u then do return 16777216,65536,256 end;break;end;do return l(1),l(4,e,n,o,l),l(5,e,n,o)end;until true;else do return l(1),l(4,e,n,o,l),l(5,e,n,o)end;end end else if u<=5 then if u<5 then local u=n;local d,n,e=e(2);do return function()local l,o,t,f=l(o,u(u,u),u(u,u)+3);u(4);return(f*d)+(t*n)+(o*e)+l;end;end;else local u=n;do return function()local l=l(o,u(u,u),u(u,u));u(1);return l;end;end;end else if u>6 then if u<8 then do return setmetatable({},{['__\99\97\108\108']=function(l,u,e,n,o)if o then return l[o]elseif n then return l else l[u]=e end end})end else do return o(u,nil,o);end end else do return e[o]end;end end end end),...)
+local InputService = game:GetService('UserInputService');
+local TextService = game:GetService('TextService');
+local CoreGui = game:GetService('CoreGui');
+local Teams = game:GetService('Teams');
+local Players = game:GetService('Players');
+local RunService = game:GetService('RunService')
+local TweenService = game:GetService('TweenService');
+local RenderStepped = RunService.RenderStepped;
+local LocalPlayer = Players.LocalPlayer;
+local Mouse = LocalPlayer:GetMouse();
+
+local ProtectGui = protectgui or (syn and syn.protect_gui) or (function() end);
+
+local ScreenGui = Instance.new('ScreenGui');
+ProtectGui(ScreenGui);
+
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global;
+ScreenGui.Parent = CoreGui;
+
+local Toggles = {};
+local Options = {};
+
+getgenv().Toggles = Toggles;
+getgenv().Options = Options;
+
+local Library = {
+    Registry = {};
+    RegistryMap = {};
+
+    HudRegistry = {};
+
+    FontColor = Color3.fromRGB(255, 255, 255);
+    MainColor = Color3.fromRGB(255, 28, 28);
+    BackgroundColor = Color3.fromRGB(20, 20, 20);
+    AccentColor = Color3.fromRGB(0, 85, 255);
+    OutlineColor = Color3.fromRGB(50, 50, 50);
+    RiskColor = Color3.fromRGB(255, 50, 50),
+
+    Black = Color3.new(0, 0, 0);
+    Font = Enum.Font.Code,
+
+    OpenedFrames = {};
+    DependencyBoxes = {};
+
+    Signals = {};
+    ScreenGui = ScreenGui;
+};
+
+local RainbowStep = 0
+local Hue = 0
+
+table.insert(Library.Signals, RenderStepped:Connect(function(Delta)
+    RainbowStep = RainbowStep + Delta
+
+    if RainbowStep >= (1 / 60) then
+        RainbowStep = 0
+
+        Hue = Hue + (1 / 400);
+
+        if Hue > 1 then
+            Hue = 0;
+        end;
+
+        Library.CurrentRainbowHue = Hue;
+        Library.CurrentRainbowColor = Color3.fromHSV(Hue, 0.8, 1);
+    end
+end))
+
+local function GetPlayersString()
+    local PlayerList = Players:GetPlayers();
+
+    for i = 1, #PlayerList do
+        PlayerList[i] = PlayerList[i].Name;
+    end;
+
+    table.sort(PlayerList, function(str1, str2) return str1 < str2 end);
+
+    return PlayerList;
+end;
+
+local function GetTeamsString()
+    local TeamList = Teams:GetTeams();
+
+    for i = 1, #TeamList do
+        TeamList[i] = TeamList[i].Name;
+    end;
+
+    table.sort(TeamList, function(str1, str2) return str1 < str2 end);
+    
+    return TeamList;
+end;
+
+function Library:SafeCallback(f, ...)
+    if (not f) then
+        return;
+    end;
+
+    if not Library.NotifyOnError then
+        return f(...);
+    end;
+
+    local success, event = pcall(f, ...);
+
+    if not success then
+        local _, i = event:find(":%d+: ");
+
+        if not i then
+            return Library:Notify(event);
+        end;
+
+        return Library:Notify(event:sub(i + 1), 3);
+    end;
+end;
+
+function Library:AttemptSave()
+    if Library.SaveManager then
+        Library.SaveManager:Save();
+    end;
+end;
+
+function Library:Create(Class, Properties)
+    local _Instance = Class;
+
+    if type(Class) == 'string' then
+        _Instance = Instance.new(Class);
+    end;
+
+    for Property, Value in next, Properties do
+        _Instance[Property] = Value;
+    end;
+
+    return _Instance;
+end;
+
+function Library:ApplyTextStroke(Inst)
+    Inst.TextStrokeTransparency = 1;
+
+    Library:Create('UIStroke', {
+        Color = Color3.new(0, 0, 0);
+        Thickness = 1;
+        LineJoinMode = Enum.LineJoinMode.Miter;
+        Parent = Inst;
+    });
+end;
+
+function Library:CreateLabel(Properties, IsHud)
+    local _Instance = Library:Create('TextLabel', {
+        BackgroundTransparency = 1;
+        Font = Library.Font;
+        TextColor3 = Library.FontColor;
+        TextSize = 16;
+        TextStrokeTransparency = 0;
+    });
+
+    Library:ApplyTextStroke(_Instance);
+
+    Library:AddToRegistry(_Instance, {
+        TextColor3 = 'FontColor';
+    }, IsHud);
+
+    return Library:Create(_Instance, Properties);
+end;
+
+function Library:MakeDraggable(Instance, Cutoff)
+    Instance.Active = true;
+
+    local Dragging = false
+    local DragStart, ObjPos
+
+    Instance.InputBegan:Connect(function(Input)
+        if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+            Dragging = true
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                DragStart = Vector2.new(Mouse.X, Mouse.Y)
+            else
+                DragStart = Input.Position
+            end
+            ObjPos = Vector2.new(
+                DragStart.X - Instance.AbsolutePosition.X,
+                DragStart.Y - Instance.AbsolutePosition.Y
+            )
+
+            if ObjPos.Y > (Cutoff or 40) then
+                Dragging = false
+                return
+            end
+
+            while Dragging do
+                local CurrentPos
+                if InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) then
+                    CurrentPos = Vector2.new(Mouse.X, Mouse.Y)
+                elseif Input.UserInputType == Enum.UserInputType.Touch then
+                    local Touch = InputService:GetTouchPosition(Input.TouchId)
+                    if Touch then
+                        CurrentPos = Touch
+                    else
+                        Dragging = false
+                        break
+                    end
+                end
+
+                Instance.Position = UDim2.new(
+                    0,
+                    CurrentPos.X - ObjPos.X + (Instance.Size.X.Offset * Instance.AnchorPoint.X),
+                    0,
+                    CurrentPos.Y - ObjPos.Y + (Instance.Size.Y.Offset * Instance.AnchorPoint.Y)
+                )
+
+                RenderStepped:Wait()
+            end
+        end
+    end)
+
+    Instance.InputEnded:Connect(function(Input)
+        if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+            Dragging = false
+        end
+    end)
+end
+
+function Library:AddToolTip(InfoStr, HoverInstance)
+    local X, Y = Library:GetTextBounds(InfoStr, Library.Font, 14);
+    local Tooltip = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor,
+        BorderColor3 = Library.OutlineColor,
+
+        Size = UDim2.fromOffset(X + 5, Y + 4),
+        ZIndex = 100,
+        Parent = Library.ScreenGui,
+
+        Visible = false,
+    })
+
+    local Label = Library:CreateLabel({
+        Position = UDim2.fromOffset(3, 1),
+        Size = UDim2.fromOffset(X, Y);
+        TextSize = 14;
+        Text = InfoStr,
+        TextColor3 = Library.FontColor,
+        TextXAlignment = Enum.TextXAlignment.Left;
+        ZIndex = Tooltip.ZIndex + 1,
+
+        Parent = Tooltip;
+    });
+
+    Library:AddToRegistry(Tooltip, {
+        BackgroundColor3 = 'MainColor';
+        BorderColor3 = 'OutlineColor';
+    });
+
+    Library:AddToRegistry(Label, {
+        TextColor3 = 'FontColor',
+    });
+
+    local IsHovering = false
+
+    HoverInstance.MouseEnter:Connect(function()
+        if Library:MouseIsOverOpenedFrame() then
+            return
+        end
+
+        IsHovering = true
+
+        Tooltip.Position = UDim2.fromOffset(Mouse.X + 15, Mouse.Y + 12)
+        Tooltip.Visible = true
+
+        while IsHovering do
+            RunService.Heartbeat:Wait()
+            Tooltip.Position = UDim2.fromOffset(Mouse.X + 15, Mouse.Y + 12)
+        end
+    end)
+
+    HoverInstance.MouseLeave:Connect(function()
+        IsHovering = false
+        Tooltip.Visible = false
+    end)
+end
+
+function Library:OnHighlight(HighlightInstance, Instance, Properties, PropertiesDefault)
+    HighlightInstance.MouseEnter:Connect(function()
+        local Reg = Library.RegistryMap[Instance];
+
+        for Property, ColorIdx in next, Properties do
+            Instance[Property] = Library[ColorIdx] or ColorIdx;
+
+            if Reg and Reg.Properties[Property] then
+                Reg.Properties[Property] = ColorIdx;
+            end;
+        end;
+    end)
+
+    HighlightInstance.MouseLeave:Connect(function()
+        local Reg = Library.RegistryMap[Instance];
+
+        for Property, ColorIdx in next, PropertiesDefault do
+            Instance[Property] = Library[ColorIdx] or ColorIdx;
+
+            if Reg and Reg.Properties[Property] then
+                Reg.Properties[Property] = ColorIdx;
+            end;
+        end;
+    end)
+end;
+
+function Library:MouseIsOverOpenedFrame()
+    for Frame, _ in next, Library.OpenedFrames do
+        local AbsPos, AbsSize = Frame.AbsolutePosition, Frame.AbsoluteSize;
+
+        if Mouse.X >= AbsPos.X and Mouse.X <= AbsPos.X + AbsSize.X
+            and Mouse.Y >= AbsPos.Y and Mouse.Y <= AbsPos.Y + AbsSize.Y then
+
+            return true;
+        end;
+    end;
+end;
+
+function Library:IsMouseOverFrame(Frame)
+    local AbsPos, AbsSize = Frame.AbsolutePosition, Frame.AbsoluteSize;
+
+    if Mouse.X >= AbsPos.X and Mouse.X <= AbsPos.X + AbsSize.X
+        and Mouse.Y >= AbsPos.Y and Mouse.Y <= AbsPos.Y + AbsSize.Y then
+
+        return true;
+    end;
+end;
+
+function Library:UpdateDependencyBoxes()
+    for _, Depbox in next, Library.DependencyBoxes do
+        Depbox:Update();
+    end;
+end;
+
+function Library:MapValue(Value, MinA, MaxA, MinB, MaxB)
+    return (1 - ((Value - MinA) / (MaxA - MinA))) * MinB + ((Value - MinA) / (MaxA - MinA)) * MaxB;
+end;
+
+function Library:GetTextBounds(Text, Font, Size, Resolution)
+    local Bounds = TextService:GetTextSize(Text, Size, Font, Resolution or Vector2.new(1920, 1080))
+    return Bounds.X, Bounds.Y
+end;
+
+function Library:GetDarkerColor(Color)
+    local H, S, V = Color3.toHSV(Color);
+    return Color3.fromHSV(H, S, V / 1.5);
+end;
+Library.AccentColorDark = Library:GetDarkerColor(Library.AccentColor);
+
+function Library:AddToRegistry(Instance, Properties, IsHud)
+    local Idx = #Library.Registry + 1;
+    local Data = {
+        Instance = Instance;
+        Properties = Properties;
+        Idx = Idx;
+    };
+
+    table.insert(Library.Registry, Data);
+    Library.RegistryMap[Instance] = Data;
+
+    if IsHud then
+        table.insert(Library.HudRegistry, Data);
+    end;
+end;
+
+function Library:RemoveFromRegistry(Instance)
+    local Data = Library.RegistryMap[Instance];
+
+    if Data then
+        for Idx = #Library.Registry, 1, -1 do
+            if Library.Registry[Idx] == Data then
+                table.remove(Library.Registry, Idx);
+            end;
+        end;
+
+        for Idx = #Library.HudRegistry, 1, -1 do
+            if Library.HudRegistry[Idx] == Data then
+                table.remove(Library.HudRegistry, Idx);
+            end;
+        end;
+
+        Library.RegistryMap[Instance] = nil;
+    end;
+end;
+
+function Library:UpdateColorsUsingRegistry()
+    -- TODO: Could have an 'active' list of objects
+    -- where the active list only contains Visible objects.
+
+    -- IMPL: Could setup .Changed events on the AddToRegistry function
+    -- that listens for the 'Visible' propert being changed.
+    -- Visible: true => Add to active list, and call UpdateColors function
+    -- Visible: false => Remove from active list.
+
+    -- The above would be especially efficient for a rainbow menu color or live color-changing.
+
+    for Idx, Object in next, Library.Registry do
+        for Property, ColorIdx in next, Object.Properties do
+            if type(ColorIdx) == 'string' then
+                Object.Instance[Property] = Library[ColorIdx];
+            elseif type(ColorIdx) == 'function' then
+                Object.Instance[Property] = ColorIdx()
+            end
+        end;
+    end;
+end;
+
+function Library:GiveSignal(Signal)
+    -- Only used for signals not attached to library instances, as those should be cleaned up on object destruction by Roblox
+    table.insert(Library.Signals, Signal)
+end
+
+function Library:Unload()
+    -- Unload all of the signals
+    for Idx = #Library.Signals, 1, -1 do
+        local Connection = table.remove(Library.Signals, Idx)
+        Connection:Disconnect()
+    end
+
+     -- Call our unload callback, maybe to undo some hooks etc
+    if Library.OnUnload then
+        Library.OnUnload()
+    end
+
+    ScreenGui:Destroy()
+end
+
+function Library:OnUnload(Callback)
+    Library.OnUnload = Callback
+end
+
+Library:GiveSignal(ScreenGui.DescendantRemoving:Connect(function(Instance)
+    if Library.RegistryMap[Instance] then
+        Library:RemoveFromRegistry(Instance);
+    end;
+end))
+
+local BaseAddons = {};
+
+do
+    local Funcs = {};
+
+    function Funcs:AddColorPicker(Idx, Info)
+        local ToggleLabel = self.TextLabel;
+        -- local Container = self.Container;
+
+        assert(Info.Default, 'AddColorPicker: Missing default value.');
+
+        local ColorPicker = {
+            Value = Info.Default;
+            Transparency = Info.Transparency or 0;
+            Type = 'ColorPicker';
+            Title = type(Info.Title) == 'string' and Info.Title or 'Color picker',
+            Callback = Info.Callback or function(Color) end;
+        };
+
+        function ColorPicker:SetHSVFromRGB(Color)
+            local H, S, V = Color3.toHSV(Color);
+
+            ColorPicker.Hue = H;
+            ColorPicker.Sat = S;
+            ColorPicker.Vib = V;
+        end;
+
+        ColorPicker:SetHSVFromRGB(ColorPicker.Value);
+
+        local DisplayFrame = Library:Create('Frame', {
+            BackgroundColor3 = ColorPicker.Value;
+            BorderColor3 = Library:GetDarkerColor(ColorPicker.Value);
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(0, 28, 0, 14);
+            ZIndex = 6;
+            Parent = ToggleLabel;
+        });
+
+        -- Transparency image taken from https://github.com/matas3535/SplixPrivateDrawingLibrary/blob/main/Library.lua cus i'm lazy
+        local CheckerFrame = Library:Create('ImageLabel', {
+            BorderSizePixel = 0;
+            Size = UDim2.new(0, 27, 0, 13);
+            ZIndex = 5;
+            Image = 'http://www.roblox.com/asset/?id=12977615774';
+            Visible = not not Info.Transparency;
+            Parent = DisplayFrame;
+        });
+
+        -- 1/16/23
+        -- Rewrote this to be placed inside the Library ScreenGui
+        -- There was some issue which caused RelativeOffset to be way off
+        -- Thus the color picker would never show
+
+        local PickerFrameOuter = Library:Create('Frame', {
+            Name = 'Color';
+            BackgroundColor3 = Color3.new(1, 1, 1);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.fromOffset(DisplayFrame.AbsolutePosition.X, DisplayFrame.AbsolutePosition.Y + 18),
+            Size = UDim2.fromOffset(230, Info.Transparency and 271 or 253);
+            Visible = false;
+            ZIndex = 15;
+            Parent = ScreenGui,
+        });
+
+        DisplayFrame:GetPropertyChangedSignal('AbsolutePosition'):Connect(function()
+            PickerFrameOuter.Position = UDim2.fromOffset(DisplayFrame.AbsolutePosition.X, DisplayFrame.AbsolutePosition.Y + 18);
+        end)
+
+        local PickerFrameInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.BackgroundColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 16;
+            Parent = PickerFrameOuter;
+        });
+
+        local Highlight = Library:Create('Frame', {
+            BackgroundColor3 = Library.AccentColor;
+            BorderSizePixel = 0;
+            Size = UDim2.new(1, 0, 0, 2);
+            ZIndex = 17;
+            Parent = PickerFrameInner;
+        });
+
+        local SatVibMapOuter = Library:Create('Frame', {
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.new(0, 4, 0, 25);
+            Size = UDim2.new(0, 200, 0, 200);
+            ZIndex = 17;
+            Parent = PickerFrameInner;
+        });
+
+        local SatVibMapInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.BackgroundColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18;
+            Parent = SatVibMapOuter;
+        });
+
+        local SatVibMap = Library:Create('ImageLabel', {
+            BorderSizePixel = 0;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18;
+            Image = 'rbxassetid://4155801252';
+            Parent = SatVibMapInner;
+        });
+
+        local CursorOuter = Library:Create('ImageLabel', {
+            AnchorPoint = Vector2.new(0.5, 0.5);
+            Size = UDim2.new(0, 6, 0, 6);
+            BackgroundTransparency = 1;
+            Image = 'http://www.roblox.com/asset/?id=9619665977';
+            ImageColor3 = Color3.new(0, 0, 0);
+            ZIndex = 19;
+            Parent = SatVibMap;
+        });
+
+        local CursorInner = Library:Create('ImageLabel', {
+            Size = UDim2.new(0, CursorOuter.Size.X.Offset - 2, 0, CursorOuter.Size.Y.Offset - 2);
+            Position = UDim2.new(0, 1, 0, 1);
+            BackgroundTransparency = 1;
+            Image = 'http://www.roblox.com/asset/?id=9619665977';
+            ZIndex = 20;
+            Parent = CursorOuter;
+        })
+
+        local HueSelectorOuter = Library:Create('Frame', {
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.new(0, 208, 0, 25);
+            Size = UDim2.new(0, 15, 0, 200);
+            ZIndex = 17;
+            Parent = PickerFrameInner;
+        });
+
+        local HueSelectorInner = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(1, 1, 1);
+            BorderSizePixel = 0;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18;
+            Parent = HueSelectorOuter;
+        });
+
+        local HueCursor = Library:Create('Frame', { 
+            BackgroundColor3 = Color3.new(1, 1, 1);
+            AnchorPoint = Vector2.new(0, 0.5);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Size = UDim2.new(1, 0, 0, 1);
+            ZIndex = 18;
+            Parent = HueSelectorInner;
+        });
+
+        local HueBoxOuter = Library:Create('Frame', {
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.fromOffset(4, 228),
+            Size = UDim2.new(0.5, -6, 0, 20),
+            ZIndex = 18,
+            Parent = PickerFrameInner;
+        });
+
+        local HueBoxInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 18,
+            Parent = HueBoxOuter;
+        });
+
+        Library:Create('UIGradient', {
+            Color = ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+                ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+            });
+            Rotation = 90;
+            Parent = HueBoxInner;
+        });
+
+        local HueBox = Library:Create('TextBox', {
+            BackgroundTransparency = 1;
+            Position = UDim2.new(0, 5, 0, 0);
+            Size = UDim2.new(1, -5, 1, 0);
+            Font = Library.Font;
+            PlaceholderColor3 = Color3.fromRGB(190, 190, 190);
+            PlaceholderText = 'Hex color',
+            Text = '#FFFFFF',
+            TextColor3 = Library.FontColor;
+            TextSize = 14;
+            TextStrokeTransparency = 0;
+            TextXAlignment = Enum.TextXAlignment.Left;
+            ZIndex = 20,
+            Parent = HueBoxInner;
+        });
+
+        Library:ApplyTextStroke(HueBox);
+
+        local RgbBoxBase = Library:Create(HueBoxOuter:Clone(), {
+            Position = UDim2.new(0.5, 2, 0, 228),
+            Size = UDim2.new(0.5, -6, 0, 20),
+            Parent = PickerFrameInner
+        });
+
+        local RgbBox = Library:Create(RgbBoxBase.Frame:FindFirstChild('TextBox'), {
+            Text = '255, 255, 255',
+            PlaceholderText = 'RGB color',
+            TextColor3 = Library.FontColor
+        });
+
+        local TransparencyBoxOuter, TransparencyBoxInner, TransparencyCursor;
+        
+        if Info.Transparency then 
+            TransparencyBoxOuter = Library:Create('Frame', {
+                BorderColor3 = Color3.new(0, 0, 0);
+                Position = UDim2.fromOffset(4, 251);
+                Size = UDim2.new(1, -8, 0, 15);
+                ZIndex = 19;
+                Parent = PickerFrameInner;
+            });
+
+            TransparencyBoxInner = Library:Create('Frame', {
+                BackgroundColor3 = ColorPicker.Value;
+                BorderColor3 = Library.OutlineColor;
+                BorderMode = Enum.BorderMode.Inset;
+                Size = UDim2.new(1, 0, 1, 0);
+                ZIndex = 19;
+                Parent = TransparencyBoxOuter;
+            });
+
+            Library:AddToRegistry(TransparencyBoxInner, { BorderColor3 = 'OutlineColor' });
+
+            Library:Create('ImageLabel', {
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 1, 0);
+                Image = 'http://www.roblox.com/asset/?id=12978095818';
+                ZIndex = 20;
+                Parent = TransparencyBoxInner;
+            });
+
+            TransparencyCursor = Library:Create('Frame', { 
+                BackgroundColor3 = Color3.new(1, 1, 1);
+                AnchorPoint = Vector2.new(0.5, 0);
+                BorderColor3 = Color3.new(0, 0, 0);
+                Size = UDim2.new(0, 1, 1, 0);
+                ZIndex = 21;
+                Parent = TransparencyBoxInner;
+            });
+        end;
+
+        local DisplayLabel = Library:CreateLabel({
+            Size = UDim2.new(1, 0, 0, 14);
+            Position = UDim2.fromOffset(5, 5);
+            TextXAlignment = Enum.TextXAlignment.Left;
+            TextSize = 14;
+            Text = ColorPicker.Title,--Info.Default;
+            TextWrapped = false;
+            ZIndex = 16;
+            Parent = PickerFrameInner;
+        });
+
+
+        local ContextMenu = {}
+        do
+            ContextMenu.Options = {}
+            ContextMenu.Container = Library:Create('Frame', {
+                BorderColor3 = Color3.new(),
+                ZIndex = 14,
+
+                Visible = false,
+                Parent = ScreenGui
+            })
+
+            ContextMenu.Inner = Library:Create('Frame', {
+                BackgroundColor3 = Library.BackgroundColor;
+                BorderColor3 = Library.OutlineColor;
+                BorderMode = Enum.BorderMode.Inset;
+                Size = UDim2.fromScale(1, 1);
+                ZIndex = 15;
+                Parent = ContextMenu.Container;
+            });
+
+            Library:Create('UIListLayout', {
+                Name = 'Layout',
+                FillDirection = Enum.FillDirection.Vertical;
+                SortOrder = Enum.SortOrder.LayoutOrder;
+                Parent = ContextMenu.Inner;
+            });
+
+            Library:Create('UIPadding', {
+                Name = 'Padding',
+                PaddingLeft = UDim.new(0, 4),
+                Parent = ContextMenu.Inner,
+            });
+
+            local function updateMenuPosition()
+                ContextMenu.Container.Position = UDim2.fromOffset(
+                    (DisplayFrame.AbsolutePosition.X + DisplayFrame.AbsoluteSize.X) + 4,
+                    DisplayFrame.AbsolutePosition.Y + 1
+                )
+            end
+
+            local function updateMenuSize()
+                local menuWidth = 60
+                for i, label in next, ContextMenu.Inner:GetChildren() do
+                    if label:IsA('TextLabel') then
+                        menuWidth = math.max(menuWidth, label.TextBounds.X)
+                    end
+                end
+
+                ContextMenu.Container.Size = UDim2.fromOffset(
+                    menuWidth + 8,
+                    ContextMenu.Inner.Layout.AbsoluteContentSize.Y + 4
+                )
+            end
+
+            DisplayFrame:GetPropertyChangedSignal('AbsolutePosition'):Connect(updateMenuPosition)
+            ContextMenu.Inner.Layout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(updateMenuSize)
+
+            task.spawn(updateMenuPosition)
+            task.spawn(updateMenuSize)
+
+            Library:AddToRegistry(ContextMenu.Inner, {
+                BackgroundColor3 = 'BackgroundColor';
+                BorderColor3 = 'OutlineColor';
+            });
+
+            function ContextMenu:Show()
+                self.Container.Visible = true
+            end
+
+            function ContextMenu:Hide()
+                self.Container.Visible = false
+            end
+
+            function ContextMenu:AddOption(Str, Callback)
+                if type(Callback) ~= 'function' then
+                    Callback = function() end
+                end
+
+                local Button = Library:CreateLabel({
+                    Active = false;
+                    Size = UDim2.new(1, 0, 0, 15);
+                    TextSize = 13;
+                    Text = Str;
+                    ZIndex = 16;
+                    Parent = self.Inner;
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                });
+
+                Library:OnHighlight(Button, Button, 
+                    { TextColor3 = 'AccentColor' },
+                    { TextColor3 = 'FontColor' }
+                );
+
+                Button.InputBegan:Connect(function(Input)
+                    if Input.UserInputType ~= Enum.UserInputType.MouseButton1 then
+                        return
+                    end
+
+                    Callback()
+                end)
+            end
+
+            ContextMenu:AddOption('Copy color', function()
+                Library.ColorClipboard = ColorPicker.Value
+                Library:Notify('Copied color!', 2)
+            end)
+
+            ContextMenu:AddOption('Paste color', function()
+                if not Library.ColorClipboard then
+                    return Library:Notify('You have not copied a color!', 2)
+                end
+                ColorPicker:SetValueRGB(Library.ColorClipboard)
+            end)
+
+
+            ContextMenu:AddOption('Copy HEX', function()
+                pcall(setclipboard, ColorPicker.Value:ToHex())
+                Library:Notify('Copied hex code to clipboard!', 2)
+            end)
+
+            ContextMenu:AddOption('Copy RGB', function()
+                pcall(setclipboard, table.concat({ math.floor(ColorPicker.Value.R * 255), math.floor(ColorPicker.Value.G * 255), math.floor(ColorPicker.Value.B * 255) }, ', '))
+                Library:Notify('Copied RGB values to clipboard!', 2)
+            end)
+
+        end
+
+        Library:AddToRegistry(PickerFrameInner, { BackgroundColor3 = 'BackgroundColor'; BorderColor3 = 'OutlineColor'; });
+        Library:AddToRegistry(Highlight, { BackgroundColor3 = 'AccentColor'; });
+        Library:AddToRegistry(SatVibMapInner, { BackgroundColor3 = 'BackgroundColor'; BorderColor3 = 'OutlineColor'; });
+
+        Library:AddToRegistry(HueBoxInner, { BackgroundColor3 = 'MainColor'; BorderColor3 = 'OutlineColor'; });
+        Library:AddToRegistry(RgbBoxBase.Frame, { BackgroundColor3 = 'MainColor'; BorderColor3 = 'OutlineColor'; });
+        Library:AddToRegistry(RgbBox, { TextColor3 = 'FontColor', });
+        Library:AddToRegistry(HueBox, { TextColor3 = 'FontColor', });
+
+        local SequenceTable = {};
+
+        for Hue = 0, 1, 0.1 do
+            table.insert(SequenceTable, ColorSequenceKeypoint.new(Hue, Color3.fromHSV(Hue, 1, 1)));
+        end;
+
+        local HueSelectorGradient = Library:Create('UIGradient', {
+            Color = ColorSequence.new(SequenceTable);
+            Rotation = 90;
+            Parent = HueSelectorInner;
+        });
+
+        HueBox.FocusLost:Connect(function(enter)
+            if enter then
+                local success, result = pcall(Color3.fromHex, HueBox.Text)
+                if success and typeof(result) == 'Color3' then
+                    ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib = Color3.toHSV(result)
+                end
+            end
+
+            ColorPicker:Display()
+        end)
+
+        RgbBox.FocusLost:Connect(function(enter)
+            if enter then
+                local r, g, b = RgbBox.Text:match('(%d+),%s*(%d+),%s*(%d+)')
+                if r and g and b then
+                    ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib = Color3.toHSV(Color3.fromRGB(r, g, b))
+                end
+            end
+
+            ColorPicker:Display()
+        end)
+
+        function ColorPicker:Display()
+            ColorPicker.Value = Color3.fromHSV(ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib);
+            SatVibMap.BackgroundColor3 = Color3.fromHSV(ColorPicker.Hue, 1, 1);
+
+            Library:Create(DisplayFrame, {
+                BackgroundColor3 = ColorPicker.Value;
+                BackgroundTransparency = ColorPicker.Transparency;
+                BorderColor3 = Library:GetDarkerColor(ColorPicker.Value);
+            });
+
+            if TransparencyBoxInner then
+                TransparencyBoxInner.BackgroundColor3 = ColorPicker.Value;
+                TransparencyCursor.Position = UDim2.new(1 - ColorPicker.Transparency, 0, 0, 0);
+            end;
+
+            CursorOuter.Position = UDim2.new(ColorPicker.Sat, 0, 1 - ColorPicker.Vib, 0);
+            HueCursor.Position = UDim2.new(0, 0, ColorPicker.Hue, 0);
+
+            HueBox.Text = '#' .. ColorPicker.Value:ToHex()
+            RgbBox.Text = table.concat({ math.floor(ColorPicker.Value.R * 255), math.floor(ColorPicker.Value.G * 255), math.floor(ColorPicker.Value.B * 255) }, ', ')
+
+            Library:SafeCallback(ColorPicker.Callback, ColorPicker.Value);
+            Library:SafeCallback(ColorPicker.Changed, ColorPicker.Value);
+        end;
+
+        function ColorPicker:OnChanged(Func)
+            ColorPicker.Changed = Func;
+            Func(ColorPicker.Value)
+        end;
+
+        function ColorPicker:Show()
+            for Frame, Val in next, Library.OpenedFrames do
+                if Frame.Name == 'Color' then
+                    Frame.Visible = false;
+                    Library.OpenedFrames[Frame] = nil;
+                end;
+            end;
+
+            PickerFrameOuter.Visible = true;
+            Library.OpenedFrames[PickerFrameOuter] = true;
+        end;
+
+        function ColorPicker:Hide()
+            PickerFrameOuter.Visible = false;
+            Library.OpenedFrames[PickerFrameOuter] = nil;
+        end;
+
+        function ColorPicker:SetValue(HSV, Transparency)
+            local Color = Color3.fromHSV(HSV[1], HSV[2], HSV[3]);
+
+            ColorPicker.Transparency = Transparency or 0;
+            ColorPicker:SetHSVFromRGB(Color);
+            ColorPicker:Display();
+        end;
+
+        function ColorPicker:SetValueRGB(Color, Transparency)
+            ColorPicker.Transparency = Transparency or 0;
+            ColorPicker:SetHSVFromRGB(Color);
+            ColorPicker:Display();
+        end;
+
+        SatVibMap.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                    local MinX = SatVibMap.AbsolutePosition.X;
+                    local MaxX = MinX + SatVibMap.AbsoluteSize.X;
+                    local MouseX = math.clamp(Mouse.X, MinX, MaxX);
+
+                    local MinY = SatVibMap.AbsolutePosition.Y;
+                    local MaxY = MinY + SatVibMap.AbsoluteSize.Y;
+                    local MouseY = math.clamp(Mouse.Y, MinY, MaxY);
+
+                    ColorPicker.Sat = (MouseX - MinX) / (MaxX - MinX);
+                    ColorPicker.Vib = 1 - ((MouseY - MinY) / (MaxY - MinY));
+                    ColorPicker:Display();
+
+                    RenderStepped:Wait();
+                end;
+
+                Library:AttemptSave();
+            end;
+        end);
+
+        HueSelectorInner.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                    local MinY = HueSelectorInner.AbsolutePosition.Y;
+                    local MaxY = MinY + HueSelectorInner.AbsoluteSize.Y;
+                    local MouseY = math.clamp(Mouse.Y, MinY, MaxY);
+
+                    ColorPicker.Hue = ((MouseY - MinY) / (MaxY - MinY));
+                    ColorPicker:Display();
+
+                    RenderStepped:Wait();
+                end;
+
+                Library:AttemptSave();
+            end;
+        end);
+
+        DisplayFrame.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+                if PickerFrameOuter.Visible then
+                    ColorPicker:Hide()
+                else
+                    ContextMenu:Hide()
+                    ColorPicker:Show()
+                end;
+            elseif Input.UserInputType == Enum.UserInputType.MouseButton2 and not Library:MouseIsOverOpenedFrame() then
+                ContextMenu:Show()
+                ColorPicker:Hide()
+            end
+        end);
+
+        if TransparencyBoxInner then
+            TransparencyBoxInner.InputBegan:Connect(function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                    while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                        local MinX = TransparencyBoxInner.AbsolutePosition.X;
+                        local MaxX = MinX + TransparencyBoxInner.AbsoluteSize.X;
+                        local MouseX = math.clamp(Mouse.X, MinX, MaxX);
+
+                        ColorPicker.Transparency = 1 - ((MouseX - MinX) / (MaxX - MinX));
+
+                        ColorPicker:Display();
+
+                        RenderStepped:Wait();
+                    end;
+
+                    Library:AttemptSave();
+                end;
+            end);
+        end;
+
+        Library:GiveSignal(InputService.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                local AbsPos, AbsSize = PickerFrameOuter.AbsolutePosition, PickerFrameOuter.AbsoluteSize;
+
+                if Mouse.X < AbsPos.X or Mouse.X > AbsPos.X + AbsSize.X
+                    or Mouse.Y < (AbsPos.Y - 20 - 1) or Mouse.Y > AbsPos.Y + AbsSize.Y then
+
+                    ColorPicker:Hide();
+                end;
+
+                if not Library:IsMouseOverFrame(ContextMenu.Container) then
+                    ContextMenu:Hide()
+                end
+            end;
+
+            if Input.UserInputType == Enum.UserInputType.MouseButton2 and ContextMenu.Container.Visible then
+                if not Library:IsMouseOverFrame(ContextMenu.Container) and not Library:IsMouseOverFrame(DisplayFrame) then
+                    ContextMenu:Hide()
+                end
+            end
+        end))
+
+        ColorPicker:Display();
+        ColorPicker.DisplayFrame = DisplayFrame
+
+        Options[Idx] = ColorPicker;
+
+        return self;
+    end;
+
+    function Funcs:AddKeyPicker(Idx, Info)
+        local ParentObj = self;
+        local ToggleLabel = self.TextLabel;
+        local Container = self.Container;
+
+        assert(Info.Default, 'AddKeyPicker: Missing default value.');
+
+        local KeyPicker = {
+            Value = Info.Default;
+            Toggled = false;
+            Mode = Info.Mode or 'Toggle'; -- Always, Toggle, Hold
+            Type = 'KeyPicker';
+            Callback = Info.Callback or function(Value) end;
+            ChangedCallback = Info.ChangedCallback or function(New) end;
+
+            SyncToggleState = Info.SyncToggleState or false;
+        };
+
+        if KeyPicker.SyncToggleState then
+            Info.Modes = { 'Toggle' }
+            Info.Mode = 'Toggle'
+        end
+
+        local PickOuter = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(0, 0, 0);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Size = UDim2.new(0, 28, 0, 15);
+            ZIndex = 6;
+            Parent = ToggleLabel;
+        });
+
+        local PickInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.BackgroundColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 7;
+            Parent = PickOuter;
+        });
+
+        Library:AddToRegistry(PickInner, {
+            BackgroundColor3 = 'BackgroundColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        local DisplayLabel = Library:CreateLabel({
+            Size = UDim2.new(1, 0, 1, 0);
+            TextSize = 13;
+            Text = Info.Default;
+            TextWrapped = true;
+            ZIndex = 8;
+            Parent = PickInner;
+        });
+
+        local ModeSelectOuter = Library:Create('Frame', {
+            BorderColor3 = Color3.new(0, 0, 0);
+            Position = UDim2.fromOffset(ToggleLabel.AbsolutePosition.X + ToggleLabel.AbsoluteSize.X + 4, ToggleLabel.AbsolutePosition.Y + 1);
+            Size = UDim2.new(0, 60, 0, 45 + 2);
+            Visible = false;
+            ZIndex = 14;
+            Parent = ScreenGui;
+        });
+
+        ToggleLabel:GetPropertyChangedSignal('AbsolutePosition'):Connect(function()
+            ModeSelectOuter.Position = UDim2.fromOffset(ToggleLabel.AbsolutePosition.X + ToggleLabel.AbsoluteSize.X + 4, ToggleLabel.AbsolutePosition.Y + 1);
+        end);
+
+        local ModeSelectInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.BackgroundColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 15;
+            Parent = ModeSelectOuter;
+        });
+
+        Library:AddToRegistry(ModeSelectInner, {
+            BackgroundColor3 = 'BackgroundColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        Library:Create('UIListLayout', {
+            FillDirection = Enum.FillDirection.Vertical;
+            SortOrder = Enum.SortOrder.LayoutOrder;
+            Parent = ModeSelectInner;
+        });
+
+        local ContainerLabel = Library:CreateLabel({
+            TextXAlignment = Enum.TextXAlignment.Left;
+            Size = UDim2.new(1, 0, 0, 18);
+            TextSize = 13;
+            Visible = false;
+            ZIndex = 110;
+            Parent = Library.KeybindContainer;
+        },  true);
+
+        local Modes = Info.Modes or { 'Always', 'Toggle', 'Hold' };
+        local ModeButtons = {};
+
+        for Idx, Mode in next, Modes do
+            local ModeButton = {};
+
+            local Label = Library:CreateLabel({
+                Active = false;
+                Size = UDim2.new(1, 0, 0, 15);
+                TextSize = 13;
+                Text = Mode;
+                ZIndex = 16;
+                Parent = ModeSelectInner;
+            });
+
+            function ModeButton:Select()
+                for _, Button in next, ModeButtons do
+                    Button:Deselect();
+                end;
+
+                KeyPicker.Mode = Mode;
+
+                Label.TextColor3 = Library.AccentColor;
+                Library.RegistryMap[Label].Properties.TextColor3 = 'AccentColor';
+
+                ModeSelectOuter.Visible = false;
+            end;
+
+            function ModeButton:Deselect()
+                KeyPicker.Mode = nil;
+
+                Label.TextColor3 = Library.FontColor;
+                Library.RegistryMap[Label].Properties.TextColor3 = 'FontColor';
+            end;
+
+            Label.InputBegan:Connect(function(Input)
+                if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                    ModeButton:Select();
+                    Library:AttemptSave();
+                end;
+            end);
+
+            if Mode == KeyPicker.Mode then
+                ModeButton:Select();
+            end;
+
+            ModeButtons[Mode] = ModeButton;
+        end;
+
+        function KeyPicker:Update()
+            if Info.NoUI then
+                return;
+            end;
+
+            local State = KeyPicker:GetState();
+
+            ContainerLabel.Text = string.format('[%s] %s (%s)', KeyPicker.Value, Info.Text, KeyPicker.Mode);
+
+            ContainerLabel.Visible = true;
+            ContainerLabel.TextColor3 = State and Library.AccentColor or Library.FontColor;
+
+            Library.RegistryMap[ContainerLabel].Properties.TextColor3 = State and 'AccentColor' or 'FontColor';
+
+            local YSize = 0
+            local XSize = 0
+
+            for _, Label in next, Library.KeybindContainer:GetChildren() do
+                if Label:IsA('TextLabel') and Label.Visible then
+                    YSize = YSize + 18;
+                    if (Label.TextBounds.X > XSize) then
+                        XSize = Label.TextBounds.X
+                    end
+                end;
+            end;
+
+            Library.KeybindFrame.Size = UDim2.new(0, math.max(XSize + 10, 210), 0, YSize + 23)
+        end;
+
+        function KeyPicker:GetState()
+            if KeyPicker.Mode == 'Always' then
+                return true;
+            elseif KeyPicker.Mode == 'Hold' then
+                if KeyPicker.Value == 'None' then
+                    return false;
+                end
+
+                local Key = KeyPicker.Value;
+
+                if Key == 'MB1' or Key == 'MB2' then
+                    return Key == 'MB1' and InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1)
+                        or Key == 'MB2' and InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2);
+                else
+                    return InputService:IsKeyDown(Enum.KeyCode[KeyPicker.Value]);
+                end;
+            else
+                return KeyPicker.Toggled;
+            end;
+        end;
+
+        function KeyPicker:SetValue(Data)
+            local Key, Mode = Data[1], Data[2];
+            DisplayLabel.Text = Key;
+            KeyPicker.Value = Key;
+            ModeButtons[Mode]:Select();
+            KeyPicker:Update();
+        end;
+
+        function KeyPicker:OnClick(Callback)
+            KeyPicker.Clicked = Callback
+        end
+
+        function KeyPicker:OnChanged(Callback)
+            KeyPicker.Changed = Callback
+            Callback(KeyPicker.Value)
+        end
+
+        if ParentObj.Addons then
+            table.insert(ParentObj.Addons, KeyPicker)
+        end
+
+        function KeyPicker:DoClick()
+            if ParentObj.Type == 'Toggle' and KeyPicker.SyncToggleState then
+                ParentObj:SetValue(not ParentObj.Value)
+            end
+
+            Library:SafeCallback(KeyPicker.Callback, KeyPicker.Toggled)
+            Library:SafeCallback(KeyPicker.Clicked, KeyPicker.Toggled)
+        end
+
+        local Picking = false;
+
+        PickOuter.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+                Picking = true;
+
+                DisplayLabel.Text = '';
+
+                local Break;
+                local Text = '';
+
+                task.spawn(function()
+                    while (not Break) do
+                        if Text == '...' then
+                            Text = '';
+                        end;
+
+                        Text = Text .. '.';
+                        DisplayLabel.Text = Text;
+
+                        wait(0.4);
+                    end;
+                end);
+
+                wait(0.2);
+
+                local Event;
+                Event = InputService.InputBegan:Connect(function(Input)
+                    local Key;
+
+                    if Input.UserInputType == Enum.UserInputType.Keyboard then
+                        Key = Input.KeyCode.Name;
+                    elseif Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                        Key = 'MB1';
+                    elseif Input.UserInputType == Enum.UserInputType.MouseButton2 then
+                        Key = 'MB2';
+                    end;
+
+                    Break = true;
+                    Picking = false;
+
+                    DisplayLabel.Text = Key;
+                    KeyPicker.Value = Key;
+
+                    Library:SafeCallback(KeyPicker.ChangedCallback, Input.KeyCode or Input.UserInputType)
+                    Library:SafeCallback(KeyPicker.Changed, Input.KeyCode or Input.UserInputType)
+
+                    Library:AttemptSave();
+
+                    Event:Disconnect();
+                end);
+            elseif Input.UserInputType == Enum.UserInputType.MouseButton2 and not Library:MouseIsOverOpenedFrame() then
+                ModeSelectOuter.Visible = true;
+            end;
+        end);
+
+        Library:GiveSignal(InputService.InputBegan:Connect(function(Input)
+            if (not Picking) then
+                if KeyPicker.Mode == 'Toggle' then
+                    local Key = KeyPicker.Value;
+
+                    if Key == 'MB1' or Key == 'MB2' then
+                        if Key == 'MB1' and Input.UserInputType == Enum.UserInputType.MouseButton1
+                        or Key == 'MB2' and Input.UserInputType == Enum.UserInputType.MouseButton2 then
+                            KeyPicker.Toggled = not KeyPicker.Toggled
+                            KeyPicker:DoClick()
+                        end;
+                    elseif Input.UserInputType == Enum.UserInputType.Keyboard then
+                        if Input.KeyCode.Name == Key then
+                            KeyPicker.Toggled = not KeyPicker.Toggled;
+                            KeyPicker:DoClick()
+                        end;
+                    end;
+                end;
+
+                KeyPicker:Update();
+            end;
+
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                local AbsPos, AbsSize = ModeSelectOuter.AbsolutePosition, ModeSelectOuter.AbsoluteSize;
+
+                if Mouse.X < AbsPos.X or Mouse.X > AbsPos.X + AbsSize.X
+                    or Mouse.Y < (AbsPos.Y - 20 - 1) or Mouse.Y > AbsPos.Y + AbsSize.Y then
+
+                    ModeSelectOuter.Visible = false;
+                end;
+            end;
+        end))
+
+        Library:GiveSignal(InputService.InputEnded:Connect(function(Input)
+            if (not Picking) then
+                KeyPicker:Update();
+            end;
+        end))
+
+        KeyPicker:Update();
+
+        Options[Idx] = KeyPicker;
+
+        return self;
+    end;
+
+    BaseAddons.__index = Funcs;
+    BaseAddons.__namecall = function(Table, Key, ...)
+        return Funcs[Key](...);
+    end;
+end;
+
+local BaseGroupbox = {};
+
+do
+    local Funcs = {};
+
+    function Funcs:AddBlank(Size)
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        Library:Create('Frame', {
+            BackgroundTransparency = 1;
+            Size = UDim2.new(1, 0, 0, Size);
+            ZIndex = 1;
+            Parent = Container;
+        });
+    end;
+
+    function Funcs:AddLabel(Text, DoesWrap)
+        local Label = {};
+
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        local TextLabel = Library:CreateLabel({
+            Size = UDim2.new(1, -4, 0, 15);
+            TextSize = 14;
+            Text = Text;
+            TextWrapped = DoesWrap or false,
+            TextXAlignment = Enum.TextXAlignment.Left;
+            ZIndex = 5;
+            Parent = Container;
+        });
+
+        if DoesWrap then
+            local Y = select(2, Library:GetTextBounds(Text, Library.Font, 14, Vector2.new(TextLabel.AbsoluteSize.X, math.huge)))
+            TextLabel.Size = UDim2.new(1, -4, 0, Y)
+        else
+            Library:Create('UIListLayout', {
+                Padding = UDim.new(0, 4);
+                FillDirection = Enum.FillDirection.Horizontal;
+                HorizontalAlignment = Enum.HorizontalAlignment.Right;
+                SortOrder = Enum.SortOrder.LayoutOrder;
+                Parent = TextLabel;
+            });
+        end
+
+        Label.TextLabel = TextLabel;
+        Label.Container = Container;
+
+        function Label:SetText(Text)
+            TextLabel.Text = Text
+
+            if DoesWrap then
+                local Y = select(2, Library:GetTextBounds(Text, Library.Font, 14, Vector2.new(TextLabel.AbsoluteSize.X, math.huge)))
+                TextLabel.Size = UDim2.new(1, -4, 0, Y)
+            end
+
+            Groupbox:Resize();
+        end
+
+        if (not DoesWrap) then
+            setmetatable(Label, BaseAddons);
+        end
+
+        Groupbox:AddBlank(5);
+        Groupbox:Resize();
+
+        return Label;
+    end;
+
+    function Funcs:AddButton(...)
+        -- TODO: Eventually redo this
+        local Button = {};
+        local function ProcessButtonParams(Class, Obj, ...)
+            local Props = select(1, ...)
+            if type(Props) == 'table' then
+                Obj.Text = Props.Text
+                Obj.Func = Props.Func
+                Obj.DoubleClick = Props.DoubleClick
+                Obj.Tooltip = Props.Tooltip
+            else
+                Obj.Text = select(1, ...)
+                Obj.Func = select(2, ...)
+            end
+
+            assert(type(Obj.Func) == 'function', 'AddButton: `Func` callback is missing.');
+        end
+
+        ProcessButtonParams('Button', Button, ...)
+
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        local function CreateBaseButton(Button)
+            local Outer = Library:Create('Frame', {
+                BackgroundColor3 = Color3.new(0, 0, 0);
+                BorderColor3 = Color3.new(0, 0, 0);
+                Size = UDim2.new(1, -4, 0, 20);
+                ZIndex = 5;
+            });
+
+            local Inner = Library:Create('Frame', {
+                BackgroundColor3 = Library.MainColor;
+                BorderColor3 = Library.OutlineColor;
+                BorderMode = Enum.BorderMode.Inset;
+                Size = UDim2.new(1, 0, 1, 0);
+                ZIndex = 6;
+                Parent = Outer;
+            });
+
+            local Label = Library:CreateLabel({
+                Size = UDim2.new(1, 0, 1, 0);
+                TextSize = 14;
+                Text = Button.Text;
+                ZIndex = 6;
+                Parent = Inner;
+            });
+
+            Library:Create('UIGradient', {
+                Color = ColorSequence.new({
+                    ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+                    ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+                });
+                Rotation = 90;
+                Parent = Inner;
+            });
+
+            Library:AddToRegistry(Outer, {
+                BorderColor3 = 'Black';
+            });
+
+            Library:AddToRegistry(Inner, {
+                BackgroundColor3 = 'MainColor';
+                BorderColor3 = 'OutlineColor';
+            });
+
+            Library:OnHighlight(Outer, Outer,
+                { BorderColor3 = 'AccentColor' },
+                { BorderColor3 = 'Black' }
+            );
+
+            return Outer, Inner, Label
+        end
+
+        local function InitEvents(Button)
+            local function WaitForEvent(event, timeout, validator)
+                local bindable = Instance.new('BindableEvent')
+                local connection = event:Once(function(...)
+
+                    if type(validator) == 'function' and validator(...) then
+                        bindable:Fire(true)
+                    else
+                        bindable:Fire(false)
+                    end
+                end)
+                task.delay(timeout, function()
+                    connection:disconnect()
+                    bindable:Fire(false)
+                end)
+                return bindable.Event:Wait()
+            end
+
+            local function ValidateClick(Input)
+                if Library:MouseIsOverOpenedFrame() then
+                    return false
+                end
+
+                if Input.UserInputType ~= Enum.UserInputType.MouseButton1 then
+                    return false
+                end
+
+                return true
+            end
+
+            Button.Outer.InputBegan:Connect(function(Input)
+                if not ValidateClick(Input) then return end
+                if Button.Locked then return end
+
+                if Button.DoubleClick then
+                    Library:RemoveFromRegistry(Button.Label)
+                    Library:AddToRegistry(Button.Label, { TextColor3 = 'AccentColor' })
+
+                    Button.Label.TextColor3 = Library.AccentColor
+                    Button.Label.Text = 'Are you sure?'
+                    Button.Locked = true
+
+                    local clicked = WaitForEvent(Button.Outer.InputBegan, 0.5, ValidateClick)
+
+                    Library:RemoveFromRegistry(Button.Label)
+                    Library:AddToRegistry(Button.Label, { TextColor3 = 'FontColor' })
+
+                    Button.Label.TextColor3 = Library.FontColor
+                    Button.Label.Text = Button.Text
+                    task.defer(rawset, Button, 'Locked', false)
+
+                    if clicked then
+                        Library:SafeCallback(Button.Func)
+                    end
+
+                    return
+                end
+
+                Library:SafeCallback(Button.Func);
+            end)
+        end
+
+        Button.Outer, Button.Inner, Button.Label = CreateBaseButton(Button)
+        Button.Outer.Parent = Container
+
+        InitEvents(Button)
+
+        function Button:AddTooltip(tooltip)
+            if type(tooltip) == 'string' then
+                Library:AddToolTip(tooltip, self.Outer)
+            end
+            return self
+        end
+
+
+        function Button:AddButton(...)
+            local SubButton = {}
+
+            ProcessButtonParams('SubButton', SubButton, ...)
+
+            self.Outer.Size = UDim2.new(0.5, -2, 0, 20)
+
+            SubButton.Outer, SubButton.Inner, SubButton.Label = CreateBaseButton(SubButton)
+
+            SubButton.Outer.Position = UDim2.new(1, 3, 0, 0)
+            SubButton.Outer.Size = UDim2.fromOffset(self.Outer.AbsoluteSize.X - 2, self.Outer.AbsoluteSize.Y)
+            SubButton.Outer.Parent = self.Outer
+
+            function SubButton:AddTooltip(tooltip)
+                if type(tooltip) == 'string' then
+                    Library:AddToolTip(tooltip, self.Outer)
+                end
+                return SubButton
+            end
+
+            if type(SubButton.Tooltip) == 'string' then
+                SubButton:AddTooltip(SubButton.Tooltip)
+            end
+
+            InitEvents(SubButton)
+            return SubButton
+        end
+
+        if type(Button.Tooltip) == 'string' then
+            Button:AddTooltip(Button.Tooltip)
+        end
+
+        Groupbox:AddBlank(5);
+        Groupbox:Resize();
+
+        return Button;
+    end;
+
+    function Funcs:AddDivider()
+        local Groupbox = self;
+        local Container = self.Container
+
+        local Divider = {
+            Type = 'Divider',
+        }
+
+        Groupbox:AddBlank(2);
+        local DividerOuter = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(0, 0, 0);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Size = UDim2.new(1, -4, 0, 5);
+            ZIndex = 5;
+            Parent = Container;
+        });
+
+        local DividerInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 6;
+            Parent = DividerOuter;
+        });
+
+        Library:AddToRegistry(DividerOuter, {
+            BorderColor3 = 'Black';
+        });
+
+        Library:AddToRegistry(DividerInner, {
+            BackgroundColor3 = 'MainColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        Groupbox:AddBlank(9);
+        Groupbox:Resize();
+    end
+
+    function Funcs:AddInput(Idx, Info)
+        assert(Info.Text, 'AddInput: Missing `Text` string.')
+
+        local Textbox = {
+            Value = Info.Default or '';
+            Numeric = Info.Numeric or false;
+            Finished = Info.Finished or false;
+            Type = 'Input';
+            Callback = Info.Callback or function(Value) end;
+        };
+
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        local InputLabel = Library:CreateLabel({
+            Size = UDim2.new(1, 0, 0, 15);
+            TextSize = 14;
+            Text = Info.Text;
+            TextXAlignment = Enum.TextXAlignment.Left;
+            ZIndex = 5;
+            Parent = Container;
+        });
+
+        Groupbox:AddBlank(1);
+
+        local TextBoxOuter = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(0, 0, 0);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Size = UDim2.new(1, -4, 0, 20);
+            ZIndex = 5;
+            Parent = Container;
+        });
+
+        local TextBoxInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 6;
+            Parent = TextBoxOuter;
+        });
+
+        Library:AddToRegistry(TextBoxInner, {
+            BackgroundColor3 = 'MainColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        Library:OnHighlight(TextBoxOuter, TextBoxOuter,
+            { BorderColor3 = 'AccentColor' },
+            { BorderColor3 = 'Black' }
+        );
+
+        if type(Info.Tooltip) == 'string' then
+            Library:AddToolTip(Info.Tooltip, TextBoxOuter)
+        end
+
+        Library:Create('UIGradient', {
+            Color = ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+                ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+            });
+            Rotation = 90;
+            Parent = TextBoxInner;
+        });
+
+        local Container = Library:Create('Frame', {
+            BackgroundTransparency = 1;
+            ClipsDescendants = true;
+
+            Position = UDim2.new(0, 5, 0, 0);
+            Size = UDim2.new(1, -5, 1, 0);
+
+            ZIndex = 7;
+            Parent = TextBoxInner;
+        })
+
+        local Box = Library:Create('TextBox', {
+            BackgroundTransparency = 1;
+
+            Position = UDim2.fromOffset(0, 0),
+            Size = UDim2.fromScale(5, 1),
+
+            Font = Library.Font;
+            PlaceholderColor3 = Color3.fromRGB(190, 190, 190);
+            PlaceholderText = Info.Placeholder or '';
+
+            Text = Info.Default or '';
+            TextColor3 = Library.FontColor;
+            TextSize = 14;
+            TextStrokeTransparency = 0;
+            TextXAlignment = Enum.TextXAlignment.Left;
+
+            ZIndex = 7;
+            Parent = Container;
+        });
+
+        Library:ApplyTextStroke(Box);
+
+        function Textbox:SetValue(Text)
+            if Info.MaxLength and #Text > Info.MaxLength then
+                Text = Text:sub(1, Info.MaxLength);
+            end;
+
+            if Textbox.Numeric then
+                if (not tonumber(Text)) and Text:len() > 0 then
+                    Text = Textbox.Value
+                end
+            end
+
+            Textbox.Value = Text;
+            Box.Text = Text;
+
+            Library:SafeCallback(Textbox.Callback, Textbox.Value);
+            Library:SafeCallback(Textbox.Changed, Textbox.Value);
+        end;
+
+        if Textbox.Finished then
+            Box.FocusLost:Connect(function(enter)
+                if not enter then return end
+
+                Textbox:SetValue(Box.Text);
+                Library:AttemptSave();
+            end)
+        else
+            Box:GetPropertyChangedSignal('Text'):Connect(function()
+                Textbox:SetValue(Box.Text);
+                Library:AttemptSave();
+            end);
+        end
+
+        -- https://devforum.roblox.com/t/how-to-make-textboxes-follow-current-cursor-position/1368429/6
+        -- thank you nicemike40 :)
+
+        local function Update()
+            local PADDING = 2
+            local reveal = Container.AbsoluteSize.X
+
+            if not Box:IsFocused() or Box.TextBounds.X <= reveal - 2 * PADDING then
+                -- we aren't focused, or we fit so be normal
+                Box.Position = UDim2.new(0, PADDING, 0, 0)
+            else
+                -- we are focused and don't fit, so adjust position
+                local cursor = Box.CursorPosition
+                if cursor ~= -1 then
+                    -- calculate pixel width of text from start to cursor
+                    local subtext = string.sub(Box.Text, 1, cursor-1)
+                    local width = TextService:GetTextSize(subtext, Box.TextSize, Box.Font, Vector2.new(math.huge, math.huge)).X
+
+                    -- check if we're inside the box with the cursor
+                    local currentCursorPos = Box.Position.X.Offset + width
+
+                    -- adjust if necessary
+                    if currentCursorPos < PADDING then
+                        Box.Position = UDim2.fromOffset(PADDING-width, 0)
+                    elseif currentCursorPos > reveal - PADDING - 1 then
+                        Box.Position = UDim2.fromOffset(reveal-width-PADDING-1, 0)
+                    end
+                end
+            end
+        end
+
+        task.spawn(Update)
+
+        Box:GetPropertyChangedSignal('Text'):Connect(Update)
+        Box:GetPropertyChangedSignal('CursorPosition'):Connect(Update)
+        Box.FocusLost:Connect(Update)
+        Box.Focused:Connect(Update)
+
+        Library:AddToRegistry(Box, {
+            TextColor3 = 'FontColor';
+        });
+
+        function Textbox:OnChanged(Func)
+            Textbox.Changed = Func;
+            Func(Textbox.Value);
+        end;
+
+        Groupbox:AddBlank(5);
+        Groupbox:Resize();
+
+        Options[Idx] = Textbox;
+
+        return Textbox;
+    end;
+
+    function Funcs:AddToggle(Idx, Info)
+        assert(Info.Text, 'AddInput: Missing `Text` string.')
+
+        local Toggle = {
+            Value = Info.Default or false;
+            Type = 'Toggle';
+
+            Callback = Info.Callback or function(Value) end;
+            Addons = {},
+            Risky = Info.Risky,
+        };
+
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        local ToggleOuter = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(0, 0, 0);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Size = UDim2.new(0, 13, 0, 13);
+            ZIndex = 5;
+            Parent = Container;
+        });
+
+        Library:AddToRegistry(ToggleOuter, {
+            BorderColor3 = 'Black';
+        });
+
+        local ToggleInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 6;
+            Parent = ToggleOuter;
+        });
+
+        Library:AddToRegistry(ToggleInner, {
+            BackgroundColor3 = 'MainColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        local ToggleLabel = Library:CreateLabel({
+            Size = UDim2.new(0, 216, 1, 0);
+            Position = UDim2.new(1, 6, 0, 0);
+            TextSize = 14;
+            Text = Info.Text;
+            TextXAlignment = Enum.TextXAlignment.Left;
+            ZIndex = 6;
+            Parent = ToggleInner;
+        });
+
+        Library:Create('UIListLayout', {
+            Padding = UDim.new(0, 4);
+            FillDirection = Enum.FillDirection.Horizontal;
+            HorizontalAlignment = Enum.HorizontalAlignment.Right;
+            SortOrder = Enum.SortOrder.LayoutOrder;
+            Parent = ToggleLabel;
+        });
+
+        local ToggleRegion = Library:Create('Frame', {
+            BackgroundTransparency = 1;
+            Size = UDim2.new(0, 170, 1, 0);
+            ZIndex = 8;
+            Parent = ToggleOuter;
+        });
+
+        Library:OnHighlight(ToggleRegion, ToggleOuter,
+            { BorderColor3 = 'AccentColor' },
+            { BorderColor3 = 'Black' }
+        );
+
+        function Toggle:UpdateColors()
+            Toggle:Display();
+        end;
+
+        if type(Info.Tooltip) == 'string' then
+            Library:AddToolTip(Info.Tooltip, ToggleRegion)
+        end
+
+        function Toggle:Display()
+            ToggleInner.BackgroundColor3 = Toggle.Value and Library.AccentColor or Library.MainColor;
+            ToggleInner.BorderColor3 = Toggle.Value and Library.AccentColorDark or Library.OutlineColor;
+
+            Library.RegistryMap[ToggleInner].Properties.BackgroundColor3 = Toggle.Value and 'AccentColor' or 'MainColor';
+            Library.RegistryMap[ToggleInner].Properties.BorderColor3 = Toggle.Value and 'AccentColorDark' or 'OutlineColor';
+        end;
+
+        function Toggle:OnChanged(Func)
+            Toggle.Changed = Func;
+            Func(Toggle.Value);
+        end;
+
+        function Toggle:SetValue(Bool)
+            Bool = (not not Bool);
+
+            Toggle.Value = Bool;
+            Toggle:Display();
+
+            for _, Addon in next, Toggle.Addons do
+                if Addon.Type == 'KeyPicker' and Addon.SyncToggleState then
+                    Addon.Toggled = Bool
+                    Addon:Update()
+                end
+            end
+
+            Library:SafeCallback(Toggle.Callback, Toggle.Value);
+            Library:SafeCallback(Toggle.Changed, Toggle.Value);
+            Library:UpdateDependencyBoxes();
+        end;
+
+        ToggleRegion.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+                Toggle:SetValue(not Toggle.Value) -- Why was it not like this from the start?
+                Library:AttemptSave();
+            end;
+        end);
+
+        if Toggle.Risky then
+            Library:RemoveFromRegistry(ToggleLabel)
+            ToggleLabel.TextColor3 = Library.RiskColor
+            Library:AddToRegistry(ToggleLabel, { TextColor3 = 'RiskColor' })
+        end
+
+        Toggle:Display();
+        Groupbox:AddBlank(Info.BlankSize or 5 + 2);
+        Groupbox:Resize();
+
+        Toggle.TextLabel = ToggleLabel;
+        Toggle.Container = Container;
+        setmetatable(Toggle, BaseAddons);
+
+        Toggles[Idx] = Toggle;
+
+        Library:UpdateDependencyBoxes();
+
+        return Toggle;
+    end;
+
+    function Funcs:AddSlider(Idx, Info)
+        assert(Info.Default, 'AddSlider: Missing default value.');
+        assert(Info.Text, 'AddSlider: Missing slider text.');
+        assert(Info.Min, 'AddSlider: Missing minimum value.');
+        assert(Info.Max, 'AddSlider: Missing maximum value.');
+        assert(Info.Rounding, 'AddSlider: Missing rounding value.');
+
+        local Slider = {
+            Value = Info.Default;
+            Min = Info.Min;
+            Max = Info.Max;
+            Rounding = Info.Rounding;
+            MaxSize = 232;
+            Type = 'Slider';
+            Callback = Info.Callback or function(Value) end;
+        };
+
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        if not Info.Compact then
+            Library:CreateLabel({
+                Size = UDim2.new(1, 0, 0, 10);
+                TextSize = 14;
+                Text = Info.Text;
+                TextXAlignment = Enum.TextXAlignment.Left;
+                TextYAlignment = Enum.TextYAlignment.Bottom;
+                ZIndex = 5;
+                Parent = Container;
+            });
+
+            Groupbox:AddBlank(3);
+        end
+
+        local SliderOuter = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(0, 0, 0);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Size = UDim2.new(1, -4, 0, 13);
+            ZIndex = 5;
+            Parent = Container;
+        });
+
+        Library:AddToRegistry(SliderOuter, {
+            BorderColor3 = 'Black';
+        });
+
+        local SliderInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 6;
+            Parent = SliderOuter;
+        });
+
+        Library:AddToRegistry(SliderInner, {
+            BackgroundColor3 = 'MainColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        local Fill = Library:Create('Frame', {
+            BackgroundColor3 = Library.AccentColor;
+            BorderColor3 = Library.AccentColorDark;
+            Size = UDim2.new(0, 0, 1, 0);
+            ZIndex = 7;
+            Parent = SliderInner;
+        });
+
+        Library:AddToRegistry(Fill, {
+            BackgroundColor3 = 'AccentColor';
+            BorderColor3 = 'AccentColorDark';
+        });
+
+        local HideBorderRight = Library:Create('Frame', {
+            BackgroundColor3 = Library.AccentColor;
+            BorderSizePixel = 0;
+            Position = UDim2.new(1, 0, 0, 0);
+            Size = UDim2.new(0, 1, 1, 0);
+            ZIndex = 8;
+            Parent = Fill;
+        });
+
+        Library:AddToRegistry(HideBorderRight, {
+            BackgroundColor3 = 'AccentColor';
+        });
+
+        local DisplayLabel = Library:CreateLabel({
+            Size = UDim2.new(1, 0, 1, 0);
+            TextSize = 14;
+            Text = 'Infinite';
+            ZIndex = 9;
+            Parent = SliderInner;
+        });
+
+        Library:OnHighlight(SliderOuter, SliderOuter,
+            { BorderColor3 = 'AccentColor' },
+            { BorderColor3 = 'Black' }
+        );
+
+        if type(Info.Tooltip) == 'string' then
+            Library:AddToolTip(Info.Tooltip, SliderOuter)
+        end
+
+        function Slider:UpdateColors()
+            Fill.BackgroundColor3 = Library.AccentColor;
+            Fill.BorderColor3 = Library.AccentColorDark;
+        end;
+
+        function Slider:Display()
+            local Suffix = Info.Suffix or '';
+
+            if Info.Compact then
+                DisplayLabel.Text = Info.Text .. ': ' .. Slider.Value .. Suffix
+            elseif Info.HideMax then
+                DisplayLabel.Text = string.format('%s', Slider.Value .. Suffix)
+            else
+                DisplayLabel.Text = string.format('%s/%s', Slider.Value .. Suffix, Slider.Max .. Suffix);
+            end
+
+            local X = math.ceil(Library:MapValue(Slider.Value, Slider.Min, Slider.Max, 0, Slider.MaxSize));
+            Fill.Size = UDim2.new(0, X, 1, 0);
+
+            HideBorderRight.Visible = not (X == Slider.MaxSize or X == 0);
+        end;
+
+        function Slider:OnChanged(Func)
+            Slider.Changed = Func;
+            Func(Slider.Value);
+        end;
+
+        local function Round(Value)
+            if Slider.Rounding == 0 then
+                return math.floor(Value);
+            end;
+
+
+            return tonumber(string.format('%.' .. Slider.Rounding .. 'f', Value))
+        end;
+
+        function Slider:GetValueFromXOffset(X)
+            return Round(Library:MapValue(X, 0, Slider.MaxSize, Slider.Min, Slider.Max));
+        end;
+
+        function Slider:SetValue(Str)
+            local Num = tonumber(Str);
+
+            if (not Num) then
+                return;
+            end;
+
+            Num = math.clamp(Num, Slider.Min, Slider.Max);
+
+            Slider.Value = Num;
+            Slider:Display();
+
+            Library:SafeCallback(Slider.Callback, Slider.Value);
+            Library:SafeCallback(Slider.Changed, Slider.Value);
+        end;
+
+        SliderInner.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+                local mPos = Mouse.X;
+                local gPos = Fill.Size.X.Offset;
+                local Diff = mPos - (Fill.AbsolutePosition.X + gPos);
+
+                while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                    local nMPos = Mouse.X;
+                    local nX = math.clamp(gPos + (nMPos - mPos) + Diff, 0, Slider.MaxSize);
+
+                    local nValue = Slider:GetValueFromXOffset(nX);
+                    local OldValue = Slider.Value;
+                    Slider.Value = nValue;
+
+                    Slider:Display();
+
+                    if nValue ~= OldValue then
+                        Library:SafeCallback(Slider.Callback, Slider.Value);
+                        Library:SafeCallback(Slider.Changed, Slider.Value);
+                    end;
+
+                    RenderStepped:Wait();
+                end;
+
+                Library:AttemptSave();
+            end;
+        end);
+
+        Slider:Display();
+        Groupbox:AddBlank(Info.BlankSize or 6);
+        Groupbox:Resize();
+
+        Options[Idx] = Slider;
+
+        return Slider;
+    end;
+
+    function Funcs:AddDropdown(Idx, Info)
+        if Info.SpecialType == 'Player' then
+            Info.Values = GetPlayersString();
+            Info.AllowNull = true;
+        elseif Info.SpecialType == 'Team' then
+            Info.Values = GetTeamsString();
+            Info.AllowNull = true;
+        end;
+
+        assert(Info.Values, 'AddDropdown: Missing dropdown value list.');
+        assert(Info.AllowNull or Info.Default, 'AddDropdown: Missing default value. Pass `AllowNull` as true if this was intentional.')
+
+        if (not Info.Text) then
+            Info.Compact = true;
+        end;
+
+        local Dropdown = {
+            Values = Info.Values;
+            Value = Info.Multi and {};
+            Multi = Info.Multi;
+            Type = 'Dropdown';
+            SpecialType = Info.SpecialType; -- can be either 'Player' or 'Team'
+            Callback = Info.Callback or function(Value) end;
+        };
+
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        local RelativeOffset = 0;
+
+        if not Info.Compact then
+            local DropdownLabel = Library:CreateLabel({
+                Size = UDim2.new(1, 0, 0, 10);
+                TextSize = 14;
+                Text = Info.Text;
+                TextXAlignment = Enum.TextXAlignment.Left;
+                TextYAlignment = Enum.TextYAlignment.Bottom;
+                ZIndex = 5;
+                Parent = Container;
+            });
+
+            Groupbox:AddBlank(3);
+        end
+
+        for _, Element in next, Container:GetChildren() do
+            if not Element:IsA('UIListLayout') then
+                RelativeOffset = RelativeOffset + Element.Size.Y.Offset;
+            end;
+        end;
+
+        local DropdownOuter = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(0, 0, 0);
+            BorderColor3 = Color3.new(0, 0, 0);
+            Size = UDim2.new(1, -4, 0, 20);
+            ZIndex = 5;
+            Parent = Container;
+        });
+
+        Library:AddToRegistry(DropdownOuter, {
+            BorderColor3 = 'Black';
+        });
+
+        local DropdownInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 6;
+            Parent = DropdownOuter;
+        });
+
+        Library:AddToRegistry(DropdownInner, {
+            BackgroundColor3 = 'MainColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        Library:Create('UIGradient', {
+            Color = ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Color3.new(1, 1, 1)),
+                ColorSequenceKeypoint.new(1, Color3.fromRGB(212, 212, 212))
+            });
+            Rotation = 90;
+            Parent = DropdownInner;
+        });
+
+        local DropdownArrow = Library:Create('ImageLabel', {
+            AnchorPoint = Vector2.new(0, 0.5);
+            BackgroundTransparency = 1;
+            Position = UDim2.new(1, -16, 0.5, 0);
+            Size = UDim2.new(0, 12, 0, 12);
+            Image = 'http://www.roblox.com/asset/?id=6282522798';
+            ZIndex = 8;
+            Parent = DropdownInner;
+        });
+
+        local ItemList = Library:CreateLabel({
+            Position = UDim2.new(0, 5, 0, 0);
+            Size = UDim2.new(1, -5, 1, 0);
+            TextSize = 14;
+            Text = '--';
+            TextXAlignment = Enum.TextXAlignment.Left;
+            TextWrapped = true;
+            ZIndex = 7;
+            Parent = DropdownInner;
+        });
+
+        Library:OnHighlight(DropdownOuter, DropdownOuter,
+            { BorderColor3 = 'AccentColor' },
+            { BorderColor3 = 'Black' }
+        );
+
+        if type(Info.Tooltip) == 'string' then
+            Library:AddToolTip(Info.Tooltip, DropdownOuter)
+        end
+
+        local MAX_DROPDOWN_ITEMS = 8;
+
+        local ListOuter = Library:Create('Frame', {
+            BackgroundColor3 = Color3.new(0, 0, 0);
+            BorderColor3 = Color3.new(0, 0, 0);
+            ZIndex = 20;
+            Visible = false;
+            Parent = ScreenGui;
+        });
+
+        local function RecalculateListPosition()
+            ListOuter.Position = UDim2.fromOffset(DropdownOuter.AbsolutePosition.X, DropdownOuter.AbsolutePosition.Y + DropdownOuter.Size.Y.Offset + 1);
+        end;
+
+        local function RecalculateListSize(YSize)
+            ListOuter.Size = UDim2.fromOffset(DropdownOuter.AbsoluteSize.X, YSize or (MAX_DROPDOWN_ITEMS * 20 + 2))
+        end;
+
+        RecalculateListPosition();
+        RecalculateListSize();
+
+        DropdownOuter:GetPropertyChangedSignal('AbsolutePosition'):Connect(RecalculateListPosition);
+
+        local ListInner = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderColor3 = Library.OutlineColor;
+            BorderMode = Enum.BorderMode.Inset;
+            BorderSizePixel = 0;
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 21;
+            Parent = ListOuter;
+        });
+
+        Library:AddToRegistry(ListInner, {
+            BackgroundColor3 = 'MainColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        local Scrolling = Library:Create('ScrollingFrame', {
+            BackgroundTransparency = 1;
+            BorderSizePixel = 0;
+            CanvasSize = UDim2.new(0, 0, 0, 0);
+            Size = UDim2.new(1, 0, 1, 0);
+            ZIndex = 21;
+            Parent = ListInner;
+
+            TopImage = 'rbxasset://textures/ui/Scroll/scroll-middle.png',
+            BottomImage = 'rbxasset://textures/ui/Scroll/scroll-middle.png',
+
+            ScrollBarThickness = 3,
+            ScrollBarImageColor3 = Library.AccentColor,
+        });
+
+        Library:AddToRegistry(Scrolling, {
+            ScrollBarImageColor3 = 'AccentColor'
+        })
+
+        Library:Create('UIListLayout', {
+            Padding = UDim.new(0, 0);
+            FillDirection = Enum.FillDirection.Vertical;
+            SortOrder = Enum.SortOrder.LayoutOrder;
+            Parent = Scrolling;
+        });
+
+        function Dropdown:Display()
+            local Values = Dropdown.Values;
+            local Str = '';
+
+            if Info.Multi then
+                for Idx, Value in next, Values do
+                    if Dropdown.Value[Value] then
+                        Str = Str .. Value .. ', ';
+                    end;
+                end;
+
+                Str = Str:sub(1, #Str - 2);
+            else
+                Str = Dropdown.Value or '';
+            end;
+
+            ItemList.Text = (Str == '' and '--' or Str);
+        end;
+
+        function Dropdown:GetActiveValues()
+            if Info.Multi then
+                local T = {};
+
+                for Value, Bool in next, Dropdown.Value do
+                    table.insert(T, Value);
+                end;
+
+                return T;
+            else
+                return Dropdown.Value and 1 or 0;
+            end;
+        end;
+
+        function Dropdown:BuildDropdownList()
+            local Values = Dropdown.Values;
+            local Buttons = {};
+
+            for _, Element in next, Scrolling:GetChildren() do
+                if not Element:IsA('UIListLayout') then
+                    Element:Destroy();
+                end;
+            end;
+
+            local Count = 0;
+
+            for Idx, Value in next, Values do
+                local Table = {};
+
+                Count = Count + 1;
+
+                local Button = Library:Create('Frame', {
+                    BackgroundColor3 = Library.MainColor;
+                    BorderColor3 = Library.OutlineColor;
+                    BorderMode = Enum.BorderMode.Middle;
+                    Size = UDim2.new(1, -1, 0, 20);
+                    ZIndex = 23;
+                    Active = true,
+                    Parent = Scrolling;
+                });
+
+                Library:AddToRegistry(Button, {
+                    BackgroundColor3 = 'MainColor';
+                    BorderColor3 = 'OutlineColor';
+                });
+
+                local ButtonLabel = Library:CreateLabel({
+                    Active = false;
+                    Size = UDim2.new(1, -6, 1, 0);
+                    Position = UDim2.new(0, 6, 0, 0);
+                    TextSize = 14;
+                    Text = Value;
+                    TextXAlignment = Enum.TextXAlignment.Left;
+                    ZIndex = 25;
+                    Parent = Button;
+                });
+
+                Library:OnHighlight(Button, Button,
+                    { BorderColor3 = 'AccentColor', ZIndex = 24 },
+                    { BorderColor3 = 'OutlineColor', ZIndex = 23 }
+                );
+
+                local Selected;
+
+                if Info.Multi then
+                    Selected = Dropdown.Value[Value];
+                else
+                    Selected = Dropdown.Value == Value;
+                end;
+
+                function Table:UpdateButton()
+                    if Info.Multi then
+                        Selected = Dropdown.Value[Value];
+                    else
+                        Selected = Dropdown.Value == Value;
+                    end;
+
+                    ButtonLabel.TextColor3 = Selected and Library.AccentColor or Library.FontColor;
+                    Library.RegistryMap[ButtonLabel].Properties.TextColor3 = Selected and 'AccentColor' or 'FontColor';
+                end;
+
+                ButtonLabel.InputBegan:Connect(function(Input)
+                    if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                        local Try = not Selected;
+
+                        if Dropdown:GetActiveValues() == 1 and (not Try) and (not Info.AllowNull) then
+                        else
+                            if Info.Multi then
+                                Selected = Try;
+
+                                if Selected then
+                                    Dropdown.Value[Value] = true;
+                                else
+                                    Dropdown.Value[Value] = nil;
+                                end;
+                            else
+                                Selected = Try;
+
+                                if Selected then
+                                    Dropdown.Value = Value;
+                                else
+                                    Dropdown.Value = nil;
+                                end;
+
+                                for _, OtherButton in next, Buttons do
+                                    OtherButton:UpdateButton();
+                                end;
+                            end;
+
+                            Table:UpdateButton();
+                            Dropdown:Display();
+
+                            Library:SafeCallback(Dropdown.Callback, Dropdown.Value);
+                            Library:SafeCallback(Dropdown.Changed, Dropdown.Value);
+
+                            Library:AttemptSave();
+                        end;
+                    end;
+                end);
+
+                Table:UpdateButton();
+                Dropdown:Display();
+
+                Buttons[Button] = Table;
+            end;
+
+            Scrolling.CanvasSize = UDim2.fromOffset(0, (Count * 20) + 1);
+
+            local Y = math.clamp(Count * 20, 0, MAX_DROPDOWN_ITEMS * 20) + 1;
+            RecalculateListSize(Y);
+        end;
+
+        function Dropdown:SetValues(NewValues)
+            if NewValues then
+                Dropdown.Values = NewValues;
+            end;
+
+            Dropdown:BuildDropdownList();
+        end;
+
+        function Dropdown:OpenDropdown()
+            ListOuter.Visible = true;
+            Library.OpenedFrames[ListOuter] = true;
+            DropdownArrow.Rotation = 180;
+        end;
+
+        function Dropdown:CloseDropdown()
+            ListOuter.Visible = false;
+            Library.OpenedFrames[ListOuter] = nil;
+            DropdownArrow.Rotation = 0;
+        end;
+
+        function Dropdown:OnChanged(Func)
+            Dropdown.Changed = Func;
+            Func(Dropdown.Value);
+        end;
+
+        function Dropdown:SetValue(Val)
+            if Dropdown.Multi then
+                local nTable = {};
+
+                for Value, Bool in next, Val do
+                    if table.find(Dropdown.Values, Value) then
+                        nTable[Value] = true
+                    end;
+                end;
+
+                Dropdown.Value = nTable;
+            else
+                if (not Val) then
+                    Dropdown.Value = nil;
+                elseif table.find(Dropdown.Values, Val) then
+                    Dropdown.Value = Val;
+                end;
+            end;
+
+            Dropdown:BuildDropdownList();
+
+            Library:SafeCallback(Dropdown.Callback, Dropdown.Value);
+            Library:SafeCallback(Dropdown.Changed, Dropdown.Value);
+        end;
+
+        DropdownOuter.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+                if ListOuter.Visible then
+                    Dropdown:CloseDropdown();
+                else
+                    Dropdown:OpenDropdown();
+                end;
+            end;
+        end);
+
+        InputService.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                local AbsPos, AbsSize = ListOuter.AbsolutePosition, ListOuter.AbsoluteSize;
+
+                if Mouse.X < AbsPos.X or Mouse.X > AbsPos.X + AbsSize.X
+                    or Mouse.Y < (AbsPos.Y - 20 - 1) or Mouse.Y > AbsPos.Y + AbsSize.Y then
+
+                    Dropdown:CloseDropdown();
+                end;
+            end;
+        end);
+
+        Dropdown:BuildDropdownList();
+        Dropdown:Display();
+
+        local Defaults = {}
+
+        if type(Info.Default) == 'string' then
+            local Idx = table.find(Dropdown.Values, Info.Default)
+            if Idx then
+                table.insert(Defaults, Idx)
+            end
+        elseif type(Info.Default) == 'table' then
+            for _, Value in next, Info.Default do
+                local Idx = table.find(Dropdown.Values, Value)
+                if Idx then
+                    table.insert(Defaults, Idx)
+                end
+            end
+        elseif type(Info.Default) == 'number' and Dropdown.Values[Info.Default] ~= nil then
+            table.insert(Defaults, Info.Default)
+        end
+
+        if next(Defaults) then
+            for i = 1, #Defaults do
+                local Index = Defaults[i]
+                if Info.Multi then
+                    Dropdown.Value[Dropdown.Values[Index]] = true
+                else
+                    Dropdown.Value = Dropdown.Values[Index];
+                end
+
+                if (not Info.Multi) then break end
+            end
+
+            Dropdown:BuildDropdownList();
+            Dropdown:Display();
+        end
+
+        Groupbox:AddBlank(Info.BlankSize or 5);
+        Groupbox:Resize();
+
+        Options[Idx] = Dropdown;
+
+        return Dropdown;
+    end;
+
+    function Funcs:AddDependencyBox()
+        local Depbox = {
+            Dependencies = {};
+        };
+        
+        local Groupbox = self;
+        local Container = Groupbox.Container;
+
+        local Holder = Library:Create('Frame', {
+            BackgroundTransparency = 1;
+            Size = UDim2.new(1, 0, 0, 0);
+            Visible = false;
+            Parent = Container;
+        });
+
+        local Frame = Library:Create('Frame', {
+            BackgroundTransparency = 1;
+            Size = UDim2.new(1, 0, 1, 0);
+            Visible = true;
+            Parent = Holder;
+        });
+
+        local Layout = Library:Create('UIListLayout', {
+            FillDirection = Enum.FillDirection.Vertical;
+            SortOrder = Enum.SortOrder.LayoutOrder;
+            Parent = Frame;
+        });
+
+        function Depbox:Resize()
+            Holder.Size = UDim2.new(1, 0, 0, Layout.AbsoluteContentSize.Y);
+            Groupbox:Resize();
+        end;
+
+        Layout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+            Depbox:Resize();
+        end);
+
+        Holder:GetPropertyChangedSignal('Visible'):Connect(function()
+            Depbox:Resize();
+        end);
+
+        function Depbox:Update()
+            for _, Dependency in next, Depbox.Dependencies do
+                local Elem = Dependency[1];
+                local Value = Dependency[2];
+
+                if Elem.Type == 'Toggle' and Elem.Value ~= Value then
+                    Holder.Visible = false;
+                    Depbox:Resize();
+                    return;
+                end;
+            end;
+
+            Holder.Visible = true;
+            Depbox:Resize();
+        end;
+
+        function Depbox:SetupDependencies(Dependencies)
+            for _, Dependency in next, Dependencies do
+                assert(type(Dependency) == 'table', 'SetupDependencies: Dependency is not of type `table`.');
+                assert(Dependency[1], 'SetupDependencies: Dependency is missing element argument.');
+                assert(Dependency[2] ~= nil, 'SetupDependencies: Dependency is missing value argument.');
+            end;
+
+            Depbox.Dependencies = Dependencies;
+            Depbox:Update();
+        end;
+
+        Depbox.Container = Frame;
+
+        setmetatable(Depbox, BaseGroupbox);
+
+        table.insert(Library.DependencyBoxes, Depbox);
+
+        return Depbox;
+    end;
+
+    BaseGroupbox.__index = Funcs;
+    BaseGroupbox.__namecall = function(Table, Key, ...)
+        return Funcs[Key](...);
+    end;
+end;
+
+-- < Create other UI elements >
+do
+    Library.NotificationArea = Library:Create('Frame', {
+        BackgroundTransparency = 1;
+        Position = UDim2.new(0, 0, 0, 40);
+        Size = UDim2.new(0, 300, 0, 200);
+        ZIndex = 100;
+        Parent = ScreenGui;
+    });
+
+    Library:Create('UIListLayout', {
+        Padding = UDim.new(0, 4);
+        FillDirection = Enum.FillDirection.Vertical;
+        SortOrder = Enum.SortOrder.LayoutOrder;
+        Parent = Library.NotificationArea;
+    });
+
+    local WatermarkOuter = Library:Create('Frame', {
+        BorderColor3 = Color3.new(0, 0, 0);
+        Position = UDim2.new(0, 100, 0, -25);
+        Size = UDim2.new(0, 213, 0, 20);
+        ZIndex = 200;
+        Visible = false;
+        Parent = ScreenGui;
+    });
+
+    local WatermarkInner = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor;
+        BorderColor3 = Library.AccentColor;
+        BorderMode = Enum.BorderMode.Inset;
+        Size = UDim2.new(1, 0, 1, 0);
+        ZIndex = 201;
+        Parent = WatermarkOuter;
+    });
+
+    Library:AddToRegistry(WatermarkInner, {
+        BorderColor3 = 'AccentColor';
+    });
+
+    local InnerFrame = Library:Create('Frame', {
+        BackgroundColor3 = Color3.new(1, 1, 1);
+        BorderSizePixel = 0;
+        Position = UDim2.new(0, 1, 0, 1);
+        Size = UDim2.new(1, -2, 1, -2);
+        ZIndex = 202;
+        Parent = WatermarkInner;
+    });
+
+    local Gradient = Library:Create('UIGradient', {
+        Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+            ColorSequenceKeypoint.new(1, Library.MainColor),
+        });
+        Rotation = -90;
+        Parent = InnerFrame;
+    });
+
+    Library:AddToRegistry(Gradient, {
+        Color = function()
+            return ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+                ColorSequenceKeypoint.new(1, Library.MainColor),
+            });
+        end
+    });
+
+    local WatermarkLabel = Library:CreateLabel({
+        Position = UDim2.new(0, 5, 0, 0);
+        Size = UDim2.new(1, -4, 1, 0);
+        TextSize = 14;
+        TextXAlignment = Enum.TextXAlignment.Left;
+        ZIndex = 203;
+        Parent = InnerFrame;
+    });
+
+    Library.Watermark = WatermarkOuter;
+    Library.WatermarkText = WatermarkLabel;
+    Library:MakeDraggable(Library.Watermark);
+
+
+
+    local KeybindOuter = Library:Create('Frame', {
+        AnchorPoint = Vector2.new(0, 0.5);
+        BorderColor3 = Color3.new(0, 0, 0);
+        Position = UDim2.new(0, 10, 0.5, 0);
+        Size = UDim2.new(0, 210, 0, 20);
+        Visible = false;
+        ZIndex = 100;
+        Parent = ScreenGui;
+    });
+
+    local KeybindInner = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor;
+        BorderColor3 = Library.OutlineColor;
+        BorderMode = Enum.BorderMode.Inset;
+        Size = UDim2.new(1, 0, 1, 0);
+        ZIndex = 101;
+        Parent = KeybindOuter;
+    });
+
+    Library:AddToRegistry(KeybindInner, {
+        BackgroundColor3 = 'MainColor';
+        BorderColor3 = 'OutlineColor';
+    }, true);
+
+    local ColorFrame = Library:Create('Frame', {
+        BackgroundColor3 = Library.AccentColor;
+        BorderSizePixel = 0;
+        Size = UDim2.new(1, 0, 0, 2);
+        ZIndex = 102;
+        Parent = KeybindInner;
+    });
+
+    Library:AddToRegistry(ColorFrame, {
+        BackgroundColor3 = 'AccentColor';
+    }, true);
+
+    local KeybindLabel = Library:CreateLabel({
+        Size = UDim2.new(1, 0, 0, 20);
+        Position = UDim2.fromOffset(5, 2),
+        TextXAlignment = Enum.TextXAlignment.Left,
+
+        Text = 'Keybinds';
+        ZIndex = 104;
+        Parent = KeybindInner;
+    });
+
+    local KeybindContainer = Library:Create('Frame', {
+        BackgroundTransparency = 1;
+        Size = UDim2.new(1, 0, 1, -20);
+        Position = UDim2.new(0, 0, 0, 20);
+        ZIndex = 1;
+        Parent = KeybindInner;
+    });
+
+    Library:Create('UIListLayout', {
+        FillDirection = Enum.FillDirection.Vertical;
+        SortOrder = Enum.SortOrder.LayoutOrder;
+        Parent = KeybindContainer;
+    });
+
+    Library:Create('UIPadding', {
+        PaddingLeft = UDim.new(0, 5),
+        Parent = KeybindContainer,
+    })
+
+    Library.KeybindFrame = KeybindOuter;
+    Library.KeybindContainer = KeybindContainer;
+    Library:MakeDraggable(KeybindOuter);
+end;
+
+function Library:SetWatermarkVisibility(Bool)
+    Library.Watermark.Visible = Bool;
+end;
+
+function Library:SetWatermark(Text)
+    local X, Y = Library:GetTextBounds(Text, Library.Font, 14);
+    Library.Watermark.Size = UDim2.new(0, X + 15, 0, (Y * 1.5) + 3);
+    Library:SetWatermarkVisibility(true)
+
+    Library.WatermarkText.Text = Text;
+end;
+
+function Library:Notify(Text, Time)
+    local XSize, YSize = Library:GetTextBounds(Text, Library.Font, 14);
+
+    YSize = YSize + 7
+
+    local NotifyOuter = Library:Create('Frame', {
+        BorderColor3 = Color3.new(0, 0, 0);
+        Position = UDim2.new(0, 100, 0, 10);
+        Size = UDim2.new(0, 0, 0, YSize);
+        ClipsDescendants = true;
+        ZIndex = 100;
+        Parent = Library.NotificationArea;
+    });
+
+    local NotifyInner = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor;
+        BorderColor3 = Library.OutlineColor;
+        BorderMode = Enum.BorderMode.Inset;
+        Size = UDim2.new(1, 0, 1, 0);
+        ZIndex = 101;
+        Parent = NotifyOuter;
+    });
+
+    Library:AddToRegistry(NotifyInner, {
+        BackgroundColor3 = 'MainColor';
+        BorderColor3 = 'OutlineColor';
+    }, true);
+
+    local InnerFrame = Library:Create('Frame', {
+        BackgroundColor3 = Color3.new(1, 1, 1);
+        BorderSizePixel = 0;
+        Position = UDim2.new(0, 1, 0, 1);
+        Size = UDim2.new(1, -2, 1, -2);
+        ZIndex = 102;
+        Parent = NotifyInner;
+    });
+
+    local Gradient = Library:Create('UIGradient', {
+        Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+            ColorSequenceKeypoint.new(1, Library.MainColor),
+        });
+        Rotation = -90;
+        Parent = InnerFrame;
+    });
+
+    Library:AddToRegistry(Gradient, {
+        Color = function()
+            return ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Library:GetDarkerColor(Library.MainColor)),
+                ColorSequenceKeypoint.new(1, Library.MainColor),
+            });
+        end
+    });
+
+    local NotifyLabel = Library:CreateLabel({
+        Position = UDim2.new(0, 4, 0, 0);
+        Size = UDim2.new(1, -4, 1, 0);
+        Text = Text;
+        TextXAlignment = Enum.TextXAlignment.Left;
+        TextSize = 14;
+        ZIndex = 103;
+        Parent = InnerFrame;
+    });
+
+    local LeftColor = Library:Create('Frame', {
+        BackgroundColor3 = Library.AccentColor;
+        BorderSizePixel = 0;
+        Position = UDim2.new(0, -1, 0, -1);
+        Size = UDim2.new(0, 3, 1, 2);
+        ZIndex = 104;
+        Parent = NotifyOuter;
+    });
+
+    Library:AddToRegistry(LeftColor, {
+        BackgroundColor3 = 'AccentColor';
+    }, true);
+
+    pcall(NotifyOuter.TweenSize, NotifyOuter, UDim2.new(0, XSize + 8 + 4, 0, YSize), 'Out', 'Quad', 0.4, true);
+
+    task.spawn(function()
+        wait(Time or 5);
+
+        pcall(NotifyOuter.TweenSize, NotifyOuter, UDim2.new(0, 0, 0, YSize), 'Out', 'Quad', 0.4, true);
+
+        wait(0.4);
+
+        NotifyOuter:Destroy();
+    end);
+end;
+
+function Library:CreateWindow(...)
+    local Arguments = { ... }
+    local Config = { AnchorPoint = Vector2.zero }
+
+    if type(...) == 'table' then
+        Config = ...;
+    else
+        Config.Title = Arguments[1]
+        Config.AutoShow = Arguments[2] or false;
+    end
+
+    if type(Config.Title) ~= 'string' then Config.Title = 'No title' end
+    if type(Config.TabPadding) ~= 'number' then Config.TabPadding = 0 end
+    if type(Config.MenuFadeTime) ~= 'number' then Config.MenuFadeTime = 0.2 end
+
+    if typeof(Config.Position) ~= 'UDim2' then Config.Position = UDim2.fromOffset(175, 50) end
+    if typeof(Config.Size) ~= 'UDim2' then Config.Size = UDim2.fromOffset(550, 600) end
+
+    if Config.Center then
+        Config.AnchorPoint = Vector2.new(0.5, 0.5)
+        Config.Position = UDim2.fromScale(0.5, 0.5)
+    end
+
+    local Window = {
+        Tabs = {};
+    };
+
+    local Outer = Library:Create('Frame', {
+        AnchorPoint = Config.AnchorPoint,
+        BackgroundColor3 = Color3.new(0, 0, 0);
+        BorderSizePixel = 0;
+        Position = Config.Position,
+        Size = Config.Size,
+        Visible = false;
+        ZIndex = 1;
+        Parent = ScreenGui;
+    });
+
+    Library:MakeDraggable(Outer, 25);
+
+    local Inner = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor;
+        BorderColor3 = Library.AccentColor;
+        BorderMode = Enum.BorderMode.Inset;
+        Position = UDim2.new(0, 1, 0, 1);
+        Size = UDim2.new(1, -2, 1, -2);
+        ZIndex = 1;
+        Parent = Outer;
+    });
+
+    Library:AddToRegistry(Inner, {
+        BackgroundColor3 = 'MainColor';
+        BorderColor3 = 'AccentColor';
+    });
+
+    local WindowLabel = Library:CreateLabel({
+        Position = UDim2.new(0, 7, 0, 0);
+        Size = UDim2.new(0, 0, 0, 25);
+        Text = Config.Title or '';
+        TextXAlignment = Enum.TextXAlignment.Left;
+        ZIndex = 1;
+        Parent = Inner;
+    });
+
+    local MainSectionOuter = Library:Create('Frame', {
+        BackgroundColor3 = Library.BackgroundColor;
+        BorderColor3 = Library.OutlineColor;
+        Position = UDim2.new(0, 8, 0, 25);
+        Size = UDim2.new(1, -16, 1, -33);
+        ZIndex = 1;
+        Parent = Inner;
+    });
+
+    Library:AddToRegistry(MainSectionOuter, {
+        BackgroundColor3 = 'BackgroundColor';
+        BorderColor3 = 'OutlineColor';
+    });
+
+    local MainSectionInner = Library:Create('Frame', {
+        BackgroundColor3 = Library.BackgroundColor;
+        BorderColor3 = Color3.new(0, 0, 0);
+        BorderMode = Enum.BorderMode.Inset;
+        Position = UDim2.new(0, 0, 0, 0);
+        Size = UDim2.new(1, 0, 1, 0);
+        ZIndex = 1;
+        Parent = MainSectionOuter;
+    });
+
+    Library:AddToRegistry(MainSectionInner, {
+        BackgroundColor3 = 'BackgroundColor';
+    });
+
+    local TabArea = Library:Create('Frame', {
+        BackgroundTransparency = 1;
+        Position = UDim2.new(0, 8, 0, 8);
+        Size = UDim2.new(1, -16, 0, 21);
+        ZIndex = 1;
+        Parent = MainSectionInner;
+    });
+
+    local TabListLayout = Library:Create('UIListLayout', {
+        Padding = UDim.new(0, Config.TabPadding);
+        FillDirection = Enum.FillDirection.Horizontal;
+        SortOrder = Enum.SortOrder.LayoutOrder;
+        Parent = TabArea;
+    });
+
+    local TabContainer = Library:Create('Frame', {
+        BackgroundColor3 = Library.MainColor;
+        BorderColor3 = Library.OutlineColor;
+        Position = UDim2.new(0, 8, 0, 30);
+        Size = UDim2.new(1, -16, 1, -38);
+        ZIndex = 2;
+        Parent = MainSectionInner;
+    });
+    
+
+    Library:AddToRegistry(TabContainer, {
+        BackgroundColor3 = 'MainColor';
+        BorderColor3 = 'OutlineColor';
+    });
+
+    function Window:SetWindowTitle(Title)
+        WindowLabel.Text = Title;
+    end;
+
+    function Window:AddTab(Name)
+        local Tab = {
+            Groupboxes = {};
+            Tabboxes = {};
+        };
+
+        local TabButtonWidth = Library:GetTextBounds(Name, Library.Font, 16);
+
+        local TabButton = Library:Create('Frame', {
+            BackgroundColor3 = Library.BackgroundColor;
+            BorderColor3 = Library.OutlineColor;
+            Size = UDim2.new(0, TabButtonWidth + 8 + 4, 1, 0);
+            ZIndex = 1;
+            Parent = TabArea;
+        });
+
+        Library:AddToRegistry(TabButton, {
+            BackgroundColor3 = 'BackgroundColor';
+            BorderColor3 = 'OutlineColor';
+        });
+
+        local TabButtonLabel = Library:CreateLabel({
+            Position = UDim2.new(0, 0, 0, 0);
+            Size = UDim2.new(1, 0, 1, -1);
+            Text = Name;
+            ZIndex = 1;
+            Parent = TabButton;
+        });
+
+        local Blocker = Library:Create('Frame', {
+            BackgroundColor3 = Library.MainColor;
+            BorderSizePixel = 0;
+            Position = UDim2.new(0, 0, 1, 0);
+            Size = UDim2.new(1, 0, 0, 1);
+            BackgroundTransparency = 1;
+            ZIndex = 3;
+            Parent = TabButton;
+        });
+
+        Library:AddToRegistry(Blocker, {
+            BackgroundColor3 = 'MainColor';
+        });
+
+        local TabFrame = Library:Create('Frame', {
+            Name = 'TabFrame',
+            BackgroundTransparency = 1;
+            Position = UDim2.new(0, 0, 0, 0);
+            Size = UDim2.new(1, 0, 1, 0);
+            Visible = false;
+            ZIndex = 2;
+            Parent = TabContainer;
+        });
+
+        local LeftSide = Library:Create('ScrollingFrame', {
+            BackgroundTransparency = 1;
+            BorderSizePixel = 0;
+            Position = UDim2.new(0, 8 - 1, 0, 8 - 1);
+            Size = UDim2.new(0.5, -12 + 2, 0, 507 + 2);
+            CanvasSize = UDim2.new(0, 0, 0, 0);
+            BottomImage = '';
+            TopImage = '';
+            ScrollBarThickness = 0;
+            ZIndex = 2;
+            Parent = TabFrame;
+        });
+
+        local RightSide = Library:Create('ScrollingFrame', {
+            BackgroundTransparency = 1;
+            BorderSizePixel = 0;
+            Position = UDim2.new(0.5, 4 + 1, 0, 8 - 1);
+            Size = UDim2.new(0.5, -12 + 2, 0, 507 + 2);
+            CanvasSize = UDim2.new(0, 0, 0, 0);
+            BottomImage = '';
+            TopImage = '';
+            ScrollBarThickness = 0;
+            ZIndex = 2;
+            Parent = TabFrame;
+        });
+
+        Library:Create('UIListLayout', {
+            Padding = UDim.new(0, 8);
+            FillDirection = Enum.FillDirection.Vertical;
+            SortOrder = Enum.SortOrder.LayoutOrder;
+            HorizontalAlignment = Enum.HorizontalAlignment.Center;
+            Parent = LeftSide;
+        });
+
+        Library:Create('UIListLayout', {
+            Padding = UDim.new(0, 8);
+            FillDirection = Enum.FillDirection.Vertical;
+            SortOrder = Enum.SortOrder.LayoutOrder;
+            HorizontalAlignment = Enum.HorizontalAlignment.Center;
+            Parent = RightSide;
+        });
+
+        for _, Side in next, { LeftSide, RightSide } do
+            Side:WaitForChild('UIListLayout'):GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+                Side.CanvasSize = UDim2.fromOffset(0, Side.UIListLayout.AbsoluteContentSize.Y);
+            end);
+        end;
+
+        function Tab:ShowTab()
+            for _, Tab in next, Window.Tabs do
+                Tab:HideTab();
+            end;
+
+            Blocker.BackgroundTransparency = 0;
+            TabButton.BackgroundColor3 = Library.MainColor;
+            Library.RegistryMap[TabButton].Properties.BackgroundColor3 = 'MainColor';
+            TabFrame.Visible = true;
+        end;
+
+        function Tab:HideTab()
+            Blocker.BackgroundTransparency = 1;
+            TabButton.BackgroundColor3 = Library.BackgroundColor;
+            Library.RegistryMap[TabButton].Properties.BackgroundColor3 = 'BackgroundColor';
+            TabFrame.Visible = false;
+        end;
+
+        function Tab:SetLayoutOrder(Position)
+            TabButton.LayoutOrder = Position;
+            TabListLayout:ApplyLayout();
+        end;
+
+        function Tab:AddGroupbox(Info)
+            local Groupbox = {};
+
+            local BoxOuter = Library:Create('Frame', {
+                BackgroundColor3 = Library.BackgroundColor;
+                BorderColor3 = Library.OutlineColor;
+                BorderMode = Enum.BorderMode.Inset;
+                Size = UDim2.new(1, 0, 0, 507 + 2);
+                ZIndex = 2;
+                Parent = Info.Side == 1 and LeftSide or RightSide;
+            });
+
+            Library:AddToRegistry(BoxOuter, {
+                BackgroundColor3 = 'BackgroundColor';
+                BorderColor3 = 'OutlineColor';
+            });
+
+            local BoxInner = Library:Create('Frame', {
+                BackgroundColor3 = Library.BackgroundColor;
+                BorderColor3 = Color3.new(0, 0, 0);
+                -- BorderMode = Enum.BorderMode.Inset;
+                Size = UDim2.new(1, -2, 1, -2);
+                Position = UDim2.new(0, 1, 0, 1);
+                ZIndex = 4;
+                Parent = BoxOuter;
+            });
+
+            Library:AddToRegistry(BoxInner, {
+                BackgroundColor3 = 'BackgroundColor';
+            });
+
+            local Highlight = Library:Create('Frame', {
+                BackgroundColor3 = Library.AccentColor;
+                BorderSizePixel = 0;
+                Size = UDim2.new(1, 0, 0, 2);
+                ZIndex = 5;
+                Parent = BoxInner;
+            });
+
+            Library:AddToRegistry(Highlight, {
+                BackgroundColor3 = 'AccentColor';
+            });
+
+            local GroupboxLabel = Library:CreateLabel({
+                Size = UDim2.new(1, 0, 0, 18);
+                Position = UDim2.new(0, 4, 0, 2);
+                TextSize = 14;
+                Text = Info.Name;
+                TextXAlignment = Enum.TextXAlignment.Left;
+                ZIndex = 5;
+                Parent = BoxInner;
+            });
+
+            local Container = Library:Create('Frame', {
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 4, 0, 20);
+                Size = UDim2.new(1, -4, 1, -20);
+                ZIndex = 1;
+                Parent = BoxInner;
+            });
+
+            Library:Create('UIListLayout', {
+                FillDirection = Enum.FillDirection.Vertical;
+                SortOrder = Enum.SortOrder.LayoutOrder;
+                Parent = Container;
+            });
+
+            function Groupbox:Resize()
+                local Size = 0;
+
+                for _, Element in next, Groupbox.Container:GetChildren() do
+                    if (not Element:IsA('UIListLayout')) and Element.Visible then
+                        Size = Size + Element.Size.Y.Offset;
+                    end;
+                end;
+
+                BoxOuter.Size = UDim2.new(1, 0, 0, 20 + Size + 2 + 2);
+            end;
+
+            Groupbox.Container = Container;
+            setmetatable(Groupbox, BaseGroupbox);
+
+            Groupbox:AddBlank(3);
+            Groupbox:Resize();
+
+            Tab.Groupboxes[Info.Name] = Groupbox;
+
+            return Groupbox;
+        end;
+
+        function Tab:AddLeftGroupbox(Name)
+            return Tab:AddGroupbox({ Side = 1; Name = Name; });
+        end;
+
+        function Tab:AddRightGroupbox(Name)
+            return Tab:AddGroupbox({ Side = 2; Name = Name; });
+        end;
+
+        function Tab:AddTabbox(Info)
+            local Tabbox = {
+                Tabs = {};
+            };
+
+            local BoxOuter = Library:Create('Frame', {
+                BackgroundColor3 = Library.BackgroundColor;
+                BorderColor3 = Library.OutlineColor;
+                BorderMode = Enum.BorderMode.Inset;
+                Size = UDim2.new(1, 0, 0, 0);
+                ZIndex = 2;
+                Parent = Info.Side == 1 and LeftSide or RightSide;
+            });
+
+            Library:AddToRegistry(BoxOuter, {
+                BackgroundColor3 = 'BackgroundColor';
+                BorderColor3 = 'OutlineColor';
+            });
+
+            local BoxInner = Library:Create('Frame', {
+                BackgroundColor3 = Library.BackgroundColor;
+                BorderColor3 = Color3.new(0, 0, 0);
+                -- BorderMode = Enum.BorderMode.Inset;
+                Size = UDim2.new(1, -2, 1, -2);
+                Position = UDim2.new(0, 1, 0, 1);
+                ZIndex = 4;
+                Parent = BoxOuter;
+            });
+
+            Library:AddToRegistry(BoxInner, {
+                BackgroundColor3 = 'BackgroundColor';
+            });
+
+            local Highlight = Library:Create('Frame', {
+                BackgroundColor3 = Library.AccentColor;
+                BorderSizePixel = 0;
+                Size = UDim2.new(1, 0, 0, 2);
+                ZIndex = 10;
+                Parent = BoxInner;
+            });
+
+            Library:AddToRegistry(Highlight, {
+                BackgroundColor3 = 'AccentColor';
+            });
+
+            local TabboxButtons = Library:Create('Frame', {
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 0, 0, 1);
+                Size = UDim2.new(1, 0, 0, 18);
+                ZIndex = 5;
+                Parent = BoxInner;
+            });
+
+            Library:Create('UIListLayout', {
+                FillDirection = Enum.FillDirection.Horizontal;
+                HorizontalAlignment = Enum.HorizontalAlignment.Left;
+                SortOrder = Enum.SortOrder.LayoutOrder;
+                Parent = TabboxButtons;
+            });
+
+            function Tabbox:AddTab(Name)
+                local Tab = {};
+
+                local Button = Library:Create('Frame', {
+                    BackgroundColor3 = Library.MainColor;
+                    BorderColor3 = Color3.new(0, 0, 0);
+                    Size = UDim2.new(0.5, 0, 1, 0);
+                    ZIndex = 6;
+                    Parent = TabboxButtons;
+                });
+
+                Library:AddToRegistry(Button, {
+                    BackgroundColor3 = 'MainColor';
+                });
+
+                local ButtonLabel = Library:CreateLabel({
+                    Size = UDim2.new(1, 0, 1, 0);
+                    TextSize = 14;
+                    Text = Name;
+                    TextXAlignment = Enum.TextXAlignment.Center;
+                    ZIndex = 7;
+                    Parent = Button;
+                });
+
+                local Block = Library:Create('Frame', {
+                    BackgroundColor3 = Library.BackgroundColor;
+                    BorderSizePixel = 0;
+                    Position = UDim2.new(0, 0, 1, 0);
+                    Size = UDim2.new(1, 0, 0, 1);
+                    Visible = false;
+                    ZIndex = 9;
+                    Parent = Button;
+                });
+
+                Library:AddToRegistry(Block, {
+                    BackgroundColor3 = 'BackgroundColor';
+                });
+
+                local Container = Library:Create('Frame', {
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 4, 0, 20);
+                    Size = UDim2.new(1, -4, 1, -20);
+                    ZIndex = 1;
+                    Visible = false;
+                    Parent = BoxInner;
+                });
+
+                Library:Create('UIListLayout', {
+                    FillDirection = Enum.FillDirection.Vertical;
+                    SortOrder = Enum.SortOrder.LayoutOrder;
+                    Parent = Container;
+                });
+
+                function Tab:Show()
+                    for _, Tab in next, Tabbox.Tabs do
+                        Tab:Hide();
+                    end;
+
+                    Container.Visible = true;
+                    Block.Visible = true;
+
+                    Button.BackgroundColor3 = Library.BackgroundColor;
+                    Library.RegistryMap[Button].Properties.BackgroundColor3 = 'BackgroundColor';
+
+                    Tab:Resize();
+                end;
+
+                function Tab:Hide()
+                    Container.Visible = false;
+                    Block.Visible = false;
+
+                    Button.BackgroundColor3 = Library.MainColor;
+                    Library.RegistryMap[Button].Properties.BackgroundColor3 = 'MainColor';
+                end;
+
+                function Tab:Resize()
+                    local TabCount = 0;
+
+                    for _, Tab in next, Tabbox.Tabs do
+                        TabCount = TabCount + 1;
+                    end;
+
+                    for _, Button in next, TabboxButtons:GetChildren() do
+                        if not Button:IsA('UIListLayout') then
+                            Button.Size = UDim2.new(1 / TabCount, 0, 1, 0);
+                        end;
+                    end;
+
+                    if (not Container.Visible) then
+                        return;
+                    end;
+
+                    local Size = 0;
+
+                    for _, Element in next, Tab.Container:GetChildren() do
+                        if (not Element:IsA('UIListLayout')) and Element.Visible then
+                            Size = Size + Element.Size.Y.Offset;
+                        end;
+                    end;
+
+                    BoxOuter.Size = UDim2.new(1, 0, 0, 20 + Size + 2 + 2);
+                end;
+
+                Button.InputBegan:Connect(function(Input)
+                    if Input.UserInputType == Enum.UserInputType.MouseButton1 and not Library:MouseIsOverOpenedFrame() then
+                        Tab:Show();
+                        Tab:Resize();
+                    end;
+                end);
+
+                Tab.Container = Container;
+                Tabbox.Tabs[Name] = Tab;
+
+                setmetatable(Tab, BaseGroupbox);
+
+                Tab:AddBlank(3);
+                Tab:Resize();
+
+                -- Show first tab (number is 2 cus of the UIListLayout that also sits in that instance)
+                if #TabboxButtons:GetChildren() == 2 then
+                    Tab:Show();
+                end;
+
+                return Tab;
+            end;
+
+            Tab.Tabboxes[Info.Name or ''] = Tabbox;
+
+            return Tabbox;
+        end;
+
+        function Tab:AddLeftTabbox(Name)
+            return Tab:AddTabbox({ Name = Name, Side = 1; });
+        end;
+
+        function Tab:AddRightTabbox(Name)
+            return Tab:AddTabbox({ Name = Name, Side = 2; });
+        end;
+
+        TabButton.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                Tab:ShowTab();
+            end;
+        end);
+
+        -- This was the first tab added, so we show it by default.
+        if #TabContainer:GetChildren() == 1 then
+            Tab:ShowTab();
+        end;
+
+        Window.Tabs[Name] = Tab;
+        return Tab;
+    end;
+
+    local ModalElement = Library:Create('TextButton', {
+        BackgroundTransparency = 1;
+        Size = UDim2.new(0, 0, 0, 0);
+        Visible = true;
+        Text = '';
+        Modal = false;
+        Parent = ScreenGui;
+    });
+
+    local TransparencyCache = {};
+    local Toggled = false;
+    local Fading = false;
+
+    function Library:Toggle()
+        if Fading then
+            return;
+        end;
+
+        local FadeTime = Config.MenuFadeTime;
+        Fading = true;
+        Toggled = (not Toggled);
+        ModalElement.Modal = Toggled;
+
+        if Toggled then
+            -- A bit scuffed, but if we're going from not toggled -> toggled we want to show the frame immediately so that the fade is visible.
+            Outer.Visible = true;
+
+            task.spawn(function()
+                -- TODO: add cursor fade?
+                local State = InputService.MouseIconEnabled;
+
+                local Cursor = Drawing.new('Triangle');
+                Cursor.Thickness = 1;
+                Cursor.Filled = true;
+                Cursor.Visible = true;
+
+                local CursorOutline = Drawing.new('Triangle');
+                CursorOutline.Thickness = 1;
+                CursorOutline.Filled = false;
+                CursorOutline.Color = Color3.new(0, 0, 0);
+                CursorOutline.Visible = true;
+
+                while Toggled and ScreenGui.Parent do
+                    InputService.MouseIconEnabled = false;
+
+                    local mPos = InputService:GetMouseLocation();
+
+                    Cursor.Color = Library.AccentColor;
+
+                    Cursor.PointA = Vector2.new(mPos.X, mPos.Y);
+                    Cursor.PointB = Vector2.new(mPos.X + 16, mPos.Y + 6);
+                    Cursor.PointC = Vector2.new(mPos.X + 6, mPos.Y + 16);
+
+                    CursorOutline.PointA = Cursor.PointA;
+                    CursorOutline.PointB = Cursor.PointB;
+                    CursorOutline.PointC = Cursor.PointC;
+
+                    RenderStepped:Wait();
+                end;
+
+                InputService.MouseIconEnabled = State;
+
+                Cursor:Remove();
+                CursorOutline:Remove();
+            end);
+        end;
+
+        for _, Desc in next, Outer:GetDescendants() do
+            local Properties = {};
+
+            if Desc:IsA('ImageLabel') then
+                table.insert(Properties, 'ImageTransparency');
+                table.insert(Properties, 'BackgroundTransparency');
+            elseif Desc:IsA('TextLabel') or Desc:IsA('TextBox') then
+                table.insert(Properties, 'TextTransparency');
+            elseif Desc:IsA('Frame') or Desc:IsA('ScrollingFrame') then
+                table.insert(Properties, 'BackgroundTransparency');
+            elseif Desc:IsA('UIStroke') then
+                table.insert(Properties, 'Transparency');
+            end;
+
+            local Cache = TransparencyCache[Desc];
+
+            if (not Cache) then
+                Cache = {};
+                TransparencyCache[Desc] = Cache;
+            end;
+
+            for _, Prop in next, Properties do
+                if not Cache[Prop] then
+                    Cache[Prop] = Desc[Prop];
+                end;
+
+                if Cache[Prop] == 1 then
+                    continue;
+                end;
+
+                TweenService:Create(Desc, TweenInfo.new(FadeTime, Enum.EasingStyle.Linear), { [Prop] = Toggled and Cache[Prop] or 1 }):Play();
+            end;
+        end;
+
+        task.wait(FadeTime);
+
+        Outer.Visible = Toggled;
+
+        Fading = false;
+    end
+
+    Library:GiveSignal(InputService.InputBegan:Connect(function(Input, Processed)
+        if type(Library.ToggleKeybind) == 'table' and Library.ToggleKeybind.Type == 'KeyPicker' then
+            if Input.UserInputType == Enum.UserInputType.Keyboard and Input.KeyCode.Name == Library.ToggleKeybind.Value then
+                task.spawn(Library.Toggle)
+            end
+        elseif Input.KeyCode == Enum.KeyCode.RightControl or (Input.KeyCode == Enum.KeyCode.RightShift and (not Processed)) then
+            task.spawn(Library.Toggle)
+        end
+    end))
+
+    if Config.AutoShow then task.spawn(Library.Toggle) end
+
+    Window.Holder = Outer;
+
+    return Window;
+end;
+
+local function OnPlayerChange()
+    local PlayerList = GetPlayersString();
+
+    for _, Value in next, Options do
+        if Value.Type == 'Dropdown' and Value.SpecialType == 'Player' then
+            Value:SetValues(PlayerList);
+        end;
+    end;
+end;
+
+Players.PlayerAdded:Connect(OnPlayerChange);
+Players.PlayerRemoving:Connect(OnPlayerChange);
+
+getgenv().Library = Library
+return Library
